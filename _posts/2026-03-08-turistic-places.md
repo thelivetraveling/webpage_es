@@ -5,10 +5,8 @@ header:
   video:
     id: tujkoXI8rWM
     provider: youtube
-toc: true
-toc_sticky: true
 date:   2025-03-08 09:00:00 +0200
-categories: Japón Tokyo Shibuya
+categories: japón
 tags: japón tokyo shibuya turismo parques paseo caminar
 ---
 
@@ -87,12 +85,3 @@ Para mí, cruzar ese arco fue como aventurarme en la otra cara de la ciudad: alg
 Mi última parada del día fue **Sunshine City**, un enorme complejo comercial y de entretenimiento en Ikebukuro. Me subí a su mirador para tener una vista panorámica de Tokio al atardecer, vi tiendas sofisticadas, cafés originales y atracciones interiores como acuarios o exposiciones.
 
 Sunshine City me pareció el perfecto contrapunto a la tradición de Asakusa o la historia de Shinjuku: aquí es todo futuro, consumo, entretenimiento. Pero al mismo tiempo, no se siente frío: es un espacio pensado tanto para jóvenes como para familias, para quienes quieren vistas, compras o simplemente pasar un buen rato.
-
----
-
-## ¿Por qué este día fue tan especial para mí?
-
-* **Balance perfecto**: combiné arte futurista, tranquilidad de parques, vida nocturna íntima y la energía vibrante de Tokio.
-* **Reflexión generacional**: como alguien en mis treinta, aprecio la tecnología, pero también valoro los espacios con historia y las experiencias auténticas.
-* **Conexión con la ciudad real**: no solo visité los puntos turísticos más obvios; exploré callejones, bebí en bares pequeños y respiré la vida local.
-* **Momentos para mí**: fue un recorrido no solo para ver, sino también para sentir, para detenerme, para pensar.

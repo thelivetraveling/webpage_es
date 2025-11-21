@@ -5,10 +5,8 @@ header:
   video:
     id: LHPKP8PP6QY
     provider: youtube
-toc: true
-toc_sticky: true
 date:   2025-03-07 09:00:00 +0200
-categories: Japón Asakuza
+categories: japón
 tags: japón asakuza paseo ciudad templos
 ---
 
@@ -93,12 +91,3 @@ Terminé mi día en **Yanaka Ginza**, un lugar que me robó el corazón por su s
 Lo interesante históricamente es que Yanaka (y todo el distrito Yanesen: Yanaka-Nezu-Sendagi) sobrevivió relativamente bien a los bombardeos de la Segunda Guerra Mundial, lo que le da un carácter auténtico de “Tokio viejo”.
 
 Mientras caminaba por Yanaka Ginza, me encontré con puestos de comida callejera, artesanías y pequeñas tiendas de templo. Es un sitio perfecto para cerrar el día con una sensación íntima y genuina, lejos de los grandes flujos turísticos.
-
----
-
-## ¿Por qué este recorrido me impactó tanto?
-
-* **Historia viva**: Sentir que camino por caminos que tienen más de mil años, tocados por leyendas antiguas, guerras y reconstrucción.
-* **Contraste cultural**: Templos milenarios junto a tiendas modernas de utensilios de cocina.
-* **Autenticidad local**: Espacios menos turísticos como los parques de Taito o Yanaka Ginza, donde se respira la vida cotidiana de Tokio.
-* **Reflexión personal**: En un viaje entre mis 30 y 40 años, valoro más que nunca los lugares con significado, no solo la foto bonita. Asakusa me dio eso: un día para pensar, para admirar, para saborear el pasado y el presente.
