@@ -1,0 +1,9 @@
+main:
+  # - title: "Inicio"
+  #   url: /
+  - title: "Viajes"
+    url: /trips/
+  - title: "La Vida"
+    url: /timeline/
+  - title: "Sobre Nosotros..."
+    url: /about/
