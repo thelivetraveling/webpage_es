@@ -82,7 +82,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : "KnzUursZl0PUdaaVPbbrkxclzm7xWdfTNuQ8XZOqxgc"
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
@@ -99,7 +99,7 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : Organization # Person or Organization (defaults to Person)
+  type                   : "Organization" # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - https://instagram.com/thelivetraveling
@@ -110,10 +110,10 @@ social:
     - https://linkedin.com/in/thelivetraveling
 # Analytics
 analytics:
-  provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+    tracking_id          : "G-E05DYCCW03"
+    anonymize_ip         : true # true, false (default)
 
 
 # Site Author
@@ -289,7 +289,6 @@ whitelist:
   - jekyll-feed
   - jekyll-include-cache
 
-
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
@@ -315,6 +314,9 @@ tag_archive:
 #     category: archive-taxonomy
 #     tag: archive-taxonomy
 #   permalinks:
+#     year: '/:year/'
+#     month: '/:year/:month/'
+#     day: '/:year/:month/:day/'
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
@@ -341,3 +343,19 @@ defaults:
       share: true
       related: true
       show_date: true
+      toc: true
+      toc_sticky: true
+  - scope:
+      path: ""
+      type: tag
+    values:
+      layout: default
+      author_profile: true
+      comments: false
+  - scope:
+      path: ""
+      type: category
+    values:
+      layout: default
+      author_profile: true
+      comments: false
