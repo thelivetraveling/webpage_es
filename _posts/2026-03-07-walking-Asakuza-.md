@@ -1,10 +1,73 @@
 ---
-layout: single
+layout: map
 title:  "Día perfecto en Asakuza"
 header:
   video:
     id: LHPKP8PP6QY
     provider: youtube
+map_points:
+  # "driving" "walking" "bicycling" "transit"
+- name: "Asakusa Nishi-sandō Shopping Street"  
+  lat: 35.7147  
+  lng: 139.7967  
+  type: "shop"  
+  mode: "walking"
+- name: "Sensō-ji Temple"  
+  lat: 35.7148
+  lng: 139.7967  
+  type: "temple"  
+  mode: "walking"
+- name: "Santuario de Asakusa (Asakusa Shrine)"  
+  lat: 35.7145
+  lng: 139.7967  
+  type: "temple"  
+  mode: "walking"
+- name: "Asakusa Hanayashiki"  
+  lat: 35.7155
+  lng: 139.7947  
+  type: "default"  
+  mode: "walking"
+- name: "Taito Kuritsu Fuji Park"  
+  lat: 35.7190
+  lng: 139.7977
+  type: "park"  
+  mode: "walking"
+- name: "Taito Kuritsu Nihonzutsumi Park"  
+  lat: 35.7245
+  lng: 139.7986
+  type: "park"  
+  mode: "walking"
+- name: "Yoshiwara Park"  
+  lat: 35.7254
+  lng: 139.7953
+  type: "park"  
+  mode: "walking"
+- name: "Santuario Yoshiwara"  
+  lat: 35.7233
+  lng: 139.7933
+  type: "temple"  
+  mode: "walking"
+- name: "Men Mitsui"  
+  lat: 35.7099
+  lng: 139.7904
+  type: "default"  
+  mode: "transit"
+- name: "Calle de utensilios de cocina Kappabashi"  
+  lat: 35.7147
+  lng: 139.7967  
+  type: "shop"  
+  mode: "walking"
+- name: "Don Quijote Uguisudani"  
+  lat: 35.7239
+  lng: 139.7781
+  type: "shop"  
+  mode: "transit"
+- name: "Ginza Yanaka"  
+  lat: 35.7286
+  lng: 139.7655
+  type: "shop"  
+  mode: "transit"
+
 date:   2025-03-07 09:00:00 +0200
 categories: japón
 tags: japón asakuza paseo ciudad templos
