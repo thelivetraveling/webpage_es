@@ -1,5 +1,5 @@
 ---
-layout: map
+layout: single
 title:  "Día perfecto en Asakuza"
 header:
   video:

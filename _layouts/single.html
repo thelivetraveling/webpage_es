@@ -8,6 +8,10 @@ layout: default
   {% include page__hero_video.html %}
 {% endif %}
 
+{% if page.map_points %}
+  {% include google-maps.html %}
+{% endif %}
+
 {% assign breadcrumbs_enabled = site.breadcrumbs %}
 {% if page.breadcrumbs != null %}
   {% assign breadcrumbs_enabled = page.breadcrumbs %}
