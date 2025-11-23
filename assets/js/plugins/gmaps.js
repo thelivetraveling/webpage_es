@@ -35,7 +35,7 @@ window.initMap = function () {
         mapId: "DEMO_MAP_ID",
     });
 
-    // ---- Crear panel de información ----
+   // ---- Crear panel de información ----
     const infoPanel = document.createElement('div');
     infoPanel.id = 'route-info-panel';
     infoPanel.style.cssText = `
@@ -47,14 +47,72 @@ window.initMap = function () {
         border-radius: 8px;
         box-shadow: 0 2px 6px rgba(0,0,0,0.3);
         max-width: 320px;
-        max-height: 480px;
+        max-height: 85vh;
         overflow-y: auto;
         overflow-x: hidden;
         font-family: Arial, sans-serif;
         z-index: 1000;
+        transition: transform 0.3s ease, opacity 0.3s ease;
     `;
 
-    // Estilos personalizados para el scrollbar
+    // Crear botón para ocultar/mostrar panel
+    const toggleButton = document.createElement('button');
+    toggleButton.id = 'toggle-panel-btn';
+    toggleButton.innerHTML = '✕';
+    toggleButton.style.cssText = `
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        background: white;
+        border: none;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+        font-size: 20px;
+        cursor: pointer;
+        z-index: 1001;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: bold;
+        color: #5f6368;
+        transition: all 0.3s ease;
+    `;
+
+    let isPanelVisible = true;
+
+    toggleButton.addEventListener('click', () => {
+        isPanelVisible = !isPanelVisible;
+        
+        if (isPanelVisible) {
+            infoPanel.style.transform = 'translateX(0)';
+            infoPanel.style.opacity = '1';
+            toggleButton.innerHTML = '✕';
+            toggleButton.style.right = '10px';
+        } else {
+            infoPanel.style.transform = 'translateX(350px)';
+            infoPanel.style.opacity = '0';
+            toggleButton.innerHTML = '☰';
+            toggleButton.style.right = '10px';
+        }
+        
+        // Reajustar el mapa cuando se oculta/muestra el panel
+        setTimeout(() => {
+            google.maps.event.trigger(map, 'resize');
+            adjustMapBounds();
+        }, 300);
+    });
+
+    toggleButton.addEventListener('mouseenter', () => {
+        toggleButton.style.background = '#f1f3f4';
+    });
+
+    toggleButton.addEventListener('mouseleave', () => {
+        toggleButton.style.background = 'white';
+    });
+
+    // Estilos personalizados para el scrollbar y responsive
     const style = document.createElement('style');
     style.textContent = `
         #route-info-panel::-webkit-scrollbar {
@@ -76,11 +134,36 @@ window.initMap = function () {
             scrollbar-width: thin;
             scrollbar-color: #888 #f1f1f1;
         }
+        
+        /* Responsive para móviles */
+        @media (max-width: 768px) {
+            #route-info-panel {
+                top: auto !important;
+                bottom: 0 !important;
+                right: 0 !important;
+                left: 0 !important;
+                max-width: 100% !important;
+                max-height: 50vh !important;
+                border-radius: 16px 16px 0 0 !important;
+                transform: translateY(0) !important;
+            }
+            
+            #route-info-panel.hidden {
+                transform: translateY(100%) !important;
+            }
+            
+            #toggle-panel-btn {
+                top: auto !important;
+                bottom: 10px !important;
+                right: 10px !important;
+            }
+        }
     `;
     document.head.appendChild(style);
 
     mapContainer.style.position = 'relative';
     mapContainer.appendChild(infoPanel);
+    mapContainer.appendChild(toggleButton);
 
     // Variables para acumular totales
     let totalDistance = 0;
