@@ -3,8 +3,8 @@ layout: single
 title:  "Llegando a Tokyo"
 excerpt: "Aeropuerto, primeras compras y jetlag"
 header:
-  teaser: /assets/images/20260306/Yokohama.jpg
-  overlay_image: /assets/images/20260306/Yokohama.jpg
+  teaser: /assets/images/20260306/Yokohama.webp
+  overlay_image: /assets/images/20260306/Yokohama.webp
   # caption: "Photo credit: [**elsudano**]"
   # actions:
   #   - label: "More Info"

@@ -3,8 +3,8 @@ layout: single
 title:  "Día de turismo"
 excerpt: "Arte digital, vida Nocturna y rincones únicos."
 header:
-  teaser: /assets/images/20260308/Shibuya.png
-  overlay_image: /assets/images/20260308/Shibuya.png
+  teaser: /assets/images/20260308/Shibuya.webp
+  overlay_image: /assets/images/20260308/Shibuya.webp
   # caption: "Photo credit: [**elsudano**]"
   # actions:
   #   - label: "More Info"
