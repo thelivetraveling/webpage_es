@@ -92,7 +92,7 @@ window.initMap = function () {
         color: #5f6368;
         transition: all 0.3s ease;
     `;
-    infoPanel.style.transform = 'translateX(500px)';
+    infoPanel.style.transform = 'translateX(-350px)';
     infoPanel.style.opacity = '0';
     toggleButton.innerHTML = '☰';
     toggleButton.style.left = '10px';
@@ -108,8 +108,8 @@ window.initMap = function () {
             toggleButton.innerHTML = '✕';
             toggleButton.style.left = '10px';
         } else {
-            infoPanel.style.transform = 'translateX(500px)';
-            infoPanel.style.opacity = '0';
+            infoPanel.style.transform = 'translateX(-350px)';
+            infoPanel.style.opacity = '0.8';
             toggleButton.innerHTML = '☰';
             toggleButton.style.left = '10px';
         }
