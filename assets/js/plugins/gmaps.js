@@ -92,7 +92,7 @@ window.initMap = function () {
         color: #5f6368;
         transition: all 0.3s ease;
     `;
-    infoPanel.style.transform = 'translateX(350px)';
+    infoPanel.style.transform = 'translateX(500px)';
     infoPanel.style.opacity = '0';
     toggleButton.innerHTML = '☰';
     toggleButton.style.left = '10px';
@@ -108,7 +108,7 @@ window.initMap = function () {
             toggleButton.innerHTML = '✕';
             toggleButton.style.left = '10px';
         } else {
-            infoPanel.style.transform = 'translateX(350px)';
+            infoPanel.style.transform = 'translateX(500px)';
             infoPanel.style.opacity = '0';
             toggleButton.innerHTML = '☰';
             toggleButton.style.left = '10px';
@@ -160,7 +160,7 @@ window.initMap = function () {
                 right: 0 !important;
                 left: 0 !important;
                 max-width: 100% !important;
-                max-height: 500px !important;
+                max-height: 50vh !important;
                 border-radius: 16px 16px 0 0 !important;
                 transform: translateY(0) !important;
             }
