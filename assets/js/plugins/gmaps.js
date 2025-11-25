@@ -30,9 +30,18 @@ window.initMap = function () {
     };
 
     const map = new google.maps.Map(mapContainer, {
-        zoom: 13,
-        center: { lat: points[0].lat, lng: points[0].lng },
         mapId: "DEMO_MAP_ID",
+        center: { lat: points[0].lat, lng: points[0].lng },
+        zoom: 5,
+        gestureHandling: "none",
+        // gestureHandling: "cooperative",
+        zoomControl: true,
+        clickableIcons: false,
+        fullscreenControl: true,
+        disableDefaultUI: true,
+        streetViewControl: false,
+        mapTypeControl: false,
+        mapTypeId: "satellite"
     });
 
    // ---- Crear panel de información ----
@@ -40,14 +49,15 @@ window.initMap = function () {
     infoPanel.id = 'route-info-panel';
     infoPanel.style.cssText = `
         position: absolute;
+        opacity: 0
         top: 10px;
-        right: 10px;
+        left: 10px;
         background: white;
         padding: 15px;
         border-radius: 8px;
         box-shadow: 0 2px 6px rgba(0,0,0,0.3);
         max-width: 320px;
-        max-height: 85vh;
+        max-height: 320px;
         overflow-y: auto;
         overflow-x: hidden;
         font-family: Arial, sans-serif;
@@ -62,7 +72,7 @@ window.initMap = function () {
     toggleButton.style.cssText = `
         position: absolute;
         top: 10px;
-        right: 10px;
+        left: 10px;
         background: white;
         border: none;
         width: 40px;
@@ -79,8 +89,12 @@ window.initMap = function () {
         color: #5f6368;
         transition: all 0.3s ease;
     `;
+    infoPanel.style.transform = 'translateX(350px)';
+    infoPanel.style.opacity = '0';
+    toggleButton.innerHTML = '☰';
+    toggleButton.style.left = '10px';
 
-    let isPanelVisible = true;
+    let isPanelVisible = false;
 
     toggleButton.addEventListener('click', () => {
         isPanelVisible = !isPanelVisible;
@@ -89,12 +103,12 @@ window.initMap = function () {
             infoPanel.style.transform = 'translateX(0)';
             infoPanel.style.opacity = '1';
             toggleButton.innerHTML = '✕';
-            toggleButton.style.right = '10px';
+            toggleButton.style.left = '10px';
         } else {
             infoPanel.style.transform = 'translateX(350px)';
             infoPanel.style.opacity = '0';
             toggleButton.innerHTML = '☰';
-            toggleButton.style.right = '10px';
+            toggleButton.style.left = '10px';
         }
         
         // Reajustar el mapa cuando se oculta/muestra el panel
