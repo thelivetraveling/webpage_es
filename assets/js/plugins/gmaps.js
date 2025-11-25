@@ -34,7 +34,6 @@ window.initMap = function () {
         center: { lat: points[0].lat, lng: points[0].lng },
         zoom: 5,
         gestureHandling: "none",
-        // gestureHandling: "cooperative",
         zoomControl: true,
         clickableIcons: false,
         fullscreenControl: true,
@@ -42,6 +41,10 @@ window.initMap = function () {
         streetViewControl: false,
         mapTypeControl: false,
         mapTypeId: "satellite"
+    });
+
+    map.addListener("click", () => {
+        map.setOptions({ gestureHandling: "auto" });
     });
 
    // ---- Crear panel de información ----
