@@ -12,7 +12,7 @@
 
 theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "es-ES"
@@ -26,7 +26,7 @@ url                      : https://www.thelivetraveling.es # the base hostname &
 baseurl                  : / # the subpath of your site, e.g. "/blog"
 repository               : thelivetraveling/webpage_es # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/thelivetravelingbanner.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : #"/assets/images/thelivetraveling.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/thelivetraveling.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -123,35 +123,35 @@ google_maps_api_key : "REPLACE_WITH_GOOGLE_MAPS_API_KEY"
 # Site Author
 author:
   name             : #"La Vida Viajando"
-  avatar           : "/assets/images/thelivetraveling.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Video Blog con todos nuestros viajes alrededor del mundo."
-  location         : "Madrid, España"
-  email            : "the.live.traveling@gmail.com"
+  avatar           : # "/assets/images/thelivetraveling.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "<i class='fas fa-fw fa-share'></i> Dile a tus amigos..."
+  location         : # "Madrid, España"
+  email            : #"the.live.traveling@gmail.com"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.thelivetraveling.com"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/thelivetraveling"
-    - label: "TikTok"
-      icon: "fab fa-fw fa-tiktok"
-      url: "https://tiktok.com/@thelivetraveling"
-    - label: "Youtube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com/@thelivetraveling"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/thelivetravelin"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/thelivetraveling"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/thelivetraveling"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://www.thelivetraveling.com"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/thelivetraveling"
+    # - label: "TikTok"
+    #   icon: "fab fa-fw fa-tiktok"
+    #   url: "https://tiktok.com/@thelivetraveling"
+    # - label: "Youtube"
+    #   icon: "fab fa-fw fa-youtube"
+    #   url: "https://youtube.com/@thelivetraveling"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   # url: "https://facebook.com/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://x.com/thelivetravelin"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/thelivetraveling"
+    # - label: "LinkedIn"
+    #   icon: "fab fa-fw fa-linkedin"
+    #   url: "https://linkedin.com/in/thelivetraveling"
 
 # Site Footer
 footer:
@@ -344,9 +344,10 @@ defaults:
       author_profile: true
       read_time: true
       comments: false
-      share: true
+      share: false
       related: true
       show_date: true
+      classes: false
       toc: true
       toc_sticky: true
   - scope:
@@ -362,4 +363,5 @@ defaults:
     values:
       layout: default
       author_profile: true
+      classes: true
       comments: false
