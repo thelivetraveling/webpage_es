@@ -1,20 +1,26 @@
 ---
 layout: single
 title:  "Día de turismo"
+excerpt: "Arte digital, vida Nocturna y rincones únicos."
 header:
-  video:
-    id: tujkoXI8rWM
-    provider: youtube
+  teaser: /assets/images/20260308/Shibuya.png
+  overlay_image: /assets/images/20260308/Shibuya.png
+  # caption: "Photo credit: [**elsudano**]"
+  # actions:
+  #   - label: "More Info"
+  #     url: "https://www.sudano.net"
 date:   2025-03-08 09:00:00 +0200
 categories: japón
 tags: japón tokyo shibuya turismo parques paseo caminar
 ---
 
-# Un día vibrante en Tokio: arte digital, vida nocturna y rincones únicos
+# Un día vibrante en Tokio.
 
 Hay días en Tokio que se sienten como un cóctel emocional: momentos de pura maravilla tecnológica, paseos entre multitudes, balcones verdes y callejones con alma. En este recorrido decidí combinar lo más “futurista” con lo más íntimo: arte digital, callejones de izakayas, parques tranquilos y zonas de noche que solo despiertan cuando cae el sol. Quiero contarte cómo fue mi día, lo que descubrí y por qué para mí fue especialmente especial.
 
 ---
+
+{% include video id="tujkoXI8rWM" provider="youtube" %}
 
 ## teamLab Borderless: sumergido en arte digital
 
@@ -31,6 +37,10 @@ Después del espectáculo digital, me fui a **Ebisu Yokocho**, un pequeño laber
 Lo que más me gusta de Ebisu Yokocho es su autenticidad: no es un sitio hecho para turistas aunque muchos vengan, es un rincón verdaderamente local donde la gente después del trabajo viene a relajarse y charlar. Es un buen recordatorio de que incluso en una metrópolis frenética, hay espacios para la pausa y la conversación.
 
 ---
+
+{% if page.map_points %}
+  {% include google-maps.html %}
+{% endif %}
 
 ## La Calle Central de Shibuya: energía sin filtros
 

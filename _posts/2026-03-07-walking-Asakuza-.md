@@ -1,10 +1,14 @@
 ---
 layout: single
 title:  "Día perfecto en Asakuza"
+excerpt: "Templos, barrios y parques."
 header:
-  video:
-    id: LHPKP8PP6QY
-    provider: youtube
+  teaser: /assets/images/20260307/Asakuza.png
+  overlay_image: /assets/images/20260307/Asakuza.png
+  # caption: "Photo credit: [**elsudano**]"
+  # actions:
+  #   - label: "More Info"
+  #     url: "https://www.sudano.net"
 map_points:
   # "driving" "walking" "bicycling" "transit"
 - name: "Asakusa Nishi-sandō Shopping Street"  
@@ -79,6 +83,8 @@ Cuando planeo un viaje a Tokio, Asakusa siempre está entre mis primeras priorid
 
 ---
 
+{% include video id="LHPKP8PP6QY" provider="youtube" %}
+
 ## Asakusa Nishi-sandō Shopping Street: un paseo con alma
 
 Comencé mi día caminando por **Asakusa Nishi-sandō**, una galería comercial tradicional justo al oeste del templo Sensō-ji. Aunque a simple vista parece una calle comercial más, tiene una historia profunda: parte de esta calle ha sido renovada para reflejar un ambiente festivo, con madera, linternas y arquitectura evocando festivales tradicionales.
@@ -98,6 +104,10 @@ El templo ha sufrido muchas reconstrucciones: fue completamente destruido durant
 También me sorprendió cómo el templo se relaciona con el poder político: durante el shogunato Tokugawa, Sensō-ji fue declarado templo oficial de los Tokugawa, lo que impulsó su crecimiento. Y uno de los momentos más coloridos del barrio, el **Sanja Matsuri**, tiene sus raíces en rituales muy antiguos relacionados con este templo.
 
 ---
+
+{% if page.map_points %}
+  {% include google-maps.html %}
+{% endif %}
 
 ## Santuario de Asakusa: tradición sintoísta justo al lado
 
