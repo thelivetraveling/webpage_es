@@ -172,7 +172,7 @@ window.initMap = function () {
             #toggle-panel-btn {
                 top: auto !important;
                 bottom: 10px !important;
-                right: 10px !important;
+                left: 10px !important;
             }
         }
     `;
@@ -433,7 +433,7 @@ window.initMap = function () {
         });
         
         // Aplicar bounds con padding
-        map.fitBounds(bounds, { top: 50, right: 340, bottom: 50, left: 50 });
+        map.fitBounds(bounds, { top: 50, right: 50, bottom: 50, left: 50 });
     }
 
     // Calcular ruta entre cada par consecutivo de puntos
