@@ -3,8 +3,8 @@ layout: single
 title:  "Día perfecto en Asakuza"
 excerpt: "Templos, barrios y parques."
 header:
-  teaser: /assets/images/20260307/Asakuza.png
-  overlay_image: /assets/images/20260307/Asakuza.png
+  teaser: /assets/images/20260307/Asakuza.webp
+  overlay_image: /assets/images/20260307/Asakuza.webp
   # caption: "Photo credit: [**elsudano**]"
   # actions:
   #   - label: "More Info"
