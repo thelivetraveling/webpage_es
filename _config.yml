@@ -122,11 +122,11 @@ google_maps_api_key : "REPLACE_WITH_GOOGLE_MAPS_API_KEY"
 
 # Site Author
 author:
-  name             : #"La Vida Viajando"
+  name             : "<i class='fas fa-fw fa-share'></i> Dile a tus amigos..." #"La Vida Viajando"
   avatar           : # "/assets/images/thelivetraveling.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "<i class='fas fa-fw fa-share'></i> Dile a tus amigos..."
+  bio              : # "<i class='fas fa-fw fa-share'></i> Dile a tus amigos..."
   location         : # "Madrid, España"
-  email            : #"the.live.traveling@gmail.com"
+  email            : # "the.live.traveling@gmail.com"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
@@ -156,6 +156,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:the.live.traveling@gmail.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/thelivetraveling"

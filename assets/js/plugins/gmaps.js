@@ -160,7 +160,7 @@ window.initMap = function () {
                 right: 0 !important;
                 left: 0 !important;
                 max-width: 100% !important;
-                max-height: 50vh !important;
+                max-height: 500px !important;
                 border-radius: 16px 16px 0 0 !important;
                 transform: translateY(0) !important;
             }
