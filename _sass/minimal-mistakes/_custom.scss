@@ -1,0 +1,78 @@
+
+/* ======== LISTA / GRID RESPONSIVE ======== */
+.custom__index {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    gap: 20px;
+
+    /* Responsive automático: mínimo 128px por tarjeta */
+    grid-template-columns: repeat(auto-fit, minmax(128px, 1fr));
+}
+
+/* ======== ELEMENTOS ======== */
+.custom__index li a {
+    position: relative;
+    display: block;
+    width: 100%;
+    aspect-ratio: 1 / 1; /* asegura 128x128px manteniendo responsividad */
+    overflow: hidden;
+    border-radius: 12px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+/* ======== IMAGEN ======== */
+.custom__index li a img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    // transition: transform 0.35s ease;
+}
+
+/* ======== ICONO (arriba a la izquierda) ======== */
+.custom__index li a .fi {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    font-size: 25px;
+    color: white;
+    z-index: 3;
+    // text-shadow: 0 2px 5px rgba(0,0,0,0.7);
+}
+
+/* ======== TEXTO CENTRADO ======== */
+.custom__index li a strong {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 3;
+    color: white;
+    font-size: 26px;
+    font-weight: 700;
+    text-align: center;
+    white-space: nowrap;
+    text-shadow: 0 3px 12px rgba(0,0,0,0.85);
+}
+
+/* ======== GRADIENTE PARA MEJORAR LA LECTURA ======== */
+.custom__index li a::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: 2;
+    opacity: 0.85;
+    transition: opacity 0.35s ease;
+}
+
+/* ======== HOVER ======== */
+.custom__index li a:hover img {
+    transform: scale(1.28);
+}
+
+.custom__index li a:hover::after {
+    opacity: 1;
+}
