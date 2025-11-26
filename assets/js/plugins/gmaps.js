@@ -47,7 +47,7 @@ window.initMap = function () {
         zoomControl: true,
         clickableIcons: false,
         fullscreenControl: !isMobile, // Ocultar en móvil
-        disableDefaultUI: false,
+        disableDefaultUI: true,
         streetViewControl: false,
         mapTypeControl: false,
         mapTypeId: "satellite"
