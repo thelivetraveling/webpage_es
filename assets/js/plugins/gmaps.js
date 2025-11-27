@@ -66,7 +66,7 @@ window.initMap = function () {
             border-radius: 8px;
             box-shadow: 0 2px 6px rgba(0,0,0,0.3);
             max-width: 320px;
-            max-height: 60vh;
+            max-height: 30vh;
             overflow-y: auto;
             overflow-x: hidden;
             font-family: 'Roboto', Arial, sans-serif;
