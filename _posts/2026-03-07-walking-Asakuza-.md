@@ -3,12 +3,8 @@ layout: single
 title:  "Día perfecto en Asakuza"
 excerpt: "Templos, barrios y parques."
 header:
-  teaser: /assets/images/20260307/Asakuza.webp
-  overlay_image: /assets/images/20260307/Asakuza.webp
-  # caption: "Photo credit: [**elsudano**]"
-  # actions:
-  #   - label: "More Info"
-  #     url: "https://www.sudano.net"
+  teaser: /assets/images/20260307/Sensoji.webp
+  overlay_image: /assets/images/20260307/Sensoji.webp
 map_points:
   # "driving" "walking" "bicycling" "transit"
 - name: "Asakusa Nishi-sandō Shopping Street"  
@@ -71,10 +67,9 @@ map_points:
   lng: 139.7655
   type: "shop"  
   mode: "transit"
-
-date:   2025-03-07 09:00:00 +0200
-categories: japón
-tags: japón asakuza paseo ciudad templos
+date:   2026-03-07 09:00:00 +0200
+categories: [japan]
+tags: [japan, asakuza, paseo, ciudad, templos]
 ---
 
 # Mi día en Asakusa y sus tesoros escondidos
@@ -95,13 +90,20 @@ Me llamó la atención cómo, aunque es muy turística, no se siente “fabricad
 
 ## Sensō-ji: más que un templo, un símbolo viviente
 
-Visitar **Sensō-ji** fue para mí uno de los momentos más potentes del día. Este templo, el más antiguo de Tokio, tiene sus raíces en una leyenda que data del año 628, cuando dos hermanos pescadores (Hinokuma Hamanari y Takenari) sacaron una estatua dorada de Kannon del río Sumida. Esa estatua es la base de la devoción de este templo.
+Visitar **Sensō-ji** fue para mí uno de los momentos más potentes del día. [*ayer*]({{ "/japón/arriving-tokio/" | relative_url }}) ya estuve aquí por eso volví. Este templo, el más antiguo de Tokio, tiene sus raíces en una leyenda que data del año 628, cuando dos hermanos pescadores (Hinokuma Hamanari y Takenari) sacaron una estatua dorada de Kannon del río Sumida. Esa estatua es la base de la devoción de este templo.
 
 Una curiosidad que me fascinó: la imagen original de Kannon **no se muestra al público jamás**. Está oculta (hibutsu), según la tradición, y eso le da un aire de misterio. 
 
 El templo ha sufrido muchas reconstrucciones: fue completamente destruido durante los bombardeos de la Segunda Guerra Mundial en 1945, pero reconstruido de nuevo en 1958. La techumbre del edificio principal ahora es de titanio, lo que mezcla tradición e innovación.
 
+<figure class="align-center">
+  <img src="{{ '/assets/images/20260307/Sensoji.webp' | relative_url }}" alt="Sensō-ji Temple">
+  <figcaption class="align-right">Templo Sensō-ji</figcaption>
+</figure>
+
 También me sorprendió cómo el templo se relaciona con el poder político: durante el shogunato Tokugawa, Sensō-ji fue declarado templo oficial de los Tokugawa, lo que impulsó su crecimiento. Y uno de los momentos más coloridos del barrio, el **Sanja Matsuri**, tiene sus raíces en rituales muy antiguos relacionados con este templo.
+
+La calle Nakamise-dōri me atrapó de inmediato: es corta, pero cada tienda tiene algo único, desde dulces tradicionales hasta artesanías que parecen de otra época. Me detuve más de una vez para mirar detalles, probar algún snack y simplemente absorber el ambiente. Es un paseo que se disfruta más caminando despacio y mirando a tu alrededor, no corriendo.
 
 ---
 
