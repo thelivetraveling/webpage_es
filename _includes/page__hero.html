@@ -26,6 +26,8 @@
       <h1 id="page-title" class="page__title" itemprop="headline">
         {% if paginator and site.paginate_show_page_num %}
           {{ site.title }}{% unless paginator.page == 1 %} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}
+        {% elsif page.title and page.layout == "home" %}
+          {{ site.data.ui-text[site.locale].website_home_title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
         {% else %}
           {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
         {% endif %}
@@ -33,7 +35,11 @@
       {% if page.tagline %}
         <p class="page__lead">{{ page.tagline | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% elsif page.header.show_overlay_excerpt != false and page.excerpt %}
-        <p class="page__lead">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+        {% if page.layout == "home" %}
+          <p class="page__lead">{{ site.data.ui-text[site.locale].website_home_subtitle | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+        {% else %}
+          <p class="page__lead">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+        {% endif %}
       {% endif %}
       {% include page__meta.html %}
       {% if page.header.actions %}
