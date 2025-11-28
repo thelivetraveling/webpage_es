@@ -122,11 +122,11 @@ google_maps_api_key : "REPLACE_WITH_GOOGLE_MAPS_API_KEY"
 
 # Site Author
 author:
-  name             : # "La Vida Viajando"
-  avatar           : # "/assets/images/thelivetraveling.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : # "<i class='fas fa-fw fa-share'></i> Dile a tus amigos..."
+  name             : "La Vida Viajando"
+  avatar           : # "/assets/images/thelivetraveling.png"
+  bio              : # "Muchos años viajando y compartiendo las experiencias..."
   location         : # "Madrid, España"
-  email            : # "the.live.traveling@gmail.com"
+  email            : "the.live.traveling@gmail.com"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
