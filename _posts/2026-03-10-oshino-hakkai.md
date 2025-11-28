@@ -4,7 +4,7 @@ title: "Excursión al Monte Fuji"
 excerpt: "Un viaje rápido en tren desde Tokio hasta Oshino Hakkai para descubrir aldeas, agua pura y tradición."
 date: 2026-03-10 09:00:00 +0200
 categories: [japan]
-tags: [MonteFuji, OshinoHakkai, excursión, tren, viaje]
+tags: [MonteFuji, Oshino, Hakkai, excursión, tren, viaje]
 header:
   teaser: /assets/images/20260310/OshinoHakkai.webp
   overlay_image: /assets/images/20260310/OshinoHakkai.webp
@@ -14,28 +14,28 @@ header:
       url: "https://www.japan.travel/es/spot/1327/"
 map_points:
 - name: "Asakusa Station"
-  lat:
-  lng:
+  lat: 35.7134
+  lng: 139.7982
   type: "default"
   mode: "walking"
 - name: "Kanda Station"
-  lat:
-  lng:
+  lat: 35.6933
+  lng: 139.7710
   type: "default"
   mode: "transit"
 - name: "Ōtsuki Station"
-  lat:
-  lng:
+  lat: 35.6336
+  lng: 138.9408
   type: "default"
   mode: "transit"
 - name: "Fujisan Station"
-  lat:
-  lng:
+  lat: 35.5055
+  lng: 138.7934
   type: "default"
   mode: "transit"
 - name: "Oshino hakkai"
-  lat:
-  lng:
+  lat: 35.4768
+  lng: 138.8312
   type: "default"
   mode: "transit"
 ---

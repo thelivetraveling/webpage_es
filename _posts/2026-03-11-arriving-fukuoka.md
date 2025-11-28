@@ -10,34 +10,34 @@ header:
     - label: "More Info"
       url: "https://commons.wikimedia.org/wiki/File:Fukuoka_Skyline_of_Seaside_Momochi.jpg"
 map_points:
-- name: "RESOL POSHTEL TOKYO ASAKUSA"
-  lat:
-  lng:
+- name: "Resol Posthel TOKYO Asakuza"
+  lat: 35.7150
+  lng: 139.7914
   type: "hotel"
   mode: "walking"
-- name: "CANAL CITY HAKATA"
-  lat:
-  lng:
+- name: "Canal City Hakata"
+  lat: 33.5906
+  lng: 130.4109
   type: "shop"
   mode: "transit"
 - name: "Smile Hotel - Hakata Ekimae"
-  lat:
-  lng:
+  lat: 33.5886
+  lng: 130.4168
   type: "hotel"
   mode: "walking"
 - name: "Kushida Shrine"
-  lat:
-  lng:
+  lat: 33.5932
+  lng: 130.4104
   type: "temple"
   mode: "walking"
 - name: "Kawataro Nakasu"
-  lat:
-  lng:
+  lat: 33.5904
+  lng: 130.4093
   type: "restaurant"
   mode: "walking"
 - name: "Fuku-Haku Deai Bridge"
-  lat:
-  lng:
+  lat: 33.5928
+  lng: 130.4051
   type: "default"
   mode: "walking"
 date: 2026-03-11 09:00:00 +0200

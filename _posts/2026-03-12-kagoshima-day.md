@@ -11,33 +11,33 @@ header:
       url: "https://commons.wikimedia.org/wiki/File:Kagoshima_city_and_Sakurajima.jpg"
 map_points:
 - name: "Smile Hotel - Hakata Ekimae"
-  lat:
-  lng:
+  lat: 33.5886
+  lng: 130.4168
   type: "hotel"
   mode: "walking"
 - name: "Terukuni Shrine"
-  lat:
-  lng:
+  lat: 31.5962
+  lng: 130.5501
   type: "temple"
   mode: "transit"
 - name: "Kagoshima (Tsurumaru) Castle Ruins"
-  lat:
-  lng:
+  lat: 31.6003
+  lng: 130.5547
   type: "default"
   mode: "walking"
 - name: "Shoko Shuseikan Museum"
-  lat:
-  lng:
+  lat: 31.6189
+  lng: 130.5761
   type: "museum"
   mode: "walking"
 - name: "Iso Swimming Beach"
-  lat:
-  lng:
+  lat: 31.6161
+  lng: 130.5756
   type: "default"
   mode: "walking"
 - name: "Statue of Okubo Toshimichi"
-  lat:
-  lng:
+  lat: 31.5880
+  lng: 130.5462
   type: "default"
   mode: "walking"
 date: 2026-03-12 09:00:00 +0200
