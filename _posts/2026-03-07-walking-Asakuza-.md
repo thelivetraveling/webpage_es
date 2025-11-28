@@ -8,18 +8,18 @@ header:
 map_points:
   # "driving" "walking" "bicycling" "transit"
 - name: "Asakusa Nishi-sandō Shopping Street"  
-  lat: 35.7147  
-  lng: 139.7967  
+  lat: 35.7145
+  lng: 139.7946  
   type: "shop"  
   mode: "walking"
 - name: "Sensō-ji Temple"  
   lat: 35.7148
-  lng: 139.7967  
+  lng: 139.7966  
   type: "temple"  
   mode: "walking"
 - name: "Santuario de Asakusa (Asakusa Shrine)"  
-  lat: 35.7145
-  lng: 139.7967  
+  lat: 35.71522
+  lng: 139.7974
   type: "temple"  
   mode: "walking"
 - name: "Asakusa Hanayashiki"  
@@ -53,8 +53,8 @@ map_points:
   type: "default"  
   mode: "transit"
 - name: "Calle de utensilios de cocina Kappabashi"  
-  lat: 35.7147
-  lng: 139.7967  
+  lat: 35.7105
+  lng: 139.7879  
   type: "shop"  
   mode: "walking"
 - name: "Don Quijote Uguisudani"  
