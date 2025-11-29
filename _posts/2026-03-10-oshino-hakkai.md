@@ -13,31 +13,31 @@ header:
     - label: "More Info"
       url: "https://www.japan.travel/es/spot/1327/"
 map_points:
-- name: "Asakusa Station"
-  lat: 35.7134
-  lng: 139.7982
-  type: "default"
-  mode: "walking"
-- name: "Kanda Station"
-  lat: 35.6933
-  lng: 139.7710
-  type: "default"
-  mode: "transit"
-- name: "Ōtsuki Station"
-  lat: 35.6336
-  lng: 138.9408
-  type: "default"
-  mode: "transit"
-- name: "Fujisan Station"
-  lat: 35.5055
-  lng: 138.7934
-  type: "default"
-  mode: "transit"
-- name: "Oshino hakkai"
-  lat: 35.4768
-  lng: 138.8312
-  type: "default"
-  mode: "transit"
+  - name: "Asakusa Station"
+    lat: 35.7134
+    lng: 139.7982
+    type: "default"
+    mode: "walking"
+  - name: "Kanda Station"
+    lat: 35.6933
+    lng: 139.7710
+    type: "default"
+    mode: "transit"
+  - name: "Ōtsuki Station"
+    lat: 35.6336
+    lng: 138.9408
+    type: "default"
+    mode: "transit"
+  - name: "Fujisan Station"
+    lat: 35.5055
+    lng: 138.7934
+    type: "default"
+    mode: "transit"
+  - name: "Oshino hakkai"
+    lat: 35.4768
+    lng: 138.8312
+    type: "default"
+    mode: "transit"
 ---
 
 # Excursión al Monte Fuji

@@ -2,6 +2,9 @@
 layout: single
 title: "Ikebukuro y Jimbocho"
 excerpt: "Ruta a pie por lugares emblemáticos, museo de papel, puentes, libros y un café tranquilo"
+date: 2026-03-09 09:00:00 +0200
+categories: [japan]
+tags: [Ikebukuro, Jimbocho, origami, libros, ocio]
 header:
   teaser: /assets/images/20260309/Jimbocho.webp
   overlay_image: /assets/images/20260309/Jimbocho.webp
@@ -10,49 +13,46 @@ header:
     - label: "More Info"
       url: "https://commons.wikimedia.org/wiki/File:Yaguchi_Book_Store_and_Koga_Book_Store.jpg"
 map_points:
-- name: "Origami Museum"
-  lat: 35.7037
-  lng: 139.7657
-  type: "museum"
-  mode: "walking"
-- name: "Hijiri Bridge"
-  lat: 35.7005
-  lng: 139.7654
-  type: "default"
-  mode: "walking"
-- name: "Kanda Daruma"
-  lat: 35.6954
-  lng: 139.7649
-  type: "shop"
-  mode: "walking"
-- name: "Jimbocho Book Town"
-  lat: 35.6969
-  lng: 139.7572
-  type: "shop"
-  mode: "walking"
-- name: "Canal Cafe"
-  lat: 35.7011
-  lng: 139.7431
-  type: "restaurant"
-  mode: "walking"
-- name: "Sunshine City"
-  lat: 35.7300
-  lng: 139.7196
-  type: "default"
-  mode: "transit"
-- name: "Ikebukuro Mikado Game Center"
-  lat: 35.7338
-  lng: 139.7136
-  type: "shop"
-  mode: "walking"
-- name: "7-Eleven"
-  lat: 35.7345
-  lng: 139.7100
-  type: "shop"
-  mode: "walking"
-date: 2026-03-09 09:00:00 +0200
-categories: [japan]
-tags: [Ikebukuro, Jimbocho, origami, libros, ocio]
+  - name: "Origami Museum"
+    lat: 35.7037
+    lng: 139.7657
+    type: "museum"
+    mode: "walking"
+  - name: "Hijiri Bridge"
+    lat: 35.7005
+    lng: 139.7654
+    type: "default"
+    mode: "walking"
+  - name: "Kanda Daruma"
+    lat: 35.6954
+    lng: 139.7649
+    type: "shop"
+    mode: "walking"
+  - name: "Jimbocho Book Town"
+    lat: 35.6969
+    lng: 139.7572
+    type: "shop"
+    mode: "walking"
+  - name: "Canal Cafe"
+    lat: 35.7011
+    lng: 139.7431
+    type: "restaurant"
+    mode: "walking"
+  - name: "Sunshine City"
+    lat: 35.7300
+    lng: 139.7196
+    type: "default"
+    mode: "transit"
+  - name: "Ikebukuro Mikado Game Center"
+    lat: 35.7338
+    lng: 139.7136
+    type: "shop"
+    mode: "walking"
+  - name: "7-Eleven"
+    lat: 35.7345
+    lng: 139.7100
+    type: "shop"
+    mode: "walking"
 ---
 
 # Un paseo entre origami, libros y ocio en Ikebukuro y Jimbocho

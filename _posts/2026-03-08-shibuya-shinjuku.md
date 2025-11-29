@@ -2,63 +2,63 @@
 layout: single
 title:  "Un día vibrante en Tokio"
 excerpt: "Arte digital, vida Nocturna y rincones únicos."
+date:   2026-03-08 09:00:00 +0200
+categories: [japan]
+tags: [japan, tokyo, shibuya, turismo, parques, paseo, caminar]
 header:
   teaser: /assets/images/20260308/Shibuya.webp
   overlay_image: /assets/images/20260308/Shibuya.webp
 map_points:
-- name: "teamLab Borderless: MORI Building DIGITAL ART MUSEUM"  
-  lat: 35.6669
-  lng: 139.7445
-  type: "museum"
-  mode: "walking"
-- name: "Ebisu Yokocho"  
-  lat: 35.6514
-  lng: 139.7110
-  type: "restaurant"
-  mode: "transit"
-- name: "Calle Central de Shibuya"  
-  lat: 35.6637
-  lng: 139.6994
-  type: "shop"
-  mode: "walking"
-- name: "Calle Takeshita"  
-  lat: 35.6740
-  lng: 139.7036
-  type: "shop"
-  mode: "walking"
-- name: "Parque Yoyogi"
-  lat: 35.6740
-  lng: 139.6942
-  type: "park"
-  mode: "walking"
-- name: "Train tracks view"
-  lat: 35.6858
-  lng: 139.7032
-  type: "default"
-  mode: "walking"
-- name: "Jardín Nacional Shinjuku Gyoen"  
-  lat: 35.6869
-  lng: 139.7103
-  type: "park"
-  mode: "walking"
-- name: "Shinjuku Golden-Gai"  
-  lat: 35.6952
-  lng: 139.7048
-  type: "default"
-  mode: "walking"
-- name: "Arco Kabukicho Ichibangai"  
-  lat: 35.6945
-  lng: 139.7011
-  type: "default"
-  mode: "walking"
-- name: "Sunshine City"  
-  lat: 35.7316
-  lng: 139.7191
-  type: "shop"
-  mode: "transit"
-date:   2026-03-08 09:00:00 +0200
-categories: [japan]
-tags: [japan, tokyo, shibuya, turismo, parques, paseo, caminar]
+  - name: "teamLab Borderless: MORI Building DIGITAL ART MUSEUM"  
+    lat: 35.6669
+    lng: 139.7445
+    type: "museum"
+    mode: "walking"
+  - name: "Ebisu Yokocho"  
+    lat: 35.6514
+    lng: 139.7110
+    type: "restaurant"
+    mode: "transit"
+  - name: "Calle Central de Shibuya"  
+    lat: 35.6637
+    lng: 139.6994
+    type: "shop"
+    mode: "walking"
+  - name: "Calle Takeshita"  
+    lat: 35.6740
+    lng: 139.7036
+    type: "shop"
+    mode: "walking"
+  - name: "Parque Yoyogi"
+    lat: 35.6740
+    lng: 139.6942
+    type: "park"
+    mode: "walking"
+  - name: "Train tracks view"
+    lat: 35.6858
+    lng: 139.7032
+    type: "default"
+    mode: "walking"
+  - name: "Jardín Nacional Shinjuku Gyoen"  
+    lat: 35.6869
+    lng: 139.7103
+    type: "park"
+    mode: "walking"
+  - name: "Shinjuku Golden-Gai"  
+    lat: 35.6952
+    lng: 139.7048
+    type: "default"
+    mode: "walking"
+  - name: "Arco Kabukicho Ichibangai"  
+    lat: 35.6945
+    lng: 139.7011
+    type: "default"
+    mode: "walking"
+  - name: "Sunshine City"  
+    lat: 35.7316
+    lng: 139.7191
+    type: "shop"
+    mode: "transit"
 ---
 
 # Un día vibrante en Tokio.

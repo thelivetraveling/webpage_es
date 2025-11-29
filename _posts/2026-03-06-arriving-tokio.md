@@ -2,6 +2,9 @@
 layout: single
 title: "Llegada a Tokio"
 excerpt: "Desde la llegada a Narita hasta una tarde histórica en Asakusa."
+date:   2026-03-06 09:00:00 +0200
+categories: [japan]
+tags: [japan, tokio, narita, ueno, asakusa, templos]
 header:
   teaser: /assets/images/20260306/NaritaAirport.webp
   overlay_image: /assets/images/20260306/NaritaAirport.webp
@@ -10,31 +13,28 @@ header:
     - label: "More Info"
       url: "https://commons.wikimedia.org/w/index.php?curid=74849623"
 map_points:
-  # "driving" "walking" "bicycling" "transit"
-  # "restaurant", "temple", "museum", "park", "station", "hotel", "shop", "default"
-- name: "Aeropuerto Internacional de Narita"  
-  lat: 35.7729
-  lng: 140.3851
-  type: "default"
-  mode: "walking"
-- name: "Keisei Ueno Station"  
-  lat: 35.7129
-  lng: 139.7736
-  type: "station"
-  mode: "transit"
-- name: "Estatua de Hidesaburō Ueno y Hachikō"  
-  lat: 35.7172
-  lng: 139.7587
-  type: "park"
-  mode: "walking"
-- name: "Templo Sensō-ji"  
-  lat: 35.7148
-  lng: 139.7967
-  type: "temple"
-  mode: "walking"
-date:   2026-03-06 09:00:00 +0200
-categories: [japan]
-tags: [japan, tokio, narita, ueno, asakusa, templos]
+    # "driving" "walking" "bicycling" "transit"
+    # "restaurant", "temple", "museum", "park", "station", "hotel", "shop", "default"
+  - name: "Aeropuerto Internacional de Narita"  
+    lat: 35.7729
+    lng: 140.3851
+    type: "default"
+    mode: "walking"
+  - name: "Keisei Ueno Station"  
+    lat: 35.7129
+    lng: 139.7736
+    type: "station"
+    mode: "transit"
+  - name: "Estatua de Hidesaburō Ueno y Hachikō"  
+    lat: 35.7172
+    lng: 139.7587
+    type: "park"
+    mode: "walking"
+  - name: "Templo Sensō-ji"  
+    lat: 35.7148
+    lng: 139.7967
+    type: "temple"
+    mode: "walking"
 ---
 
 # Llegada a Tokio

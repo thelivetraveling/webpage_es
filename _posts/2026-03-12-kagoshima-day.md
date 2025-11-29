@@ -2,6 +2,9 @@
 layout: single
 title: "Kagoshima y Sakurajima"
 excerpt: "Santuario, ruinas del castillo, museo industrial y playa con vistas al volcán"
+date: 2026-03-12 09:00:00 +0200
+categories: [japan]
+tags: [kagoshima, kyushu, templos, museos, sakurajima]
 header:
   teaser: /assets/images/20260312/Kagoshima.webp
   overlay_image: /assets/images/20260312/Kagoshima.webp
@@ -10,39 +13,36 @@ header:
     - label: "More Info"
       url: "https://commons.wikimedia.org/wiki/File:Kagoshima_city_and_Sakurajima.jpg"
 map_points:
-- name: "Smile Hotel - Hakata Ekimae"
-  lat: 33.5886
-  lng: 130.4168
-  type: "hotel"
-  mode: "walking"
-- name: "Terukuni Shrine"
-  lat: 31.5962
-  lng: 130.5501
-  type: "temple"
-  mode: "transit"
-- name: "Kagoshima (Tsurumaru) Castle Ruins"
-  lat: 31.6003
-  lng: 130.5547
-  type: "default"
-  mode: "walking"
-- name: "Shoko Shuseikan Museum"
-  lat: 31.6189
-  lng: 130.5761
-  type: "museum"
-  mode: "walking"
-- name: "Iso Swimming Beach"
-  lat: 31.6161
-  lng: 130.5756
-  type: "default"
-  mode: "walking"
-- name: "Statue of Okubo Toshimichi"
-  lat: 31.5880
-  lng: 130.5462
-  type: "default"
-  mode: "walking"
-date: 2026-03-12 09:00:00 +0200
-categories: [japan]
-tags: [kagoshima, kyushu, templos, museos, sakurajima]
+  - name: "Smile Hotel - Hakata Ekimae"
+    lat: 33.5886
+    lng: 130.4168
+    type: "hotel"
+    mode: "walking"
+  - name: "Terukuni Shrine"
+    lat: 31.5962
+    lng: 130.5501
+    type: "temple"
+    mode: "transit"
+  - name: "Kagoshima (Tsurumaru) Castle Ruins"
+    lat: 31.6003
+    lng: 130.5547
+    type: "default"
+    mode: "walking"
+  - name: "Shoko Shuseikan Museum"
+    lat: 31.6189
+    lng: 130.5761
+    type: "museum"
+    mode: "walking"
+  - name: "Iso Swimming Beach"
+    lat: 31.6161
+    lng: 130.5756
+    type: "default"
+    mode: "walking"
+  - name: "Statue of Okubo Toshimichi"
+    lat: 31.5880
+    lng: 130.5462
+    type: "default"
+    mode: "walking"
 ---
 
 # Kagoshima y Sakurajima
