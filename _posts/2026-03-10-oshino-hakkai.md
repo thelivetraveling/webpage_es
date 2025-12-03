@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Excursión al Monte Fuji"
+title: "Oshino Hakkai"
 excerpt: "Un viaje rápido en tren desde Tokio hasta Oshino Hakkai para descubrir aldeas, agua pura y tradición."
 date: 2026-03-10 09:00:00 +0200
 categories: [japan]

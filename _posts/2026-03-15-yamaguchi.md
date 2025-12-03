@@ -6,8 +6,8 @@ date: 2026-03-15 09:00:00 +0200
 categories: [japan]
 tags: [yamaguchi, templos, jardines, sesshu, cultura-ouchi]
 header:
-  teaser: /assets/images/20260315/Yamaguchi.webp
-  overlay_image: /assets/images/20260315/Yamaguchi.webp
+  teaser: "/assets/images/20260315/Yamaguchi.webp"
+  overlay_image: "/assets/images/20260315/Yamaguchi.webp"
   caption: "By Wiki708"
   actions:
     - label: "More Info"
@@ -22,7 +22,7 @@ map_points:
     lat: 34.1737
     lng: 131.4812
     type: "station"
-    mode: "walking"
+    mode: "transit"
   - name: "Jyoei-ji Temple & Sesshu Garden"
     lat: 34.1981
     lng: 131.4898

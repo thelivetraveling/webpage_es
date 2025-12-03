@@ -1,14 +1,14 @@
 ---
 layout: single
-published: false 
+published: false
 title: "Oshino Hakkai y los Ocho Estanques del Fuji"
 excerpt: "Aguas cristalinas, estanques sagrados y vistas del Monte Fuji"
 date: 2026-03-10 09:00:00 +0200
 categories: [japan]
 tags: [monte-fuji, naturaleza, patrimonio-unesco, excursiones, yamanashi]
 header:
-  teaser: /assets/images/20260310/OshinoHakkai.webp
-  overlay_image: /assets/images/20260310/OshinoHakkai.webp
+  teaser: "/assets/images/20260310/OshinoHakkai.webp"
+  overlay_image: "/assets/images/20260310/OshinoHakkai.webp"
   caption: "By Japan.travel"
   actions:
     - label: "More Info"
@@ -49,8 +49,6 @@ Una excursión de un día desde Tokio puede llevarte a uno de los rincones más 
 
 ## Asakusa Station
 
-La estación de Asakusa sirve como punto de partida para esta aventura hacia el Monte Fuji. A primera hora de la mañana, el bullicio habitual del barrio aún no ha despertado del todo, lo que permite moverse con cierta tranquilidad hacia las conexiones que llevarán fuera de la capital. Desde aquí, el plan es claro: atravesar Tokio hasta alcanzar las líneas que conectan con la región de los Cinco Lagos del Fuji.
-
 El trayecto requiere varios cambios de tren, pero forma parte de la experiencia. Observar cómo la ciudad va quedando atrás y el paisaje se transforma en montañas y valles es uno de esos pequeños placeres que solo el tren japonés puede ofrecer. La línea Ginza y después la JR Chuo son los primeros pasos de un viaje que durará cerca de tres horas.
 
 ---
@@ -61,15 +59,11 @@ El trayecto requiere varios cambios de tren, pero forma parte de la experiencia.
   {% include google-maps.html %}
 {% endif %}
 
-En la estación de Kanda se realiza el primer transbordo importante. Esta parada intermedia en el corazón de Tokio sirve de conexión hacia la línea JR Chuo, que avanza hacia el oeste en dirección a la prefectura de Yamanashi. Aquí, el ritmo cambia. Ya no se trata de moverse por el interior de la metrópolis, sino de iniciar la salida hacia territorios más tranquilos.
-
 El tren que parte de Kanda atraviesa zonas residenciales, después industriales, y poco a poco comienza a mostrar el Japón rural. Los edificios se espacian, aparecen campos de cultivo y pequeñas poblaciones que parecen detenidas en el tiempo. Es el preludio de lo que vendrá después: montañas, bosques y, con suerte, la silueta inconfundible del Monte Fuji recortándose en el horizonte.
 
 ---
 
 ## Ōtsuki Station
-
-La estación de Ōtsuki marca el cambio definitivo hacia el territorio del Fuji. Aquí es donde la línea JR Chuo cede el testigo a la línea Fuji Kyuko, una vía ferroviaria más modesta pero esencial para acceder a la región de los Cinco Lagos. El tren se llena de excursionistas, fotógrafos con enormes teleobjetivos y grupos de turistas que hablan en voz baja mientras consultan mapas en sus teléfonos.
 
 Desde la ventanilla, el paisaje se vuelve cada vez más dramático. Las montañas se elevan a ambos lados de la vía, los ríos serpentean entre valles y, si el cielo está despejado, el Monte Fuji hace su aparición majestuosa. Es imposible no pegarse al cristal para intentar capturar esa imagen con la cámara, aunque ninguna fotografía logra transmitir la sensación de estar ahí, viendo la montaña sagrada alzarse sobre todo lo demás.
 
@@ -95,6 +89,8 @@ Este proceso natural de filtración elimina impurezas y dota al agua de una clar
 
 Los estanques fueron declarados Monumento Natural de Japón en 1934 y, en 2013, pasaron a formar parte del Patrimonio de la Humanidad de la UNESCO como parte del sitio cultural del Monte Fuji. Además, el agua de estos manantiales fue seleccionada entre las cien mejores aguas de Japón por el Ministerio de Medio Ambiente en 1985, un reconocimiento que subraya su pureza excepcional.
 
+---
+
 ### Los Ocho Estanques y su Significado
 
 Cada uno de los ocho estanques posee un nombre propio y una historia ligada al culto al Monte Fuji y al budismo. Durante el periodo en que el Fuji-ko, el culto al Monte Fuji, estaba en pleno auge, los peregrinos visitaban estos estanques para realizar rituales de purificación conocidos como misogi antes de iniciar la ascensión a la montaña sagrada. Cada estanque estaba dedicado a uno de los ocho reyes dragón del budismo, divinidades asociadas con la prosperidad y la buena fortuna.
@@ -109,7 +105,7 @@ Recorrer Oshino Hakkai es un ejercicio de contemplación. Los senderos de piedra
 
 Cerca del estanque Sokonashi se encuentra el Hannoki Bayashi Shiryokan, un pequeño museo al aire libre que preserva antiguas casas campesinas. En su interior se exhiben herramientas agrícolas, utensilios domésticos y algunas armas del periodo samurái. La entrada cuesta trescientos yenes y permite comprender cómo era la vida en esta comunidad rural que dependía enteramente del agua del Monte Fuji para su subsistencia. Es un recordatorio de que este pueblo no es solo un escenario pintoresco, sino un lugar con historia viva.
 
-El paseo a orillas del río Shinnasho es otro de los momentos destacados. Este arroyo de aguas cristalinas fluye entre senderos sombreados y, en primavera, se convierte en un espectáculo de flores de cerezo que se reflejan en la corriente. En otoño, los arces japoneses tiñen el paisaje de tonos ámbar y dorado, creando una paleta de colores que parece sacada de una pintura tradicional.
+---
 
 ### Gastronomía Local: Sabores del Fuji
 
@@ -119,11 +115,20 @@ Otro plato típico es el kusa mochi, un pastel de arroz con artemisa y pasta de 
 
 En la tienda de té Ikemoto, situada junto al estanque Nakaike, es posible disfrutar de una taza de té matcha preparado con el agua del manantial mientras se contempla el paisaje. Es uno de esos momentos que invitan a detenerse, respirar hondo y simplemente estar presente.
 
+---
+
 ### Vistas del Monte Fuji
 
 En un día despejado, el Monte Fuji domina el horizonte desde cualquier punto de Oshino Hakkai. Su silueta perfecta, coronada de nieve durante gran parte del año, se alza como un guardián silencioso sobre el pueblo. Los fotógrafos encuentran aquí algunos de los mejores encuadres para capturar la montaña sagrada: el Fuji reflejado en los estanques, el Fuji enmarcado por las casas de paja, el Fuji asomando entre los árboles.
 
 Existe un fenómeno conocido como "Diamond Fuji", que ocurre principalmente entre mediados de octubre y finales de febrero. Durante este periodo, el sol se alinea con la cumbre del Fuji de tal manera que, al amanecer o al atardecer, parece que la montaña está coronada por un diamante luminoso. Observar este espectáculo desde Oshino Hakkai, con el reflejo del sol sobre las aguas cristalinas, es una experiencia casi espiritual.
+
+<figure class="align-center">
+  <img src="{{ '/assets/images/20260310/OshinoHakkai.webp' | relative_url }}" alt="Oshino Hakkai">
+  <figcaption class="align-right">El estanque Kagamiike</figcaption>
+</figure>  
+
+---
 
 ### El Regreso a Tokio
 

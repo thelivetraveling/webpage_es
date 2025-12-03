@@ -14,7 +14,7 @@ header:
       url: "https://commons.wikimedia.org/w/index.php?curid=74849623"
 map_points:
     # "driving" "walking" "bicycling" "transit"
-    # "restaurant", "temple", "museum", "park", "station", "hotel", "shop", "default"
+    # "restaurant", "castle", "temple", "museum", "park", "station", "hotel", "shop", "default"
   - name: "Aeropuerto Internacional de Narita"  
     lat: 35.7729
     lng: 140.3851

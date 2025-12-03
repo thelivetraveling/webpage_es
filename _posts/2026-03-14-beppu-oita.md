@@ -6,8 +6,8 @@ date: 2026-03-14 09:00:00 +0200
 categories: [japan]
 tags: [beppu, onsen, jigoku, kyushu, aguas-termales]
 header:
-  teaser: /assets/images/20260314/Beppu.webp
-  overlay_image: /assets/images/20260314/Beppu.webp
+  teaser: "/assets/images/20260314/Beppu.webp"
+  overlay_image: "/assets/images/20260314/Beppu.webp"
   caption: "By 663highland"
   actions:
     - label: "More Info"

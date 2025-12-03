@@ -1,74 +1,74 @@
 ---
 layout: single
 title:  "Día perfecto en Asakuza"
-excerpt: "Templos, barrios y parques."
-date:   2026-03-07 09:00:00 +0200
-categories: [japan]
+excerpt: "Un recorrido por Asakusa desde sus calles comerciales hasta los santuarios históricos y parques tradicionales."
+date: 2026-03-07 09:00:00 +0200
+categories: ["japan"]
 tags: [japan, asakuza, paseo, ciudad, templos]
 header:
   teaser: /assets/images/20260307/Sensoji.webp
   overlay_image: /assets/images/20260307/Sensoji.webp
 map_points:
     # "driving" "walking" "bicycling" "transit"
-  - name: "Asakusa Nishi-sandō Shopping Street"  
+  - name: "Asakusa Nishi-sando Shopping Street"
     lat: 35.7145
-    lng: 139.7946  
-    type: "shop"  
+    lng: 139.7946
+    type: "shop"
     mode: "walking"
-  - name: "Sensō-ji Temple"  
+  - name: "Senso-ji Temple"
     lat: 35.7148
-    lng: 139.7966  
-    type: "temple"  
+    lng: 139.7966
+    type: "temple"
     mode: "walking"
-  - name: "Santuario de Asakusa (Asakusa Shrine)"  
+  - name: "Santuario de Asakusa"
     lat: 35.71522
     lng: 139.7974
-    type: "temple"  
+    type: "temple"
     mode: "walking"
-  - name: "Asakusa Hanayashiki"  
+  - name: "Asakusa Hanayashiki"
     lat: 35.7155
-    lng: 139.7947  
-    type: "default"  
+    lng: 139.7947
+    type: "default"
     mode: "walking"
-  - name: "Taito Kuritsu Fuji Park"  
+  - name: "Taito Kuritsu Fuji Park"
     lat: 35.7190
     lng: 139.7977
-    type: "park"  
+    type: "park"
     mode: "walking"
-  - name: "Taito Kuritsu Nihonzutsumi Park"  
+  - name: "Taito Kuritsu Nihonzutsumi Park"
     lat: 35.7245
     lng: 139.7986
-    type: "park"  
+    type: "park"
     mode: "walking"
-  - name: "Yoshiwara Park"  
+  - name: "Yoshiwara Park"
     lat: 35.7254
     lng: 139.7953
-    type: "park"  
+    type: "park"
     mode: "walking"
-  - name: "Santuario Yoshiwara"  
+  - name: "Santuario Yoshiwara"
     lat: 35.7233
     lng: 139.7933
-    type: "temple"  
+    type: "temple"
     mode: "walking"
-  - name: "Men Mitsui"  
+  - name: "Men Mitsui"
     lat: 35.7099
     lng: 139.7904
-    type: "default"  
+    type: "default"
     mode: "transit"
-  - name: "Calle de utensilios de cocina Kappabashi"  
+  - name: "Calle de utensilios de cocina Kappabashi"
     lat: 35.7105
-    lng: 139.7879  
-    type: "shop"  
+    lng: 139.7879
+    type: "shop"
     mode: "walking"
-  - name: "Don Quijote Uguisudani"  
+  - name: "Don Quijote Uguisudani"
     lat: 35.7239
     lng: 139.7781
-    type: "shop"  
+    type: "shop"
     mode: "transit"
-  - name: "Ginza Yanaka"  
+  - name: "Ginza Yanaka"
     lat: 35.7286
     lng: 139.7655
-    type: "shop"  
+    type: "shop"
     mode: "transit"
 ---
 

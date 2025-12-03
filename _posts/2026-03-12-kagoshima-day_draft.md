@@ -1,6 +1,6 @@
 ---  
 layout: single  
-published: false 
+published: false
 title: "Kagoshima y Sakurajima"  
 excerpt: "Hotel, santuario, castillo y playa en Kagoshima"  
 date: 2026-03-12 09:00:00 +0200  
@@ -27,7 +27,7 @@ map_points:
   - name: "Kagoshima (Tsurumaru) Castle Ruins"
     lat: 31.6003
     lng: 130.5547
-    type: "default"
+    type: "castle"
     mode: "walking"
   - name: "Shoko Shuseikan Museum"
     lat: 31.6189

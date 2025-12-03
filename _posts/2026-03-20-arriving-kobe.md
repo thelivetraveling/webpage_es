@@ -1,0 +1,82 @@
+---
+layout: single
+title: "De Yakushima a Kobe"
+excerpt: "Viaje desde Yakushima a Kobe, explorando aeropuerto, estación y el Parque Meriken."
+date: "2026-03-20 07:00:00 +0200"
+categories: ["japan"]
+tags: ["Yakushima","Kobe","viaje","transporte","ParqueMeriken"]
+header:
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/121208_Kobe-Nunobiki_ropeway_Kobe_Hyogo_pref_Japan01s3.jpg/1280px-121208_Kobe-Nunobiki_ropeway_Kobe_Hyogo_pref_Japan01s3.jpg"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/121208_Kobe-Nunobiki_ropeway_Kobe_Hyogo_pref_Japan01s3.jpg/1280px-121208_Kobe-Nunobiki_ropeway_Kobe_Hyogo_pref_Japan01s3.jpg"
+  caption: "By 663highland, CC BY-SA 3.0"
+  actions:
+    - label: "More Info"
+      url: "https://ja.wikipedia.org/wiki/user:663highland"
+map_points:
+  - name: "Yakushima Airport"
+    lat: 30.3846
+    lng: 130.6603
+    type: "default"
+    mode: "plane"
+  - name: "Fukuoka Airport"  
+    lat: 33.5862
+    lng: 130.4488
+    type: "default"
+    mode: "plane"
+  - name: "Shin-Kobe Station"
+    lat: 34.7064
+    lng: 135.1955
+    type: "station"
+    mode: "transit"
+  - name: "Parque Meriken"
+    lat: 34.6824
+    lng: 135.1886
+    type: "park"
+    mode: "walking"
+---
+
+# De Yakushima a Kobe
+
+Este viaje conecta la isla de Yakushima con la ciudad de Kobe, explorando aeropuertos, estaciones y un icónico parque costero.
+  
+{% include video id="AU_2zfM4m68" provider="youtube" %}
+
+## Yakushima Airport
+
+Yakushima Airport sirve como principal puerta de entrada a la isla, facilitando vuelos nacionales y conexiones rápidas. Su infraestructura moderna permite a los viajeros iniciar su aventura en Yakushima de manera cómoda y eficiente.
+
+Al llegar, el viajero percibe la mezcla de eficiencia aeroportuaria y la cercanía con la naturaleza de la isla. La emoción de iniciar un viaje aéreo se combina con la expectativa de explorar nuevos destinos y paisajes.
+
+---
+{% if page.map_points %}
+  {% include google-maps.html %}
+{% endif %}
+
+## Fukuoka Airport
+
+Fukuoka Airport es un aeropuerto internacional clave en Kyushu. Su historia como hub regional ha impulsado la conectividad y el turismo en Japón, ofreciendo instalaciones modernas y accesibles.
+
+El viajero aprecia la rapidez en las conexiones y la logística eficiente mientras espera abordar el siguiente vuelo. La transición entre vuelos se siente ágil, anticipando la llegada a la ciudad de Kobe.
+
+---
+
+## Kobe Station
+
+Kobe Station es un nodo ferroviario histórico que conecta la ciudad con varias regiones. Su relevancia para transporte regional y nacional ha hecho que la estación sea vital para viajeros y locales.
+
+Al pasear por la estación, se percibe el bullicio y la organización del transporte japonés. El viajero experimenta la eficiencia y el dinamismo de una ciudad moderna mientras se prepara para dirigirse a la zona costera.
+
+---
+
+## Parque Meriken
+
+El Parque Meriken, situado en la bahía de Kobe, es un espacio icónico que combina arquitectura moderna con vistas al mar. Su historia está marcada por reconstrucciones tras terremotos y desarrollo urbano.
+
+Caminar por el parque permite al viajero disfrutar de esculturas, paseos junto al puerto y la brisa marina. La atmósfera relajante y las vistas panorámicas ofrecen un final perfecto para este tramo del viaje.
+
+<figure class="align-center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2022_Kobe_Meriken_Park_001.jpg/1280px-2022_Kobe_Meriken_Park_001.jpg" alt="Parque Meriken, Kobe">
+  <figcaption class="align-right">Parque Meriken, Kobe <a href="https://commons.wikimedia.org/wiki/User:Naokijp">By: Naokijp Licence (CC-BY)</a></figcaption>
+</figure>
+
+---

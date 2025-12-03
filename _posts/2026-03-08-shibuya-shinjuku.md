@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Un día vibrante en Tokio"
-excerpt: "Arte digital, vida Nocturna y rincones únicos."
+excerpt: "Descubre lo mejor de Tokio: desde arte inmersivo hasta barrios vibrantes."
 date:   2026-03-08 09:00:00 +0200
 categories: [japan]
 tags: [japan, tokyo, shibuya, turismo, parques, paseo, caminar]

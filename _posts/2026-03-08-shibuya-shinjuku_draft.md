@@ -119,7 +119,7 @@ Moviéndome hacia la tarde, me dirigí al Jardín Nacional Shinjuku Gyoen, que c
 
 Lo que lo hace único es que contiene tres estilos de jardín completamente diferentes en un solo lugar: un jardín tradicional japonés con estanques y puentes, un jardín formal francés con simetría y rosaledas, y un paisajista inglés con amplios céspedes. La variedad es casi desorientadora: más de 20,000 árboles representan cientos de especies diferentes. En marzo, hay alrededor de 1,000 cerezos que crean un mar rosado de flores.
 
-La entrada cuesta 500 yenes, y abre de 9:00 a 16:30 (con extensiones según la estación). Planifiqué unas dos horas, aunque fácilmente podría haber pasado más. El Pabellón de Taiwán, un edificio tradicional chino construido como regalo de boda para el Emperador Hirohito en 1927, es particularmente interesante. Hay un gran invernadero con más de 2,700 especies de plantas tropicales y subtropicales, incluyendo una colección de orquídeas con más de 100 años de antigüedad.
+Planifiqué unas dos horas, aunque fácilmente podría haber pasado más. El Pabellón de Taiwán, un edificio tradicional chino construido como regalo de boda para el Emperador Hirohito en 1927, es particularmente interesante. Hay un gran invernadero con más de 2,700 especies de plantas tropicales y subtropicales, incluyendo una colección de orquídeas con más de 100 años de antigüedad.
 
 ## Golden-Gai: Entrando en los callejones bohemios
 
@@ -138,8 +138,6 @@ El nombre "Kabukicho" es irónico: proviene de un plan fallido del período de p
 ## Sunshine City: El gigante comercial
 
 Mi última parada fue Sunshine City en Ikebukuro, un complejo comercial masivo que es prácticamente una ciudad en sí misma. El edificio principal, Sunshine 60, fue una vez el rascacielos más alto de Asia (240 metros) cuando se completó en 1978, un título que mantuvo hasta 1985. Ahora comparte el espacio con torres modernas, pero sigue siendo un punto de referencia importante.
-
-El complejo incluye cuatro edificios principales: Sunshine 60, el Prince Hotel, el World Import Mart, y la Bunka Kaikan. El terreno tiene un significado histórico inusual: fue el sitio de la Prisión de Sugamo, destruida después de la Segunda Guerra Mundial. El observatorio en la planta 60, llamado Sky Circus, ofrece vistas de 360 grados de Tokio.
 
 Pasé principalmente tiempo explorando el centro comercial, que es genuinamente enorme. Hay un acuario temático en la azotea, un parque de atracciones interior llamado Namja Town, tiendas especializadas en cultura anime y manga, y cientos de restaurantes.
 

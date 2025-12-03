@@ -6,8 +6,8 @@ date: 2026-03-13 09:00:00 +0200
 categories: [japan]
 tags: [kumamoto, castillo, jardines, kyushu, reconstruccion]
 header:
-  teaser: /assets/images/20260313/Kumamoto.webp
-  overlay_image: /assets/images/20260313/Kumamoto.webp
+  teaser: "/assets/images/20260313/Kumamoto.webp"
+  overlay_image: "/assets/images/20260313/Kumamoto.webp"
   caption: "By Hisagi"
   actions:
     - label: "More Info"
@@ -21,7 +21,7 @@ map_points:
   - name: "Castillo Kumamoto"
     lat: 32.8067
     lng: 130.7058
-    type: "museum"
+    type: "castle"
     mode: "transit"
   - name: "Kumamoto City Hall Observatory"
     lat: 32.8041

@@ -26,7 +26,7 @@ map_points:
   - name: "Kagoshima (Tsurumaru) Castle Ruins"
     lat: 31.6003
     lng: 130.5547
-    type: "default"
+    type: "castle"
     mode: "walking"
   - name: "Shoko Shuseikan Museum"
     lat: 31.6189
@@ -59,15 +59,15 @@ Salí del Smile Hotel cuando todavía no había amanecido del todo. El hotel cum
 
 ## Terukuni Shrine
 
-{% if page.map_points %}
-  {% include google-maps.html %}
-{% endif %}
-
-El santuario Terukuni fue mi primera parada en Kagoshima. Fundado en mil ochocientos sesenta y cuatro, este lugar honra a Shimazu Nariakira, el undécimo señor del dominio de Satsuma y una figura clave en la modernización de Japón durante el periodo Edo tardío. El emperador le otorgó el título divino de Terukuni Daimyojin tras su muerte en mil ochocientos cincuenta y ocho, y un año después se construyó el santuario en su honor.
+El santuario Terukuni fue mi primera parada en Kagoshima. Fundado en 1864, este lugar honra a Shimazu Nariakira, el undécimo señor del dominio de Satsuma y una figura clave en la modernización de Japón durante el periodo Edo tardío. El emperador le otorgó el título divino de Terukuni Daimyojin tras su muerte en 1858, y un año después se construyó el santuario en su honor.
 
 Lo primero que vi al acercarme fue el enorme torii blanco que marca la entrada, visible desde varias calles de distancia. Al cruzar la puerta, me encontré con un árbol podado de forma peculiar, con ramas que parecían alas extendidas de un pájaro. Es uno de esos detalles que hacen que cada santuario japonés tenga su propia personalidad.
 
-El recinto era tranquilo a primera hora de la mañana. Nariakira fue un visionario que introdujo tecnología occidental en Japón, incluyendo cámaras, telégrafos y fábricas modernas. Su legado no solo se siente en este santuario, sino en toda la ciudad. Me detuve frente al edificio principal, donde hay una estatua de bronce del señor de Satsuma. El santuario fue destruido durante la rebelión de Satsuma en mil ochocientos setenta y siete y también sufrió daños en la Segunda Guerra Mundial, pero fue reconstruido con su esplencia actual en mil novecientos cincuenta y ocho.
+Nariakira fue un visionario que introdujo tecnología occidental en Japón, incluyendo cámaras, telégrafos y fábricas modernas. Su legado no solo se siente en este santuario, sino en toda la ciudad. Me detuve frente al edificio principal, donde hay una estatua de bronce del señor de Satsuma.
+
+{% if page.map_points %}
+  {% include google-maps.html %}
+{% endif %}
 
 ---
 
@@ -90,7 +90,7 @@ El lugar ahora alberga el museo Reimeikan, que exhibe la historia de Kagoshima, 
 
 Tomé un autobús hacia el área de Sengan-en, donde se encuentra el museo Shoko Shuseikan. Este museo está ubicado en el edificio de piedra más antiguo de estilo occidental en Japón, construido en mil ochocientos sesenta y cinco como fábrica de maquinaria para barcos. Forma parte del sitio Patrimonio de la Humanidad de la UNESCO relacionado con la revolución industrial de la era Meiji.
 
-La entrada al museo está incluida con la visita al jardín Sengan-en, así que aproveché para ver ambos. El museo cuenta la historia de ochocientos años del clan Shimazu y su proyecto de modernización llamado Shuseikan, que incluía hornos de fundición, fábricas de vidrio y textiles. Shimazu Nariakira, el mismo que está consagrado en el santuario Terukuni, fue quien impulsó todo esto porque temía que Japón fuera colonizado por potencias occidentales.
+La entrada al museo está incluida con la visita al jardín Sengan-en, así que aproveché para ver ambos. El museo cuenta la historia de 800 años del clan Shimazu y su proyecto de modernización llamado Shuseikan, que incluía hornos de fundición, fábricas de vidrio y textiles. Shimazu Nariakira, el mismo que está consagrado en el santuario Terukuni, fue quien impulsó todo esto porque temía que Japón fuera colonizado por potencias occidentales.
 
 Me gustó especialmente ver las fotografías más antiguas tomadas por japoneses, incluida una de Nariakira que es la más antigua que se conserva. También había exhibiciones sobre el cristal de Satsuma Kiriko, una técnica de vidrio tallado que casi se perdió pero que ha sido recuperada.
 
@@ -100,15 +100,13 @@ Me gustó especialmente ver las fotografías más antiguas tomadas por japoneses
 
 Después del museo, bajé caminando hasta la playa de Iso, que está justo al lado. Esta playa es famosa porque ofrece vistas directas al volcán Sakurajima, que se alza imponente al otro lado de la bahía. La arena es oscura y algo áspera, mezclada con ceniza volcánica, pero el paisaje compensa con creces.
 
-No es una playa espectacular en términos de calidad de arena, pero nadar con un volcán activo de fondo es algo que no se puede hacer en muchos sitios del mundo. Había algunos surfistas y gente haciendo paddleboard. Me senté un rato en la orilla, contemplando el Sakurajima echando humo. Es un recordatorio constante de que la naturaleza sigue siendo más poderosa que cualquier cosa que podamos construir.
+No es una playa espectacular en términos de calidad de arena, pero nadar con un volcán activo de fondo es algo que no se puede hacer en muchos sitios del mundo. Es un recordatorio constante de que la naturaleza sigue siendo más poderosa que cualquier cosa que podamos construir.
 
 ---
 
 ## Statue of Okubo Toshimichi
 
 De vuelta hacia la estación, pasé por la estatua de Okubo Toshimichi, otro de los grandes hombres de Kagoshima. Okubo fue un samurái de Satsuma que se convirtió en estadista y jugó un papel fundamental en la restauración Meiji. Junto con Saigo Takamori y Kido Takayoshi, es considerado uno de los tres grandes nobles que modernizaron Japón.
-
-La estatua tiene más de cuatro metros de altura y fue erigida en mil novecientos setenta y nueve, cien años después de su asesinato en Tokio. En la base hay grabados del cochero y el caballo que también murieron en el ataque. Me llamó la atención la pose firme y decidida de Okubo, mirando hacia adelante como si todavía estuviera planeando el futuro de Japón.
 
 Con esta última parada, di por terminada mi excursión a Kagoshima. Tomé el shinkansen de vuelta a Fukuoka con la sensación de haber aprovechado bien el día. Kagoshima es una ciudad que respira historia, modernización y respeto por sus figuras históricas. Y sobre todo, es imposible olvidar la presencia constante del Sakurajima dominando el horizonte.
 
