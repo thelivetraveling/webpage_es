@@ -13,7 +13,7 @@
 {% if page.header.image_description %}
   {% assign image_description = page.header.image_description %}
 {% else %}
-  {% assign image_description = site.data.ui-text[site.locale].website_home_title %}
+  {% assign image_description = page.title %}
 {% endif %}
 
 {% assign image_description = image_description | markdownify | strip_html | strip_newlines | escape_once %}
@@ -29,7 +29,7 @@
         {% elsif site.data.ui-text[site.locale].website_home_title and page.layout == "home" %}
           {{ site.data.ui-text[site.locale].website_home_title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
         {% else %}
-          {{ site.data.ui-text[site.locale].website_home_title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
+          {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
         {% endif %}
       </h1>
       {% if page.tagline %}
@@ -38,7 +38,7 @@
         {% if page.layout == "home" %}
           <p class="page__lead">{{ site.data.ui-text[site.locale].website_home_subtitle | markdownify | remove: "<p>" | remove: "</p>" }}</p>
         {% else %}
-          <p class="page__lead">{{ site.data.ui-text[site.locale].website_home_subtitle | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+          <p class="page__lead">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
         {% endif %}
       {% endif %}
       {% include page__meta.html %}
