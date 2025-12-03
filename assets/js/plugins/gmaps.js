@@ -20,6 +20,7 @@ window.initMap = function () {
     const pointIcons = {
         restaurant: '🍽️',
         temple: '⛩️',
+        castle: '🏰',
         museum: '🏛️',
         park: '🌳',
         station: '🚉',
