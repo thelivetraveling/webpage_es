@@ -51,16 +51,18 @@
 
 .pagination {
   @include clearfix();
-  float: inline-start;
+  // float: inline-start;
   margin-top: 1em;
   padding-top: 1em;
   width: 100%;
+  text-align: center;
 
   ul {
     margin: 0;
     padding: 0;
     list-style-type: none;
     font-family: $sans-serif;
+    display: inline-block;
   }
 
   li {
@@ -73,7 +75,7 @@
       margin-bottom: 0.25em;
       padding: 0.5em 1em;
       font-family: $sans-serif;
-      font-size: 14px;
+      font-size: 10px;
       font-weight: bold;
       line-height: 1.5;
       text-align: center;
