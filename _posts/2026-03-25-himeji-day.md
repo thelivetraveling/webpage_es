@@ -61,16 +61,16 @@ Desembarcar del teleférico fue como entrar en otro mundo. El aire era más fres
 
 ---
 
-<figure class="align-center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/20160403_Himeji-Castle_3350_%2826732265702%29.jpg/1280px-20160403_Himeji-Castle_3350_%2826732265702%29.jpg" alt="Telecabina del Monte Shosha">
-  <figcaption class="align-right">Telecabina del Monte Shosha by: <a href="https://www.flickr.com/people/46218178@N02">Ray Swi-hymn</a>. Licencia: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a></figcaption>
-</figure>
-
 ## **Himeji Castle: La Garza Blanca Imperecedera**
 
 El **Castillo de Himeji** (*Himeji-jō*), declarado Patrimonio de la Humanidad, es la máxima expresión de la arquitectura castellar japonesa del período feudal. Construido originalmente en el siglo XIV y ampliado a su forma actual en 1609, su apariencia elegante y blanquecina le valió el apodo de *Hakuro-jō* (Castillo de la Garza Blanca). Sobrevivió intacto a guerras y bombardeos.
 
 Descender de la montaña y tomar el tren hacia Himeji fue un contraste absoluto. Al salir de la estación, la visión del castillo al fondo de la avenida es simplemente espectacular. La torre del homenaje, con sus seis niveles y cinco tejados, se recortaba contra el cielo azul. Subir por sus intrincados pasillos de madera, diseñados para confundir al enemigo, era sentir el peso de la historia samurái.
+
+<figure class="align-center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Himeji_Castle_The_Keep_Towers.jpg/1024px-Himeji_Castle_The_Keep_Towers.jpg" alt="Telecabina del Monte Shosha">
+  <figcaption class="align-right">Castillo de Himeji by: <a href="https://ja.wikipedia.org/wiki/User:Reggaeman">Ray Reggaeman</a>. Licencia: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a></figcaption>
+</figure>
 
 ---
 
