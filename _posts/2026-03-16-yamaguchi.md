@@ -49,7 +49,7 @@ Desde la estación todo está accesible en autobús o taxi. Para llegar al templ
 
 <figure class="align-center">
   <img src="{{ '/assets/images/20260315/YamaguchiStation.webp' | relative_url }}" alt="Yamaguchi Station">
-  <figcaption class="align-right">Estación de Yamaguchi en la tranquila mañana by <a href="https://commons.wikimedia.org/wiki/User:Asturio_Cantabrio">Asturio Cantabrio</a></figcaption>
+  <figcaption class="align-right">Estación de Yamaguchi en la tranquila mañana by <a href="https://commons.wikimedia.org/wiki/User:Asturio_Cantabrio">Asturio Cantabrio</a>. Licencia: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> CC BY-SA 4.0</a></figcaption>
 </figure>
 
 ---

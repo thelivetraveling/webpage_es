@@ -66,7 +66,7 @@ La experiencia culinaria también forma parte del atractivo. Los famosos "Onsen 
 
 <figure class="align-center">
   <img src="{{ '/assets/images/20260314/Kamado.webp' | relative_url }}" alt="Kamado Jigoku">
-  <figcaption class="align-right">Estanques de colores en Kamado Jigoku by <a href="https://ja.wikipedia.org/wiki/user:663highland">663highland</a></figcaption>
+  <figcaption class="align-right">Estanques de colores en Kamado Jigoku <a href="https://ja.wikipedia.org/wiki/user:663highland">By: 663highland</a>. Licencia: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> CC BY-SA 4.0</a></figcaption>
 </figure>
 
 Un detalle que muchos desconocen: si muestras tu entrada en la taquilla este, puedes acceder gratuitamente a un onsen privado llamado "Iyashinoyu". Necesitas pedir la llave, disfrutar del baño, devolverla y listo. Es una joya escondida que el dueño construyó originalmente para uso familiar pero que ahora está disponible para visitantes.

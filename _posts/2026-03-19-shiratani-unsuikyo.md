@@ -51,5 +51,5 @@ Caminar por el desfiladero es adentrarse en un mundo místico de musgo cubriendo
 ---
 <figure class="align-center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mossy_Forest_in_Cameron_Highland.jpg/1280px-Mossy_Forest_in_Cameron_Highland.jpg" alt="Desfiladero Shiratani Unsuikyo">
-  <figcaption class="align-right">Shiratani Unsuikyo, Yakushima <a href="https://commons.wikimedia.org/w/index.php?title=User:Nazri_Sulaiman&action=edit&redlink=1">By: Nazri_Sulaiman Licence (CC-BY)</a></figcaption>
+  <figcaption class="align-right">Shiratani Unsuikyo, Yakushima <a href="https://commons.wikimedia.org/w/index.php?title=User:Nazri_Sulaiman&action=edit&redlink=1">By: Nazri_Sulaiman</a>. Licencia: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> CC BY-SA 4.0</a></figcaption>
 </figure>

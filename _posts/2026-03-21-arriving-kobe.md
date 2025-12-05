@@ -76,7 +76,5 @@ Caminar por el parque permite al viajero disfrutar de esculturas, paseos junto a
 
 <figure class="align-center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2022_Kobe_Meriken_Park_001.jpg/1280px-2022_Kobe_Meriken_Park_001.jpg" alt="Parque Meriken, Kobe">
-  <figcaption class="align-right">Parque Meriken, Kobe <a href="https://commons.wikimedia.org/wiki/User:Naokijp">By: Naokijp Licence (CC-BY)</a></figcaption>
+  <figcaption class="align-right">Parque Meriken, Kobe <a href="https://commons.wikimedia.org/wiki/User:Naokijp">By: Naokijp</a>. Licencia: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> CC BY-SA 4.0</a></figcaption>
 </figure>
-
----

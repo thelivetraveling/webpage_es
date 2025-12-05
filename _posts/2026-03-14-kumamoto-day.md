@@ -113,7 +113,7 @@ Este jardín de paseo de 64 hectáreas fue creado en 1632 por Hosokawa Tadatoshi
 
 <figure class="align-center">  
   <img src="{{ '/assets/images/20260313/JojuenGarden.webp' | relative_url }}" alt="Jojuen Garden">  
-  <figcaption class="align-right">Parte del Jojuen Garden by <a href="https://ja.wikipedia.org/wiki/user:663highland">663highland</a></figcaption>  
+  <figcaption class="align-right">Parte del Jojuen Garden <a href="https://ja.wikipedia.org/wiki/user:663highland">By: 663highland</a>. Licencia: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> CC BY-SA 4.0</a></figcaption>  
 </figure>  
 
 Las generaciones siguientes de la familia Hosokawa ampliaron el jardín hasta convertirlo en un kaiyushiki teien (jardín de paseo circular) de estilo refinado del período Momoyama. En 1671 se completó la obra y recibió el nombre Jojuen, en referencia a un verso del poema clásico chino "Come Away Home" de Tao Qian.

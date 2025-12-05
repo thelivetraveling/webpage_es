@@ -71,7 +71,7 @@ El establecimiento dispone de baños públicos separados por género y una sauna
 
 <figure class="align-center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Anbo_and_Yakushima_%284496048808%29.jpg/1024px-Anbo_and_Yakushima_%284496048808%29.jpg" alt="Vista aérea de Anbo y la costa de Yakushima">
-  <figcaption class="align-right">Puerto de Anbo en Yakushima <a href="https://www.flickr.com/people/81943113@N00">By: Wikimedia Commons. Licencia: CC BY 2.0</a></figcaption>
+  <figcaption class="align-right">Puerto de Anbo en Yakushima <a href="https://www.flickr.com/people/81943113@N00">By: Wikimedia Commons</a>. Licencia: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> CC BY-SA 4.0</a></figcaption>
 </figure>
 
 ---

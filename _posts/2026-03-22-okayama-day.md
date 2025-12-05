@@ -78,7 +78,7 @@ Pasear por Korakuen permite al viajero disfrutar de senderos rodeados de cerezos
 
 <figure class="align-center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Okayama_Korakuen_Garden01.jpg/1280px-Okayama_Korakuen_Garden01.jpg" alt="Korakuen, Okayama">
-  <figcaption class="align-right">Korakuen, Okayama <a href="https://commons.wikimedia.org/wiki/File:Okayama_Korakuen_Garden01.jpg">By: Fjkelfeimvvn Licence (CC-BY)</a></figcaption>
+  <figcaption class="align-right">Korakuen, Okayama <a href="https://commons.wikimedia.org/wiki/File:Okayama_Korakuen_Garden01.jpg">By: Fjkelfeimvvn</a>. Licencia: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> CC BY-SA 4.0</a></figcaption>
 </figure>
 
 ---
@@ -91,5 +91,5 @@ El visitante siente la imponencia del castillo y se imagina la vida de la época
 
 <figure class="align-center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Okayama_Castle_01.jpg" alt="Korakuen, Okayama">
-  <figcaption class="align-right">Korakuen, Okayama <a href="https://ja.wikipedia.org/wiki/User:Reggaeman">By: Reggaeman Licence (CC-BY)</a></figcaption>
+  <figcaption class="align-right">Korakuen, Okayama <a href="https://ja.wikipedia.org/wiki/User:Reggaeman">By: Reggaeman</a>. Licencia: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> CC BY-SA 4.0</a></figcaption>
 </figure>

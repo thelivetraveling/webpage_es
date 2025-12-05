@@ -115,7 +115,6 @@ analytics:
     tracking_id     : "G-E05DYCCW03"
     anonymize_ip    : true # true, false (default)
 
-
 # Google Maps
 google_maps_api_key : "REPLACE_WITH_GOOGLE_MAPS_API_KEY"
 

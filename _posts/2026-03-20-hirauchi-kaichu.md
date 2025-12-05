@@ -51,5 +51,5 @@ Llegar al onsen es una experiencia en sí misma: pedaleando entre senderos y veg
 ---
 <figure class="align-center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Hirauchi_kaichu_onsen.jpg" alt="Hirauchi Kaichu Onsen">
-  <figcaption class="align-right">Foto: Hirauchi Kaichu Onsen, Yakushima <a href="https://commons.wikimedia.org/w/index.php?title=User:Somey&action=edit&redlink=1">By: Somey Licence (CC-BY)</a></figcaption>
+  <figcaption class="align-right">Foto: Hirauchi Kaichu Onsen, Yakushima <a href="https://commons.wikimedia.org/w/index.php?title=User:Somey&action=edit&redlink=1">By: Somey</a>. Licencia: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> CC BY-SA 4.0</a></figcaption>
 </figure>
