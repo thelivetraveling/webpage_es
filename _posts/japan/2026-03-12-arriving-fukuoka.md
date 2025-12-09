@@ -3,11 +3,11 @@ layout: single
 title: "Fukuoka"  
 excerpt: "Hostelería, templo y ríos de luces en la ciudad costera"  
 categories: [japan]  
-date: 2026-03-11 09:00:00 +0200
+date: 2026-03-12 09:00:00 +0200
 tags: [fukuoka, hakata, shopping, shrine, gastronomía]  
 header:  
-  teaser: /assets/images/20260311/Fukuoka.webp  
-  overlay_image: /assets/images/20260311/Fukuoka.webp  
+  teaser: /assets/images/2026/03/12/Fukuoka.webp  
+  overlay_image: /assets/images/2026/03/12/Fukuoka.webp  
   caption: "By Nryate"  
   actions:  
     - label: "More Info"  

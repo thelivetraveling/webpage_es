@@ -3,12 +3,12 @@ layout: single
 published: false
 title: "Oshino Hakkai y los Ocho Estanques del Fuji"
 excerpt: "Aguas cristalinas, estanques sagrados y vistas del Monte Fuji"
-date: 2026-03-10 09:00:00 +0200
+date: 2026-03-11 09:00:00 +0200
 categories: [japan]
 tags: [monte-fuji, naturaleza, patrimonio-unesco, excursiones, yamanashi]
 header:
-  teaser: "/assets/images/20260310/OshinoHakkai.webp"
-  overlay_image: "/assets/images/20260310/OshinoHakkai.webp"
+  teaser: "/assets/images/2026/03/11/OshinoHakkai.webp"
+  overlay_image: "/assets/images/2026/03/11/OshinoHakkai.webp"
   caption: "By Japan.travel"
   actions:
     - label: "More Info"
@@ -124,7 +124,7 @@ En un día despejado, el Monte Fuji domina el horizonte desde cualquier punto de
 Existe un fenómeno conocido como "Diamond Fuji", que ocurre principalmente entre mediados de octubre y finales de febrero. Durante este periodo, el sol se alinea con la cumbre del Fuji de tal manera que, al amanecer o al atardecer, parece que la montaña está coronada por un diamante luminoso. Observar este espectáculo desde Oshino Hakkai, con el reflejo del sol sobre las aguas cristalinas, es una experiencia casi espiritual.
 
 <figure class="align-center">
-  <img src="{{ '/assets/images/20260310/OshinoHakkai.webp' | relative_url }}" alt="Oshino Hakkai">
+  <img src="{{ '/assets/images/2026/03/11/OshinoHakkai.webp' | relative_url }}" alt="Oshino Hakkai">
   <figcaption class="align-right">El estanque Kagamiike</figcaption>
 </figure>  
 

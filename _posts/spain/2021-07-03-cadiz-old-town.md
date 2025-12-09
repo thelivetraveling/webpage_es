@@ -6,12 +6,8 @@ date: 2021-07-03 09:00:00 +0200
 categories: ["spain"]
 tags: ["cadiz", "catedral", "mercado", "torre", "teatro", "pescaíto"]
 header:
-  teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Catedral_de_las_Am%C3%A9ricas.jpg/1280px-Catedral_de_las_Am%C3%A9ricas.jpg"
-  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Catedral_de_las_Am%C3%A9ricas.jpg/1280px-Catedral_de_las_Am%C3%A9ricas.jpg"
-  caption: "By: Pepe Gadeiras CC BY-SA 4.0"
-  actions:
-    - label: "More Info"
-      url: "https://commons.wikimedia.org/w/index.php?title=User:PEPE_GADEIRAS&action=edit&redlink=1"
+  teaser: "/assets/images/2021/07/03/Catedral.webp"
+  overlay_image: "/assets/images/2021/07/03/Catedral.webp"
 map_points:
   - name: "Torre Tavira"
     lat: 36.5322
@@ -76,6 +72,11 @@ El contraste al entrar fue inmediato: del silencio de la torre al bullicio y los
 **Freiduría Las Flores** es una institución en Cádiz, emblemática por su calidad y tradición. Situada a escasos metros del mercado, representa la esencia de la comida rápida y sabrosa gaditana: el pescaíto frito. Esta forma de preparación, que sumerge el marisco y el pescado en aceite de oliva muy caliente, es un legado culinario que se remonta siglos atrás.
 
 El aroma a fritura me guió hasta la puerta. La cola avanzaba rápido. Pedir una ración de «pescaíto variado» y comértelo de pie en la calle, con los dedos, es un ritual obligado. La textura crujiente por fuera y tierna por dentro, el punto justo de sal… acompañado de una caña bien fría, era el almuerzo perfecto. Sencillo, auténtico y delicioso.
+
+<figure class="align-center">
+  <img src="/assets/images/2021/07/03/FreiduriaLasFlores.webp" alt="Freiduria Las Flores">
+  <figcaption class="align-right">Freiduria Las Flores by: <a href="https://github.com/thelivetraveling">The Live Traveling</a>. License: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a></figcaption>
+</figure>
 
 ---
 

@@ -3,7 +3,7 @@ layout: single
 published: false
 title: "Día en Asakusa"
 excerpt: "Un recorrido por Asakusa desde sus calles comerciales hasta los santuarios históricos y parques tradicionales."
-date: 2026-03-07 09:00:00 +0200
+date: 2026-03-08 09:00:00 +0200
 categories: ["japan"]
 tags: [Asakusa, Tokio, Templos, Sensoji, Hanayashiki, Kappabashi, Shitamachi, Yoshiwara]
 header:

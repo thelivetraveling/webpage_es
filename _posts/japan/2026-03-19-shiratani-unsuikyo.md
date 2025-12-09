@@ -2,10 +2,11 @@
 layout: single
 title: "Aventura Yakushima"
 excerpt: "De Yakushima Green Hotel al desfiladero Shiratani Unsuikyo, naturaleza y senderismo inolvidables."
-date: "2026-03-18 07:00:00 +0200"
+date: "2026-03-19 07:00:00 +0200"
 categories: ["japan"]
 tags: ["Yakushima","naturaleza","senderismo","bosque","aventura"]
 header:
+  # teaser: "/assets/images/2026/03/19/Yakushima.webp"
   teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Pulag%27s_Mossy_Forest.jpg/1280px-Pulag%27s_Mossy_Forest.jpg"
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Pulag%27s_Mossy_Forest.jpg/1280px-Pulag%27s_Mossy_Forest.jpg"
   caption: "By Klienneeco, CC BY-SA 3.0"

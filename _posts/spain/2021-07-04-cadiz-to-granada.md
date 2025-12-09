@@ -6,12 +6,8 @@ date: 2021-07-04 09:00:00 +0200
 categories: ["spain"]
 tags: ["playa", "antequera", "granada", "andalucia", "viaje", "costa"]
 header:
-  teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Antequera_2.jpg/1024px-Antequera_2.jpg"
-  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Antequera_2.jpg/1024px-Antequera_2.jpg"
-  caption: "By: Valderrama CC BY-SA 4.0"
-  actions:
-    - label: "More Info"
-      url: "https://www.flickr.com/photos/37998130@N00"
+  teaser: "/assets/images/2021/07/04/PlazaDelRey.webp"
+  overlay_image: "/assets/images/2021/07/04/PlazaDelRey.webp"
 map_points:
   - name: "Playa de la Caleta"
     lat: 36.5319
@@ -47,11 +43,12 @@ La **Playa de La Caleta** es la playa urbana más emblemática de Cádiz, un are
 
 La mañana del 4 de julio amaneció radiante. La Caleta, a esa hora, estaba tranquila. Algunos bañistas madrugadores se aventuraban en el agua, mientras los pescadores arreglaban sus redes en la arena. Caminar por su paseo marítimo, con el olor a sal y el sonido de las olas rompiendo suavemente, fue la despedida perfecta de Cádiz. El sol ya calentaba, anunciando un día de verano espléndido para la ruta.
 
----
+<figure class="align-center">
+  <img src="/assets/images/2021/07/04/PlayaDeLaCaleta.webp" alt="Playa de la Caleta">
+  <figcaption class="align-right">Playa de la Caleta, By: <a href="https://github.com/thelivetraveling">The Live Traveling</a>. License: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a></figcaption>
+</figure>
 
-{% if page.map_points %}
-  {% include google-maps.html %}
-{% endif %}
+---
 
 ## **Plaza del Rey: Un Alto en el Camino**
 
@@ -61,16 +58,15 @@ Parar aquí, a solo media hora de Cádiz, fue un breve descanso para estirar las
 
 ---
 
-<figure class="align-center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/San_Fernando-IMG_20240613_090151.jpg/1024px-San_Fernando-IMG_20240613_090151.jpg" alt="Plaza del Rey, San fernando">
-  <figcaption class="align-right">Plaza del Rey, San fernando, By: <a href="https://commons.wikimedia.org/wiki/User:El_Pantera">El_Pantera</a>. Licencia: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a></figcaption>
-</figure>
-
 ## **Antequera: El Corazón de Andalucía**
 
 **Antequera**, declarada Conjunto Histórico-Artístico, es una ciudad milenaria estratégicamente situada en el centro geográfico de Andalucía. Es famosa por su **Conjunto Arqueológico de los Dólmenes** (Menga, Viera y El Romeral), Patrimonio de la Humanidad, y por su rico patrimonio renacentista y barroco, con más de una treintena de iglesias y conventos. Su peña de los Enamorados domina el paisaje.
 
 Llegar a Antequera al mediodía fue como entrar en un horno. El calor del interior en julio es intenso, pero seco. La visita al Dolmen de Menga es sobrecogedora; estar bajo esas losas de piedra de miles de años pone la piel de gallina. Después, perderse por sus calles empinadas hacia la alcazaba, con vistas a la vega, ayudó a entender por qué la llaman "el corazón de Andalucía". Su grandeza es serena y monumental.
+
+{% if page.map_points %}
+  {% include google-maps.html %}
+{% endif %}
 
 ---
 

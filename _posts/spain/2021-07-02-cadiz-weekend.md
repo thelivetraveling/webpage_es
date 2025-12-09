@@ -6,12 +6,8 @@ date: 2021-07-02 09:00:00 +0200
 categories: ["spain"]
 tags: ["cadiz", "museo", "historia", "plaza", "arquitectura", "verano"]
 header:
-  teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ayuntamiento_de_C%C3%A1diz.jpg/1280px-Ayuntamiento_de_C%C3%A1diz.jpg"
-  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ayuntamiento_de_C%C3%A1diz.jpg/1280px-Ayuntamiento_de_C%C3%A1diz.jpg"
-  caption: "By: Jorge Franganillo CC BY-SA 4.0"
-  actions:
-    - label: "More Info"
-      url: "https://www.flickr.com/photos/46191841@N00/54910414305/"
+  teaser: "/assets/images/2021/07/02/FreiduriaLasFlores.webp"
+  overlay_image: "/assets/images/2021/07/02/FreiduriaLasFlores.webp"
 map_points:
   - name: "El armador Casa palacio"
     lat: 36.5345
@@ -57,11 +53,12 @@ La **Plaza de San Antonio** es uno de los espacios públicos más emblemáticos 
 
 A media mañana de julio, la plaza estaba bañada por un sol intenso pero mitigado por la brisa marina. Las terrazas de los cafés empezaban a llenarse. Me senté un momento junto a la fuente, observando el ir y venir gaditano bajo las palmeras y los naranjos. El ambiente era tranquilo, perfecto para contemplar las fachadas blancas y amarillas de los edificios que rodean este "salón" de la ciudad.
 
----
+<figure class="align-center">
+  <img src="/assets/images/2021/07/02/PlazaSanAntonio.webp" alt="Plaza de San Antonio">
+  <figcaption class="align-right">Square of Saint Antonio by: <a href="https://github.com/thelivetraveling">The Live Traveling</a>. License: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a></figcaption>
+</figure>
 
-{% if page.map_points %}
-  {% include google-maps.html %}
-{% endif %}
+---
 
 ## **Plaza de la Mina: Corazón Neoclásico**
 
@@ -79,16 +76,15 @@ Entrar en el museo fue como sumergirse en las capas de historia de Cádiz. La pl
 
 ---
 
-<figure class="align-center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sala_de_t%C3%ADteres_de_la_T%C3%ADa_Norica.jpg/1280px-Sala_de_t%C3%ADteres_de_la_T%C3%ADa_Norica.jpg" alt="Sala de Títeres en el Museo de Cádiz">
-  <figcaption class="align-right">Sala de Títeres by: <a href="https://commons.wikimedia.org/wiki/User:Jatrobat">Jatrobat</a>. Licencia: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a></figcaption>
-</figure>
-
 ## **Monumento a la Constitución de 1812: Homenaje a La Pepa**
 
 El **Monumento a las Cortes de 1812**, popularmente conocido como Monumento a la Constitución de 1812 o de "La Pepa", fue erigido en 1912 para conmemorar el primer centenario de la histórica Carta Magna española promulgada en Cádiz. Obra del arquitecto Modesto López Otero y el escultor Aniceto Marinas, es de estilo neoclásico y simboliza los valores de libertad, justicia y ciudadanía.
 
 Desde lejos, el monumento domina la plaza con su imponente columnata semicircular y su alta torre central. Al acercarme, pude apreciar los detalles de las esculturas que representan a la Guerra, la Paz, la Agricultura y la Industria. Leer los nombres de los diputados doceañistas inscritos en el hemiciclo es un ejercicio de memoria histórica. Es un lugar que emana solemnidad y orgullo cívico.
+
+{% if page.map_points %}
+  {% include google-maps.html %}
+{% endif %}
 
 ---
 

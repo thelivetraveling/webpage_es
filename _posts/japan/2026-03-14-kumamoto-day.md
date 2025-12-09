@@ -2,12 +2,12 @@
 layout: single
 title: "Kumamoto y su Castillo Resiliente"
 excerpt: "Fortaleza en reconstrucción, jardines zen, arcade comercial y la modernidad urbana"
-date: 2026-03-13 09:00:00 +0200
+date: 2026-03-14 09:00:00 +0200
 categories: [japan]
 tags: [kumamoto, castillo, jardines, kyushu, reconstruccion]
 header:
-  teaser: "/assets/images/20260313/Kumamoto.webp"
-  overlay_image: "/assets/images/20260313/Kumamoto.webp"
+  teaser: "/assets/images/2026/03/14/Kumamoto.webp"
+  overlay_image: "/assets/images/2026/03/14/Kumamoto.webp"
   caption: "By Hisagi"
   actions:
     - label: "More Info"
@@ -112,7 +112,7 @@ Tomar el tranvía desde el centro hasta la parada Suizenji Koen lleva unos 15 mi
 Este jardín de paseo de 64 hectáreas fue creado en 1632 por Hosokawa Tadatoshi, el primer señor feudal del dominio de Higo (Kumamoto) tras la llegada del clan Hosokawa. Durante una excursión de cetrería, Tadatoshi quedó impresionado por el agua cristalina de manantial que brotaba del suelo, alimentada por acuíferos subterráneos conectados con el Monte Aso. Decidió construir allí un templo budista llamado Suizenji y una casa de té.
 
 <figure class="align-center">  
-  <img src="{{ '/assets/images/20260313/JojuenGarden.webp' | relative_url }}" alt="Jojuen Garden">  
+  <img src="{{ '/assets/images/2026/03/14/JojuenGarden.webp' | relative_url }}" alt="Jojuen Garden">  
   <figcaption class="align-right">Parte del Jojuen Garden <a href="https://ja.wikipedia.org/wiki/user:663highland">By: 663highland</a>. Licencia: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> CC BY-SA 4.0</a></figcaption>  
 </figure>  
 

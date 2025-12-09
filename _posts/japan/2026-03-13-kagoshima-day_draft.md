@@ -3,12 +3,12 @@ layout: single
 published: false
 title: "Kagoshima y Sakurajima"  
 excerpt: "Hotel, santuario, castillo y playa en Kagoshima"  
-date: 2026-03-12 09:00:00 +0200  
+date: 2026-03-13 09:00:00 +0200  
 categories: [japan]  
 tags: [kagoshima, sakurajima, historia, naturaleza, gastronomía]  
 header:  
-  teaser: "/assets/images/20260312/Kagoshima.webp"  
-  overlay_image: "/assets/images/20260312/Kagoshima.webp"  
+  teaser: "/assets/images/2026/03/13/Kagoshima.webp"  
+  overlay_image: "/assets/images/2026/03/13/Kagoshima.webp"  
   caption: "By Toecheese-jp"  
   actions:  
     - label: "More Info"  
@@ -103,7 +103,7 @@ Durante el verano, la playa recibe a surfistas y amantes del buceo que buscan ex
 La zona está equipada con baños públicos, duchas y un pequeño centro de información que brinda datos sobre la actividad sísmica del volcán y la manera en que la corriente oceánica influye en la calidad del agua. Además, el **Iso Onsen** (fuente termal) se halla a pocos minutos a pie, ofreciendo una experiencia de relajación completa al final del día.  
 
 <figure class="align-center">  
-  <img src="{{ '/assets/images/20260312/IsoBeach.webp' | relative_url }}" alt="Iso Beach">  
+  <img src="{{ '/assets/images/2026/03/13/IsoBeach.webp' | relative_url }}" alt="Iso Beach">  
   <figcaption class="align-right">Playa de Iso y sus vistas</figcaption>  
 </figure>  
 

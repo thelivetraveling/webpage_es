@@ -3,12 +3,12 @@ layout: single
 published: false
 title: "Un día perfecto en Tokio"
 excerpt: "Descubre lo mejor de Tokio: desde arte inmersivo hasta barrios vibrantes."
-date: 2026-03-08 09:00:00 +0200
+date: 2026-03-09 09:00:00 +0200
 categories: [japan]
 tags: [tokio, shibuya, shinjuku, harajuku, vida, nocturna, compras]
 header:
-  teaser: /assets/images/20260308/Shibuya.webp
-  overlay_image: /assets/images/20260308/Shibuya.webp
+  teaser: /assets/images/2026/03/09/Shibuya.webp
+  overlay_image: /assets/images/2026/03/09/Shibuya.webp
 map_points:
     # "driving" "walking" "bicycling" "transit"
     # "restaurant", "temple", "museum", "park", "station", "hotel", "shop", "default"
@@ -93,7 +93,7 @@ No podía visitar Tokio sin experimentar el legendario Cruce de Shibuya, aunque 
 Tienes que experimentarlo desde arriba para apreciar verdaderamente el patrón. El Starbucks ubicado enfrente tiene ventanas perfectas para observar.
 
 <figure class="align-center">
-  <img src="{{ '/assets/images/20260308/Shibuya.webp' | relative_url }}" alt="Shibuya Crossing">
+  <img src="{{ '/assets/images/2026/03/09/Shibuya.webp' | relative_url }}" alt="Shibuya Crossing">
   <figcaption class="align-right">El mítico cruce de Shibuya</figcaption>
 </figure>
 

@@ -6,6 +6,7 @@ date: "2026-03-19 07:00:00 +0200"
 categories: ["japan"]
 tags: ["Yakushima","onsen","relax","naturaleza","termas"]
 header:
+  # teaser: "/assets/images/2026/03/20/Yakushima.webp"
   teaser: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Hirauchi_kaichu_onsen.jpg"
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Hirauchi_kaichu_onsen.jpg"
   caption: "By Somey, CC BY-SA 3.0"

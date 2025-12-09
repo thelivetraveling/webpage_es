@@ -2,10 +2,11 @@
 layout: single
 title: "Llegada a Yakushima"
 excerpt: "Desde Fukuoka hasta Yakushima, Cedros milenarios y Patrimonio de la Humanidad."
-date: 2026-03-16 07:00:00 +0200
+date: 2026-03-17 07:00:00 +0200
 categories: [japan]
 tags: [Yakushima, Fukuoka, Kagoshima, Yakusugi, Naturaleza]
 header:
+  # teaser: "/assets/images/2026/03/17/Yakushima.webp"
   teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Yakushima_Ceddar_Forest.JPG/1280px-Yakushima_Ceddar_Forest.JPG"
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Yakushima_Ceddar_Forest.JPG/1280px-Yakushima_Ceddar_Forest.JPG"
   caption: "By Benedetta, CC BY-SA 3.0"

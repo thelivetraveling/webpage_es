@@ -2,12 +2,12 @@
 layout: single
 title: "Kagoshima y Sakurajima"
 excerpt: "Santuario, ruinas del castillo, museo industrial y playa con vistas al volcán"
-date: 2026-03-12 09:00:00 +0200
+date: 2026-03-13 09:00:00 +0200
 categories: [japan]
 tags: [kagoshima, kyushu, templos, museos, sakurajima]
 header:
-  teaser: /assets/images/20260312/Kagoshima.webp
-  overlay_image: /assets/images/20260312/Kagoshima.webp
+  teaser: /assets/images/2026/03/13/Kagoshima.webp
+  overlay_image: /assets/images/2026/03/13/Kagoshima.webp
   caption: "By Toecheese-jp"
   actions:
     - label: "More Info"
@@ -80,7 +80,7 @@ Lo que queda hoy son los muros de piedra, el foso y la puerta Goromon, que fue r
 El lugar ahora alberga el museo Reimeikan, que exhibe la historia de Kagoshima, pero no entré porque tenía otros sitios en mi lista. Me conformé con pasear por el recinto y disfrutar de la sensación de estar en un lugar donde la historia pesa en cada piedra.
 
 <figure class="align-center">
-  <img src="{{ '/assets/images/20260312/Kagoshima.webp' | relative_url }}" alt="Kagoshima">
+  <img src="{{ '/assets/images/2026/03/13/Kagoshima.webp' | relative_url }}" alt="Kagoshima">
   <figcaption class="align-right">Ciudad de Kagoshima y Sakurajima</figcaption>
 </figure>
 

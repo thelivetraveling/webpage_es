@@ -3,12 +3,12 @@ layout: single
 published: false
 title: "De Tokio a Fukuoka: Cambio de Isla"
 excerpt: "Vuelo hacia Kyushu, centro comercial futurista, santuario histórico y yatai junto al río"
-date: 2026-03-11 09:00:00 +0200
+date: 2026-03-12 09:00:00 +0200
 categories: [japan]
 tags: [fukuoka, kyushu, templos, gastronomia, vida-nocturna]
 header:
-  teaser: /assets/images/20260311/Fukuoka.webp
-  overlay_image: /assets/images/20260311/Fukuoka.webp
+  teaser: /assets/images/2026/03/12/Fukuoka.webp
+  overlay_image: /assets/images/2026/03/12/Fukuoka.webp
   caption: "By Nryate"
   actions:
     - label: "More Info"
@@ -71,7 +71,7 @@ Dentro del complejo hay más de doscientas cincuenta tiendas, restaurantes, cine
 Recorrer Canal City es dejarse llevar por la atmósfera festiva que se respira en sus pasillos abiertos. No es un centro comercial convencional, sino un espacio pensado para el paseo, el entretenimiento y la sorpresa. Las escaleras mecánicas serpentean entre los distintos niveles, los puentes cruzan el canal en varios puntos y los bancos invitan a sentarse para observar el ir y venir de la gente. Es un lugar que funciona igual de bien para hacer compras, comer algo rápido o simplemente pasar el rato sin rumbo fijo.
 
 <figure class="align-center">
-  <img src="{{ '/assets/images/20260311/Fukuoka.webp' | relative_url }}" alt="Fukuoka">
+  <img src="{{ '/assets/images/2026/03/12/Fukuoka.webp' | relative_url }}" alt="Fukuoka">
   <figcaption class="align-right">Costa de Fukuoka con drone</figcaption>
 </figure>
 

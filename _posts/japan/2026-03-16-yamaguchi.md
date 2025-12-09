@@ -2,12 +2,12 @@
 layout: single
 title: "Yamaguchi, el Kioto del Oeste"
 excerpt: "Jardín zen de Sesshu, pagoda nacional y la cultura del clan Ouchi"
-date: 2026-03-15 09:00:00 +0200
+date: 2026-03-16 09:00:00 +0200
 categories: [japan]
 tags: [yamaguchi, templos, jardines, sesshu, cultura-ouchi]
 header:
-  teaser: "/assets/images/20260315/Yamaguchi.webp"
-  overlay_image: "/assets/images/20260315/Yamaguchi.webp"
+  teaser: "/assets/images/2026/03/16/Yamaguchi.webp"
+  overlay_image: "/assets/images/2026/03/16/Yamaguchi.webp"
   caption: "By Wiki708"
   actions:
     - label: "More Info"
@@ -48,7 +48,7 @@ Bajar en la Estación de Yamaguchi es llegar a una ciudad que respira a otro rit
 Desde la estación todo está accesible en autobús o taxi. Para llegar al templo Joeiji lo más práctico es tomar un taxi por unos 1.500 yenes o el tren local dos estaciones hasta Miyano Station y caminar 15 minutos.
 
 <figure class="align-center">
-  <img src="{{ '/assets/images/20260315/YamaguchiStation.webp' | relative_url }}" alt="Yamaguchi Station">
+  <img src="{{ '/assets/images/2026/03/16/YamaguchiStation.webp' | relative_url }}" alt="Yamaguchi Station">
   <figcaption class="align-right">Estación de Yamaguchi en la tranquila mañana by <a href="https://commons.wikimedia.org/wiki/User:Asturio_Cantabrio">Asturio Cantabrio</a>. Licencia: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> CC BY-SA 4.0</a></figcaption>
 </figure>
 

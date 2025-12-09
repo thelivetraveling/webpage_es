@@ -2,10 +2,11 @@
 layout: single
 title: "De Yakushima a Kobe"
 excerpt: "Viaje desde Yakushima a Kobe, explorando aeropuerto, estación y el Parque Meriken."
-date: "2026-03-20 07:00:00 +0200"
+date: "2026-03-21 07:00:00 +0200"
 categories: ["japan"]
 tags: ["Yakushima","Kobe","viaje","transporte","ParqueMeriken"]
 header:
+  # teaser: "/assets/images/2026/03/21/Kobe.webp"
   teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/121208_Kobe-Nunobiki_ropeway_Kobe_Hyogo_pref_Japan01s3.jpg/1280px-121208_Kobe-Nunobiki_ropeway_Kobe_Hyogo_pref_Japan01s3.jpg"
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/121208_Kobe-Nunobiki_ropeway_Kobe_Hyogo_pref_Japan01s3.jpg/1280px-121208_Kobe-Nunobiki_ropeway_Kobe_Hyogo_pref_Japan01s3.jpg"
   caption: "By 663highland, CC BY-SA 3.0"

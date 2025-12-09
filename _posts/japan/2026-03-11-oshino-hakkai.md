@@ -2,12 +2,12 @@
 layout: single
 title: "Oshino Hakkai"
 excerpt: "Un viaje rápido en tren desde Tokio hasta Oshino Hakkai para descubrir aldeas, agua pura y tradición."
-date: 2026-03-10 09:00:00 +0200
+date: 2026-03-11 09:00:00 +0200
 categories: [japan]
 tags: [MonteFuji, Oshino, Hakkai, excursión, tren, viaje]
 header:
-  teaser: /assets/images/20260310/OshinoHakkai.webp
-  overlay_image: /assets/images/20260310/OshinoHakkai.webp
+  teaser: /assets/images/2026/03/11/OshinoHakkai.webp
+  overlay_image: /assets/images/2026/03/11/OshinoHakkai.webp
   caption: "By Japan.travel"
   actions:
     - label: "More Info"
@@ -86,7 +86,7 @@ Llegué a **Oshino Hakkai** a media mañana. El contraste con Tokio no puede ser
 La historia de Oshino Hakkai es profundamente natural y cultural a la vez. Sus ocho estanques se forman gracias al agua filtrada durante décadas a través de las capas de roca volcánica del Fuji, lo que da como resultado un agua sorprendentemente transparente. Antiguamente estos estanques se consideraban sagrados, y formaban parte de rutas de purificación para peregrinos que ascendían a la montaña.
 
 <figure class="align-center">
-  <img src="{{ '/assets/images/20260310/OshinoHakkai.webp' | relative_url }}" alt="Oshino Hakkai">
+  <img src="{{ '/assets/images/2026/03/11/OshinoHakkai.webp' | relative_url }}" alt="Oshino Hakkai">
   <figcaption class="align-right">Estanque Kagamiike</figcaption>
 </figure>
 
