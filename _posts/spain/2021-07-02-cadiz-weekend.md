@@ -6,8 +6,8 @@ date: 2021-07-02 09:00:00 +0200
 categories: ["spain"]
 tags: ["cadiz", "museo", "historia", "plaza", "arquitectura", "verano"]
 header:
-  teaser: "/assets/images/2021/07/02/FreiduriaLasFlores.webp"
-  overlay_image: "/assets/images/2021/07/02/FreiduriaLasFlores.webp"
+  teaser: "/assets/images/2021/07/02/PlazaSanAntonio.webp"
+  overlay_image: "/assets/images/2021/07/02/PlazaSanAntonio.webp"
 map_points:
   - name: "El armador Casa palacio"
     lat: 36.5345
