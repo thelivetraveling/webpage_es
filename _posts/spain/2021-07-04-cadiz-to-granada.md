@@ -35,7 +35,7 @@ map_points:
 
 Una mañana en la playa gaditana de La Caleta da paso a un viaje por carretera a través de la campiña, con una parada en la monumental Antequera antes de alcanzar la majestuosa Granada al atardecer.
 
-{% include video id="9h5h_9h5h" provider="youtube" %}
+{% include video id="xaqADJfXk3U" provider="youtube" %}
 
 ## **Playa de la Caleta: La Bahía de los Gaditanos**
 
@@ -63,6 +63,62 @@ Parar aquí, a solo media hora de Cádiz, fue un breve descanso para estirar las
 **Antequera**, declarada Conjunto Histórico-Artístico, es una ciudad milenaria estratégicamente situada en el centro geográfico de Andalucía. Es famosa por su **Conjunto Arqueológico de los Dólmenes** (Menga, Viera y El Romeral), Patrimonio de la Humanidad, y por su rico patrimonio renacentista y barroco, con más de una treintena de iglesias y conventos. Su peña de los Enamorados domina el paisaje.
 
 Llegar a Antequera al mediodía fue como entrar en un horno. El calor del interior en julio es intenso, pero seco. La visita al Dolmen de Menga es sobrecogedora; estar bajo esas losas de piedra de miles de años pone la piel de gallina. Después, perderse por sus calles empinadas hacia la alcazaba, con vistas a la vega, ayudó a entender por qué la llaman "el corazón de Andalucía". Su grandeza es serena y monumental.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "De Cádiz a Granada",
+  "description": "Un viaje que comienza en la playa de La Caleta, atraviesa la campiña andaluza y culmina en Antequera y Granada.",
+  "touristType": "Adult",
+  "hasPart": [
+    {
+      "@type": "Place",
+      "name": "Playa de la Caleta",
+      "description": "Playa urbana emblemática de Cádiz entre los castillos de San Sebastián y Santa Catalina.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 36.5319,
+        "longitude": -6.3057
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Plaza del Rey",
+      "description": "Plaza céntrica en El Puerto de Santa María, con fuente ornamental y edificios históricos.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 36.4766,
+        "longitude": -6.1967
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Antequera",
+      "description": "Ciudad milenaria con el Conjunto Arqueológico de los Dólmenes y patrimonio renacentista y barroco.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 37.0523,
+        "longitude": -4.5732
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Granada",
+      "description": "Capital del Reino Nazarí, famosa por la Alhambra, barrios históricos y riqueza cultural diversa.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 37.1823,
+        "longitude": -3.6017
+      },
+      "image": ""
+    }
+  ]
+}
+</script>
 
 {% if page.map_points %}
   {% include google-maps.html %}

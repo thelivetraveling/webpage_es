@@ -82,6 +82,84 @@ El **Monumento a las Cortes de 1812**, popularmente conocido como Monumento a la
 
 Desde lejos, el monumento domina la plaza con su imponente columnata semicircular y su alta torre central. Al acercarme, pude apreciar los detalles de las esculturas que representan a la Guerra, la Paz, la Agricultura y la Industria. Leer los nombres de los diputados doceañistas inscritos en el hemiciclo es un ejercicio de memoria histórica. Es un lugar que emana solemnidad y orgullo cívico.
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Paseo por Cádiz",
+  "description": "Recorrido a pie por Cádiz visitando plazas, museo y monumentos históricos emblemáticos.",
+  "touristType": "Adult",
+  "hasPart": [
+    {
+      "@type": "Place",
+      "name": "El armador Casa palacio",
+      "description": "Construido en el siglo XVIII, refleja la arquitectura señorial gaditana y la actividad comercial histórica.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 36.5345,
+        "longitude": -6.2983
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Plaza San Antonio",
+      "description": "Plaza histórica con un ambiente acogedor, rodeada de edificios emblemáticos y cafés tradicionales.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 36.5348,
+        "longitude": -6.2989
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Plaza la Mina",
+      "description": "Espacio abierto del siglo XIX que combina historia y vida cotidiana con jardines y monumentos.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 36.5354,
+        "longitude": -6.2970
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Museo de Cádiz",
+      "description": "Museo con colecciones arqueológicas y artísticas que narran la historia de Cádiz y su patrimonio.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 36.5352,
+        "longitude": -6.2962
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Monumento a la Constitución de 1812",
+      "description": "Monumento conmemorativo que celebra la Constitución de Cádiz, símbolo del liberalismo español.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 36.5354,
+        "longitude": -6.2931
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Plaza España",
+      "description": "Plaza representativa del centro de Cádiz, punto de encuentro con arquitectura elegante y animada.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 36.5353,
+        "longitude": -6.2932
+      },
+      "image": ""
+    }
+  ]
+}
+</script>
+
 {% if page.map_points %}
   {% include google-maps.html %}
 {% endif %}
