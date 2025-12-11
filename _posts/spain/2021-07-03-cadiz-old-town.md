@@ -3,8 +3,8 @@ layout: single
 title: "Cádiz a pie"
 excerpt: "Recorrido a pie por Cádiz visitando torres, mercados, catedrales y teatros históricos"
 date: 2021-07-03 09:00:00 +0200
-categories: ["Spain"]
-tags: ["Cádiz", "turismo", "historia", "gastronomía", "cultura"]
+categories: ["spain"]
+tags: ["cádiz", "turismo", "historia", "gastronomía", "cultura"]
 header:
   teaser: "/assets/images/2021/07/03/Catedral.webp"
   overlay_image: "/assets/images/2021/07/03/Catedral.webp"
