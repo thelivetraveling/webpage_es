@@ -7,8 +7,11 @@ help:
 	| awk 'BEGIN {FS = ":.*?## "}{printf "\033[36m%-30s\033[39m %s\n", $$1, $$2}' \
 	| sort -u
 
+.PHONY: dependencies
+dependencies: .dependencies ## Before to test the Jekyll locally you would be install this dependencies
+
 .PHONY: test
-test: .test ## Just run this command and reach https://localhost:4000/
+test: .dependencies .test ## Just run this command and reach https://localhost:4000/
 
 .PHONY: check_all_content
 check_all_content: .all_posts ## If you want to see Drafts and Future posts just use that
@@ -28,6 +31,9 @@ clean: ## Clean the environment
 #------------------------------------------------
 #|               Private targets                |
 #------------------------------------------------
+.dependencies:
+	@bundle install
+
 .test:
 	@bundle exec jekyll serve
 
