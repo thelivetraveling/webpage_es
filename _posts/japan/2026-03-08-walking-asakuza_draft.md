@@ -10,64 +10,65 @@ header:
   teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/1_asakusa_sensoji_2011b.JPG/1920px-1_asakusa_sensoji_2011b.JPG"
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/1_asakusa_sensoji_2011b.JPG/1920px-1_asakusa_sensoji_2011b.JPG"
 map_points:
+    # "driving" "walking" "bicycling" "transit"
   - name: "Asakusa Nishi-sando Shopping Street"
     lat: 35.7145
-    lng: 139.7946
+    lng: 139.7940
     type: "shop"
     mode: "walking"
   - name: "Senso-ji Temple"
-    lat: 35.7148
-    lng: 139.7966
+    lat: 35.7110
+    lng: 139.7963
     type: "temple"
     mode: "walking"
   - name: "Santuario de Asakusa"
-    lat: 35.71522
+    lat: 35.7149
     lng: 139.7974
     type: "temple"
     mode: "walking"
   - name: "Asakusa Hanayashiki"
-    lat: 35.7155
-    lng: 139.7947
+    lat: 35.7151
+    lng: 139.7950
     type: "default"
     mode: "walking"
   - name: "Taito Kuritsu Fuji Park"
-    lat: 35.7190
+    lat: 35.7185
     lng: 139.7977
     type: "park"
     mode: "walking"
   - name: "Taito Kuritsu Nihonzutsumi Park"
-    lat: 35.7245
-    lng: 139.7986
+    lat: 35.7239
+    lng: 139.7984
     type: "park"
     mode: "walking"
   - name: "Yoshiwara Park"
-    lat: 35.7254
+    lat: 35.7249
     lng: 139.7953
     type: "park"
     mode: "walking"
   - name: "Santuario Yoshiwara"
-    lat: 35.7233
-    lng: 139.7933
+    lat: 35.7227
+    lng: 139.7934
     type: "temple"
     mode: "walking"
   - name: "Men Mitsui"
-    lat: 35.7099
+    lat: 35.7095
     lng: 139.7904
     type: "default"
     mode: "transit"
   - name: "Calle de utensilios de cocina Kappabashi"
-    lat: 35.7105
-    lng: 139.7879
+    lat: 35.7104
+    lng: 139.7881
     type: "shop"
     mode: "walking"
-  - name: "Don Quijote Uguisudani"
-    lat: 35.7239
-    lng: 139.7781
+  - name: "Lawson Uguisudani Station"
+    lat: 35.7225
+    lng: 139.7777
     type: "shop"
     mode: "transit"
   - name: "Ginza Yanaka"
-    lat: 35.7286
-    lng: 139.7655
+    lat: 35.7276
+    lng: 139.7658
     type: "shop"
     mode: "transit"
 ---

@@ -16,23 +16,23 @@ map_points:
     # "driving" "walking" "bicycling" "transit"
     # "restaurant", "castle", "temple", "museum", "park", "station", "hotel", "shop", "default"
   - name: "Aeropuerto Internacional de Narita"  
-    lat: 35.7729
-    lng: 140.3851
+    lat: 35.7652
+    lng: 140.3853
     type: "default"
     mode: "walking"
   - name: "Keisei Ueno Station"  
-    lat: 35.7129
-    lng: 139.7736
+    lat: 35.7115
+    lng: 139.7740
     type: "station"
     mode: "transit"
   - name: "Estatua de Hidesaburō Ueno y Hachikō"  
-    lat: 35.7172
-    lng: 139.7587
+    lat: 35.7160
+    lng: 139.7589
     type: "park"
     mode: "walking"
   - name: "Templo Sensō-ji"  
-    lat: 35.7148
-    lng: 139.7967
+    lat: 35.7110
+    lng: 139.7963
     type: "temple"
     mode: "walking"
 ---
