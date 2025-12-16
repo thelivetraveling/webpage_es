@@ -53,7 +53,10 @@ window.initMap = function () {
         disableDefaultUI: true,
         streetViewControl: false,
         mapTypeControl: false,
-        mapTypeId: "satellite"
+        mapTypeId: "satellite",
+        tilt: 0,              // Desactiva la inclinación
+        heading: 0,           // Desactiva la rotación
+        rotateControl: false  // Desactiva el control de rotación
     });
 
     // ========== ESTILOS GLOBALES ==========
