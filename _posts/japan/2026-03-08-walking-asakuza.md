@@ -10,11 +10,6 @@ header:
   overlay_image: /assets/images/2026/03/08/Sensoji.webp
 map_points:
     # "driving" "walking" "bicycling" "transit"
-  - name: "Asakusa Nishi-sando Shopping Street"
-    lat: 35.7145
-    lng: 139.7940
-    type: "shop"
-    mode: "walking"
   - name: "Senso-ji Temple"
     lat: 35.7110
     lng: 139.7963
@@ -24,6 +19,11 @@ map_points:
     lat: 35.7149
     lng: 139.7974
     type: "temple"
+    mode: "walking"
+  - name: "Asakusa Nishi-sando Shopping Street"
+    lat: 35.7147
+    lng: 139.7952
+    type: "shop"
     mode: "walking"
   - name: "Asakusa Hanayashiki"
     lat: 35.7151

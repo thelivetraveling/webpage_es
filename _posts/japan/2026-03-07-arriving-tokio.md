@@ -66,6 +66,62 @@ El ambiente alrededor es vibrante: Ueno es un barrio lleno de vida, museos, parq
 
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Llegada a Tokio",
+  "description": "Desde la llegada al Aeropuerto de Narita hasta una tarde histórica en Asakusa.",
+  "touristType": "Adult",
+  "hasPart": [
+    {
+      "@type": "Place",
+      "name": "Aeropuerto Internacional de Narita",
+      "description": "Puerta de entrada internacional a Japón con conexiones rápidas hacia el centro de Tokio.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.7652,
+        "longitude": 140.3853
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Keisei Ueno Station",
+      "description": "Estación subterránea en Ueno conectando directamente con el corazón de Tokio.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.7115,
+        "longitude": 139.7740
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Estatua de Hidesaburō Ueno y Hachikō",
+      "description": "Escultura que homenajea la historia de lealtad entre Hachikō y su dueño, símbolo japonés de fidelidad.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.7160,
+        "longitude": 139.7589
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Templo Sensō-ji",
+      "description": "Templo budista más antiguo de Tokio, símbolo del Tokio tradicional y vibrante barrio de Asakusa.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.7110,
+        "longitude": 139.7963
+      },
+      "image": ""
+    }
+  ]
+}
+</script>
+
 {% if page.map_points %}
   {% include google-maps.html %}
 {% endif %}
