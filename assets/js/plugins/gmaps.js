@@ -321,7 +321,10 @@ window.initMap = function () {
 
         if (actualMode.toUpperCase() === 'TRANSIT') {
             const departureTime = new Date();
-            departureTime.setHours(departureTime.getHours() + 1);
+            const hours = departureTime.getHours();
+            if (hours < 6 || hours > 23) {
+                departureTime.setHours(9, 0, 0, 0); // 9:00 AM del día actual
+            }
             requestOptions.transitOptions = {
                 departureTime: departureTime,
                 modes: ["RAIL", "SUBWAY", "TRAIN"]
