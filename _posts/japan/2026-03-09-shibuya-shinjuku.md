@@ -95,6 +95,150 @@ Lo que más me gusta de Ebisu Yokocho es su autenticidad: no es un sitio hecho p
 
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Un día vibrante en Tokio",
+  "description": "Descubre lo mejor de Tokio: desde arte inmersivo hasta barrios vibrantes.",
+  "touristType": "Adult",
+  "hasPart": [
+    {
+      "@type": "Place",
+      "name": "teamLab Borderless: MORI Building DIGITAL ART MUSEUM",
+      "description": "Museo de arte digital inmersivo ubicado en Tokio.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.6619,
+        "longitude": 139.7438
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Ebisu Yokocho",
+      "description": "Callejón de izakayas tradicionales y ambiente local.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.64825,
+        "longitude": 139.71075
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Calle Central de Shibuya",
+      "description": "Zona peatonal vibrante en Shibuya con tiendas y movimiento urbano.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.6598,
+        "longitude": 139.7001
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Calle Takeshita",
+      "description": "Calle famosa por moda juvenil y cultura pop en Harajuku.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.6702,
+        "longitude": 139.7066
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Parque Yoyogi",
+      "description": "Gran parque urbano ideal para descanso y paseos en Tokio.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.6720,
+        "longitude": 139.6946
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Santuario Meji",
+      "description": "Santuario sintoísta histórico rodeado de bosque urbano.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.6749,
+        "longitude": 139.6995
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Train tracks view",
+      "description": "Punto con vista sobre las vías del tren en Tokio.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.6818,
+        "longitude": 139.7031
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Entrada Jardín Nacional Shinjuku Gyoen",
+      "description": "Entrada principal al Jardín Nacional Shinjuku Gyoen.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.6822,
+        "longitude": 139.7086
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Salida Jardín Nacional Shinjuku Gyoen",
+      "description": "Salida del Jardín Nacional Shinjuku Gyoen tras el paseo.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.6890,
+        "longitude": 139.7065
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Shinjuku Golden-Gai",
+      "description": "Distrito nocturno con callejones y bares íntimos en Shinjuku.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.6940,
+        "longitude": 139.70468
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Arco Kabukicho Ichibangai",
+      "description": "Arco emblemático que marca la entrada a Kabukicho.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.6938,
+        "longitude": 139.7010
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Sunshine City",
+      "description": "Complejo moderno de compras y entretenimiento en Ikebukuro.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.7295,
+        "longitude": 139.7186
+      },
+      "image": ""
+    }
+  ]
+}
+</script>
+
 {% if page.map_points %}
   {% include google-maps.html %}
 {% endif %}

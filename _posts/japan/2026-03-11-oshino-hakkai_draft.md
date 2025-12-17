@@ -35,8 +35,8 @@ map_points:
     type: "default"
     mode: "transit"
   - name: "Oshino hakkai"
-    lat: 35.4600
-    lng: 138.8325
+    lat: 35.4606
+    lng: 138.8330
     type: "default"
     mode: "transit"
 ---

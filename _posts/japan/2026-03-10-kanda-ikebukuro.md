@@ -14,44 +14,49 @@ header:
       url: "https://commons.wikimedia.org/wiki/File:Yaguchi_Book_Store_and_Koga_Book_Store.jpg"
 map_points:
   - name: "Origami Museum"
-    lat: 35.7037
-    lng: 139.7657
+    lat: 35.7048
+    lng: 139.7983
     type: "museum"
     mode: "walking"
   - name: "Hijiri Bridge"
-    lat: 35.7005
-    lng: 139.7654
+    lat: 35.6997
+    lng: 139.7655
     type: "default"
-    mode: "walking"
-  - name: "Kanda Daruma"
-    lat: 35.6954
-    lng: 139.7649
+    mode: "transit"
+  - name: "Kanda Daruma (Dulces Japoneces)"
+    lat: 35.6943
+    lng: 139.7650
     type: "shop"
     mode: "walking"
-  - name: "Jimbocho Book Town"
-    lat: 35.6969
-    lng: 139.7572
+  - name: "Inicio Jimbocho Book Town"
+    lat: 35.6955
+    lng: 139.7579
+    type: "shop"
+    mode: "walking"
+  - name: "Fin Jimbocho Book Town"
+    lat: 35.6957
+    lng: 139.7555
     type: "shop"
     mode: "walking"
   - name: "Canal Cafe"
-    lat: 35.7011
-    lng: 139.7431
+    lat: 35.70013
+    lng: 139.7425
     type: "restaurant"
-    mode: "walking"
-  - name: "Sunshine City"
-    lat: 35.7300
-    lng: 139.7196
-    type: "default"
+    mode: "transit"
+  - name: "Sunshine City"  
+    lat: 35.7295
+    lng: 139.7186
+    type: "shop"
     mode: "transit"
   - name: "Ikebukuro Mikado Game Center"
-    lat: 35.7338
+    lat: 35.7323
     lng: 139.7136
     type: "shop"
     mode: "walking"
-  - name: "7-Eleven"
-    lat: 35.7345
-    lng: 139.7100
-    type: "shop"
+  - name: "Barrio de ocio Adulto"
+    lat: 35.7319
+    lng: 139.7094
+    type: "default"
     mode: "walking"
 ---
 
@@ -80,8 +85,13 @@ Cruzando el Kanda-gawa aparece Hijiri Bridge, un arco moderno que conecta barrio
 
 ---
 
-## Kanda Daruma — El icono que pide un deseo
-En Kanda es habitual encontrar tiendas y puestos dedicados al daruma, la tradicional muñeca de papel maché asociada a la perseverancia y los objetivos personales. La tradición manda pintar sólo un ojo al fijar un deseo y completar el otro al cumplirse. Buscar un daruma local es tanto una experiencia cultural como una oportunidad para llevar un amuleto con historia.
+## Kanda Daruma — Un dulce no engorda
+
+Lo que lo hace especial es su forma y textura. A diferencia de los típicos pasteles con forma de pez que se venden en todas partes, este tenía los bordes planos, creando un marco rectangular perfecto con el pez grabado en el centro. Las "alas" que rodeaban el taiyaki eran finas, doradas y crujientes a la perfección, casi como una delicada galleta adherida al cuerpo principal.
+
+Por dentro, el relleno de crema pastelera era abundante, caliente y suave. El contraste entre el centro cremoso y los bordes crujientes era maravilloso. Y esos lados planos eran increíblemente prácticos: permitían sujetar el taiyaki fácilmente incluso cuando estaba humeante.
+
+Un dulce callejero con un toque especial, cuidado, bien hecho y delicioso.
 
 ---
 

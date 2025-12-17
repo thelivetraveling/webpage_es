@@ -30,11 +30,16 @@ map_points:
     lng: 139.7589
     type: "park"
     mode: "walking"
-  - name: "Templo Sensō-ji"  
-    lat: 35.7110
-    lng: 139.7963
-    type: "temple"
-    mode: "walking"
+  - name: "Asakuza Station"  
+    lat: 35.71184498972036
+    lng: 139.79848343173225
+    type: "default"
+    mode: "transit"
+  - name: "Tokio Station"  
+    lat: 35.68143900852983
+    lng: 139.76707652649065
+    type: "default"
+    mode: "transit"
 ---
 
 # Llegada a Tokio
