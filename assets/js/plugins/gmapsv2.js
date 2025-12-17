@@ -11,6 +11,7 @@ window.initMap = function () {
 
     // ========== CONFIGURACIÓN NAVITIME ==========
     // La API Key se obtiene desde el atributo data del contenedor del mapa
+    // https://api-sdk.navitime.co.jp/api/specs/api_guide/route_transit.html#order
     const RAPIDAPI_KEY = mapContainer.dataset.rapidapikey || '';
     const USE_NAVITIME = RAPIDAPI_KEY && RAPIDAPI_KEY.length > 0;
 
@@ -18,6 +19,52 @@ window.initMap = function () {
     function isInJapan(lat, lng) {
         // Bounding box de Japón (incluyendo Okinawa y Hokkaido)
         return lat >= 24 && lat <= 46 && lng >= 122 && lng <= 154;
+    }
+
+    // ========== FUNCIÓN PARA SELECCIONAR EL TRANSPORTE ==========
+    function getUnuseParam(allowedTypes) {
+
+        // Todos los tipos posibles en NAVITIME
+        const allTransitTypes = [
+            'domestic_flight',      // Vuelos domésticos
+            'ferry',                // Ferry
+            'superexpress_train',   // Shinkansen
+            'sleeper_ultraexpress', // Trenes nocturnos
+            'ultraexpress_train',   // Trenes exprés (特急)
+            'express_train',        // Trenes rápidos (急行)
+            'rapid_train',          // Trenes rápidos locales (快速)
+            'semiexpress_train',    // Trenes semi-exprés
+            'local_train',          // Trenes locales (普通)
+            'shuttle_bus',          // Buses de aeropuerto
+            'local_bus',            // Buses locales API pago
+            'highway_bus'           // Buses de carretera API pago
+        ];
+
+        const TransitAliases = {
+            'train': ['local_train', 'rapid_train', 'semiexpress_train', 'express_train', 'sleeper_ultraexpress', 'ultraexpress_train'],
+            'subway': ['local_train'], // En Japón, subway se maneja como local_train
+            'shinkansen': ['superexpress_train'],
+            'bus': ['local_bus', 'shuttle_bus', 'highway_bus'],
+            'flight': ['domestic_flight'],
+            'ferry': ['ferry'],
+            'all': [] // Significa: usar todo
+        };
+        
+        // Si no se especifica nada, permitir todo
+        if (!allowedTypes || allowedTypes.length === 0) {
+            return '';
+        }
+        
+        const expanded = new Set();
+        allowedTypes.forEach(type => {
+            const fullTypes = TransitAliases[type] || [type];
+            fullTypes.forEach(t => expanded.add(t));
+        });
+        allowedTypes = Array.from(expanded);
+        const unusedTypes = allTransitTypes.filter(type => !allowedTypes.includes(type));
+
+        // NAVITIME usa puntos como separador
+        return unusedTypes.join('.');
     }
 
     // ========== FUNCIÓN NAVITIME API ==========
@@ -52,20 +99,21 @@ window.initMap = function () {
         const seconds = String(now.getSeconds()).padStart(2, '0');
         const startTime = `${year}-${month}-${day}T${hours}:${minutes}:${seconds}`;
         
+
         const params = new URLSearchParams({
             start: startPoint,
             goal: goalPoint,
             start_time: startTime,
             coord_unit: 'degree',
             order: 'transit',
-            unuse: 'domestic_flight',
             datum: 'wgs84',
             term: '1440',
             limit: '1',
             sort: 'time',
-            shape: 'true'
+            shape: 'true',
+            // lang: 'en' // API pago
         });
-        
+
         const options = {
             method: 'GET',
             headers: {
@@ -74,6 +122,14 @@ window.initMap = function () {
             }
         };
         
+        // Si tenemos que usar un medio de transporte en particular
+        // le decimos que todos los demás no se pueden usar
+        const unuseParam = getUnuseParam(destination.transit_types || []);
+
+        if (unuseParam) {
+            params.set('unuse', unuseParam);
+        }
+
         try {
             const response = await fetch(`${url}?${params}`, options);
             if (!response.ok) {
@@ -459,8 +515,8 @@ window.initMap = function () {
     }
 
     // ========== FUNCIÓN PARA CALCULAR RUTA CON GOOGLE MAPS ==========
-    function calculateRoute(origin, destination, mode, index, isRetry = false) {
-        const actualMode = isRetry ? 'walking' : mode;
+    function calculateRoute(origin, destination, mode, index) {
+        const actualMode = mode || 'walking';
         const color = modeColors[actualMode.toLowerCase()] || '#4285F4';
         
         const renderer = new google.maps.DirectionsRenderer({
@@ -510,7 +566,6 @@ window.initMap = function () {
                     duration: leg.duration.value,
                     distanceText: leg.distance.text,
                     durationText: leg.duration.text,
-                    warning: isRetry ? `⚠️ Transit no disponible, usando ${actualMode}` : null,
                 };
                 
                 totalDistance += leg.distance.value;
@@ -522,21 +577,16 @@ window.initMap = function () {
                 }
             } else {
                 console.error(`Error en ruta ${index + 1}:`, status);
-                
-                if (mode.toUpperCase() === 'TRANSIT' && !isRetry) {
-                    calculateRoute(origin, destination, 'walking', index, true);
-                } else {
-                    routeDetails[index] = {
-                        from: origin.name,
-                        to: destination.name,
-                        mode: actualMode,
-                        error: true,
-                        errorMessage: status,
-                    };
-                    routesCalculated++;
-                    if (routesCalculated === totalRoutes) {
-                        updateInfoPanel();
-                    }
+                routeDetails[index] = {
+                    from: origin.name,
+                    to: destination.name,
+                    mode: actualMode,
+                    error: true,
+                    errorMessage: status,
+                };
+                routesCalculated++;
+                if (routesCalculated === totalRoutes) {
+                    updateInfoPanel();
                 }
             }
         });
