@@ -145,7 +145,7 @@ Pasear por sus pasillos es un deleite para los sentidos: colores, olores y sonid
 
 ---
 
-## Freiduria las Flores 1
+## Freiduría las Flores 1
 
 Fundada hace décadas, esta freiduría se ha convertido en un referente para probar la gastronomía típica de Cádiz. El aceite caliente y el aroma del pescado frito inundan el lugar, ofreciendo tapas sencillas pero llenas de sabor. La tradición culinaria gaditana se percibe en cada plato, desde las tortillitas de camarones hasta el pescaíto frito.  
 
@@ -153,7 +153,7 @@ Sentarse frente a la freiduría permite ver la ciudad desde otra perspectiva: ve
 
 <figure class="align-center">
   <img src="/assets/images/2021/07/03/FreiduriaLasFlores.webp" alt="Freiduria Las Flores">
-  <figcaption class="align-right">Freiduria Las Flores by: <a href="https://github.com/thelivetraveling">The Live Traveling</a>. License: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a></figcaption>
+  <figcaption class="align-right">Freiduría Las Flores by: <a href="https://github.com/thelivetraveling">The Live Traveling</a>. License: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a></figcaption>
 </figure>
 
 ---
@@ -184,3 +184,4 @@ Asistir a un espectáculo allí brinda la oportunidad de disfrutar de la arquite
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/C%C3%A1diz_Gran_Teatro_Falla.jpg/1024px-C%C3%A1diz_Gran_Teatro_Falla.jpg" alt="Gran Teatro Falla">
   <figcaption class="align-right">Gran Teatro Falla By: <a href="https://commons.wikimedia.org/wiki/User:Arnoldius">Arnoldius</a>. Licencia: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a></figcaption>
 </figure>
+

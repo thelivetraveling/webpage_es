@@ -55,7 +55,7 @@ A media mañana de julio, la plaza estaba bañada por un sol intenso pero mitiga
 
 <figure class="align-center">
   <img src="/assets/images/2021/07/02/PlazaSanAntonio.webp" alt="Plaza de San Antonio">
-  <figcaption class="align-right">Square of Saint Antonio by: <a href="https://github.com/thelivetraveling">The Live Traveling</a>. License: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a></figcaption>
+  <figcaption class="align-right">Plaza de San Antonio by: <a href="https://github.com/thelivetraveling">The Live Traveling</a>. License: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a></figcaption>
 </figure>
 
 ---
