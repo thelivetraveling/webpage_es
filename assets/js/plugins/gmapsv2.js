@@ -58,6 +58,7 @@ window.initMap = function () {
             start_time: startTime,
             coord_unit: 'degree',
             order: 'transit',
+            unuse: 'domestic_flight',
             datum: 'wgs84',
             term: '1440',
             limit: '1',
