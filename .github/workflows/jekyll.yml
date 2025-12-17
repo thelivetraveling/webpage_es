@@ -48,6 +48,7 @@ jobs:
       - name: Replace Google Maps API Key
         run: |
           sed -i "s/REPLACE_WITH_GOOGLE_MAPS_API_KEY/${{ secrets.GOOGLE_MAPS_API_KEY }}/" _config.yml
+          sed -i "s/REPLACE_WITH_NAVITIME_API_KEY/${{ secrets.NAVITIME_API_KEY }}/" _config.yml
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
