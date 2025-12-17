@@ -19,11 +19,21 @@ map_points:
     lng: 139.7914
     type: "hotel"
     mode: "walking"
+  - name: "Nihombashi Station"
+    lat: 35.6821
+    lng: 139.7747
+    type: "station"
+    mode: "transit"
+  - name: "Hakata Station"
+    lat: 33.5900
+    lng: 130.4207
+    type: "station"
+    mode: "transit"
   - name: "Canal City Hakata"
     lat: 33.5895
     lng: 130.4109
     type: "shop"
-    mode: "transit"
+    mode: "walking"
   - name: "Smile Hotel - Hakata Ekimae"
     lat: 33.5879
     lng: 130.4167
