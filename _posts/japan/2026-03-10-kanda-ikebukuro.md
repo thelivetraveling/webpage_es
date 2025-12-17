@@ -23,6 +23,7 @@ map_points:
     lng: 139.7655
     type: "default"
     mode: "transit"
+    transit_types: ["subway"]
   - name: "Kanda Daruma (Dulces Japoneces)"
     lat: 35.6943
     lng: 139.7650
@@ -43,6 +44,7 @@ map_points:
     lng: 139.7425
     type: "restaurant"
     mode: "transit"
+    transit_types: ["subway"]
   - name: "Sunshine City"  
     lat: 35.7295
     lng: 139.7186
@@ -70,6 +72,117 @@ Empiezo esta ruta a pie en una mañana clara: un itinerario que combina arte tra
 El Origami Museum es una parada perfecta para quienes aprecian el detalle. Más que una simple tienda, el espacio reúne exposiciones y piezas que muestran la evolución del plegado de papel desde su uso tradicional hasta propuestas contemporáneas. Aquí es fácil quedarse un rato contemplando modelos complejos y, si hay tiempo, apuntarse a un taller práctico para llevarse a casa una técnica nueva.
 
 ---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Ikebukuro y Jimbocho",
+  "description": "Ruta a pie por lugares emblemáticos, museo de papel, puentes, librerías, cafés y ocio en Tokio.",
+  "touristType": "Adult",
+  "hasPart": [
+    {
+      "@type": "Place",
+      "name": "Origami Museum",
+      "description": "Museo dedicado al arte del plegado de papel con exposiciones y talleres prácticos.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.7048,
+        "longitude": 139.7983
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Hijiri Bridge",
+      "description": "Puente con vistas urbanas que conecta barrios y ofrece perspectivas sobre la vida junto al canal.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.6997,
+        "longitude": 139.7655
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Kanda Daruma (Dulces Japoneces)",
+      "description": "Tienda tradicional de dulces japoneses famosa por sus formas y texturas únicas.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.6943,
+        "longitude": 139.7650
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Inicio Jimbocho Book Town",
+      "description": "Entrada al distrito de librerías de Jimbocho, destino clave para amantes de los libros.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.6955,
+        "longitude": 139.7579
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Fin Jimbocho Book Town",
+      "description": "Final del distrito de librerías de Jimbocho, punto ideal para completar la visita literaria.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.6957,
+        "longitude": 139.7555
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Canal Cafe",
+      "description": "Café situado junto al canal perfecto para descansar y disfrutar de un ambiente tranquilo.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.70013,
+        "longitude": 139.7425
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Sunshine City",
+      "description": "Complejo multifuncional de ocio y compras con atracciones variadas en Ikebukuro.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.7295,
+        "longitude": 139.7186
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Ikebukuro Mikado Game Center",
+      "description": "Centro de juegos arcade clásico, ideal para experimentar la cultura del entretenimiento japonés.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.7323,
+        "longitude": 139.7136
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Barrio de ocio Adulto",
+      "description": "Zona de ocio nocturno y entretenimiento en el área de Ikebukuro.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.7319,
+        "longitude": 139.7094
+      },
+      "image": ""
+    }
+  ]
+}
+</script>
 
 {% if page.map_points %}
   {% include google-maps.html %}

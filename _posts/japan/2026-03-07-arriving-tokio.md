@@ -25,6 +25,7 @@ map_points:
     lng: 139.7740
     type: "station"
     mode: "transit"
+    transit_types: ["train", "shinkansen"]
   - name: "Estatua de Hidesaburō Ueno y Hachikō"  
     lat: 35.7160
     lng: 139.7589
@@ -35,11 +36,13 @@ map_points:
     lng: 139.79848343173225
     type: "default"
     mode: "transit"
-  - name: "Tokio Station"  
+    transit_types: ["subway"]
+  - name: "Tokio Station"
     lat: 35.68143900852983
     lng: 139.76707652649065
     type: "default"
     mode: "transit"
+    transit_types: ["subway"]
 ---
 
 # Llegada a Tokio

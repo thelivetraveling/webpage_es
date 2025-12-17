@@ -29,11 +29,13 @@ map_points:
     lng: 134.6939
     type: "castle"
     mode: "transit"
+    transit_types: ["train", "shinkansen"]
   - name: "Shin-Kobe Station"
     lat: 34.7016
     lng: 135.1949
     type: "station"
     mode: "transit"
+    transit_types: ["train", "shinkansen"]
 ---
 
 # **Montaña Shosha a Himeji: Cumbres Espirituales y Marfil Bélico**

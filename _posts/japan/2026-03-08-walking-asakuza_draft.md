@@ -56,6 +56,7 @@ map_points:
     lng: 139.7904
     type: "default"
     mode: "transit"
+    transit_types: ["train"]
   - name: "Calle de utensilios de cocina Kappabashi"
     lat: 35.7104
     lng: 139.7881
@@ -66,11 +67,13 @@ map_points:
     lng: 139.7777
     type: "shop"
     mode: "transit"
+    transit_types: ["train"]
   - name: "Ginza Yanaka"
     lat: 35.7276
     lng: 139.7658
     type: "shop"
     mode: "transit"
+    transit_types: ["train"]
 ---
 
 # Día en Asakusa

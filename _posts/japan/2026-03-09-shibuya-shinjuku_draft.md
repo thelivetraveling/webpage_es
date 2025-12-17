@@ -22,6 +22,7 @@ map_points:
     lng: 139.71075
     type: "restaurant"
     mode: "transit"
+    transit_types: ["subway"]
   - name: "Calle Central de Shibuya"  
     lat: 35.6598
     lng: 139.7001
@@ -72,6 +73,7 @@ map_points:
     lng: 139.7186
     type: "shop"
     mode: "transit"
+    transit_types: ["train"]
 ---
 
 # Un día perfecto en Tokio: Arte digital, compras y vida nocturna

@@ -18,13 +18,14 @@ map_points:
     lat: 30.3283
     lng: 130.6584
     type: "hotel"
-    mode: "transit"
+    mode: "walking"
   - name: "Arakawa Three-way Junction"  
     lat: 30.3171
     lng: 130.5862
     type: "default"
     mode: "transit"
-  - name: "Arakawa Trail Start"  
+    transit_types: ["bus"]
+  - name: "Arakawa Trail Start"
     lat: 30.3397
     lng: 130.5954
     type: "default"

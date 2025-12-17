@@ -17,12 +17,13 @@ map_points:
     lat: 33.5904
     lng: 130.4197
     type: "hotel"
-    mode: "transit"
+    mode: "walking"
   - name: "Castillo Kumamoto"
     lat: 32.8067
     lng: 130.7058
     type: "castle"
     mode: "transit"
+    transit_types: ["shinkansen"]
   - name: "Kumamoto City Hall Observatory"
     lat: 32.8041
     lng: 130.7079
@@ -48,11 +49,13 @@ map_points:
     lng: 130.7334
     type: "park"
     mode: "transit"
+    transit_types: ["train"]
   - name: "SAKURA MACHI Kumamoto"
     lat: 32.8006
     lng: 130.7038
     type: "shop"
     mode: "transit"
+    transit_types: ["train"]
 ---
 
 # Kumamoto y su Castillo Resiliente: Un Día Entre Historia y Modernidad

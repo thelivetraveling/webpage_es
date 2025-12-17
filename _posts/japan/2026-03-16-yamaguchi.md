@@ -17,12 +17,13 @@ map_points:
     lat: 33.5904
     lng: 130.4197
     type: "hotel"
-    mode: "transit"
+    mode: "walking"
   - name: "Yamaguchi Station"
     lat: 34.1737
     lng: 131.4812
     type: "station"
     mode: "transit"
+    transit_types: ["shinkansen"]
   - name: "Jyoei-ji Temple & Sesshu Garden"
     lat: 34.1981
     lng: 131.4898

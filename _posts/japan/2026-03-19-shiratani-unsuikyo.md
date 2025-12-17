@@ -18,7 +18,7 @@ map_points:
     lat: 30.3283
     lng: 130.6584
     type: "hotel"
-    mode: "transit"
+    mode: "walking"
   - name: "Desfiladero de Shiratani Unsuikyo"
     lat: 30.3800
     lng: 130.5742

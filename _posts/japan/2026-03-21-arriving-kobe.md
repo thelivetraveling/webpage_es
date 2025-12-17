@@ -18,17 +18,19 @@ map_points:
     lat: 30.3846
     lng: 130.6603
     type: "default"
-    mode: "plane"
+    mode: "walking"
   - name: "Fukuoka Airport"  
     lat: 33.5862
     lng: 130.4488
     type: "default"
-    mode: "plane"
+    mode: "transit"
+    transit_types: ["flight"]
   - name: "Shin-Kobe Station"
     lat: 34.7064
     lng: 135.1955
     type: "station"
     mode: "transit"
+    transit_types: ["train", "shinkansen"]
   - name: "Parque Meriken"
     lat: 34.6824
     lng: 135.1886

@@ -24,11 +24,13 @@ map_points:
     lng: 139.7747
     type: "station"
     mode: "transit"
+    transit_types: ["train", "shinkansen"]
   - name: "Hakata Station"
     lat: 33.5900
     lng: 130.4207
     type: "station"
     mode: "transit"
+    transit_types: ["shinkansen"]
   - name: "Canal City Hakata"
     lat: 33.5895
     lng: 130.4109
@@ -112,6 +114,106 @@ Cerca de la entrada hay una fuente de purificación conocida como reisen, rodead
 El santuario Kushida es también el epicentro del festival Hakata Gion Yamakasa, uno de los eventos más importantes de Fukuoka que se celebra cada julio desde hace más de setecientos años. Durante el festival, equipos de hombres portan enormes carrozas decoradas llamadas yamakasa, que pueden alcanzar los diez metros de altura y pesar más de una tonelada. Las carrozas están adornadas con figuras históricas y escenas tradicionales, y el punto culminante del festival es la carrera Oiyama, donde los equipos compiten por las calles de Hakata llevando las carrozas a hombros. Una de estas carrozas permanece expuesta todo el año en el recinto del santuario, salvo en junio, cuando es retirada para su mantenimiento.
 
 Pasear por Kushida es una oportunidad para desconectar del ritmo frenético de la ciudad y conectar con el lado más espiritual de Japón. El santuario no es especialmente grande, pero tiene carisma, historia y ese aura de autenticidad que solo se encuentra en los lugares donde el tiempo parece haberse detenido.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Fukuoka",
+  "description": "Hostelería, templo y ríos de luces en la ciudad costera de Fukuoka, desde Hakata hasta sus lugares más emblemáticos.",
+  "touristType": "Adult",
+  "hasPart": [
+    {
+      "@type": "Place",
+      "name": "Resol Posthel TOKYO Asakuza",
+      "description": "Hostal en Tokio desde donde comienza el viaje hacia Fukuoka.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.7134,
+        "longitude": 139.7914
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Nihombashi Station",
+      "description": "Estación en Tokio usada para viajar hacia el sur.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.6821,
+        "longitude": 139.7747
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Hakata Station",
+      "description": "Principal estación de tren de Fukuoka, punto de llegada de la ruta.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 33.5900,
+        "longitude": 130.4207
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Canal City Hakata",
+      "description": "Complejo comercial y de ocio con canal interior en Hakata.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 33.5895,
+        "longitude": 130.4109
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Smile Hotel - Hakata Ekimae",
+      "description": "Hotel céntrico en Hakata ideal para descansar tras explorar la ciudad.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 33.5879,
+        "longitude": 130.4167
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Kushida Shrine",
+      "description": "Santuario histórico en Fukuoka, corazón espiritual del festival Yamakasa.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 33.5933,
+        "longitude": 130.4111
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Kawataro Nakasu",
+      "description": "Restaurante e izakaya en el barrio de Nakasu, famoso por su ambiente nocturno.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 33.5900,
+        "longitude": 130.4092
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Fuku-Haku Deai Bridge",
+      "description": "Puente peatonal iluminado que une la bahía de Hakata con la zona costera.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 33.5921,
+        "longitude": 130.4050
+      },
+      "image": ""
+    }
+  ]
+}
+</script>
 
 {% if page.map_points %}
   {% include google-maps.html %}

@@ -18,12 +18,13 @@ map_points:
     lat: 34.7064
     lng: 135.1955
     type: "station"
-    mode: "transit"
+    mode: "walking"
   - name: "Okayama Station"
     lat: 34.6663
     lng: 133.9177
     type: "station"
     mode: "transit"
+    transit_types: ["shinkansen"]
   - name: "Okayama Korakuen"
     lat: 34.6677
     lng: 133.9359
@@ -44,6 +45,7 @@ map_points:
     lng: 135.1955
     type: "station"
     mode: "transit"
+    transit_types: ["shinkansen"]
 ---
 
 # Kobe y Okayama

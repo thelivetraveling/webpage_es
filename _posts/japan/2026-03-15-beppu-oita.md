@@ -17,12 +17,13 @@ map_points:
     lat: 33.5904
     lng: 130.4197
     type: "hotel"
-    mode: "transit"
+    mode: "walking"
   - name: "Kamado Jigoku"
     lat: 33.3189
     lng: 131.4723
     type: "museum"
-    mode: "walking"
+    mode: "transit"
+    transit_types: ["train", "shinkansen", "bus"]
   - name: "Beppu Jigoku"
     lat: 33.3170
     lng: 131.4695
@@ -48,6 +49,7 @@ map_points:
     lng: 131.6064
     type: "station"
     mode: "transit"
+    transit_types: ["train", "shinkansen"]
 ---
 
 # Beppu y sus Infiernos: Un Viaje por las Aguas Termales de Kyushu

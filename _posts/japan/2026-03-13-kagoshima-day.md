@@ -23,6 +23,7 @@ map_points:
     lng: 130.5501
     type: "temple"
     mode: "transit"
+    transit_types: ["shinkansen"]
   - name: "Kagoshima (Tsurumaru) Castle Ruins"
     lat: 31.6003
     lng: 130.5547

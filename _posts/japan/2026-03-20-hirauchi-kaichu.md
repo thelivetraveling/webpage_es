@@ -18,7 +18,7 @@ map_points:
     lat: 30.3283
     lng: 130.6584
     type: "hotel"
-    mode: "transit"
+    mode: "walking"
   - name: "Hirauchi Kaichu Onsen"
     lat: 30.2311
     lng: 130.4839

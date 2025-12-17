@@ -18,22 +18,24 @@ map_points:
     lat: 33.5862
     lng: 130.4488
     type: "default"
-    mode: "plane"
+    mode: "walking"
   - name: "Yakushima Airport"
     lat: 30.3846
     lng: 130.6603
     type: "default"
-    mode: "plane"
+    mode: "transit"
+    transit_types: ["flight"]
   - name: "Yakushima Green Hotel"
     lat: 30.3283
     lng: 130.6584
     type: "hotel"
     mode: "transit"
-  - name: "Clear Coin Laundry"  
+    transit_types: ["train"]
+  - name: "Clear Coin Laundry"
     lat: 30.3094
     lng: 130.6460
     type: "default"
-    mode: "bicycling"
+    mode: "walking"
 ---
 
 # Llegada a Yakushima

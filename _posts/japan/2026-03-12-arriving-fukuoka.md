@@ -23,11 +23,13 @@ map_points:
     lng: 139.7747
     type: "station"
     mode: "transit"
+    transit_types: ["train", "shinkansen"]
   - name: "Hakata Station"
     lat: 33.5900
     lng: 130.4207
     type: "station"
     mode: "transit"
+    transit_types: ["shinkansen"]
   - name: "Canal City Hakata"
     lat: 33.5895
     lng: 130.4109
@@ -74,6 +76,106 @@ Lo que más me gustó del hostal fue su pequeña biblioteca de literatura japone
 El siguiente punto fue **Canal City Hakata**, el enorme complejo comercial que parece una ciudad bajo techo. El canal central recorre todo el edificio y, cada 15 minutos, un espectáculo de luces y agua lo anima. Allí descubrí el “Ramen Stadium”, donde probé tres versiones de tonkotsu ramen: un clásico, uno con aceite de trufa y otro con un caldo de pollo más ligero.  
 
 Además de la oferta gastronómica, el complejo alberga el museo del Hakata Matsuri, con trajes y carrozas del famoso festival de verano. Como la entrada a Canal City está marcada como *transit*, aproveché la conexión directa con la estación de Hakata: la línea de metro Kūkō Line me dejó a unos pasos del hotel.  
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Fukuoka",
+  "description": "Hostelería, templo y ríos de luces en la ciudad costera de Fukuoka, desde Hakata hasta sus lugares más emblemáticos.",
+  "touristType": "Adult",
+  "hasPart": [
+    {
+      "@type": "Place",
+      "name": "Resol Posthel TOKYO Asakuza",
+      "description": "Hostal en Tokio desde donde comienza el viaje hacia Fukuoka.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.7134,
+        "longitude": 139.7914
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Nihombashi Station",
+      "description": "Estación en Tokio usada para viajar hacia el sur.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.6821,
+        "longitude": 139.7747
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Hakata Station",
+      "description": "Principal estación de tren de Fukuoka, punto de llegada de la ruta.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 33.5900,
+        "longitude": 130.4207
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Canal City Hakata",
+      "description": "Complejo comercial y de ocio con canal interior en Hakata.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 33.5895,
+        "longitude": 130.4109
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Smile Hotel - Hakata Ekimae",
+      "description": "Hotel céntrico en Hakata ideal para descansar tras explorar la ciudad.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 33.5879,
+        "longitude": 130.4167
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Kushida Shrine",
+      "description": "Santuario histórico en Fukuoka, corazón espiritual del festival Yamakasa.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 33.5933,
+        "longitude": 130.4111
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Kawataro Nakasu",
+      "description": "Restaurante e izakaya en el barrio de Nakasu, famoso por su ambiente nocturno.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 33.5900,
+        "longitude": 130.4092
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Fuku-Haku Deai Bridge",
+      "description": "Puente peatonal iluminado que une la bahía de Hakata con la zona costera.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 33.5921,
+        "longitude": 130.4050
+      },
+      "image": ""
+    }
+  ]
+}
+</script>
 
 {% if page.map_points %}  
   {% include google-maps.html %}  

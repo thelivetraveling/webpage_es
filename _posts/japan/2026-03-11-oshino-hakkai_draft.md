@@ -24,21 +24,25 @@ map_points:
     lng: 139.7709
     type: "default"
     mode: "transit"
+    transit_types: ["train", "shinkansen"]
   - name: "Ōtsuki Station"
     lat: 35.6134
     lng: 138.9427
     type: "default"
     mode: "transit"
+    transit_types: ["train", "shinkansen"]
   - name: "Fujisan Station"
     lat: 35.4838
     lng: 138.7954
     type: "default"
     mode: "transit"
+    transit_types: ["train", "shinkansen"]
   - name: "Oshino hakkai"
     lat: 35.4606
     lng: 138.8330
     type: "default"
     mode: "transit"
+    transit_types: ["train", "shinkansen", "bus"]
 ---
 
 # Oshino Hakkai y los Ocho Estanques del Fuji
@@ -54,6 +58,73 @@ El trayecto requiere varios cambios de tren, pero forma parte de la experiencia.
 ---
 
 ## Kanda Station
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Oshino Hakkai",
+  "description": "Un viaje rápido en tren desde Tokio hasta Oshino Hakkai para descubrir aldeas, agua pura y tradición.",
+  "touristType": "Adult",
+  "hasPart": [
+    {
+      "@type": "Place",
+      "name": "Asakusa Station",
+      "description": "Estación de tren en Tokio desde donde comienza la aventura hacia Oshino Hakkai.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.7121,
+        "longitude": 139.7983
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Kanda Station",
+      "description": "Estación clave para conectar con trenes de largo recorrido fuera de Tokio.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.6919,
+        "longitude": 139.7709
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Ōtsuki Station",
+      "description": "Estación en la prefectura de Yamanashi, punto estratégico antes de acercarse al Monte Fuji.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.6134,
+        "longitude": 138.9427
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Fujisan Station",
+      "description": "Estación con vistas al Monte Fuji y base para transporte local hacia Oshino Hakkai.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.4838,
+        "longitude": 138.7954
+      },
+      "image": ""
+    },
+    {
+      "@type": "Place",
+      "name": "Oshino Hakkai",
+      "description": "Conjunto de estanques naturales de agua cristalina y entorno tradicional junto al Monte Fuji.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.4606,
+        "longitude": 138.8330
+      },
+      "image": ""
+    }
+  ]
+}
+</script>
 
 {% if page.map_points %}
   {% include google-maps.html %}
