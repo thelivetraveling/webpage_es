@@ -14,42 +14,65 @@ header:
       url: "https://commons.wikimedia.org/wiki/User:Hisagi"
 map_points:
   - name: "Smile Hotel - Hakata Ekimae"
-    lat: 33.5904
-    lng: 130.4197
+    lat: 33.5879
+    lng: 130.4168
     type: "hotel"
     mode: "walking"
-  - name: "Castillo Kumamoto"
-    lat: 32.8067
-    lng: 130.7058
-    type: "castle"
+  - name: "Hakata Station"
+    lat: 33.5899
+    lng: 130.4193
+    type: "station"
+    mode: "walking"
+  - name: "Kumamoto Station"
+    lat: 32.7904
+    lng: 130.6885
+    type: "station"
     mode: "transit"
-    transit_types: ["shinkansen"]
+    transit_types: ["train"]
+  - name: "Kumamoto Castle Station"
+    lat: 32.8037
+    lng: 130.7077
+    type: "station"
+    mode: "transit"
+    transit_types: ["train"]
   - name: "Kumamoto City Hall Observatory"
-    lat: 32.8041
-    lng: 130.7079
+    lat: 32.8031
+    lng: 130.7074
     type: "default"
     mode: "walking"
+  - name: "Castillo Kumamoto"
+    lat: 32.8061
+    lng: 130.7062
+    type: "castle"
+    mode: "transit"
+    transit_types: ["train", "shinkansen"]
   - name: "omo cafe"
-    lat: 32.8031
-    lng: 130.7101
+    lat: 32.8030
+    lng: 130.7100
     type: "restaurant"
     mode: "walking"
-  - name: "Shimotori Shopping Arcade"
-    lat: 32.8020
-    lng: 130.7089
-    type: "shop"
-    mode: "walking"
-  - name: "7-Eleven Kumamoto Shinshigai"
-    lat: 32.7994
-    lng: 130.7052
-    type: "shop"
-    mode: "walking"
   - name: "Suizenji Jojuen Garden"
-    lat: 32.7915
-    lng: 130.7334
+    lat: 32.7911
+    lng: 130.7331
     type: "park"
     mode: "transit"
     transit_types: ["train"]
+  - name: "Torichosuji Station"
+    lat: 32.8033
+    lng: 130.7098
+    type: "station"
+    mode: "transit"
+    transit_types: ["train"]
+  - name: "Entrance Shimotori Shopping Street"
+    lat: 32.8030
+    lng: 130.7099
+    type: "shop"
+    mode: "walking"
+  - name: "Exit Shinshigai Shopping Street"
+    lat: 32.7992
+    lng: 130.7051
+    type: "shop"
+    mode: "walking"
   - name: "SAKURA MACHI Kumamoto"
     lat: 32.8006
     lng: 130.7038

@@ -14,39 +14,49 @@ header:
       url: "https://ja.wikipedia.org/wiki/user:663highland"
 map_points:
   - name: "Smile Hotel - Hakata Ekimae"
-    lat: 33.5904
-    lng: 130.4197
+    lat: 33.5879
+    lng: 130.4168
     type: "hotel"
     mode: "walking"
-  - name: "Kamado Jigoku"
-    lat: 33.3189
-    lng: 131.4723
-    type: "museum"
-    mode: "transit"
-    transit_types: ["train", "shinkansen", "bus"]
-  - name: "Beppu Jigoku"
-    lat: 33.3170
-    lng: 131.4695
-    type: "museum"
-    mode: "walking"
-  - name: "Beppu Onsen Hoyoland"
-    lat: 33.3175
-    lng: 131.4588
-    type: "default"
-    mode: "walking"
-  - name: "Beppu Park"
-    lat: 33.2833
-    lng: 131.4910
-    type: "park"
+  - name: "Hakata Station"
+    lat: 33.5899
+    lng: 130.4193
+    type: "station"
     mode: "walking"
   - name: "Beppu Station"
-    lat: 33.2820
-    lng: 131.5004
+    lat: 33.2797
+    lng: 131.5000
+    type: "station"
+    mode: "transit"
+    transit_types: ["train", "shinkansen"]
+  - name: "Beppu Park"
+    lat: 33.2800
+    lng: 131.4913
+    type: "park"
+    mode: "walking"
+  - name: "Beppu Onsen Hoyoland"
+    lat: 33.3147
+    lng: 131.4581
+    type: "default"
+    mode: "walking"
+  - name: "Beppu Jigoku"
+    lat: 33.3158
+    lng: 131.4698
+    type: "museum"
+    mode: "walking"
+  - name: "Kamado Jigoku"
+    lat: 33.3162
+    lng: 131.4729
+    type: "museum"
+    mode: "walking"
+  - name: "Beppudaigaku Station"
+    lat: 33.3126
+    lng: 131.4993
     type: "station"
     mode: "walking"
   - name: "Estación de Oita"
-    lat: 33.2345
-    lng: 131.6064
+    lat: 33.2323
+    lng: 131.6057
     type: "station"
     mode: "transit"
     transit_types: ["train", "shinkansen"]

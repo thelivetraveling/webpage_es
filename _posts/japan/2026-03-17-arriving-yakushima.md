@@ -14,11 +14,17 @@ header:
     - label: "More Info"
       url: "https://commons.wikimedia.org/w/index.php?title=User:BenedettaR&action=edit&redlink=1"
 map_points:
-  - name: "Fukuoka Airport"
-    lat: 33.5862
-    lng: 130.4488
-    type: "default"
+  - name: "Smile Hotel - Hakata Ekimae"
+    lat: 33.5879
+    lng: 130.4168
+    type: "hotel"
     mode: "walking"
+  - name: "Fukuokakuko Airport Station"
+    lat: 33.5972
+    lng: 130.4483
+    type: "default"
+    mode: "transit"
+    transit_types: ["train"]
   - name: "Yakushima Airport"
     lat: 30.3846
     lng: 130.6603
@@ -26,14 +32,13 @@ map_points:
     mode: "transit"
     transit_types: ["flight"]
   - name: "Yakushima Green Hotel"
-    lat: 30.3283
-    lng: 130.6584
+    lat: 30.32676
+    lng: 130.65827
     type: "hotel"
-    mode: "transit"
-    transit_types: ["train"]
+    mode: "driving"
   - name: "Clear Coin Laundry"
-    lat: 30.3094
-    lng: 130.6460
+    lat: 30.3093
+    lng: 130.6459
     type: "default"
     mode: "walking"
 ---

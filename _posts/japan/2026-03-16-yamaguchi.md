@@ -14,25 +14,35 @@ header:
       url: "https://en.wikipedia.org/wiki/ja:User:Wiki708"
 map_points:
   - name: "Smile Hotel - Hakata Ekimae"
-    lat: 33.5904
-    lng: 130.4197
+    lat: 33.5879
+    lng: 130.4168
     type: "hotel"
     mode: "walking"
-  - name: "Yamaguchi Station"
-    lat: 34.1737
-    lng: 131.4812
+  - name: "Hakata Station"
+    lat: 33.5899
+    lng: 130.4193
+    type: "station"
+    mode: "walking"
+  - name: "Miyano Station"
+    lat: 34.1914
+    lng: 131.4982
     type: "station"
     mode: "transit"
-    transit_types: ["shinkansen"]
+    transit_types: ["train"]
   - name: "Jyoei-ji Temple & Sesshu Garden"
-    lat: 34.1981
-    lng: 131.4898
+    lat: 34.1975
+    lng: 131.4903
     type: "park"
     mode: "walking"
   - name: "Templo Rurikoji"
-    lat: 34.1903
-    lng: 131.4716
+    lat: 34.1896
+    lng: 131.4722
     type: "temple"
+    mode: "walking"
+  - name: "Yamaguchi Station"
+    lat: 34.1727
+    lng: 131.4804
+    type: "station"
     mode: "walking"
 ---
 
@@ -40,7 +50,7 @@ map_points:
 
 Viajar desde Hakata hasta Yamaguchi es descubrir una joya escondida de Japón. Mientras Kioto acapara toda la atención turística, Yamaguchi ofrece una experiencia cultural igualmente rica pero auténtica y tranquila. Esta ciudad fue apodada "el Kioto del Oeste" durante el período Muromachi, cuando el poderoso clan Ouchi recreó aquí la cultura de la capital imperial invirtiendo las riquezas del comercio con China y Corea.
 
-{% include video id="VAZIGIEo9CI" provider="youtube" %}
+{% include video id="8y3v0zzn6F0" provider="youtube" %}
 
 ## Yamaguchi Station: Puerta de Entrada al Pasado
 
