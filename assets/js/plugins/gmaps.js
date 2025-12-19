@@ -1,7 +1,7 @@
 /**
  * Google Maps Route Manager con integración NAVITIME
  * Gestiona visualización de rutas multi-punto con soporte para transporte japonés
- * @version 3.0.0
+ * @version 4.0.0
  */
 
 (function(window) {
@@ -642,7 +642,7 @@
       this.navitimeAPI = navitimeAPI;
       this.uiManager = uiManager;
       
-      this.directionsService = new google.maps.DirectionsService();
+      this.directionsService = null;
       this.renderers = [];
       this.navitimePolylines = [];
       this.markers = [];
@@ -652,6 +652,16 @@
       this.routesCalculated = 0;
       this.totalRoutes = points.length - 1;
       this.routeDetails = new Array(this.totalRoutes).fill(null);
+    }
+
+    /**
+     * Inicializa DirectionsService (carga bajo demanda)
+     */
+    async initDirectionsService() {
+      if (!this.directionsService) {
+        const { DirectionsService } = await google.maps.importLibrary('routes');
+        this.directionsService = new DirectionsService();
+      }
     }
 
     /**
@@ -711,6 +721,8 @@
      * Calcula todas las rutas
      */
     async calculateAllRoutes() {
+      await this.initDirectionsService();
+
       for (let i = 0; i < this.points.length - 1; i++) {
         const origin = this.points[i];
         const destination = this.points[i + 1];
@@ -1029,8 +1041,8 @@
 
       this.validatePoints();
 
-      const apiKey = this.mapContainer.dataset.rapidapikey || '';
-      this.navitimeAPI = new NavitimeAPI(apiKey);
+      const navitimeKey = this.mapContainer.dataset.navitimekey || '';
+      this.navitimeAPI = new NavitimeAPI(navitimeKey);
       
       this.map = null;
       this.uiManager = null;
@@ -1071,40 +1083,77 @@
     }
 
     /**
-     * Inicializa el mapa
+     * Inicializa el mapa usando Dynamic Library Import
      */
-    initMap() {
-      const isMobile = Utils.isMobileDevice();
+    async initMap() {
+      try {
+        const isMobile = Utils.isMobileDevice();
 
-      this.map = new google.maps.Map(this.mapContainer, {
-        mapId: CONFIG.MAP.MAP_ID,
-        center: { lat: this.points[0].lat, lng: this.points[0].lng },
-        zoom: CONFIG.MAP.DEFAULT_ZOOM,
-        gestureHandling: isMobile ? 'greedy' : 'cooperative',
-        zoomControl: true,
-        clickableIcons: false,
-        fullscreenControl: !isMobile,
-        disableDefaultUI: true,
-        streetViewControl: false,
-        mapTypeControl: false,
-        mapTypeId: CONFIG.MAP.MAP_TYPE,
-        tilt: CONFIG.MAP.TILT,
-        heading: CONFIG.MAP.HEADING,
-        rotateControl: false
-      });
+        // Cargar bibliotecas necesarias bajo demanda
+        const { Map } = await google.maps.importLibrary('maps');
+        const { AdvancedMarkerElement } = await google.maps.importLibrary('marker');
 
-      this.uiManager = new UIManager(this.mapContainer);
-      this.routeManager = new RouteManager(
-        this.map, 
-        this.points, 
-        this.navitimeAPI, 
-        this.uiManager
-      );
+        this.map = new Map(this.mapContainer, {
+          mapId: CONFIG.MAP.MAP_ID,
+          center: { lat: this.points[0].lat, lng: this.points[0].lng },
+          zoom: CONFIG.MAP.DEFAULT_ZOOM,
+          gestureHandling: isMobile ? 'greedy' : 'cooperative',
+          zoomControl: true,
+          clickableIcons: false,
+          fullscreenControl: !isMobile,
+          disableDefaultUI: true,
+          streetViewControl: false,
+          mapTypeControl: false,
+          mapTypeId: CONFIG.MAP.MAP_TYPE,
+          tilt: CONFIG.MAP.TILT,
+          heading: CONFIG.MAP.HEADING,
+          rotateControl: false
+        });
 
-      this.routeManager.createMarkers();
-      this.routeManager.calculateAllRoutes();
+        this.uiManager = new UIManager(this.mapContainer);
+        this.routeManager = new RouteManager(
+          this.map, 
+          this.points, 
+          this.navitimeAPI, 
+          this.uiManager
+        );
 
-      this.attachWindowListeners();
+        this.routeManager.createMarkers();
+        await this.routeManager.calculateAllRoutes();
+
+        this.attachWindowListeners();
+
+      } catch (error) {
+        console.error('[MapManager] Error al inicializar mapa:', error);
+        this.showError(error.message);
+      }
+    }
+
+    /**
+     * Muestra error en el contenedor del mapa
+     * @param {string} message - Mensaje de error
+     */
+    showError(message) {
+      this.mapContainer.innerHTML = `
+        <div style="display: flex; align-items: center; justify-content: center; height: 100%; background: #f8f9fa; padding: 20px; text-align: center;">
+          <div>
+            <h3 style="color: #EA4335; margin-bottom: 10px;">⚠️ Error al cargar el mapa</h3>
+            <p style="color: #5f6368;">${Utils.sanitizeText(message)}</p>
+            <p style="color: #5f6368; font-size: 12px; margin-top: 10px;">Por favor, recarga la página o contacta al administrador.</p>
+          </div>
+        </div>
+      `;
+
+      // Mostrar también en el div de error si existe
+      const errorDiv = document.getElementById('google-map-error');
+      if (errorDiv) {
+        errorDiv.style.display = 'block';
+        errorDiv.innerHTML = `
+          <div style="padding: 15px; background: #fef7f7; border-left: 4px solid #EA4335; margin: 10px 0;">
+            <strong style="color: #EA4335;">Error:</strong> ${Utils.sanitizeText(message)}
+          </div>
+        `;
+      }
     }
 
     /**
@@ -1113,35 +1162,47 @@
     attachWindowListeners() {
       const debouncedResize = Utils.debounce(() => {
         google.maps.event.trigger(this.map, 'resize');
-        this.routeManager.adjustMapBounds();
+        if (this.routeManager) {
+          this.routeManager.adjustMapBounds();
+        }
       }, CONFIG.UI.RESIZE_DEBOUNCE);
 
       window.addEventListener('resize', debouncedResize);
     }
   }
+
+  // ============================================================================
+  // PUNTO DE ENTRADA GLOBAL
+  // ============================================================================
+
   /**
    * Función global para inicializar el mapa
-   * Llamada por el callback de Google Maps API
+   * Se ejecuta automáticamente cuando Google Maps API está lista
    */
-  window.initMap = function() {
+  window.initGoogleMap = async function() {
     try {
       const mapManager = new MapManager('google-map');
-      mapManager.initMap();
+      await mapManager.initMap();
     } catch (error) {
-      console.error('[MapManager] Error crítico:', error);
+      console.error('[initGoogleMap] Error crítico:', error);
       
       const mapContainer = document.getElementById('google-map');
       if (mapContainer) {
-        mapContainer.innerHTML = `
-          <div style="display: flex; align-items: center; justify-content: center; height: 100%; background: #f8f9fa; padding: 20px; text-align: center;">
-            <div>
-              <h3 style="color: #EA4335; margin-bottom: 10px;">⚠️ Error al cargar el mapa</h3>
-              <p style="color: #5f6368;">${error.message}</p>
-              <p style="color: #5f6368; font-size: 12px; margin-top: 10px;">Por favor, recarga la página o contacta al administrador.</p>
-            </div>
-          </div>
-        `;
+        const manager = new MapManager('google-map');
+        manager.showError(error.message);
       }
     }
   };
+
+  // Auto-inicializar cuando el DOM esté listo si google.maps ya está disponible
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', () => {
+      if (window.google && window.google.maps) {
+        window.initGoogleMap();
+      }
+    });
+  } else if (window.google && window.google.maps) {
+    window.initGoogleMap();
+  }
+
 })(window);
