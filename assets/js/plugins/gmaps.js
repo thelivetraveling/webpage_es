@@ -1,7 +1,7 @@
 /**
  * Google Maps Route Manager con integración NAVITIME
  * Gestiona visualización de rutas multi-punto con soporte para transporte japonés
- * @version 4.0.0
+ * @version 4.1.0 - Refactorizado con Dynamic Library Import (Google Best Practices)
  */
 
 (function(window) {
@@ -1172,6 +1172,61 @@
   }
 
   // ============================================================================
+  // VALIDACIÓN DE API KEY
+  // ============================================================================
+
+  /**
+   * Valida que exista una API key de Google Maps
+   * @returns {boolean}
+   */
+  function validateGoogleMapsApiKey() {
+    const mapContainer = document.getElementById('google-map');
+    if (!mapContainer) {
+      console.warn('[Google Maps] Contenedor #google-map no encontrado');
+      return false;
+    }
+
+    const apiKey = mapContainer.dataset.gmaps_key;
+    
+    if (!apiKey || apiKey.trim() === '' || apiKey === 'undefined' || apiKey === 'null') {
+      console.error('[Google Maps] API key no configurada o inválida');
+      
+      // Ocultar el contenedor del mapa
+      mapContainer.style.display = 'none';
+      
+      // Mostrar error en el div de error si existe
+      const errorDiv = document.getElementById('google-map-error');
+      if (errorDiv) {
+        errorDiv.style.display = 'block';
+        errorDiv.innerHTML = `
+          <div style="padding: 20px; background: #fef7f7; border: 1px solid #f5c6cb; border-radius: 8px; margin: 20px 0; color: #721c24;">
+            <h3 style="margin-top: 0; color: #721c24; font-size: 18px;">
+              ⚠️ Error de Configuración: Google Maps API Key
+            </h3>
+            <p style="margin: 10px 0; font-size: 12px; color: #856404;">
+              <strong>Nota:</strong> Este mensaje solo aparece en desarrollo. En producción, asegúrate de tener la API key configurada.
+            </p>
+          </div>
+        `;
+      } else {
+        // Si no hay div de error, mostrar en el contenedor del mapa
+        mapContainer.style.display = 'block';
+        mapContainer.innerHTML = `
+          <div style="display: flex; align-items: center; justify-content: center; height: 500px; background: #f8f9fa; border: 2px dashed #dee2e6; border-radius: 8px; padding: 20px; text-align: center;">
+            <div>
+              <h3 style="color: #EA4335; margin-bottom: 10px;">⚠️ Google Maps API Key no configurada</h3>
+              <p style="color: #5f6368; margin: 10px 0;">Por favor, configura <code style="background: #e9ecef; padding: 2px 6px; border-radius: 3px;">google_maps_api_key</code> en tu <code style="background: #e9ecef; padding: 2px 6px; border-radius: 3px;">_config.yml</code></p>
+            </div>
+          </div>
+        `;
+      }
+      
+      return false;
+    }
+    return true;
+  }
+
+  // ============================================================================
   // PUNTO DE ENTRADA GLOBAL
   // ============================================================================
 
@@ -1180,6 +1235,11 @@
    * Se ejecuta automáticamente cuando Google Maps API está lista
    */
   window.initGoogleMap = async function() {
+    if (!validateGoogleMapsApiKey()) {
+      console.warn('[Google Maps] Inicialización cancelada: API key no válida');
+      return;
+    }
+
     try {
       const mapManager = new MapManager('google-map');
       await mapManager.initMap();
@@ -1188,8 +1248,19 @@
       
       const mapContainer = document.getElementById('google-map');
       if (mapContainer) {
-        const manager = new MapManager('google-map');
-        manager.showError(error.message);
+        try {
+          const manager = new MapManager('google-map');
+          manager.showError(error.message);
+        } catch (e) {
+          mapContainer.innerHTML = `
+            <div style="display: flex; align-items: center; justify-content: center; height: 100%; background: #f8f9fa; padding: 20px; text-align: center;">
+              <div>
+                <h3 style="color: #EA4335; margin-bottom: 10px;">⚠️ Error al cargar el mapa</h3>
+                <p style="color: #5f6368;">${Utils.sanitizeText(error.message)}</p>
+              </div>
+            </div>
+          `;
+        }
       }
     }
   };
@@ -1197,12 +1268,11 @@
   // Auto-inicializar cuando el DOM esté listo si google.maps ya está disponible
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', () => {
-      if (window.google && window.google.maps) {
+      if (validateGoogleMapsApiKey() && window.google && window.google.maps) {
         window.initGoogleMap();
       }
     });
-  } else if (window.google && window.google.maps) {
+  } else if (validateGoogleMapsApiKey() && window.google && window.google.maps) {
     window.initGoogleMap();
   }
-
 })(window);
