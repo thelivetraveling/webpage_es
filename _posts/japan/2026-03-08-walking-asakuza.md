@@ -53,7 +53,7 @@ map_points:
   - name: "Men Mitsui"
     lat: 35.7095
     lng: 139.7904
-    type: "default"
+    type: "restaurant"
     mode: "transit"
     transit_types: ["train"]
   - name: "Calle de utensilios de cocina Kappabashi"

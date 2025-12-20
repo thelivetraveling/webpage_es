@@ -15,18 +15,18 @@ header:
       url: "https://ja.wikipedia.org/wiki/User:%CE%A364"
 map_points:
   - name: "Yakushima Green Hotel"
-    lat: 30.3283
-    lng: 130.6584
+    lat: 30.32676
+    lng: 130.65827
     type: "hotel"
     mode: "walking"
   - name: "Arakawa Three-way Junction"  
-    lat: 30.3171
-    lng: 130.5862
+    lat: 30.3169
+    lng: 130.5863
     type: "default"
-    mode: "transit"
+    mode: "driving"
     transit_types: ["bus"]
   - name: "Arakawa Trail Start"
-    lat: 30.3397
+    lat: 30.3395
     lng: 130.5954
     type: "default"
     mode: "walking"
@@ -36,7 +36,7 @@ map_points:
 
 Salida temprana desde el hotel para iniciar la famosa ruta Arakawa que conduce al cedro Jomon Sugi. El sendero atraviesa antiguos raíles forestales usados durante el periodo de explotación maderera.
 
-{% include video id="2NbGsLXLrLI" provider="youtube" %}
+{% include video id="17YvVR0QCZM" provider="youtube" %}
 
 ## Yakushima Green Hotel
 

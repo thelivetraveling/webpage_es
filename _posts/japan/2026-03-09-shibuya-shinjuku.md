@@ -63,7 +63,7 @@ map_points:
   - name: "Arco Kabukicho Ichibangai"  
     lat: 35.6938
     lng: 139.7010
-    type: "default"
+    type: "monument"
     mode: "walking"
   - name: "Sunshine City"  
     lat: 35.7295

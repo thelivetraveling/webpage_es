@@ -5,6 +5,9 @@ excerpt: "Desde la llegada a Narita hasta una tarde histórica en Asakusa."
 date:   2026-03-07 09:00:00 +0200
 categories: [japan]
 tags: [japan, tokio, narita, ueno, asakusa, templos]
+country: "JP"
+city: "Tokio"
+language: "es"
 header:
   teaser: /assets/images/2026/03/07/NaritaAirport.webp
   overlay_image: /assets/images/2026/03/07/NaritaAirport.webp
@@ -12,44 +15,77 @@ header:
   actions:
     - label: "More Info"
       url: "https://commons.wikimedia.org/w/index.php?curid=74849623"
+video:
+  id: "OuCbntsMsWY"
+  duration: "PT00H15M00S"
+images:
+  - id: "image1"
+    path: /assets/images/2026/03/07/NaritaAirport.webp
+    alt: "El majestuoso Aeropuerto de Narita"
+    license: "CC BY 4.0"
 map_points:
     # "driving" "walking" "bicycling" "transit"
     # "restaurant", "castle", "temple", "museum", "park", "station", "hotel", "shop", "default"
   - name: "Aeropuerto Internacional de Narita"  
     lat: 35.7652
     lng: 140.3853
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "default"
     mode: "walking"
   - name: "Keisei Ueno Station"  
     lat: 35.7115
     lng: 139.7740
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "station"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
   - name: "Estatua de Hidesaburō Ueno y Hachikō"  
     lat: 35.7160
     lng: 139.7589
+    price_range: "0"
+    rating: 3.0
+    visit_duration: "PT15M"
     type: "park"
     mode: "walking"
   - name: "Asakuza Station"  
     lat: 35.71184498972036
     lng: 139.79848343173225
+    price_range: "$"
+    rating: 3.5
+    visit_duration: "PT30M"
     type: "default"
     mode: "transit"
     transit_types: ["subway"]
   - name: "Tokio Station"
     lat: 35.68143900852983
     lng: 139.76707652649065
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "default"
     mode: "transit"
     transit_types: ["subway"]
+faqs:
+  - question: "¿Cuánto tiempo necesito para visitar Senso-ji?"
+    answer: "Recomiendo dedicar al menos 1-2 horas para explorar el templo, los jardines y la calle comercial Nakamise-dori con calma."
+  - question: "¿Es mejor visitar Asakusa por la mañana o por la tarde?"
+    answer: "La mañana temprano es ideal para evitar multitudes, pero la tarde-noche ofrece una atmósfera mágica con el templo iluminado."
 ---
 
 # Llegada a Tokio
 
 Acabo de aterrizar en Japón, y este primer día en Tokio fue puro vértigo, emoción y primeras impresiones. Desde el aeropuerto hasta el centro y terminando con una inmersión en la historia del Tokio más tradicional, este paseo inicial es ideal para entrar con buen pie en la capital japonesa.
 
-{% include video id="OuCbntsMsWY" provider="youtube" %}
+{% include video 
+  id="OuCbntsMsWY"
+  provider="youtube"
+  quality="maxresdefault" 
+  caption="Llegada a Tokio" 
+%}
 
 ## Aeropuerto Internacional de Narita
 
@@ -73,62 +109,6 @@ Desde Narita puedes tomar un tren directo hasta Keisei Ueno Station, una estaci�
 El ambiente alrededor es vibrante: Ueno es un barrio lleno de vida, museos, parques y calles comerciales. Es una zona ideal para dejar el equipaje, estirar las piernas y comenzar a absorber el ritmo urbano de la ciudad nada más llegar.
 
 ---
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TouristTrip",
-  "name": "Llegada a Tokio",
-  "description": "Desde la llegada al Aeropuerto de Narita hasta una tarde histórica en Asakusa.",
-  "touristType": "Adult",
-  "hasPart": [
-    {
-      "@type": "Place",
-      "name": "Aeropuerto Internacional de Narita",
-      "description": "Puerta de entrada internacional a Japón con conexiones rápidas hacia el centro de Tokio.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 35.7652,
-        "longitude": 140.3853
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Keisei Ueno Station",
-      "description": "Estación subterránea en Ueno conectando directamente con el corazón de Tokio.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 35.7115,
-        "longitude": 139.7740
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Estatua de Hidesaburō Ueno y Hachikō",
-      "description": "Escultura que homenajea la historia de lealtad entre Hachikō y su dueño, símbolo japonés de fidelidad.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 35.7160,
-        "longitude": 139.7589
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Templo Sensō-ji",
-      "description": "Templo budista más antiguo de Tokio, símbolo del Tokio tradicional y vibrante barrio de Asakusa.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 35.7110,
-        "longitude": 139.7963
-      },
-      "image": ""
-    }
-  ]
-}
-</script>
 
 {% if page.map_points %}
   {% include google-maps.html %}

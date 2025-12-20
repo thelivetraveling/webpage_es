@@ -15,12 +15,12 @@ header:
       url: "https://commons.wikimedia.org/w/index.php?title=User:Somey&action=edit&redlink=1"
 map_points:
   - name: "Yakushima Green Hotel"
-    lat: 30.3283
-    lng: 130.6584
+    lat: 30.32676
+    lng: 130.65827
     type: "hotel"
     mode: "walking"
   - name: "Hirauchi Kaichu Onsen"
-    lat: 30.2311
+    lat: 30.2310
     lng: 130.4839
     type: "default"
     mode: "walking"

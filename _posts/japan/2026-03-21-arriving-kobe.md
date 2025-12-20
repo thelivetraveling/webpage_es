@@ -14,26 +14,37 @@ header:
     - label: "More Info"
       url: "https://ja.wikipedia.org/wiki/user:663highland"
 map_points:
+  - name: "Yakushima Green Hotel"
+    lat: 30.32676
+    lng: 130.65827
+    type: "hotel"
+    mode: "walking"
   - name: "Yakushima Airport"
     lat: 30.3846
     lng: 130.6603
     type: "default"
-    mode: "walking"
+    mode: "driving"
   - name: "Fukuoka Airport"  
-    lat: 33.5862
-    lng: 130.4488
+    lat: 33.5971
+    lng: 130.4483
     type: "default"
     mode: "transit"
     transit_types: ["flight"]
+  - name: "Hakata Station"
+    lat: 33.5900
+    lng: 130.4207
+    type: "station"
+    mode: "transit"
+    transit_types: ["train"]
   - name: "Shin-Kobe Station"
-    lat: 34.7064
-    lng: 135.1955
+    lat: 34.7061
+    lng: 135.1959
     type: "station"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
   - name: "Parque Meriken"
-    lat: 34.6824
-    lng: 135.1886
+    lat: 34.6821
+    lng: 135.1883
     type: "park"
     mode: "walking"
 ---
