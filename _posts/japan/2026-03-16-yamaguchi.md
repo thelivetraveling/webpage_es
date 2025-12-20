@@ -26,32 +26,50 @@ map_points:
   - name: "Smile Hotel - Hakata Ekimae"
     lat: 33.5879
     lng: 130.4168
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "hotel"
     mode: "walking"
   - name: "Hakata Station"
     lat: 33.5899
     lng: 130.4193
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "station"
     mode: "walking"
   - name: "Miyano Station"
     lat: 34.1914
     lng: 131.4982
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "station"
     mode: "transit"
     transit_types: ["train"]
   - name: "Jyoei-ji Temple & Sesshu Garden"
     lat: 34.1975
     lng: 131.4903
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "park"
     mode: "walking"
   - name: "Templo Rurikoji"
     lat: 34.1896
     lng: 131.4722
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "temple"
     mode: "walking"
   - name: "Yamaguchi Station"
     lat: 34.1727
     lng: 131.4804
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "station"
     mode: "walking"
 ---

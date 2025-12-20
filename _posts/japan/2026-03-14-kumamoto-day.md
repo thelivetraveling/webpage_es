@@ -23,66 +23,102 @@ map_points:
   - name: "Smile Hotel - Hakata Ekimae"
     lat: 33.5879
     lng: 130.4168
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "hotel"
     mode: "walking"
   - name: "Hakata Station"
     lat: 33.5899
     lng: 130.4193
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "station"
     mode: "walking"
   - name: "Kumamoto Station"
     lat: 32.7904
     lng: 130.6885
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "station"
     mode: "transit"
     transit_types: ["train"]
   - name: "Kumamoto Castle Station"
     lat: 32.8037
     lng: 130.7077
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "station"
     mode: "transit"
     transit_types: ["train"]
   - name: "Kumamoto City Hall Observatory"
     lat: 32.8031
     lng: 130.7074
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "default"
     mode: "walking"
   - name: "Castillo Kumamoto"
     lat: 32.8061
     lng: 130.7062
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "castle"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
   - name: "omo cafe"
     lat: 32.8030
     lng: 130.7100
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "restaurant"
     mode: "walking"
   - name: "Suizenji Jojuen Garden"
     lat: 32.7911
     lng: 130.7331
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "park"
     mode: "transit"
     transit_types: ["train"]
   - name: "Torichosuji Station"
     lat: 32.8033
     lng: 130.7098
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "station"
     mode: "transit"
     transit_types: ["train"]
   - name: "Entrance Shimotori Shopping Street"
     lat: 32.8030
     lng: 130.7099
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "shop"
     mode: "walking"
   - name: "Exit Shinshigai Shopping Street"
     lat: 32.7992
     lng: 130.7051
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "shop"
     mode: "walking"
   - name: "SAKURA MACHI Kumamoto"
     lat: 32.8006
     lng: 130.7038
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "shop"
     mode: "transit"
     transit_types: ["train"]

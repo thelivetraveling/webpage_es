@@ -23,62 +23,98 @@ map_points:
   - name: "teamLab Borderless: MORI Building DIGITAL ART MUSEUM"  
     lat: 35.6619
     lng: 139.7438
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "museum"
     mode: "walking"
   - name: "Ebisu Yokocho"  
     lat: 35.64825
     lng: 139.71075
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "restaurant"
     mode: "transit"
     transit_types: ["subway"]
   - name: "Calle Central de Shibuya"  
     lat: 35.6598
     lng: 139.7001
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "shop"
     mode: "walking"
   - name: "Calle Takeshita"  
     lat: 35.6702
     lng: 139.7066
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "shop"
     mode: "walking"
   - name: "Parque Yoyogi"
     lat: 35.6720
     lng: 139.6946
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "park"
     mode: "walking"
   - name: "Santuario Meji"
     lat: 35.6749
     lng: 139.6995
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "temple"
     mode: "walking"
   - name: "Train tracks view"
     lat: 35.6818
     lng: 139.7031
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "default"
     mode: "walking"
   - name: " Entrada Jardín Nacional Shinjuku Gyoen"  
     lat: 35.6822
     lng: 139.7086
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "park"
     mode: "walking"
   - name: " Salida Jardín Nacional Shinjuku Gyoen"  
     lat: 35.6890
     lng: 139.7065
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "park"
     mode: "walking"
   - name: "Shinjuku Golden-Gai"  
     lat: 35.69400
     lng: 139.70468
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "default"
     mode: "walking"
   - name: "Arco Kabukicho Ichibangai"  
     lat: 35.6938
     lng: 139.7010
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "monument"
     mode: "walking"
   - name: "Sunshine City"  
     lat: 35.7295
     lng: 139.7186
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "shop"
     mode: "transit"
     transit_types: ["subway"]
@@ -107,150 +143,6 @@ Después del espectáculo digital, me fui a **Ebisu Yokocho**, un pequeño laber
 Lo que más me gusta de Ebisu Yokocho es su autenticidad: no es un sitio hecho para turistas aunque muchos vengan, es un rincón verdaderamente local donde la gente después del trabajo viene a relajarse y charlar. Es un buen recordatorio de que incluso en una metrópolis frenética, hay espacios para la pausa y la conversación.
 
 ---
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TouristTrip",
-  "name": "Un día vibrante en Tokio",
-  "description": "Descubre lo mejor de Tokio: desde arte inmersivo hasta barrios vibrantes.",
-  "touristType": "Adult",
-  "hasPart": [
-    {
-      "@type": "Place",
-      "name": "teamLab Borderless: MORI Building DIGITAL ART MUSEUM",
-      "description": "Museo de arte digital inmersivo ubicado en Tokio.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 35.6619,
-        "longitude": 139.7438
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Ebisu Yokocho",
-      "description": "Callejón de izakayas tradicionales y ambiente local.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 35.64825,
-        "longitude": 139.71075
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Calle Central de Shibuya",
-      "description": "Zona peatonal vibrante en Shibuya con tiendas y movimiento urbano.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 35.6598,
-        "longitude": 139.7001
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Calle Takeshita",
-      "description": "Calle famosa por moda juvenil y cultura pop en Harajuku.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 35.6702,
-        "longitude": 139.7066
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Parque Yoyogi",
-      "description": "Gran parque urbano ideal para descanso y paseos en Tokio.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 35.6720,
-        "longitude": 139.6946
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Santuario Meji",
-      "description": "Santuario sintoísta histórico rodeado de bosque urbano.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 35.6749,
-        "longitude": 139.6995
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Train tracks view",
-      "description": "Punto con vista sobre las vías del tren en Tokio.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 35.6818,
-        "longitude": 139.7031
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Entrada Jardín Nacional Shinjuku Gyoen",
-      "description": "Entrada principal al Jardín Nacional Shinjuku Gyoen.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 35.6822,
-        "longitude": 139.7086
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Salida Jardín Nacional Shinjuku Gyoen",
-      "description": "Salida del Jardín Nacional Shinjuku Gyoen tras el paseo.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 35.6890,
-        "longitude": 139.7065
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Shinjuku Golden-Gai",
-      "description": "Distrito nocturno con callejones y bares íntimos en Shinjuku.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 35.6940,
-        "longitude": 139.70468
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Arco Kabukicho Ichibangai",
-      "description": "Arco emblemático que marca la entrada a Kabukicho.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 35.6938,
-        "longitude": 139.7010
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Sunshine City",
-      "description": "Complejo moderno de compras y entretenimiento en Ikebukuro.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 35.7295,
-        "longitude": 139.7186
-      },
-      "image": ""
-    }
-  ]
-}
-</script>
 
 {% if page.map_points %}
   {% include google-maps.html %}

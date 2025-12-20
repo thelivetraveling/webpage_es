@@ -27,28 +27,43 @@ map_points:
   - name: "Smile Hotel - Hakata Ekimae"
     lat: 33.5879
     lng: 130.4168
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "hotel"
     mode: "walking"
   - name: "Fukuokakuko Airport Station"
     lat: 33.5972
     lng: 130.4483
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "default"
     mode: "transit"
     transit_types: ["train"]
   - name: "Yakushima Airport"
     lat: 30.3846
     lng: 130.6603
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "default"
     mode: "transit"
     transit_types: ["flight"]
   - name: "Yakushima Green Hotel"
     lat: 30.32676
     lng: 130.65827
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "hotel"
     mode: "driving"
   - name: "Clear Coin Laundry"
     lat: 30.3093
     lng: 130.6459
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "default"
     mode: "walking"
 ---

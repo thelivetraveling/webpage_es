@@ -26,47 +26,74 @@ map_points:
   - name: "Smile Hotel - Hakata Ekimae"
     lat: 33.5879
     lng: 130.4168
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "hotel"
     mode: "walking"
   - name: "Hakata Station"
     lat: 33.5899
     lng: 130.4193
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "station"
     mode: "walking"
   - name: "Beppu Station"
     lat: 33.2797
     lng: 131.5000
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "station"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
   - name: "Beppu Park"
     lat: 33.2800
     lng: 131.4913
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "park"
     mode: "walking"
   - name: "Beppu Onsen Hoyoland"
     lat: 33.3147
     lng: 131.4581
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "default"
     mode: "walking"
   - name: "Beppu Jigoku"
     lat: 33.3158
     lng: 131.4698
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "museum"
     mode: "walking"
   - name: "Kamado Jigoku"
     lat: 33.3162
     lng: 131.4729
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "museum"
     mode: "walking"
   - name: "Beppudaigaku Station"
     lat: 33.3126
     lng: 131.4993
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "station"
     mode: "walking"
   - name: "Estación de Oita"
     lat: 33.2323
     lng: 131.6057
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "station"
     mode: "transit"
     transit_types: ["train", "shinkansen"]

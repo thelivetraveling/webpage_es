@@ -27,11 +27,17 @@ map_points:
   - name: "Yakushima Green Hotel"
     lat: 30.32676
     lng: 130.65827
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "hotel"
     mode: "walking"
   - name: "Desfiladero de Shiratani Unsuikyo"
     lat: 30.3800
     lng: 130.5742
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "park"
     mode: "walking"
 ---

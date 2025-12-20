@@ -27,22 +27,34 @@ map_points:
   - name: "Mount Shosha Ropeway"
     lat: 34.8555
     lng: 134.7168
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "default"
     mode: "walking"
   - name: "Engyoji"
     lat: 34.8547
     lng: 134.7059
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "temple"
     mode: "walking"
   - name: "Himeji Castle"
     lat: 34.8394
     lng: 134.6939
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "castle"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
   - name: "Shin-Kobe Station"
     lat: 34.7016
     lng: 135.1949
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "station"
     mode: "transit"
     transit_types: ["train", "shinkansen"]

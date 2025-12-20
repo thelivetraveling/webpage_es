@@ -27,11 +27,17 @@ map_points:
   - name: "Yakushima Green Hotel"
     lat: 30.32676
     lng: 130.65827
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "hotel"
     mode: "walking"
   - name: "Hirauchi Kaichu Onsen"
     lat: 30.2310
     lng: 130.4839
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "default"
     mode: "walking"
 ---

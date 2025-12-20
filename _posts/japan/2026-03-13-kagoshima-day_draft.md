@@ -27,32 +27,50 @@ map_points:
   - name: "Smile Hotel - Hakata Ekimae"
     lat: 33.5886
     lng: 130.4168
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "hotel"
     mode: "walking"
   - name: "Terukuni Shrine"
     lat: 31.5962
     lng: 130.5501
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "temple"
     mode: "transit"
     transit_types: ["shinkansen"]
   - name: "Kagoshima (Tsurumaru) Castle Ruins"
     lat: 31.6003
     lng: 130.5547
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "castle"
     mode: "walking"
   - name: "Shoko Shuseikan Museum"
     lat: 31.6189
     lng: 130.5761
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "museum"
     mode: "walking"
   - name: "Iso Swimming Beach"
     lat: 31.6161
     lng: 130.5756
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "default"
     mode: "walking"
   - name: "Statue of Okubo Toshimichi"
     lat: 31.5880
     lng: 130.5462
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "default"
     mode: "walking"
 ---  

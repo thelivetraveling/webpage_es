@@ -24,63 +24,99 @@ map_points:
   - name: "Senso-ji Temple"
     lat: 35.7110
     lng: 139.7963
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "temple"
     mode: "walking"
   - name: "Santuario de Asakusa"
     lat: 35.7149
     lng: 139.7974
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "temple"
     mode: "walking"
   - name: "Asakusa Nishi-sando Shopping Street"
     lat: 35.7147
     lng: 139.7952
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "shop"
     mode: "walking"
   - name: "Asakusa Hanayashiki"
     lat: 35.7151
     lng: 139.7950
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "default"
     mode: "walking"
   - name: "Taito Kuritsu Fuji Park"
     lat: 35.7185
     lng: 139.7977
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "park"
     mode: "walking"
   - name: "Taito Kuritsu Nihonzutsumi Park"
     lat: 35.7239
     lng: 139.7984
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "park"
     mode: "walking"
   - name: "Yoshiwara Park"
     lat: 35.7249
     lng: 139.7953
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "park"
     mode: "walking"
   - name: "Santuario Yoshiwara"
     lat: 35.7227
     lng: 139.7934
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "temple"
     mode: "walking"
   - name: "Men Mitsui"
     lat: 35.7095
     lng: 139.7904
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "restaurant"
     mode: "transit"
     transit_types: ["train"]
   - name: "Calle de utensilios de cocina Kappabashi"
     lat: 35.7104
     lng: 139.7881
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "shop"
     mode: "walking"
   - name: "Lawson Uguisudani Station"
     lat: 35.7225
     lng: 139.7777
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "shop"
     mode: "transit"
     transit_types: ["train"]
   - name: "Ginza Yanaka"
     lat: 35.7276
     lng: 139.7658
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "shop"
     mode: "transit"
     transit_types: ["train"]
@@ -120,150 +156,6 @@ También me sorprendió cómo el templo se relaciona con el poder político: dur
 La calle Nakamise-dōri me atrapó de inmediato: es corta, pero cada tienda tiene algo único, desde dulces tradicionales hasta artesanías que parecen de otra época. Me detuve más de una vez para mirar detalles, probar algún snack y simplemente absorber el ambiente. Es un paseo que se disfruta más caminando despacio y mirando a tu alrededor, no corriendo.
 
 ---
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TouristTrip",
-  "name": "Día perfecto en Asakuza",
-  "description": "Un recorrido por Asakusa desde sus calles comerciales hasta los santuarios históricos y parques tradicionales.",
-  "touristType": "Adult",
-  "hasPart": [
-    {
-      "@type": "Place",
-      "name": "Senso-ji Temple",
-      "description": "Templo budista histórico en el corazón de Asakusa, símbolo de tradición y vida local.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 35.7110,
-        "longitude": 139.7963
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Santuario de Asakusa",
-      "description": "Sagrado santuario sintoísta cercano al Senso-ji, lleno de paz y tradición japonesa.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 35.7149,
-        "longitude": 139.7974
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Asakusa Nishi-sando Shopping Street",
-      "description": "Calle comercial tradicional con tiendas y ambiente auténtico del Tokio histórico.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 35.7147,
-        "longitude": 139.7952
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Asakusa Hanayashiki",
-      "description": "Parque de atracciones con encanto retro y raíces históricas en Asakusa.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 35.7151,
-        "longitude": 139.7950
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Taito Kuritsu Fuji Park",
-      "description": "Parque urbano perfecto para descansar entre historia y vida local tokiota.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 35.7185,
-        "longitude": 139.7977
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Taito Kuritsu Nihonzutsumi Park",
-      "description": "Espacio verde tranquilo ideal tras recorrer las calles históricas de Asakusa.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 35.7239,
-        "longitude": 139.7984
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Yoshiwara Park",
-      "description": "Parque con historia profunda ubicado en una zona histórica de Tokio.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 35.7249,
-        "longitude": 139.7953
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Santuario Yoshiwara",
-      "description": "Pequeño santuario sintoísta con significado histórico en el antiguo distrito Yoshiwara.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 35.7227,
-        "longitude": 139.7934
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Men Mitsui",
-      "description": "Restaurante de fideos tradicional con atmósfera auténtica de Tokio.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 35.7095,
-        "longitude": 139.7904
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Calle de utensilios de cocina Kappabashi",
-      "description": "Famosa calle dedicada a utensilios de cocina y menaje tradicional japonés.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 35.7104,
-        "longitude": 139.7881
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Lawson Uguisudani Station",
-      "description": "Punto de tránsito y tienda conveniente cerca de la estación Uguisudani.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 35.7225,
-        "longitude": 139.7777
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Ginza Yanaka",
-      "description": "Zona comercial con tiendas locales representativas de estilo tradicional.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 35.7276,
-        "longitude": 139.7658
-      },
-      "image": ""
-    }
-  ]
-}
-</script>
 
 {% if page.map_points %}
   {% include google-maps.html %}

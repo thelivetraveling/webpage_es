@@ -27,32 +27,50 @@ map_points:
   - name: "Shin-Kobe Station"
     lat: 34.7064
     lng: 135.1955
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "station"
     mode: "walking"
   - name: "Okayama Station"
     lat: 34.6663
     lng: 133.9177
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "station"
     mode: "transit"
     transit_types: ["shinkansen"]
   - name: "Okayama Korakuen"
     lat: 34.6677
     lng: 133.9359
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "park"
     mode: "walking"
   - name: "Okayama Castle"
     lat: 34.6653
     lng: 133.9360
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "castle"
     mode: "walking"
   - name: "Okayama Station"
     lat: 34.6663
     lng: 133.9177
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "station"
     mode: "walking"
   - name: "Shin-Kobe Station"
     lat: 34.7064
     lng: 135.1955
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "station"
     mode: "transit"
     transit_types: ["shinkansen"]
