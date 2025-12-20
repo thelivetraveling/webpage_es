@@ -7,7 +7,4 @@ sitemap:
 User-agent: *
 Allow: /
 
-User-agent: *
-Disallow: /page*/
-
 Sitemap: {{ site.url }}/sitemap.xml
