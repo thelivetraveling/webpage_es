@@ -6,12 +6,19 @@ date: 2026-03-14 09:00:00 +0200
 categories: [japan]
 tags: [kumamoto, castillo, jardines, kyushu, reconstruccion]
 header:
-  teaser: "/assets/images/2026/03/14/Kumamoto.webp"
-  overlay_image: "/assets/images/2026/03/14/Kumamoto.webp"
+  teaser: /assets/images/2026/03/14/Kumamoto.webp
+  overlay_image: /assets/images/2026/03/14/Kumamoto.webp
   caption: "By Hisagi"
   actions:
     - label: "More Info"
       url: "https://commons.wikimedia.org/wiki/User:Hisagi"
+video:
+  id: "Mfq_QtuyrYI"
+  duration: "PT00H15M00S"
+images:
+  - id: "image1"
+    path: /assets/images/2026/03/14/Kumamoto.webp
+    alt: "Un castillo que resiste al tiempo"
 map_points:
   - name: "Smile Hotel - Hakata Ekimae"
     lat: 33.5879

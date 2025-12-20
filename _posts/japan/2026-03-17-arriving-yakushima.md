@@ -5,14 +5,24 @@ excerpt: "Desde Fukuoka hasta Yakushima, Cedros milenarios y Patrimonio de la Hu
 date: 2026-03-17 07:00:00 +0200
 categories: [japan]
 tags: [Yakushima, Fukuoka, Kagoshima, Yakusugi, Naturaleza]
+country: "JP"
+city: "Yakushima"
+language: "es"
 header:
-  # teaser: "/assets/images/2026/03/17/Yakushima.webp"
+  # teaser: /assets/images/2026/03/17/Yakushima.webp
   teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Yakushima_Ceddar_Forest.JPG/1280px-Yakushima_Ceddar_Forest.JPG"
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Yakushima_Ceddar_Forest.JPG/1280px-Yakushima_Ceddar_Forest.JPG"
   caption: "By Benedetta, CC BY-SA 3.0"
   actions:
     - label: "More Info"
       url: "https://commons.wikimedia.org/w/index.php?title=User:BenedettaR&action=edit&redlink=1"
+video:
+  id: "A7tS0JVGszM"
+  duration: "PT00H15M00S"
+images:
+  - id: "image1"
+    path: /assets/images/2026/03/17/Yakushima.webp
+    alt: "Yakushima"
 map_points:
   - name: "Smile Hotel - Hakata Ekimae"
     lat: 33.5879

@@ -5,6 +5,9 @@ excerpt: "Ruta desde Shin-Kobe hasta Okayama, visitando Korakuen, el castillo y 
 date: "2026-03-22 07:00:00 +0200"
 categories: ["japan"]
 tags: ["Kobe","Okayama","viaje","castillo","jardín"]
+country: "JP"
+city: "Okayama"
+language: "es"
 header:
   # teaser: "/assets/images/2026/03/22/Okayama.webp"
   teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Okayama_st05s3200.jpg/1280px-Okayama_st05s3200.jpg"

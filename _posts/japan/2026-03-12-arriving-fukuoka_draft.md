@@ -6,6 +6,9 @@ excerpt: "Vuelo hacia Kyushu, centro comercial futurista, santuario histórico y
 date: 2026-03-12 09:00:00 +0200
 categories: [japan]
 tags: [fukuoka, kyushu, templos, gastronomia, vida-nocturna]
+country: "JP"
+city: "Fukuoka"
+language: "es"
 header:
   teaser: /assets/images/2026/03/12/Fukuoka.webp
   overlay_image: /assets/images/2026/03/12/Fukuoka.webp
@@ -13,6 +16,13 @@ header:
   actions:
     - label: "More Info"
       url: "https://commons.wikimedia.org/wiki/File:Fukuoka_Skyline_of_Seaside_Momochi.jpg"
+video:
+  id: "E5R5PPezu7k"
+  duration: "PT00H15M00S"
+images:
+  - id: "image1"
+    path: /assets/images/2026/03/12/Fukuoka.webp
+    alt: "El Tokio del sur de Japon"
 map_points:
   - name: "Resol Posthel TOKYO Asakuza"
     lat: 35.7134

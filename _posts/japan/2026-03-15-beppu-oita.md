@@ -5,13 +5,23 @@ excerpt: "Infiernos geotérmicos, baños de barro volcánico y la magia termal d
 date: 2026-03-15 09:00:00 +0200
 categories: [japan]
 tags: [beppu, onsen, jigoku, kyushu, aguas-termales]
+country: "JP"
+city: "Beppu"
+language: "es"
 header:
-  teaser: "/assets/images/2026/03/15/Beppu.webp"
-  overlay_image: "/assets/images/2026/03/15/Beppu.webp"
+  teaser: /assets/images/2026/03/15/Beppu.webp
+  overlay_image: /assets/images/2026/03/15/Beppu.webp
   caption: "By 663highland"
   actions:
     - label: "More Info"
       url: "https://ja.wikipedia.org/wiki/user:663highland"
+video:
+  id: "sOfOn-PzQeg"
+  duration: "PT00H15M00S"
+images:
+  - id: "image1"
+    path: /assets/images/2026/03/15/Beppu.webp
+    alt: "La ciudad de los 7 infiernos"
 map_points:
   - name: "Smile Hotel - Hakata Ekimae"
     lat: 33.5879

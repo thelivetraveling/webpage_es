@@ -5,9 +5,20 @@ excerpt: "Un recorrido por Asakusa desde sus calles comerciales hasta los santua
 date: 2026-03-08 09:00:00 +0200
 categories: ["japan"]
 tags: [japan, asakuza, paseo, ciudad, templos]
+country: "JP"
+city: "Tokio"
+language: "es"
 header:
   teaser: /assets/images/2026/03/08/Sensoji.webp
   overlay_image: /assets/images/2026/03/08/Sensoji.webp
+video:
+  id: "LHPKP8PP6QY"
+  duration: "PT00H15M00S"
+images:
+  - id: "image1"
+    path: /assets/images/2026/03/08/Sensoji.webp
+    alt: "El templo mas antiguo de Tokio"
+    license: "CC BY 4.0"
 map_points:
     # "driving" "walking" "bicycling" "transit"
   - name: "Senso-ji Temple"

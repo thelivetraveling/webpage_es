@@ -5,6 +5,9 @@ excerpt: "Santuario, ruinas del castillo, museo industrial y playa con vistas al
 date: 2026-03-13 09:00:00 +0200
 categories: [japan]
 tags: [kagoshima, kyushu, templos, museos, sakurajima]
+country: "JP"
+city: "Kagoshima"
+language: "es"
 header:
   teaser: /assets/images/2026/03/13/Kagoshima.webp
   overlay_image: /assets/images/2026/03/13/Kagoshima.webp
@@ -12,6 +15,13 @@ header:
   actions:
     - label: "More Info"
       url: "https://commons.wikimedia.org/wiki/File:Kagoshima_city_and_Sakurajima.jpg"
+video:
+  id: "WknwFmhKRdQ"
+  duration: "PT00H15M00S"
+images:
+  - id: "image1"
+    path: /assets/images/2026/03/13/Kagoshima.webp
+    alt: "Un antiguo puerto"
 map_points:
   - name: "Smile Hotel - Hakata Ekimae"
     lat: 33.5879

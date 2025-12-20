@@ -5,6 +5,9 @@ excerpt: "Ascenso en teleférico al templo Engyo-ji en el monte Shosha y visita 
 date: 2026-03-25 07:00:00 +0200
 categories: ["japan"]
 tags: ["himeji", "castillo", "templo", "montaña", "teleférico", "historia"]
+country: "JP"
+city: "Himeji"
+language: "es"
 header:
   # teaser: "/assets/images/2026/03/25/Himeji.webp"
   teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mount_Shosha_Ropeway_-_panoramio.jpg/1280px-Mount_Shosha_Ropeway_-_panoramio.jpg"

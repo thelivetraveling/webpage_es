@@ -6,9 +6,20 @@ excerpt: "Descubre lo mejor de Tokio: desde arte inmersivo hasta barrios vibrant
 date: 2026-03-09 09:00:00 +0200
 categories: [japan]
 tags: [tokio, shibuya, shinjuku, harajuku, vida, nocturna, compras]
+country: "JP"
+city: "Tokio"
+language: "es"
 header:
   teaser: /assets/images/2026/03/09/Shibuya.webp
   overlay_image: /assets/images/2026/03/09/Shibuya.webp
+video:
+  id: "tujkoXI8rWM"
+  duration: "PT00H15M00S"
+images:
+  - id: "image1"
+    path: /assets/images/2026/03/09/Shibuya.webp
+    alt: "El cruce mas famoso del mundo"
+    license: "CC BY 4.0"
 map_points:
     # "driving" "walking" "bicycling" "transit"
     # "restaurant", "temple", "museum", "park", "station", "hotel", "shop", "default"

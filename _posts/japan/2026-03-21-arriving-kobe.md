@@ -5,6 +5,9 @@ excerpt: "Viaje desde Yakushima a Kobe, explorando aeropuerto, estación y el Pa
 date: "2026-03-21 07:00:00 +0200"
 categories: ["japan"]
 tags: ["Yakushima","Kobe","viaje","transporte","ParqueMeriken"]
+country: "JP"
+city: "Kobe"
+language: "es"
 header:
   # teaser: "/assets/images/2026/03/21/Kobe.webp"
   teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/121208_Kobe-Nunobiki_ropeway_Kobe_Hyogo_pref_Japan01s3.jpg/1280px-121208_Kobe-Nunobiki_ropeway_Kobe_Hyogo_pref_Japan01s3.jpg"

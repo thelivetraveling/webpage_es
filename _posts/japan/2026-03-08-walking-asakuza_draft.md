@@ -6,9 +6,20 @@ excerpt: "Un recorrido por Asakusa desde sus calles comerciales hasta los santua
 date: 2026-03-08 09:00:00 +0200
 categories: ["japan"]
 tags: [Asakusa, Tokio, Templos, Sensoji, Hanayashiki, Kappabashi, Shitamachi, Yoshiwara]
+country: "JP"
+city: "Tokio"
+language: "es"
 header:
   teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/1_asakusa_sensoji_2011b.JPG/1920px-1_asakusa_sensoji_2011b.JPG"
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/1_asakusa_sensoji_2011b.JPG/1920px-1_asakusa_sensoji_2011b.JPG"
+  video:
+  id: "LHPKP8PP6QY"
+  duration: "PT00H15M00S"
+images:
+  - id: "image1"
+    path: /assets/images/2026/03/08/Sensoji.webp
+    alt: "El templo mas antiguo de Tokio"
+    license: "CC BY 4.0"
 map_points:
     # "driving" "walking" "bicycling" "transit"
   - name: "Asakusa Nishi-sando Shopping Street"

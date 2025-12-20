@@ -5,6 +5,9 @@ excerpt: "De Yakushima Green Hotel al Hirauchi Kaichu Onsen, experiencia de agua
 date: "2026-03-19 07:00:00 +0200"
 categories: ["japan"]
 tags: ["Yakushima","onsen","relax","naturaleza","termas"]
+country: "JP"
+city: "Yakushima"
+language: "es"
 header:
   # teaser: "/assets/images/2026/03/20/Yakushima.webp"
   teaser: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Hirauchi_kaichu_onsen.jpg"

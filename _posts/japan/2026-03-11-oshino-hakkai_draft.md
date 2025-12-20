@@ -6,6 +6,9 @@ excerpt: "Aguas cristalinas, estanques sagrados y vistas del Monte Fuji"
 date: 2026-03-11 09:00:00 +0200
 categories: [japan]
 tags: [monte-fuji, naturaleza, patrimonio-unesco, excursiones, yamanashi]
+country: "JP"
+city: "Oshino"
+language: "es"
 header:
   teaser: "/assets/images/2026/03/11/OshinoHakkai.webp"
   overlay_image: "/assets/images/2026/03/11/OshinoHakkai.webp"
@@ -13,6 +16,14 @@ header:
   actions:
     - label: "More Info"
       url: "https://www.japan.travel/es/spot/1327/"
+video:
+  id: "sm3xXTfDtGE"
+  duration: "PT00H15M00S"
+images:
+  - id: "image1"
+    path: /assets/images/2026/03/11/OshinoHakkai.webp
+    alt: "El sitio de los ocho lagos"
+    license: "CC BY 4.0"
 map_points:
   - name: "Asakusa Station"
     lat: 35.7121

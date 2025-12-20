@@ -4,14 +4,25 @@ title: "Fukuoka"
 excerpt: "Hostelería, templo y ríos de luces en la ciudad costera"  
 categories: [japan]  
 date: 2026-03-12 09:00:00 +0200
-tags: [fukuoka, hakata, shopping, shrine, gastronomía]  
+tags: [fukuoka, hakata, shopping, shrine, gastronomía]
+country: "JP"
+city: "Fukuoka"
+language: "es"
 header:  
   teaser: /assets/images/2026/03/12/Fukuoka.webp  
   overlay_image: /assets/images/2026/03/12/Fukuoka.webp  
   caption: "By Nryate"  
   actions:  
     - label: "More Info"  
-      url: "https://commons.wikimedia.org/wiki/File:Fukuoka_Skyline_of_Seaside_Momochi.jpg"  
+      url: "https://commons.wikimedia.org/wiki/File:Fukuoka_Skyline_of_Seaside_Momochi.jpg"
+video:
+  id: "E5R5PPezu7k"
+  duration: "PT00H15M00S"
+images:
+  - id: "image1"
+    path: /assets/images/2026/03/12/Fukuoka.webp
+    alt: "El Tokio del sur de Japon"
+    license: "CC BY 4.0"
 map_points:
   - name: "Resol Posthel TOKYO Asakuza"
     lat: 35.7134

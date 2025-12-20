@@ -5,6 +5,9 @@ excerpt: "Ruta a pie por lugares emblemáticos, museo de papel, puentes, libros 
 date: 2026-03-10 09:00:00 +0200
 categories: [japan]
 tags: [Ikebukuro, Jimbocho, origami, libros, ocio]
+country: "JP"
+city: "Tokio"
+language: "es"
 header:
   teaser: /assets/images/2026/03/10/Jimbocho.webp
   overlay_image: /assets/images/2026/03/10/Jimbocho.webp
@@ -12,6 +15,14 @@ header:
   actions:
     - label: "More Info"
       url: "https://commons.wikimedia.org/wiki/File:Yaguchi_Book_Store_and_Koga_Book_Store.jpg"
+video:
+  id: "_zU8K43Twus"
+  duration: "PT00H15M00S"
+images:
+  - id: "image1"
+    path: /assets/images/2026/03/10/Jimbocho.webp
+    alt: "Para los amantes de la lectura"
+    license: "CC BY 4.0"
 map_points:
   - name: "Origami Museum"
     lat: 35.7048

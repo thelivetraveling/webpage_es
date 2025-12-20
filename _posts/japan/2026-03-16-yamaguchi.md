@@ -5,13 +5,23 @@ excerpt: "Jardín zen de Sesshu, pagoda nacional y la cultura del clan Ouchi"
 date: 2026-03-16 09:00:00 +0200
 categories: [japan]
 tags: [yamaguchi, templos, jardines, sesshu, cultura-ouchi]
+country: "JP"
+city: "Yamaguchi"
+language: "es"
 header:
-  teaser: "/assets/images/2026/03/16/Yamaguchi.webp"
-  overlay_image: "/assets/images/2026/03/16/Yamaguchi.webp"
+  teaser: /assets/images/2026/03/16/Yamaguchi.webp
+  overlay_image: /assets/images/2026/03/16/Yamaguchi.webp
   caption: "By Wiki708"
   actions:
     - label: "More Info"
       url: "https://en.wikipedia.org/wiki/ja:User:Wiki708"
+video:
+  id: "8y3v0zzn6F0"
+  duration: "PT00H15M00S"
+images:
+  - id: "image1"
+    path: /assets/images/2026/03/16/Yamaguchi.webp
+    alt: "Yamaguchi"
 map_points:
   - name: "Smile Hotel - Hakata Ekimae"
     lat: 33.5879

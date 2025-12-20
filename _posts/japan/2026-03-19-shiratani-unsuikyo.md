@@ -5,6 +5,9 @@ excerpt: "De Yakushima Green Hotel al desfiladero Shiratani Unsuikyo, naturaleza
 date: "2026-03-19 07:00:00 +0200"
 categories: ["japan"]
 tags: ["Yakushima","naturaleza","senderismo","bosque","aventura"]
+country: "JP"
+city: "Yakushima"
+language: "es"
 header:
   # teaser: "/assets/images/2026/03/19/Yakushima.webp"
   teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Pulag%27s_Mossy_Forest.jpg/1280px-Pulag%27s_Mossy_Forest.jpg"
