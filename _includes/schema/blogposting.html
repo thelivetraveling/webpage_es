@@ -1,0 +1,53 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": "{{ page.url | absolute_url }}#article",
+  "headline": "{{ page.title | escape }}",
+  "description": "{{ page.excerpt | strip_html | truncate: 160 | escape }}",
+  "image": {
+    "@type": "ImageObject",
+    "url": "{{ page.header.image | default: page.header.overlay_image | absolute_url }}",
+    "width": 1200,
+    "height": 630
+  },
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  "author": {
+    "@type": "Person",
+    "@id": "{{ site.url }}/#author",
+    "name": "The Live Traveling"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "@id": "{{ site.url }}/#organization",
+    "name": "The Live Traveling",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.logo | default: '/assets/images/logo.png' | absolute_url }}"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.url | absolute_url }}"
+  },
+  "keywords": "{{ page.tags | join: ', ' }}",
+  "articleSection": "{{ page.categories | first }}",
+  "inLanguage": "{{ page.language | default: 'es' }}",
+  "isPartOf": {
+    "@type": "Blog",
+    "@id": "{{ site.url }}/#blog"
+  }{% if page.video %},
+  "video": {
+    "@id": "{{ page.url | absolute_url }}#video"
+  }{% endif %}{% if page.images %},
+  "hasPart": [
+    {% for image in page.images %}
+    {
+      "@type": "ImageObject",
+      "@id": "{{ page.url | absolute_url }}#{{ image.id }}"
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]{% endif %}
+}
+</script>

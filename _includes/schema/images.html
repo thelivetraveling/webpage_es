@@ -1,0 +1,27 @@
+{% if page.images %}
+{% for image in page.images %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "{{ page.url | absolute_url }}#{{ image.id }}",
+  "contentUrl": "{{ image.path | absolute_url }}",
+  "caption": "{{ image.alt | escape }}",
+  "description": "{{ image.alt | escape }}",
+  "license": "{{ image.license }}",
+  "creator": {
+    "@type": "Person",
+    "@id": "{{ site.url }}/#author"
+  },
+  "copyrightHolder": {
+    "@type": "Person",
+    "@id": "{{ site.url }}/#author"
+  },
+  "isPartOf": {
+    "@type": "BlogPosting",
+    "@id": "{{ page.url | absolute_url }}#article"
+  }
+}
+</script>
+{% endfor %}
+{% endif %}

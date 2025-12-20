@@ -1,0 +1,27 @@
+{% assign place_types = "default,station" | split: "," %}
+{% for point in page.map_points %}
+{% if place_types contains point.type %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Place",
+  "@id": "{{ page.url | absolute_url }}#{{ point.id }}",
+  "name": "{{ point.name | escape }}",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": {{ point.lat }},
+    "longitude": {{ point.lng }}
+  }{% if point.rating %},
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": {{ point.rating }},
+    "ratingCount": 1
+  }{% endif %},
+  "isPartOf": {
+    "@type": "Trip",
+    "@id": "{{ page.url | absolute_url }}#trip"
+  }
+}
+</script>
+{% endif %}
+{% endfor %}

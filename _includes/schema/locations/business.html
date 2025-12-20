@@ -1,0 +1,32 @@
+{% assign business_types = "shop,hotel" | split: "," %}
+{% for point in page.map_points %}
+{% if business_types contains point.type %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "@id": "{{ page.url | absolute_url }}#{{ point.id }}",
+  "name": "{{ point.name | escape }}",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": {{ point.lat }},
+    "longitude": {{ point.lng }}
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "{{ page.country }}"
+  }{% if point.rating %},
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": {{ point.rating }},
+    "ratingCount": 1
+  }{% endif %}{% if point.price_range %},
+  "priceRange": "{{ point.price_range }}"{% endif %},
+  "isPartOf": {
+    "@type": "Trip",
+    "@id": "{{ page.url | absolute_url }}#trip"
+  }
+}
+</script>
+{% endif %}
+{% endfor %}

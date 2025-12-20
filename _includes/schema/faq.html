@@ -1,0 +1,25 @@
+{% if page.faqs %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "{{ page.url | absolute_url }}#faq",
+  "mainEntity": [
+    {% for faq in page.faqs %}
+    {
+      "@type": "Question",
+      "name": "{{ faq.question | escape }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ faq.answer | escape }}"
+      }
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ],
+  "isPartOf": {
+    "@type": "BlogPosting",
+    "@id": "{{ page.url | absolute_url }}#article"
+  }
+}
+</script>
+{% endif %}

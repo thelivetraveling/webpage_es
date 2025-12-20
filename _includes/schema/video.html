@@ -1,0 +1,28 @@
+{% if page.video %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "{{ page.url | absolute_url }}#video",
+  "name": "{{ page.title | escape }}",
+  "description": "{{ page.excerpt | strip_html | escape }}",
+  "thumbnailUrl": "https://img.youtube.com/vi/{{ page.video.id }}/maxresdefault.jpg",
+  "uploadDate": "{{ page.date | date_to_xmlschema }}",
+  "duration": "{{ page.video.duration }}",
+  "contentUrl": "https://www.youtube.com/watch?v={{ page.video.id }}",
+  "embedUrl": "https://www.youtube.com/embed/{{ page.video.id }}",
+  "publisher": {
+    "@type": "Organization",
+    "@id": "{{ site.url }}/#organization"
+  },
+  "creator": {
+    "@type": "Person",
+    "@id": "{{ site.url }}/#author"
+  },
+  "isPartOf": {
+    "@type": "BlogPosting",
+    "@id": "{{ page.url | absolute_url }}#article"
+  }
+}
+</script>
+{% endif %}
