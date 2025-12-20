@@ -6,8 +6,6 @@
   {% case video_provider %}
   {% when "vimeo" %}
     https://player.vimeo.com/video/{{ video_id }}?dnt=true
-  {% when "youtube" %}
-    https://www.youtube-nocookie.com/embed/{{ video_id }}
   {% when "google-drive" %}
     https://drive.google.com/file/d/{{ video_id }}/preview
   {% when "bilibili" %}
@@ -16,9 +14,12 @@
 {% endcapture %}
 {% assign video_src = video_src | strip %}
 
-<!-- Courtesy of embedresponsively.com -->
-{% unless video_src == "" %}
-  <div class="responsive-video-container">
-    <iframe src="{{ video_src }}" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
-  </div>
-{% endunless %}
+<!-- Contenedor responsive -->
+<div class="responsive-video-container">
+{% if video_provider == "youtube" %}
+  <lite-youtube videoid="{{ video_id }}" playlabel="Play: {{ include.title | default: 'Video' }}" params="vq=hd1080&modestbranding=1"></lite-youtube>
+{% else %}
+  <!-- Iframe tradicional para otros proveedores -->
+  <iframe src="{{ video_src }}" frameborder="0" allowfullscreen></iframe>
+{% endif %}
+</div>
