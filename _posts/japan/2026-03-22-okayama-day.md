@@ -25,8 +25,8 @@ images:
     alt: "Okayama"
 map_points:
   - name: "Shin-Kobe Station"
-    lat: 34.7064
-    lng: 135.1955
+    lat: 34.7061
+    lng: 135.1959
     price_range: "$"
     rating: 4.0
     visit_duration: "PT45M"
@@ -66,14 +66,23 @@ map_points:
     type: "station"
     mode: "walking"
   - name: "Shin-Kobe Station"
-    lat: 34.7064
-    lng: 135.1955
+    lat: 34.7061
+    lng: 135.1959
     price_range: "$"
     rating: 4.0
     visit_duration: "PT45M"
     type: "station"
     mode: "transit"
-    transit_types: ["shinkansen"]
+    transit_types: ["train", "shinkansen"]
+  - name: "Hotel Hotel Juraku"
+    lat: 34.6810
+    lng: 135.1797
+    price_range: "$$"
+    rating: 3.5
+    visit_duration: "PT24H00M"
+    type: "hotel"
+    mode: "transit"
+    transit_types: ["train", "shinkansen", "bus"]
 ---
 
 # Kobe y Okayama

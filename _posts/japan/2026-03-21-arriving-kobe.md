@@ -75,6 +75,15 @@ map_points:
     visit_duration: "PT45M"
     type: "park"
     mode: "walking"
+  - name: "Hotel Hotel Juraku"
+    lat: 34.6810
+    lng: 135.1797
+    price_range: "$$"
+    rating: 3.5
+    visit_duration: "PT24H00M"
+    type: "hotel"
+    mode: "transit"
+    transit_types: ["train", "shinkansen", "bus"]
 ---
 
 # De Yakushima a Kobe

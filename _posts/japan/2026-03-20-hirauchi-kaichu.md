@@ -27,7 +27,7 @@ map_points:
   - name: "Yakushima Green Hotel"
     lat: 30.32676
     lng: 130.65827
-    price_range: "$"
+    price_range: "$$"
     rating: 4.0
     visit_duration: "PT45M"
     type: "hotel"

@@ -24,40 +24,55 @@ images:
     path: /assets/images/2026/03/25/Himeji.webp
     alt: "Himeji"
 map_points:
+  - name: "Hotel Hotel Juraku"
+    lat: 34.6810
+    lng: 135.1797
+    price_range: "$$"
+    rating: 3.5
+    visit_duration: "PT24H00M"
+    type: "hotel"
+    mode: "walking"
+  - name: "Kobe Station"
+    lat: 34.6793
+    lng: 135.1778
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
+    type: "station"
+    mode: "walking"
   - name: "Mount Shosha Ropeway"
-    lat: 34.8555
-    lng: 134.7168
+    lat: 34.8785
+    lng: 134.6667
     price_range: "$"
     rating: 4.0
     visit_duration: "PT45M"
     type: "default"
-    mode: "walking"
+    mode: "transit"
+    transit_types: ["train", "shinkansen", "bus"]
   - name: "Engyoji"
-    lat: 34.8547
-    lng: 134.7059
+    lat: 34.8890
+    lng: 134.66044
     price_range: "$"
     rating: 4.0
     visit_duration: "PT45M"
     type: "temple"
     mode: "walking"
   - name: "Himeji Castle"
-    lat: 34.8394
-    lng: 134.6939
+    lat: 34.8358
+    lng: 134.6927
     price_range: "$"
     rating: 4.0
     visit_duration: "PT45M"
     type: "castle"
-    mode: "transit"
-    transit_types: ["train", "shinkansen"]
-  - name: "Shin-Kobe Station"
-    lat: 34.7016
-    lng: 135.1949
+    mode: "walking"
+  - name: "Himeji Station"
+    lat: 34.8275
+    lng: 134.69030
     price_range: "$"
     rating: 4.0
     visit_duration: "PT45M"
-    type: "station"
-    mode: "transit"
-    transit_types: ["train", "shinkansen"]
+    type: "castle"
+    mode: "walking"
 ---
 
 # **Montaña Shosha a Himeji: Cumbres Espirituales y Marfil Bélico**
