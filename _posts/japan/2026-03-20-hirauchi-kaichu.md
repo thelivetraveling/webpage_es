@@ -9,13 +9,20 @@ country: "JP"
 city: "Yakushima"
 language: "es"
 header:
-  # teaser: "/assets/images/2026/03/20/Yakushima.webp"
+  # teaser: /assets/images/2026/03/20/Yakushima.webp
   teaser: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Hirauchi_kaichu_onsen.jpg"
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Hirauchi_kaichu_onsen.jpg"
   caption: "By Somey, CC BY-SA 3.0"
   actions:
     - label: "More Info"
       url: "https://commons.wikimedia.org/w/index.php?title=User:Somey&action=edit&redlink=1"
+video:
+  id: "kr7xOhKaUBw"
+  duration: "PT00H15M00S"
+images:
+  - id: "image1"
+    path: /assets/images/2026/03/20/Yakushima.webp
+    alt: "Yakushima"
 map_points:
   - name: "Yakushima Green Hotel"
     lat: 30.32676

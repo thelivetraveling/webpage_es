@@ -9,13 +9,20 @@ country: "JP"
 city: "Yakushima"
 language: "es"
 header:
-  # teaser: "/assets/images/2026/03/19/Yakushima.webp"
+  # teaser: /assets/images/2026/03/19/Yakushima.webp
   teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Pulag%27s_Mossy_Forest.jpg/1280px-Pulag%27s_Mossy_Forest.jpg"
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Pulag%27s_Mossy_Forest.jpg/1280px-Pulag%27s_Mossy_Forest.jpg"
   caption: "By Klienneeco, CC BY-SA 3.0"
   actions:
     - label: "More Info"
       url: "https://commons.wikimedia.org/w/index.php?title=User:Klienneeco&action=edit&redlink=1"
+video:
+  id: "kr7xOhKaUBw"
+  duration: "PT00H15M00S"
+images:
+  - id: "image1"
+    path: /assets/images/2026/03/19/Yakushima.webp
+    alt: "Yakushima"
 map_points:
   - name: "Yakushima Green Hotel"
     lat: 30.32676

@@ -9,13 +9,20 @@ country: "JP"
 city: "Kobe"
 language: "es"
 header:
-  # teaser: "/assets/images/2026/03/21/Kobe.webp"
+  # teaser: /assets/images/2026/03/21/Kobe.webp
   teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/121208_Kobe-Nunobiki_ropeway_Kobe_Hyogo_pref_Japan01s3.jpg/1280px-121208_Kobe-Nunobiki_ropeway_Kobe_Hyogo_pref_Japan01s3.jpg"
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/121208_Kobe-Nunobiki_ropeway_Kobe_Hyogo_pref_Japan01s3.jpg/1280px-121208_Kobe-Nunobiki_ropeway_Kobe_Hyogo_pref_Japan01s3.jpg"
   caption: "By 663highland, CC BY-SA 3.0"
   actions:
     - label: "More Info"
       url: "https://ja.wikipedia.org/wiki/user:663highland"
+video:
+  id: "AU_2zfM4m68"
+  duration: "PT00H15M00S"
+images:
+  - id: "image1"
+    path: /assets/images/2026/03/21/Kobe.webp
+    alt: "Kobe"
 map_points:
   - name: "Yakushima Green Hotel"
     lat: 30.32676

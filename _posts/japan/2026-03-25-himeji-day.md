@@ -9,13 +9,20 @@ country: "JP"
 city: "Himeji"
 language: "es"
 header:
-  # teaser: "/assets/images/2026/03/25/Himeji.webp"
+  # teaser: /assets/images/2026/03/25/Himeji.webp
   teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mount_Shosha_Ropeway_-_panoramio.jpg/1280px-Mount_Shosha_Ropeway_-_panoramio.jpg"
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mount_Shosha_Ropeway_-_panoramio.jpg/1280px-Mount_Shosha_Ropeway_-_panoramio.jpg"
   caption: "By: 6940719 CC BY-SA 4.0"
   actions:
     - label: "More Info"
       url: "https://web.archive.org/web/20161026194546/http://www.panoramio.com/user/6940719?with_photo_id=72696427"
+video:
+  id: "zL7HU3D5IfI"
+  duration: "PT00H15M00S"
+images:
+  - id: "image1"
+    path: /assets/images/2026/03/25/Himeji.webp
+    alt: "Himeji"
 map_points:
   - name: "Mount Shosha Ropeway"
     lat: 34.8555

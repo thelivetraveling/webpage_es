@@ -9,13 +9,20 @@ country: "JP"
 city: "Okayama"
 language: "es"
 header:
-  # teaser: "/assets/images/2026/03/22/Okayama.webp"
+  # teaser: /assets/images/2026/03/22/Okayama.webp
   teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Okayama_st05s3200.jpg/1280px-Okayama_st05s3200.jpg"
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Okayama_st05s3200.jpg/1280px-Okayama_st05s3200.jpg"
   caption: "By 663highland, CC BY-SA 3.0"
   actions:
     - label: "More Info"
       url: "https://ja.wikipedia.org/wiki/user:663highland"
+video:
+  id: "W_Dgh_L6qCQ"
+  duration: "PT00H15M00S"
+images:
+  - id: "image1"
+    path: /assets/images/2026/03/22/Okayama.webp
+    alt: "Okayama"
 map_points:
   - name: "Shin-Kobe Station"
     lat: 34.7064

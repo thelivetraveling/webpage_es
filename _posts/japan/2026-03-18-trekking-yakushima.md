@@ -9,13 +9,20 @@ country: "JP"
 city: "Yakushima"
 language: "es"
 header:
-  # teaser: "/assets/images/2026/03/18/Yakushima.webp"
+  # teaser: /assets/images/2026/03/18/Yakushima.web
   teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Forest_in_Yakushima_50.jpg/1280px-Forest_in_Yakushima_50.jpg"
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Forest_in_Yakushima_50.jpg/1280px-Forest_in_Yakushima_50.jpg"
   caption: "By Σ64, CC BY-SA 3.0"
   actions:
     - label: "More Info"
       url: "https://ja.wikipedia.org/wiki/User:%CE%A364"
+video:
+  id: "17YvVR0QCZM"
+  duration: "PT00H15M00S"
+images:
+  - id: "image1"
+    path: /assets/images/2026/03/18/Yakushima.webp
+    alt: "Yakushima"
 map_points:
   - name: "Yakushima Green Hotel"
     lat: 30.32676
