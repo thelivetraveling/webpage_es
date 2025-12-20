@@ -4,41 +4,73 @@ title: "Esencia Gaditana"
 excerpt: "Un paseo desde la Plaza San Antonio hasta la Plaza España, explorando plazas, historia y museos en el corazón de Cádiz."
 date: 2021-07-02 09:00:00 +0200
 categories: ["spain"]
-tags: ["cadiz", "museo", "historia", "plaza", "arquitectura", "verano"]
+tags: ["cádiz", "museo", "historia", "plaza", "arquitectura", "verano"]
+country: "ES"
+city: "Cádiz"
+language: "es"
 header:
-  teaser: "/assets/images/2021/07/02/PlazaSanAntonio.webp"
-  overlay_image: "/assets/images/2021/07/02/PlazaSanAntonio.webp"
+  teaser: /assets/images/2021/07/02/PlazaSanAntonio.webp
+  overlay_image: /assets/images/2021/07/02/PlazaSanAntonio.webp
+video:
+  id: "QZtJftZVPSY"
+  duration: "PT15M30S"
+images:
+  - id: "image1"
+    path: /assets/images/2021/07/02/PlazaSanAntonio.webp
+    alt: "La plaza central de Cádiz"
+    license: "CC BY 4.0"
 map_points:
   - name: "El armador Casa palacio"
     lat: 36.5345
     lng: -6.2983
+    price_range: "$$"
+    rating: 4.5
+    visit_duration: "PT48H"
     type: "hotel"
-    mode: "transit"
+    mode: "driving"
   - name: "Plaza San Antonio"
     lat: 36.5348
     lng: -6.2989
+    price_range: "0"
+    rating: 3.0
+    visit_duration: "PT20M"
     type: "square"
     mode: "walking"
   - name: "Plaza la Mina"
     lat: 36.5354
     lng: -6.2970
+    price_range: "$"
+    rating: 3.0
+    visit_duration: "PT20M"
     type: "square"
     mode: "walking"
   - name: "Museo de Cádiz"
     lat: 36.5352
     lng: -6.2962
+    price_range: "$"
+    rating: 3.5
+    visit_duration: "PT01H00M"
     type: "museum"
     mode: "walking"
   - name: "Monumento a la Constitución de 1812"
     lat: 36.5354
     lng: -6.2931
+    price_range: "0"
+    rating: 3.5
+    visit_duration: "PT15M"
     type: "monument"
     mode: "walking"
   - name: "Plaza España"
     lat: 36.5353
     lng: -6.2932
+    price_range: "0"
+    rating: 4.0
+    visit_duration: "PT45M"
     type: "square"
     mode: "walking"
+faqs:
+  - question: "¿Cuánto tiempo necesito para visitar Cádiz Centro?"
+    answer: "Recomiendo dedicar al menos 1-2 días para explorar sus principales puntos turísticos, los jardines y las calles mas céntricas con calma."
 ---
 
 # **Cádiz Histórico: Un Paseo por la Cuna de la Libertad**
@@ -81,84 +113,6 @@ Entrar en el museo fue como sumergirse en las capas de historia de Cádiz. La pl
 El **Monumento a las Cortes de 1812**, popularmente conocido como Monumento a la Constitución de 1812 o de "La Pepa", fue erigido en 1912 para conmemorar el primer centenario de la histórica Carta Magna española promulgada en Cádiz. Obra del arquitecto Modesto López Otero y el escultor Aniceto Marinas, es de estilo neoclásico y simboliza los valores de libertad, justicia y ciudadanía.
 
 Desde lejos, el monumento domina la plaza con su imponente columnata semicircular y su alta torre central. Al acercarme, pude apreciar los detalles de las esculturas que representan a la Guerra, la Paz, la Agricultura y la Industria. Leer los nombres de los diputados doceañistas inscritos en el hemiciclo es un ejercicio de memoria histórica. Es un lugar que emana solemnidad y orgullo cívico.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TouristTrip",
-  "name": "Paseo por Cádiz",
-  "description": "Recorrido a pie por Cádiz visitando plazas, museo y monumentos históricos emblemáticos.",
-  "touristType": "Adult",
-  "hasPart": [
-    {
-      "@type": "Place",
-      "name": "El armador Casa palacio",
-      "description": "Construido en el siglo XVIII, refleja la arquitectura señorial gaditana y la actividad comercial histórica.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 36.5345,
-        "longitude": -6.2983
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Plaza San Antonio",
-      "description": "Plaza histórica con un ambiente acogedor, rodeada de edificios emblemáticos y cafés tradicionales.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 36.5348,
-        "longitude": -6.2989
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Plaza la Mina",
-      "description": "Espacio abierto del siglo XIX que combina historia y vida cotidiana con jardines y monumentos.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 36.5354,
-        "longitude": -6.2970
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Museo de Cádiz",
-      "description": "Museo con colecciones arqueológicas y artísticas que narran la historia de Cádiz y su patrimonio.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 36.5352,
-        "longitude": -6.2962
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Monumento a la Constitución de 1812",
-      "description": "Monumento conmemorativo que celebra la Constitución de Cádiz, símbolo del liberalismo español.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 36.5354,
-        "longitude": -6.2931
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Plaza España",
-      "description": "Plaza representativa del centro de Cádiz, punto de encuentro con arquitectura elegante y animada.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 36.5353,
-        "longitude": -6.2932
-      },
-      "image": ""
-    }
-  ]
-}
-</script>
 
 {% if page.map_points %}
   {% include google-maps.html %}

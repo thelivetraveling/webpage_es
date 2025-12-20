@@ -4,31 +4,61 @@ title: "De Cádiz a Granada"
 excerpt: "Un viaje que comienza en la playa de La Caleta, atraviesa la campiña andaluza y culmina en las históricas ciudades de Antequera y Granada."
 date: 2021-07-04 09:00:00 +0200
 categories: ["spain"]
-tags: ["playa", "antequera", "granada", "andalucia", "viaje", "costa"]
+tags: ["playa", "antequera", "granada", "andalucía", "viaje", "costa"]
+country: "ES"
+city: "Cádiz"
+language: "es"
 header:
-  teaser: "/assets/images/2021/07/04/PlazaDelRey.webp"
-  overlay_image: "/assets/images/2021/07/04/PlazaDelRey.webp"
+  teaser: /assets/images/2021/07/04/PlazaDelRey.webp
+  overlay_image: /assets/images/2021/07/04/PlazaDelRey.webp
+video:
+  id: "xaqADJfXk3U"
+  duration: "PT15M30S"
+images:
+  - id: "image1"
+    path: /assets/images/2021/07/04/PlazaDelRey.webp
+    alt: "La plaza del Rey"
+    license: "CC BY 4.0"
+  - id: "image2"
+    path: /assets/images/2021/07/04/PlayaDeLaCaleta.webp
+    alt: "Playa de la Caleta"
+    license: "CC BY 4.0"
 map_points:
   - name: "Playa de la Caleta"
     lat: 36.5319
     lng: -6.3057
-    type: "beach"
+    type: "default"
     mode: "walking"
+    price_range: "0"
+    rating: 4.0
+    visit_duration: "PT02H00M"
   - name: "Plaza del Rey"
     lat: 36.4766
     lng: -6.1967
+    price_range: "$$"
+    rating: 3.5
+    visit_duration: "PT45M"
     type: "square"
     mode: "walking"
   - name: "Antequera"
     lat: 37.0523
     lng: -4.5732
+    price_range: "$"
+    rating: 4.5
+    visit_duration: "PT01H45M"
     type: "default"
-    mode: "transit"
+    mode: "driving"
   - name: "Granada"
     lat: 37.1823
     lng: -3.6017
+    price_range: "0"
+    rating: 4.5
+    visit_duration: "PT01H15M"
     type: "default"
-    mode: "transit"
+    mode: "driving"
+faqs:
+  - question: "¿Cuánto tiempo necesito para visitar Cádiz Centro?"
+    answer: "Recomiendo dedicar al menos 1-2 días para explorar sus principales puntos turísticos, los jardines y las calles mas céntricas con calma."
 ---
 
 # **Del Mar a la Montaña: Ruta Andaluza hacia Granada**
@@ -63,62 +93,6 @@ Parar aquí, a solo media hora de Cádiz, fue un breve descanso para estirar las
 **Antequera**, declarada Conjunto Histórico-Artístico, es una ciudad milenaria estratégicamente situada en el centro geográfico de Andalucía. Es famosa por su **Conjunto Arqueológico de los Dólmenes** (Menga, Viera y El Romeral), Patrimonio de la Humanidad, y por su rico patrimonio renacentista y barroco, con más de una treintena de iglesias y conventos. Su peña de los Enamorados domina el paisaje.
 
 Llegar a Antequera al mediodía fue como entrar en un horno. El calor del interior en julio es intenso, pero seco. La visita al Dolmen de Menga es sobrecogedora; estar bajo esas losas de piedra de miles de años pone la piel de gallina. Después, perderse por sus calles empinadas hacia la alcazaba, con vistas a la vega, ayudó a entender por qué la llaman "el corazón de Andalucía". Su grandeza es serena y monumental.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TouristTrip",
-  "name": "De Cádiz a Granada",
-  "description": "Un viaje que comienza en la playa de La Caleta, atraviesa la campiña andaluza y culmina en Antequera y Granada.",
-  "touristType": "Adult",
-  "hasPart": [
-    {
-      "@type": "Place",
-      "name": "Playa de la Caleta",
-      "description": "Playa urbana emblemática de Cádiz entre los castillos de San Sebastián y Santa Catalina.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 36.5319,
-        "longitude": -6.3057
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Plaza del Rey",
-      "description": "Plaza céntrica en El Puerto de Santa María, con fuente ornamental y edificios históricos.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 36.4766,
-        "longitude": -6.1967
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Antequera",
-      "description": "Ciudad milenaria con el Conjunto Arqueológico de los Dólmenes y patrimonio renacentista y barroco.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 37.0523,
-        "longitude": -4.5732
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Granada",
-      "description": "Capital del Reino Nazarí, famosa por la Alhambra, barrios históricos y riqueza cultural diversa.",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 37.1823,
-        "longitude": -3.6017
-      },
-      "image": ""
-    }
-  ]
-}
-</script>
 
 {% if page.map_points %}
   {% include google-maps.html %}

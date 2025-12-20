@@ -5,40 +5,76 @@ excerpt: "Recorrido a pie por Cádiz visitando torres, mercados, catedrales y te
 date: 2021-07-03 09:00:00 +0200
 categories: ["spain"]
 tags: ["cádiz", "turismo", "historia", "gastronomía", "cultura"]
+country: "ES"
+city: "Cádiz"
+language: "es"
 header:
-  teaser: "/assets/images/2021/07/03/Catedral.webp"
-  overlay_image: "/assets/images/2021/07/03/Catedral.webp"
+  teaser: /assets/images/2021/07/03/Catedral.webp
+  overlay_image: /assets/images/2021/07/03/Catedral.webp
+video:
+  id: "jw4d5eFk7jo"
+  duration: "PT15M30S"
+images:
+  - id: "image1"
+    path: /assets/images/2021/07/03/Catedral.webp
+    alt: "Catedral de Cádiz"
+    license: "CC BY 4.0"
+  - id: "image2"
+    path: /assets/images/2021/07/03/FreiduriaLasFlores.webp
+    alt: "Freiduría Las Flores"
+    license: "CC BY 4.0"
 map_points:
   - name: "Torre Tavira"
     lat: 36.5322
     lng: -6.2985
+    price_range: "0"
+    rating: 3.5
+    visit_duration: "PT20M"
     type: "default"
     mode: "walking"
   - name: "Mercado Central de Abastos"
     lat: 36.5310
     lng: -6.2979
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT50M"
     type: "shop"
     mode: "walking"
-  - name: "Freiduria las Flores 1"
+  - name: "Freiduría las Flores 1"
     lat: 36.5310
     lng: -6.2970
+    price_range: "$$"
+    rating: 4.0
+    visit_duration: "PT50M"
     type: "restaurant"
     mode: "walking"
   - name: "Catedral de Cádiz"
     lat: 36.5291
     lng: -6.2952
+    price_range: "0"
+    rating: 4.5
+    visit_duration: "PT30M"
     type: "temple"
     mode: "walking"
   - name: "Teatro Romano de Cádiz"
     lat: 36.5285
     lng: -6.2936
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT50M"
     type: "monument"
     mode: "walking"
   - name: "Gran Teatro Falla"
     lat: 36.5339
     lng: -6.3024
+    price_range: "$"
+    rating: 3.5
+    visit_duration: "PT45M"
     type: "default"
     mode: "walking"
+faqs:
+  - question: "¿Cuánto tiempo necesito para visitar Cádiz Centro?"
+    answer: "Recomiendo dedicar al menos 1-2 días para explorar sus principales puntos turísticos, los jardines y las calles mas céntricas con calma."
 ---
 
 # Cádiz a pie
@@ -52,84 +88,6 @@ Explora Cádiz caminando por sus principales puntos históricos y culturales, de
 La Torre Tavira, construida en el siglo XVIII, es uno de los símbolos más emblemáticos de Cádiz. Servía como punto de vigilancia y observación marítima, ofreciendo vistas estratégicas sobre la bahía y la ciudad. Su importancia histórica radica en el comercio y la defensa durante la época de auge comercial gaditana.  
 
 Al subir la torre, uno siente la panorámica de la ciudad desplegarse frente a sus ojos. La cámara oscura proyecta en movimiento la vida cotidiana de Cádiz, dando una experiencia casi mágica de cómo la ciudad ha cambiado y a la vez preservado su esencia.  
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TouristTrip",
-  "name": "Cádiz a pie",
-  "description": "Recorrido a pie por Cádiz visitando torres, mercados, catedrales y teatros históricos",
-  "touristType": "Adult",
-  "hasPart": [
-    {
-      "@type": "Place",
-      "name": "Torre Tavira",
-      "description": "Torre del siglo XVIII con vistas estratégicas y cámara oscura que permite observar la ciudad",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 36.5322,
-        "longitude": -6.2985
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Mercado Central de Abastos",
-      "description": "Mercado histórico donde se vive la esencia gastronómica de Cádiz y la vida local",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 36.5310,
-        "longitude": -6.2979
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Freiduria las Flores 1",
-      "description": "Famosa freiduría que ofrece platos típicos gaditanos y tapas tradicionales",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 36.5310,
-        "longitude": -6.2970
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Catedral de Cádiz",
-      "description": "Catedral barroca y neoclásica que domina el casco histórico con su imponente cúpula",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 36.5291,
-        "longitude": -6.2952
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Teatro Romano de Cádiz",
-      "description": "Restos del teatro romano más antiguo de Hispania, testigo de la Cádiz clásica",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 36.5285,
-        "longitude": -6.2936
-      },
-      "image": ""
-    },
-    {
-      "@type": "Place",
-      "name": "Gran Teatro Falla",
-      "description": "Teatro histórico del siglo XX que acoge espectáculos y eventos culturales en Cádiz",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 36.5339,
-        "longitude": -6.3024
-      },
-      "image": ""
-    }
-  ]
-}
-</script>
 
 {% if page.map_points %}
   {% include google-maps.html %}
