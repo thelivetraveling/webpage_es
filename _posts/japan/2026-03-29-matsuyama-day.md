@@ -114,26 +114,6 @@ La excursión desde Imabari hasta Matsuyama recorre la costa norte de Shikoku en
 
 {% include video id="tujkoXI8rWM" provider="youtube" %}
 
-## JR Clement Inn Imabari
-
-El JR Clement Inn Imabari pertenece a la cadena de hoteles ferroviarios operados por JR Shikoku, inaugurado en 1998 como opción económica para viajeros de negocios y turistas que recorren la isla. Ubicado a dos minutos caminando de la estación, ofrece habitaciones compactas con camas occidentales, baño unitario y wifi gratuito. Su restaurante en planta baja sirve desayunos buffet estilo japonés y occidental, popular entre huéspedes que continúan hacia la ruta ciclista Shimanami Kaido al día siguiente.
-
-Salí del hotel sobre las siete y media de la mañana tras desayuno rápido. La habitación individual era pequeña pero funcional, con espacio suficiente para abrir maleta en el suelo. El baño seguía diseño modular típico japonés, con ducha separada de bañera prefabricada. El aire acondicionado funcionaba correctamente y las ventanas tenían cortinas opacas que bloqueaban luz exterior completamente.
-
-El personal hablaba inglés limitado pero suficiente para gestionar check-out y responder dudas básicas sobre transporte hacia Matsuyama. El edificio tiene máquinas expendedoras en cada planta y lavandería autoservicio en el segundo piso. Para viajeros que priorizan ubicación sobre lujo, cumple expectativas sin sorpresas destacables. Resulta ideal como base temporal antes de excursiones largas por Shikoku.
-
----
-
-## Imabari Station
-
-La estación de Imabari se estableció en 1920 como terminal de la línea Yosan, que recorre la costa norte de Shikoku conectando Takamatsu con Matsuyama. Su posición central en la ciudad la convierte en nudo de transporte para autobuses locales hacia el estrecho de Kurushima y la ruta ciclista Shimanami Kaido que cruza islas hasta Onomichi en Honshu. El edificio fue modernizado en 2005 manteniendo fachada tradicional compatible con el entorno urbano de baja altura característico de Imabari.
-
-Llegué a la estación caminando dos minutos desde el hotel. Compré billete en máquina automática con opción en inglés hacia Matsuyama, donde llegaría tras hora y media en tren limitado express. Los andenes estaban limpios y el sistema de información digital mostraba horarios precisos con minutos de retraso o adelanto en tiempo real.
-
-{% if page.map_points %}{% include google-maps.html %}{% endif %}
-
----
-
 ## Matsuyama Station
 
 La estación de Matsuyama fue inaugurada en 1927 como terminal occidental de la línea Yosan, enlazando la capital prefectural con Takamatsu y otras ciudades costeras de Shikoku. Su edificio actual data de 1995 tras reconstrucción que modernizó instalaciones manteniendo compatibilidad con red ferroviaria convencional y nuevos servicios express. La estación funciona como hub de transporte con conexiones de tranvía hacia centro histórico, Dogo Onsen y Matsuyama Castle.
@@ -141,6 +121,8 @@ La estación de Matsuyama fue inaugurada en 1927 como terminal occidental de la 
 Llegué sobre las nueve y media de la mañana. El trayecto desde Imabari había discurrido entre vistas al mar interior de Seto y pequeños pueblos costeros. Salí de la estación por puerta principal y tomé tranvía línea cinco hacia Okaido, parada más cercana al funicular que sube hasta Matsuyama Castle en monte Katsuyama.
 
 ---
+
+{% if page.map_points %}{% include google-maps.html %}{% endif %}
 
 ## Castillo de Matsuyama
 
