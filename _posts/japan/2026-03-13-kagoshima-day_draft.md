@@ -24,55 +24,64 @@ images:
     path: /assets/images/2026/03/13/Kagoshima.webp
     alt: "Un antiguo puerto"
 map_points:  
-  - name: "Smile Hotel - Hakata Ekimae"
-    lat: 33.5886
+  - id: "point1"
+    name: "Smile Hotel - Hakata Ekimae"
+    lat: 33.5879
     lng: 130.4168
     price_range: "$"
     rating: 4.0
     visit_duration: "PT45M"
     type: "hotel"
     mode: "walking"
-  - name: "Terukuni Shrine"
-    lat: 31.5962
-    lng: 130.5501
+  - id: "point2"
+    name: "Terukuni Shrine"
+    lat: 31.5946
+    lng: 130.5504
     price_range: "$"
     rating: 4.0
     visit_duration: "PT45M"
     type: "temple"
     mode: "transit"
-    transit_types: ["shinkansen"]
-  - name: "Kagoshima (Tsurumaru) Castle Ruins"
-    lat: 31.6003
-    lng: 130.5547
+    transit_types: ["train", "shinkansen"]
+  - id: "point3"
+    name: "Kagoshima (Tsurumaru) Castle Ruins"
+    lat: 31.5980
+    lng: 130.5540
     price_range: "$"
     rating: 4.0
     visit_duration: "PT45M"
     type: "castle"
     mode: "walking"
-  - name: "Shoko Shuseikan Museum"
-    lat: 31.6189
-    lng: 130.5761
+  - id: "point4"
+    name: "Shoko Shuseikan Museum"
+    lat: 31.6173
+    lng: 130.5769
     price_range: "$"
     rating: 4.0
     visit_duration: "PT45M"
     type: "museum"
     mode: "walking"
-  - name: "Iso Swimming Beach"
-    lat: 31.6161
-    lng: 130.5756
+  - id: "point5"
+    name: "Iso Swimming Beach"
+    lat: 31.6145
+    lng: 130.5754
     price_range: "$"
     rating: 4.0
     visit_duration: "PT45M"
     type: "default"
     mode: "walking"
-  - name: "Statue of Okubo Toshimichi"
-    lat: 31.5880
-    lng: 130.5462
+  - id: "point6"
+    name: "Statue of Okubo Toshimichi"
+    lat: 31.5866
+    lng: 130.5461
     price_range: "$"
     rating: 4.0
     visit_duration: "PT45M"
     type: "default"
     mode: "walking"
+faqs:
+  - question: "¿Merece la pena ir a visitar las ruinas del castillo de Kagoshima?"
+    answer: "Depende mucho de si te gusta la historia o no, la verdad es que no es tan espectacular como otros castillos de Japón, pero es interesante ver toda la historia que tiene detrás y por supuesto es un sitio enorme que merece la pena visitar por lo bien cuidado que esta."
 ---  
 
 # Kagoshima y Sakurajima  

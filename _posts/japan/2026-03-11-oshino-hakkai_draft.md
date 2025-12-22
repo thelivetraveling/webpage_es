@@ -25,7 +25,8 @@ images:
     alt: "El sitio de los ocho lagos"
     license: "CC BY 4.0"
 map_points:
-  - name: "Asakusa Station"
+  - id: "point1"
+    name: "Asakusa Station"
     lat: 35.7121
     lng: 139.7983
     price_range: "$"
@@ -33,7 +34,8 @@ map_points:
     visit_duration: "PT45M"
     type: "default"
     mode: "walking"
-  - name: "Kanda Station"
+  - id: "point2"
+    name: "Kanda Station"
     lat: 35.6919
     lng: 139.7709
     price_range: "$"
@@ -42,7 +44,8 @@ map_points:
     type: "default"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
-  - name: "Ōtsuki Station"
+  - id: "point3"
+    name: "Ōtsuki Station"
     lat: 35.6134
     lng: 138.9427
     price_range: "$"
@@ -51,7 +54,8 @@ map_points:
     type: "default"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
-  - name: "Fujisan Station"
+  - id: "point4"
+    name: "Fujisan Station"
     lat: 35.4838
     lng: 138.7954
     price_range: "$"
@@ -60,7 +64,8 @@ map_points:
     type: "default"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
-  - name: "Oshino hakkai"
+  - id: "point5"
+    name: "Oshino hakkai"
     lat: 35.4606
     lng: 138.8330
     price_range: "$"
@@ -69,6 +74,9 @@ map_points:
     type: "default"
     mode: "transit"
     transit_types: ["train", "shinkansen", "bus"]
+faqs:
+  - question: "¿Cuanto tiempo se tarda de media en llegar a Oshino Hakkai?"
+    answer: "Pues la respuesta corta es al rededor de 3 horas, la larga, es que depende mucho de la ultima parte del trayecto y del tiempo, por que se hace en autobus y depende de si esta lloviendo o nevando o soleado."
 ---
 
 # Oshino Hakkai y los Ocho Estanques del Fuji

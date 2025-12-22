@@ -2,7 +2,7 @@
 layout: single
 title: "Yakushima Relax"
 excerpt: "De Yakushima Green Hotel al Hirauchi Kaichu Onsen, experiencia de aguas termales frente al mar."
-date: "2026-03-19 07:00:00 +0200"
+date: "2026-03-20 07:00:00 +0200"
 categories: ["japan"]
 tags: ["Yakushima","onsen","relax","naturaleza","termas"]
 country: "JP"
@@ -24,7 +24,8 @@ images:
     path: /assets/images/2026/03/20/Yakushima.webp
     alt: "Yakushima"
 map_points:
-  - name: "Yakushima Green Hotel"
+  - id: "image1"
+    name: "Yakushima Green Hotel"
     lat: 30.32676
     lng: 130.65827
     price_range: "$$"
@@ -32,7 +33,8 @@ map_points:
     visit_duration: "PT45M"
     type: "hotel"
     mode: "walking"
-  - name: "Hirauchi Kaichu Onsen"
+  - id: "image2"
+    name: "Hirauchi Kaichu Onsen"
     lat: 30.2310
     lng: 130.4839
     price_range: "$"
@@ -40,6 +42,9 @@ map_points:
     visit_duration: "PT45M"
     type: "default"
     mode: "walking"
+faqs:
+  - question: "¿Tengo que estar pendiente de las mareas para poder utilizar Hirauchi Kaichu Onsen?"
+    answer: "Definitivamente si, es altamente recomendable que revises la marea en cualquier pagina de internet para asegurarte de poder visitar las piscinas de este baño publico."
 ---
 
 # Yakushima Relax

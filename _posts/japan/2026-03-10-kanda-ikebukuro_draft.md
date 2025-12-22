@@ -25,7 +25,8 @@ images:
     alt: "Para los amantes de la lectura"
     license: "CC BY 4.0"
 map_points:  
-  - name: "Origami Museum"
+  - id: "point1"
+    name: "Origami Museum"
     lat: 35.7048
     lng: 139.7983
     price_range: "$"
@@ -33,7 +34,8 @@ map_points:
     visit_duration: "PT45M"
     type: "museum"
     mode: "walking"
-  - name: "Hijiri Bridge"
+  - id: "point2"
+    name: "Hijiri Bridge"
     lat: 35.6997
     lng: 139.7655
     price_range: "$"
@@ -42,7 +44,8 @@ map_points:
     type: "default"
     mode: "transit"
     transit_types: ["subway"]
-  - name: "Kanda Daruma (Dulces Japoneces)"
+  - id: "point3"
+    name: "Kanda Daruma (Dulces Japoneces)"
     lat: 35.6943
     lng: 139.7650
     price_range: "$"
@@ -50,15 +53,8 @@ map_points:
     visit_duration: "PT45M"
     type: "shop"
     mode: "walking"
-  - name: "Inicio Jimbocho Book Town"
-    lat: 35.6957
-    lng: 139.7555
-    price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
-    type: "shop"
-    mode: "walking"
-  - name: "Fin Jimbocho Book Town"
+  - id: "point4"
+    name: "Inicio Jimbocho Book Town"
     lat: 35.6955
     lng: 139.7579
     price_range: "$"
@@ -66,15 +62,27 @@ map_points:
     visit_duration: "PT45M"
     type: "shop"
     mode: "walking"
-  - name: "Canal Cafe"
+  - id: "point5"
+    name: "Fin Jimbocho Book Town"
+    lat: 35.6957
+    lng: 139.7555
+    price_range: "$"
+    rating: 4.0
+    visit_duration: "PT45M"
+    type: "shop"
+    mode: "walking"
+  - id: "point6"
+    name: "Canal Cafe"
     lat: 35.70013
     lng: 139.7425
     price_range: "$"
     rating: 4.0
     visit_duration: "PT45M"
     type: "restaurant"
-    mode: "walking"
-  - name: "Sunshine City"  
+    mode: "transit"
+    transit_types: ["subway"]
+  - id: "point7"
+    name: "Sunshine City"  
     lat: 35.7295
     lng: 139.7186
     price_range: "$"
@@ -82,8 +90,8 @@ map_points:
     visit_duration: "PT45M"
     type: "shop"
     mode: "transit"
-    transit_types: ["subway"]
-  - name: "Ikebukuro Mikado Game Center"
+  - id: "point8"
+    name: "Ikebukuro Mikado Game Center"
     lat: 35.7323
     lng: 139.7136
     price_range: "$"
@@ -91,7 +99,8 @@ map_points:
     visit_duration: "PT45M"
     type: "shop"
     mode: "walking"
-  - name: "Barrio de ocio Adulto"
+  - id: "point9"
+    name: "Barrio de ocio Adulto"
     lat: 35.7319
     lng: 139.7094
     price_range: "$"
@@ -99,6 +108,9 @@ map_points:
     visit_duration: "PT45M"
     type: "default"
     mode: "walking"
+faqs:
+  - question: "¿Cual es la mejor hora para visitar el barrio rojo?"
+    answer: "Realmente no hay una hora mejor para visitar el barrio rojo, pero claramente si quieres verlo en todo su esplendor a partir de las 22 horas es cuando encontraras mas movimiento."
 ---  
 
 # Ikebukuro y Jimbocho  

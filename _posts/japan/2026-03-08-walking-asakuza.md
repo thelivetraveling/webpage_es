@@ -21,7 +21,8 @@ images:
     license: "CC BY 4.0"
 map_points:
     # "driving" "walking" "bicycling" "transit"
-  - name: "Senso-ji Temple"
+  - id: "point1"
+    name: "Senso-ji Temple"
     lat: 35.7110
     lng: 139.7963
     price_range: "$"
@@ -29,7 +30,8 @@ map_points:
     visit_duration: "PT45M"
     type: "temple"
     mode: "walking"
-  - name: "Santuario de Asakusa"
+  - id: "point2"
+    name: "Santuario de Asakusa"
     lat: 35.7149
     lng: 139.7974
     price_range: "$"
@@ -37,7 +39,8 @@ map_points:
     visit_duration: "PT45M"
     type: "temple"
     mode: "walking"
-  - name: "Asakusa Nishi-sando Shopping Street"
+  - id: "point3"
+    name: "Asakusa Nishi-sando Shopping Street"
     lat: 35.7147
     lng: 139.7952
     price_range: "$"
@@ -45,7 +48,8 @@ map_points:
     visit_duration: "PT45M"
     type: "shop"
     mode: "walking"
-  - name: "Asakusa Hanayashiki"
+  - id: "point4"
+    name: "Asakusa Hanayashiki"
     lat: 35.7151
     lng: 139.7950
     price_range: "$"
@@ -53,7 +57,8 @@ map_points:
     visit_duration: "PT45M"
     type: "default"
     mode: "walking"
-  - name: "Taito Kuritsu Fuji Park"
+  - id: "point5"
+    name: "Taito Kuritsu Fuji Park"
     lat: 35.7185
     lng: 139.7977
     price_range: "$"
@@ -61,7 +66,8 @@ map_points:
     visit_duration: "PT45M"
     type: "park"
     mode: "walking"
-  - name: "Taito Kuritsu Nihonzutsumi Park"
+  - id: "point6"
+    name: "Taito Kuritsu Nihonzutsumi Park"
     lat: 35.7239
     lng: 139.7984
     price_range: "$"
@@ -69,7 +75,8 @@ map_points:
     visit_duration: "PT45M"
     type: "park"
     mode: "walking"
-  - name: "Yoshiwara Park"
+  - id: "point7"
+    name: "Yoshiwara Park"
     lat: 35.7249
     lng: 139.7953
     price_range: "$"
@@ -77,7 +84,8 @@ map_points:
     visit_duration: "PT45M"
     type: "park"
     mode: "walking"
-  - name: "Santuario Yoshiwara"
+  - id: "point8"
+    name: "Santuario Yoshiwara"
     lat: 35.7227
     lng: 139.7934
     price_range: "$"
@@ -85,7 +93,8 @@ map_points:
     visit_duration: "PT45M"
     type: "temple"
     mode: "walking"
-  - name: "Men Mitsui"
+  - id: "point9"
+    name: "Men Mitsui"
     lat: 35.7095
     lng: 139.7904
     price_range: "$"
@@ -94,7 +103,8 @@ map_points:
     type: "restaurant"
     mode: "transit"
     transit_types: ["train"]
-  - name: "Calle de utensilios de cocina Kappabashi"
+  - id: "point10"
+    name: "Calle de utensilios de cocina Kappabashi"
     lat: 35.7104
     lng: 139.7881
     price_range: "$"
@@ -102,7 +112,8 @@ map_points:
     visit_duration: "PT45M"
     type: "shop"
     mode: "walking"
-  - name: "Lawson Uguisudani Station"
+  - id: "point11"
+    name: "Lawson Uguisudani Station"
     lat: 35.7225
     lng: 139.7777
     price_range: "$"
@@ -111,7 +122,8 @@ map_points:
     type: "shop"
     mode: "transit"
     transit_types: ["train"]
-  - name: "Ginza Yanaka"
+  - id: "point12"
+    name: "Ginza Yanaka"
     lat: 35.7276
     lng: 139.7658
     price_range: "$"
@@ -120,6 +132,11 @@ map_points:
     type: "shop"
     mode: "transit"
     transit_types: ["train"]
+faqs:
+  - question: "¿Cuánto tiempo necesito para visitar Senso-ji?"
+    answer: "Recomiendo dedicar al menos 1-2 horas para explorar el templo, los jardines y la calle comercial Nakamise-dori con calma."
+  - question: "¿Merece la pena visitar Yoshiwara Park?"
+    answer: "Definitivamente si, es un espacio muy tranquilo y con un montón de colores para disfrutar un par de horas."
 ---
 
 # Mi día en Asakusa y sus tesoros escondidos

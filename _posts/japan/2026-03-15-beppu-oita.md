@@ -23,7 +23,8 @@ images:
     path: /assets/images/2026/03/15/Beppu.webp
     alt: "La ciudad de los 7 infiernos"
 map_points:
-  - name: "Smile Hotel - Hakata Ekimae"
+  - id: "point1"
+    name: "Smile Hotel - Hakata Ekimae"
     lat: 33.5879
     lng: 130.4168
     price_range: "$"
@@ -31,7 +32,8 @@ map_points:
     visit_duration: "PT45M"
     type: "hotel"
     mode: "walking"
-  - name: "Hakata Station"
+  - id: "image2"
+    name: "Hakata Station"
     lat: 33.5899
     lng: 130.4193
     price_range: "$"
@@ -39,7 +41,8 @@ map_points:
     visit_duration: "PT45M"
     type: "station"
     mode: "walking"
-  - name: "Beppu Station"
+  - id: "image3"
+    name: "Beppu Station"
     lat: 33.2797
     lng: 131.5000
     price_range: "$"
@@ -48,7 +51,8 @@ map_points:
     type: "station"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
-  - name: "Beppu Park"
+  - id: "image4"
+    name: "Beppu Park"
     lat: 33.2800
     lng: 131.4913
     price_range: "$"
@@ -56,7 +60,8 @@ map_points:
     visit_duration: "PT45M"
     type: "park"
     mode: "walking"
-  - name: "Beppu Onsen Hoyoland"
+  - id: "image5"
+    name: "Beppu Onsen Hoyoland"
     lat: 33.3147
     lng: 131.4581
     price_range: "$"
@@ -64,7 +69,8 @@ map_points:
     visit_duration: "PT45M"
     type: "default"
     mode: "walking"
-  - name: "Beppu Jigoku"
+  - id: "image6"
+    name: "Beppu Jigoku"
     lat: 33.3158
     lng: 131.4698
     price_range: "$"
@@ -72,7 +78,8 @@ map_points:
     visit_duration: "PT45M"
     type: "museum"
     mode: "walking"
-  - name: "Kamado Jigoku"
+  - id: "image7"
+    name: "Kamado Jigoku"
     lat: 33.3162
     lng: 131.4729
     price_range: "$"
@@ -80,7 +87,8 @@ map_points:
     visit_duration: "PT45M"
     type: "museum"
     mode: "walking"
-  - name: "Beppudaigaku Station"
+  - id: "image8"
+    name: "Beppudaigaku Station"
     lat: 33.3126
     lng: 131.4993
     price_range: "$"
@@ -88,7 +96,8 @@ map_points:
     visit_duration: "PT45M"
     type: "station"
     mode: "walking"
-  - name: "Estación de Oita"
+  - id: "image9"
+    name: "Estación de Oita"
     lat: 33.2323
     lng: 131.6057
     price_range: "$"
@@ -97,6 +106,9 @@ map_points:
     type: "station"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
+faqs:
+  - question: "¿Cuanto tiempo se necesita para visitar Beppu y Oita?"
+    answer: "La verdad es que si quieres solamente visitar los principales puntos de estas ciudades con un día para las 2 es suficiente, pero si quieres detenerte a ver sus preciosas calles y perderte por ellas yo te recomiendo como mínimo 1 día y medio para Beppu y otro día y medio para Oita."
 ---
 
 # Beppu y sus Infiernos: Un Viaje por las Aguas Termales de Kyushu

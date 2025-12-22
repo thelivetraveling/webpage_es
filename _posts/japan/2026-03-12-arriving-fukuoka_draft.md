@@ -24,7 +24,8 @@ images:
     path: /assets/images/2026/03/12/Fukuoka.webp
     alt: "El Tokio del sur de Japon"
 map_points:
-  - name: "Resol Posthel TOKYO Asakuza"
+  - id: "point1"
+    name: "Resol Posthel TOKYO Asakuza"
     lat: 35.7134
     lng: 139.7914
     price_range: "$"
@@ -32,7 +33,8 @@ map_points:
     visit_duration: "PT45M"
     type: "hotel"
     mode: "walking"
-  - name: "Nihombashi Station"
+  - id: "point2"
+    name: "Nihombashi Station"
     lat: 35.6821
     lng: 139.7747
     price_range: "$"
@@ -41,7 +43,8 @@ map_points:
     type: "station"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
-  - name: "Hakata Station"
+  - id: "point3"
+    name: "Hakata Station"
     lat: 33.5900
     lng: 130.4207
     price_range: "$"
@@ -50,7 +53,8 @@ map_points:
     type: "station"
     mode: "transit"
     transit_types: ["shinkansen"]
-  - name: "Canal City Hakata"
+  - id: "point4"
+    name: "Canal City Hakata"
     lat: 33.5895
     lng: 130.4109
     price_range: "$"
@@ -58,7 +62,8 @@ map_points:
     visit_duration: "PT45M"
     type: "shop"
     mode: "walking"
-  - name: "Smile Hotel - Hakata Ekimae"
+  - id: "point5"
+    name: "Smile Hotel - Hakata Ekimae"
     lat: 33.5879
     lng: 130.4167
     price_range: "$"
@@ -66,7 +71,8 @@ map_points:
     visit_duration: "PT45M"
     type: "hotel"
     mode: "walking"
-  - name: "Kushida Shrine"
+  - id: "point6"
+    name: "Kushida Shrine"
     lat: 33.5933
     lng: 130.4111
     price_range: "$"
@@ -74,7 +80,8 @@ map_points:
     visit_duration: "PT45M"
     type: "temple"
     mode: "walking"
-  - name: "Kawataro Nakasu"
+  - id: "point7"
+    name: "Kawataro Nakasu"
     lat: 33.5900
     lng: 130.4092
     price_range: "$"
@@ -82,7 +89,8 @@ map_points:
     visit_duration: "PT45M"
     type: "restaurant"
     mode: "walking"
-  - name: "Fuku-Haku Deai Bridge"
+  - id: "point8"
+    name: "Fuku-Haku Deai Bridge"
     lat: 33.5921
     lng: 130.4050
     price_range: "$"
@@ -90,6 +98,9 @@ map_points:
     visit_duration: "PT45M"
     type: "default"
     mode: "walking"
+faqs:
+  - question: "¿Cuanto tiempo es necesario para recorrer Canal City Hakata?"
+    answer: "Es un centro comercial bastante grande, la verdad es que depende de tus gustos, pero si eres de los frikis como yo al menos es necesario dedicarle 2 horas, si te gusta mas la moda a lo mejor le dedicaría un hora mas."
 ---
 
 # De Tokio a Fukuoka: Cambio de Isla

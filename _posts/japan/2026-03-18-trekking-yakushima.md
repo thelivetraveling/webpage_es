@@ -24,7 +24,8 @@ images:
     path: /assets/images/2026/03/18/Yakushima.webp
     alt: "Yakushima"
 map_points:
-  - name: "Yakushima Green Hotel"
+  - id: "image1"
+    name: "Yakushima Green Hotel"
     lat: 30.32676
     lng: 130.65827
     price_range: "$$"
@@ -32,7 +33,8 @@ map_points:
     visit_duration: "PT45M"
     type: "hotel"
     mode: "walking"
-  - name: "Arakawa Three-way Junction"  
+  - id: "image2"
+    name: "Arakawa Three-way Junction"  
     lat: 30.3169
     lng: 130.5863
     price_range: "$"
@@ -41,7 +43,8 @@ map_points:
     type: "default"
     mode: "driving"
     transit_types: ["bus"]
-  - name: "Arakawa Trail Start"
+  - id: "image3"
+    name: "Arakawa Trail Start"
     lat: 30.3395
     lng: 130.5954
     price_range: "$"
@@ -49,6 +52,9 @@ map_points:
     visit_duration: "PT45M"
     type: "default"
     mode: "walking"
+faqs:
+  - question: "¿Como de preparado físicamente hay que ir a Yakushima para hacer Trekking?"
+    answer: "La verdad es que me esperaba que sería mas fácil realizar algunas rutas, mi consejo es prepararse un mes antes por tus rutas de confianza antes de llegar a Yakushima."
 ---
 
 # Ruta Arakawa Yakushima

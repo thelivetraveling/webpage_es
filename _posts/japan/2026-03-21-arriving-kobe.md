@@ -24,7 +24,8 @@ images:
     path: /assets/images/2026/03/21/Kobe.webp
     alt: "Kobe"
 map_points:
-  - name: "Yakushima Green Hotel"
+  - id: "image1"
+    name: "Yakushima Green Hotel"
     lat: 30.32676
     lng: 130.65827
     price_range: "$"
@@ -32,7 +33,8 @@ map_points:
     visit_duration: "PT45M"
     type: "hotel"
     mode: "walking"
-  - name: "Yakushima Airport"
+  - id: "image2"
+    name: "Yakushima Airport"
     lat: 30.3846
     lng: 130.6603
     price_range: "$"
@@ -40,7 +42,8 @@ map_points:
     visit_duration: "PT45M"
     type: "default"
     mode: "driving"
-  - name: "Fukuoka Airport"  
+  - id: "image3"
+    name: "Fukuoka Airport"  
     lat: 33.5971
     lng: 130.4483
     price_range: "$"
@@ -49,7 +52,8 @@ map_points:
     type: "default"
     mode: "transit"
     transit_types: ["flight"]
-  - name: "Hakata Station"
+  - id: "image4"
+    name: "Hakata Station"
     lat: 33.5900
     lng: 130.4207
     price_range: "$"
@@ -58,7 +62,8 @@ map_points:
     type: "station"
     mode: "transit"
     transit_types: ["train"]
-  - name: "Shin-Kobe Station"
+  - id: "image5"
+    name: "Shin-Kobe Station"
     lat: 34.7061
     lng: 135.1959
     price_range: "$"
@@ -67,7 +72,8 @@ map_points:
     type: "station"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
-  - name: "Parque Meriken"
+  - id: "image6"
+    name: "Parque Meriken"
     lat: 34.6821
     lng: 135.1883
     price_range: "$"
@@ -75,7 +81,8 @@ map_points:
     visit_duration: "PT45M"
     type: "park"
     mode: "walking"
-  - name: "Hotel Hotel Juraku"
+  - id: "image7"
+    name: "Hotel Hotel Juraku"
     lat: 34.6810
     lng: 135.1797
     price_range: "$$"
@@ -84,6 +91,9 @@ map_points:
     type: "hotel"
     mode: "transit"
     transit_types: ["train", "shinkansen", "bus"]
+faqs:
+  - question: "¿Carne de Wagyu, de Kobe o de Hida?"
+    answer: "La verdad es que esta pregunta me la hacen mucho, y la respuesta es siempre la misma, da igual, las dos son excelentes, al final la cosa va de gustos y aunque me gustan las 2, mi preferida es la Hida."
 ---
 
 # De Yakushima a Kobe

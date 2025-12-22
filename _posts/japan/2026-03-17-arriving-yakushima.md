@@ -24,7 +24,8 @@ images:
     path: /assets/images/2026/03/17/Yakushima.webp
     alt: "Yakushima"
 map_points:
-  - name: "Smile Hotel - Hakata Ekimae"
+  - id: "image1"
+    name: "Smile Hotel - Hakata Ekimae"
     lat: 33.5879
     lng: 130.4168
     price_range: "$"
@@ -32,7 +33,8 @@ map_points:
     visit_duration: "PT45M"
     type: "hotel"
     mode: "walking"
-  - name: "Fukuokakuko Airport Station"
+  - id: "image2"
+    name: "Fukuokakuko Airport Station"
     lat: 33.5972
     lng: 130.4483
     price_range: "$"
@@ -41,7 +43,8 @@ map_points:
     type: "default"
     mode: "transit"
     transit_types: ["train"]
-  - name: "Yakushima Airport"
+  - id: "image3"
+    name: "Yakushima Airport"
     lat: 30.3846
     lng: 130.6603
     price_range: "$"
@@ -50,7 +53,8 @@ map_points:
     type: "default"
     mode: "transit"
     transit_types: ["flight"]
-  - name: "Yakushima Green Hotel"
+  - id: "image4"
+    name: "Yakushima Green Hotel"
     lat: 30.32676
     lng: 130.65827
     price_range: "$$"
@@ -58,7 +62,8 @@ map_points:
     visit_duration: "PT45M"
     type: "hotel"
     mode: "driving"
-  - name: "Clear Coin Laundry"
+  - id: "image5"
+    name: "Clear Coin Laundry"
     lat: 30.3093
     lng: 130.6459
     price_range: "$"
@@ -66,6 +71,9 @@ map_points:
     visit_duration: "PT45M"
     type: "default"
     mode: "walking"
+faqs:
+  - question: "¿Es mejor usar el Ferry o el Avion para llegar a Yakushima?"
+    answer: "Dependerá mucho del tiempo de que dispongas para visitar esta preciosa isla, pero yo siempre recomendaré el avión aunque el aterrizaje con el viento sea un poco complicado, prefiero el aire a el agua."
 ---
 
 # Llegada a Yakushima

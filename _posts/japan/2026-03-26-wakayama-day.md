@@ -24,7 +24,7 @@ images:
     alt: "vacio"
     license: "CC BY 4.0"
 map_points:
-  - id: "point-1"
+  - id: "point1"
     name: "Kobe Hotel Juraku"
     lat: 34.68131
     lng: 135.17990
@@ -33,7 +33,7 @@ map_points:
     visit_duration: "PT24H"
     type: "hotel"
     mode: "walking"
-  - id: "point-2"
+  - id: "point2"
     name: "Kobe Station"
     lat: 34.67972
     lng: 135.17827
@@ -43,7 +43,7 @@ map_points:
     type: "station"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
-  - id: "point-3"
+  - id: "point3"
     name: "Wakayama Station"
     lat: 34.23224
     lng: 135.19113
@@ -53,7 +53,7 @@ map_points:
     type: "station"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
-  - id: "point-4"
+  - id: "point4"
     name: "Castillo de Wakayama"
     lat: 34.22784
     lng: 135.17147
@@ -63,7 +63,7 @@ map_points:
     type: "castle"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
-  - id: "point-5"
+  - id: "point5"
     name: "Kuroshio Market"
     lat: 34.15401
     lng: 135.17600

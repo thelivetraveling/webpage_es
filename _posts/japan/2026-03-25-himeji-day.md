@@ -24,7 +24,8 @@ images:
     path: /assets/images/2026/03/25/Himeji.webp
     alt: "Himeji"
 map_points:
-  - name: "Hotel Hotel Juraku"
+  - id: "image1"
+    name: "Hotel Hotel Juraku"
     lat: 34.6810
     lng: 135.1797
     price_range: "$$"
@@ -32,7 +33,8 @@ map_points:
     visit_duration: "PT24H00M"
     type: "hotel"
     mode: "walking"
-  - name: "Kobe Station"
+  - id: "image2"
+    name: "Kobe Station"
     lat: 34.6793
     lng: 135.1778
     price_range: "$"
@@ -40,7 +42,8 @@ map_points:
     visit_duration: "PT45M"
     type: "station"
     mode: "walking"
-  - name: "Mount Shosha Ropeway"
+  - id: "image3"
+    name: "Mount Shosha Ropeway"
     lat: 34.8785
     lng: 134.6667
     price_range: "$"
@@ -49,7 +52,8 @@ map_points:
     type: "default"
     mode: "transit"
     transit_types: ["train", "shinkansen", "bus"]
-  - name: "Engyoji"
+  - id: "image4"
+    name: "Engyoji"
     lat: 34.8890
     lng: 134.66044
     price_range: "$"
@@ -57,7 +61,8 @@ map_points:
     visit_duration: "PT45M"
     type: "temple"
     mode: "walking"
-  - name: "Himeji Castle"
+  - id: "image5"
+    name: "Himeji Castle"
     lat: 34.8358
     lng: 134.6927
     price_range: "$"
@@ -65,7 +70,8 @@ map_points:
     visit_duration: "PT45M"
     type: "castle"
     mode: "walking"
-  - name: "Himeji Station"
+  - id: "image6"
+    name: "Himeji Station"
     lat: 34.8275
     lng: 134.69030
     price_range: "$"
@@ -73,6 +79,9 @@ map_points:
     visit_duration: "PT45M"
     type: "castle"
     mode: "walking"
+faqs:
+  - question: "Cuantos días hacen falta para visitar Himeji?"
+    answer: "Como siempre depende, depende del tiempo que tenga, depende de tus gustos, pero definitivamente si la quieres visitar bien, y disfrutar de sus rincones, mínimo hacen falta 2 días para verla con calma."
 ---
 
 # **Montaña Shosha a Himeji: Cumbres Espirituales y Marfil Bélico**

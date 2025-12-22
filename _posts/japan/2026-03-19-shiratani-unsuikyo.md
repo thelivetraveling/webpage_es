@@ -24,7 +24,8 @@ images:
     path: /assets/images/2026/03/19/Yakushima.webp
     alt: "Yakushima"
 map_points:
-  - name: "Yakushima Green Hotel"
+  - id: "image1"
+    name: "Yakushima Green Hotel"
     lat: 30.32676
     lng: 130.65827
     price_range: "$$"
@@ -32,7 +33,8 @@ map_points:
     visit_duration: "PT45M"
     type: "hotel"
     mode: "walking"
-  - name: "Desfiladero de Shiratani Unsuikyo"
+  - id: "image2"
+    name: "Desfiladero de Shiratani Unsuikyo"
     lat: 30.3800
     lng: 130.5742
     price_range: "$"
@@ -40,6 +42,9 @@ map_points:
     visit_duration: "PT45M"
     type: "park"
     mode: "walking"
+faqs:
+  - question: "¿Que equipamiento hay que llevar a Yakushima para hacer Trekking?"
+    answer: "Pues en la isla tienen bastantes empresas que se dedican a alquilar material para hacer trekking, pero obviamente, el material que alquilan es para hacer rutas de un día, si quieres hacer una travesía mas larga, creo que es mejor llevarse tu propio material, en la isla se pueden alquilar botas, mochilas, cubre mochilas, bastones, etc."
 ---
 
 # Aventura Yakushima

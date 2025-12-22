@@ -28,7 +28,7 @@ images:
     alt: "Puerta este del Jardín"
     license: "CC BY 4.0"
 map_points:
-  - id: "point-1"
+  - id: "point1"
     name: "Kobe Hotel Juraku"
     lat: 34.68131
     lng: 135.17990
@@ -37,7 +37,7 @@ map_points:
     visit_duration: "PT24H"
     type: "hotel"
     mode: "walking"
-  - id: "point-2"
+  - id: "point2"
     name: "Kobe Station"
     lat: 34.67972
     lng: 135.17827
@@ -46,17 +46,17 @@ map_points:
     visit_duration: "PT35M"
     type: "station"
     mode: "walking"
-  - id: "point-3"
-    name: "Maiko Station"
-    lat: 34.63369
-    lng: 135.03375
+  - id: "point3"
+    name: "Okayama Station"
+    lat: 34.66616
+    lng: 133.91775
     price_range: "0"
     rating: 3.5
     visit_duration: "PT45M"
     type: "station"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
-  - id: "point-4"
+  - id: "point4"
     name: "Anabuki Arena"
     lat: 34.35431
     lng: 134.04663
@@ -64,8 +64,9 @@ map_points:
     rating: 4.5
     visit_duration: "PT30M"
     type: "square"
-    mode: "walking"
-  - id: "point-5"
+    mode: "transit"
+    transit_types: ["train", "shinkansen"]
+  - id: "point5"
     name: "Castillo de Takamatsu"
     lat: 34.34970
     lng: 134.05139
@@ -74,7 +75,7 @@ map_points:
     visit_duration: "PT01H"
     type: "castle"
     mode: "walking"
-  - id: "point-6"
+  - id: "point6"
     name: "Ritsurin Garden"
     lat: 34.33999
     lng: 134.04584
@@ -83,7 +84,7 @@ map_points:
     visit_duration: "PT03H"
     type: "park"
     mode: "walking"
-  - id: "point-7"
+  - id: "point7"
     name: "Imabari Station"
     lat: 34.06435
     lng: 132.99391
@@ -93,7 +94,7 @@ map_points:
     type: "station"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
-  - id: "point-8"
+  - id: "point8"
     name: "JR Clement Inn Imabari"
     lat: 34.06515
     lng: 132.99342
@@ -129,17 +130,18 @@ La limpieza era impecable y el onsen privado en la planta superior resultó un p
 
 La estación de Kobe es un nudo ferroviario fundamental en la región de Kansai, inaugurada en 1874 como parte de la expansión del ferrocarril en la era Meiji. Conecta líneas locales de JR West con servicios Shinkansen que enlazan Osaka, Kioto e Hiroshima. Su arquitectura ha evolucionado desde un modesto edificio de madera hasta un complejo moderno con centros comerciales subterráneos y accesos directos a autobuses urbanos e interurbanos.
 
-Salí del hotel sobre las ocho de la mañana, cuando el flujo de commuters aún llenaba los pasillos de la estación. Las máquinas expendedoras de billetes tienen opción en inglés, aunque preferí usar la tarjeta IC para evitar colas. El andén estaba limpio y señalizado con precisión milimétrica típica del sistema japonés, indicando exactamente dónde pararse para que las puertas del tren coincidan con tu posición.
+Salí del hotel sobre las seis de la mañana, cuando había menos gente en los pasillos de la estación. Las máquinas expendedoras de billetes tienen opción en inglés, aunque preferí usar la tarjeta IC para evitar colas. El andén estaba limpio y señalizado con precisión milimétrica típica del sistema japonés, indicando exactamente dónde pararse para que las puertas del tren coincidan con tu posición.
 
 {% if page.map_points %}{% include google-maps.html %}{% endif %}
 
 ---
 
-## Maiko Station
+## Okayama Station
 
-La estación de Maiko se inauguró en 1963 como parada intermedia en la línea Sanyo, que conecta Kobe con el oeste de Honshu. Su ubicación estratégica cerca del puente Akashi Kaikyo la convierte en punto de referencia para turistas que visitan la estructura colgante más larga del mundo. El edificio fue renovado en 2018 para mejorar accesibilidad y añadir servicios comerciales en la planta superior, aunque su diseño conserva elementos arquitectónicos de los años sesenta.
+Okayama Station es un nodo clave para el transporte regional, con historia en la conectividad entre ciudades de Japón. La estación combina eficiencia y modernidad, sirviendo tanto a locales como a turistas.
 
-Llegué a Maiko tras cuarenta minutos en tren local desde Kobe, con el puente visible desde la ventanilla durante los últimos kilómetros. La estación es pequeña comparada con las terminales de grandes ciudades, pero funcional y bien mantenida. Desde aquí, los trenes continúan hacia Okayama cruzando el mar interior de Seto mediante una serie de puentes que enlazan islas.
+El viajero aprecia la rapidez y orden en el traslado, notando la transición de Kobe a Okayama y preparándose para explorar los puntos turísticos cercanos.
+
 
 ---
 

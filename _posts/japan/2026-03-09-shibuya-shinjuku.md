@@ -20,7 +20,8 @@ images:
     alt: "El cruce mas famoso del mundo"
     license: "CC BY 4.0"
 map_points:
-  - name: "teamLab Borderless: MORI Building DIGITAL ART MUSEUM"  
+  - id: "point1"
+    name: "teamLab Borderless: MORI Building DIGITAL ART MUSEUM"  
     lat: 35.6619
     lng: 139.7438
     price_range: "$"
@@ -28,7 +29,8 @@ map_points:
     visit_duration: "PT45M"
     type: "museum"
     mode: "walking"
-  - name: "Ebisu Yokocho"  
+  - id: "point2"
+    name: "Ebisu Yokocho"  
     lat: 35.64825
     lng: 139.71075
     price_range: "$"
@@ -37,7 +39,8 @@ map_points:
     type: "restaurant"
     mode: "transit"
     transit_types: ["subway"]
-  - name: "Calle Central de Shibuya"  
+  - id: "point3"
+    name: "Calle Central de Shibuya"  
     lat: 35.6598
     lng: 139.7001
     price_range: "$"
@@ -45,7 +48,8 @@ map_points:
     visit_duration: "PT45M"
     type: "shop"
     mode: "walking"
-  - name: "Calle Takeshita"  
+  - id: "point4"
+    name: "Calle Takeshita"  
     lat: 35.6702
     lng: 139.7066
     price_range: "$"
@@ -53,7 +57,8 @@ map_points:
     visit_duration: "PT45M"
     type: "shop"
     mode: "walking"
-  - name: "Parque Yoyogi"
+  - id: "point5"
+    name: "Parque Yoyogi"
     lat: 35.6720
     lng: 139.6946
     price_range: "$"
@@ -61,7 +66,8 @@ map_points:
     visit_duration: "PT45M"
     type: "park"
     mode: "walking"
-  - name: "Santuario Meji"
+  - id: "point6"
+    name: "Santuario Meji"
     lat: 35.6749
     lng: 139.6995
     price_range: "$"
@@ -69,7 +75,8 @@ map_points:
     visit_duration: "PT45M"
     type: "temple"
     mode: "walking"
-  - name: "Train tracks view"
+  - id: "point7"
+    name: "Train tracks view"
     lat: 35.6818
     lng: 139.7031
     price_range: "$"
@@ -77,7 +84,8 @@ map_points:
     visit_duration: "PT45M"
     type: "default"
     mode: "walking"
-  - name: " Entrada Jardín Nacional Shinjuku Gyoen"  
+  - id: "point8"
+    name: "Entrada Jardín Nacional Shinjuku Gyoen"  
     lat: 35.6822
     lng: 139.7086
     price_range: "$"
@@ -85,7 +93,8 @@ map_points:
     visit_duration: "PT45M"
     type: "park"
     mode: "walking"
-  - name: " Salida Jardín Nacional Shinjuku Gyoen"  
+  - id: "point9"
+    name: "Salida Jardín Nacional Shinjuku Gyoen"  
     lat: 35.6890
     lng: 139.7065
     price_range: "$"
@@ -93,7 +102,8 @@ map_points:
     visit_duration: "PT45M"
     type: "park"
     mode: "walking"
-  - name: "Shinjuku Golden-Gai"  
+  - id: "point10"
+    name: "Shinjuku Golden-Gai"  
     lat: 35.69400
     lng: 139.70468
     price_range: "$"
@@ -101,7 +111,8 @@ map_points:
     visit_duration: "PT45M"
     type: "default"
     mode: "walking"
-  - name: "Arco Kabukicho Ichibangai"  
+  - id: "point11"
+    name: "Arco Kabukicho Ichibangai"  
     lat: 35.6938
     lng: 139.7010
     price_range: "$"
@@ -109,7 +120,8 @@ map_points:
     visit_duration: "PT45M"
     type: "monument"
     mode: "walking"
-  - name: "Sunshine City"  
+  - id: "point12"
+    name: "Sunshine City"  
     lat: 35.7295
     lng: 139.7186
     price_range: "$"
@@ -118,6 +130,9 @@ map_points:
     type: "shop"
     mode: "transit"
     transit_types: ["subway"]
+faqs:
+  - question: "¿Cuánto tiempo necesito para visitar teamLab Borderless Museum?"
+    answer: "Recomiendo dedicar al menos 2-3 horas para explorar bien las instalaciones, la verdad son de tamaño medio, pero hay un montón de cosas por descubrir ahí dentro y es un sitio para visitar con calma."
 ---
 
 # Un día vibrante en Tokio.
