@@ -26,7 +26,8 @@ images:
 map_points:
     # "driving" "walking" "bicycling" "transit"
     # "restaurant", "castle", "temple", "museum", "park", "station", "hotel", "shop", "default"
-  - name: "Aeropuerto Internacional de Narita"  
+  - id: "point1"
+    name: "Aeropuerto Internacional de Narita"  
     lat: 35.7652
     lng: 140.3853
     price_range: "$"
@@ -34,7 +35,8 @@ map_points:
     visit_duration: "PT45M"
     type: "default"
     mode: "walking"
-  - name: "Keisei Ueno Station"  
+  - id: "point2"
+    name: "Keisei Ueno Station"  
     lat: 35.7115
     lng: 139.7740
     price_range: "$"
@@ -43,7 +45,8 @@ map_points:
     type: "station"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
-  - name: "Estatua de Hidesaburō Ueno y Hachikō"  
+  - id: "point3"
+    name: "Estatua de Hidesaburō Ueno y Hachikō"  
     lat: 35.7160
     lng: 139.7589
     price_range: "0"
@@ -51,7 +54,8 @@ map_points:
     visit_duration: "PT15M"
     type: "park"
     mode: "walking"
-  - name: "Asakuza Station"  
+  - id: "point4"
+    name: "Asakuza Station"  
     lat: 35.71184498972036
     lng: 139.79848343173225
     price_range: "$"
@@ -60,7 +64,8 @@ map_points:
     type: "default"
     mode: "transit"
     transit_types: ["subway"]
-  - name: "Tokio Station"
+  - id: "point5"
+    name: "Tokio Station"
     lat: 35.68143900852983
     lng: 139.76707652649065
     price_range: "$"
@@ -70,10 +75,8 @@ map_points:
     mode: "transit"
     transit_types: ["subway"]
 faqs:
-  - question: "¿Cuánto tiempo necesito para visitar Senso-ji?"
-    answer: "Recomiendo dedicar al menos 1-2 horas para explorar el templo, los jardines y la calle comercial Nakamise-dori con calma."
-  - question: "¿Es mejor visitar Asakusa por la mañana o por la tarde?"
-    answer: "La mañana temprano es ideal para evitar multitudes, pero la tarde-noche ofrece una atmósfera mágica con el templo iluminado."
+  - question: "¿Es difícil moverse por el aeropuerto de Narita?"
+    answer: "En absoluto, esta todo muy limpio, muy bien señalizado, muy espacioso, con bastante seguridad, es un aeropuerto amigable para el viajero."
 ---
 
 # Llegada a Tokio
