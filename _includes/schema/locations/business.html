@@ -11,16 +11,7 @@
     "@type": "GeoCoordinates",
     "latitude": {{ point.lat }},
     "longitude": {{ point.lng }}
-  },
-  "address": {
-    "@type": "PostalAddress",
-    "addressCountry": "{{ page.country }}"
-  }{% if point.rating %},
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": {{ point.rating }},
-    "ratingCount": 1
-  }{% endif %}{% if point.price_range %},
+  }{% if point.price_range %},
   "priceRange": "{{ point.price_range }}"{% endif %},
   "isPartOf": {
     "@type": "Trip",
