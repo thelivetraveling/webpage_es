@@ -1,4 +1,4 @@
-{% assign place_types = "default,station" | split: "," %}
+{% assign place_types = "other" | split: "," %}
 {% for point in page.map_points %}
 {% if place_types contains point.type %}
 <script type="application/ld+json">
