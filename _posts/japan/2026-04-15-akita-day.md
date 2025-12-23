@@ -31,8 +31,6 @@ map_points:
     lat: 
     lng: 
     price_range: "$$"
-    rating: 4.0
-    visit_duration: "PT24H"
     type: "hotel"
     mode: "walking"
   - id: "point2"
@@ -40,8 +38,6 @@ map_points:
     lat: 
     lng: 
     price_range: "$"
-    rating: 3.5
-    visit_duration: "PT45M"
     type: "station"
     mode: "transit"
     transit_types: ["train", "shinkansen", "bus"]
@@ -50,8 +46,6 @@ map_points:
     lat: 
     lng: 
     price_range: "$$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "castle"
     mode: "walking"
   - id: "point4"
@@ -59,8 +53,6 @@ map_points:
     lat: 
     lng: 
     price_range: "$"
-    rating: 3.5
-    visit_duration: "PT45M"
     type: "temple"
     mode: "walking"
   - id: "point5"
@@ -68,8 +60,6 @@ map_points:
     lat: 
     lng: 
     price_range: "$$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "museum"
     mode: "walking"
   - id: "point6"
@@ -77,8 +67,6 @@ map_points:
     lat: 
     lng: 
     price_range: "$"
-    rating: 3.5
-    visit_duration: "PT45M"
     type: "park"
     mode: "walking"
   - id: "point7"
@@ -86,8 +74,6 @@ map_points:
     lat: 
     lng: 
     price_range: "$$$"
-    rating: 4.0
-    visit_duration: "PT01H45M"
     type: "shop"
     mode: "walking"
   - id: "point8"
@@ -95,8 +81,6 @@ map_points:
     lat: 
     lng: 
     price_range: "$"
-    rating: 3.5
-    visit_duration: "PT15M"
     type: "default"
     mode: "walking"
 faqs:

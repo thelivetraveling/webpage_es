@@ -30,8 +30,6 @@ map_points:
     lat: 35.7134
     lng: 139.7914
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "hotel"
     mode: "walking"
   - id: "point2"
@@ -39,8 +37,6 @@ map_points:
     lat: 35.6821
     lng: 139.7747
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "station"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
@@ -49,8 +45,6 @@ map_points:
     lat: 33.5900
     lng: 130.4207
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "station"
     mode: "transit"
     transit_types: ["shinkansen"]
@@ -59,8 +53,6 @@ map_points:
     lat: 33.5895
     lng: 130.4109
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "shop"
     mode: "walking"
   - id: "point5"
@@ -68,8 +60,6 @@ map_points:
     lat: 33.5879
     lng: 130.4167
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "hotel"
     mode: "walking"
   - id: "point6"
@@ -77,8 +67,6 @@ map_points:
     lat: 33.5933
     lng: 130.4111
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "temple"
     mode: "walking"
   - id: "point7"
@@ -86,8 +74,6 @@ map_points:
     lat: 33.5900
     lng: 130.4092
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "restaurant"
     mode: "walking"
   - id: "point8"
@@ -95,8 +81,6 @@ map_points:
     lat: 33.5921
     lng: 130.4050
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "default"
     mode: "walking"
 faqs:

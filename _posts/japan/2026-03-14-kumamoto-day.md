@@ -27,8 +27,6 @@ map_points:
     lat: 33.5879
     lng: 130.4168
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "hotel"
     mode: "walking"
   - id: "point2"
@@ -36,8 +34,6 @@ map_points:
     lat: 33.5899
     lng: 130.4193
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "station"
     mode: "walking"
   - id: "point3"
@@ -45,8 +41,6 @@ map_points:
     lat: 32.7904
     lng: 130.6885
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "station"
     mode: "transit"
     transit_types: ["train"]
@@ -55,8 +49,6 @@ map_points:
     lat: 32.8037
     lng: 130.7077
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "station"
     mode: "transit"
     transit_types: ["train"]
@@ -65,8 +57,6 @@ map_points:
     lat: 32.8031
     lng: 130.7074
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "default"
     mode: "walking"
   - id: "point6"
@@ -74,8 +64,6 @@ map_points:
     lat: 32.8061
     lng: 130.7062
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "castle"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
@@ -84,8 +72,6 @@ map_points:
     lat: 32.8030
     lng: 130.7100
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "restaurant"
     mode: "walking"
   - id: "point8"
@@ -93,8 +79,6 @@ map_points:
     lat: 32.7911
     lng: 130.7331
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "park"
     mode: "transit"
     transit_types: ["train"]
@@ -103,8 +87,6 @@ map_points:
     lat: 32.8033
     lng: 130.7098
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "station"
     mode: "transit"
     transit_types: ["train"]
@@ -113,8 +95,6 @@ map_points:
     lat: 32.8030
     lng: 130.7099
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "shop"
     mode: "walking"
   - id: "point11"
@@ -122,8 +102,6 @@ map_points:
     lat: 32.7992
     lng: 130.7051
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "shop"
     mode: "walking"
   - id: "point12"
@@ -131,8 +109,6 @@ map_points:
     lat: 32.8006
     lng: 130.7038
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "shop"
     mode: "transit"
     transit_types: ["train"]

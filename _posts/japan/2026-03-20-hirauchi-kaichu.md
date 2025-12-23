@@ -31,8 +31,6 @@ map_points:
     lat: 30.32676
     lng: 130.65827
     price_range: "$$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "hotel"
     mode: "walking"
   - id: "image2"
@@ -40,8 +38,6 @@ map_points:
     lat: 30.2310
     lng: 130.4839
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "default"
     mode: "walking"
 faqs:

@@ -25,48 +25,36 @@ map_points:
     lat: 36.5345
     lng: -6.2983
     price_range: "$$"
-    rating: 4.5
-    visit_duration: "PT48H"
     type: "hotel"
     mode: "driving"
   - name: "Plaza San Antonio"
     lat: 36.5348
     lng: -6.2989
     price_range: "0"
-    rating: 3.0
-    visit_duration: "PT20M"
     type: "square"
     mode: "walking"
   - name: "Plaza la Mina"
     lat: 36.5354
     lng: -6.2970
     price_range: "$"
-    rating: 3.0
-    visit_duration: "PT20M"
     type: "square"
     mode: "walking"
   - name: "Museo de Cádiz"
     lat: 36.5352
     lng: -6.2962
     price_range: "$"
-    rating: 3.5
-    visit_duration: "PT01H00M"
     type: "museum"
     mode: "walking"
   - name: "Monumento a la Constitución de 1812"
     lat: 36.5354
     lng: -6.2931
     price_range: "0"
-    rating: 3.5
-    visit_duration: "PT15M"
     type: "monument"
     mode: "walking"
   - name: "Plaza España"
     lat: 36.5353
     lng: -6.2932
     price_range: "0"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "square"
     mode: "walking"
 faqs:

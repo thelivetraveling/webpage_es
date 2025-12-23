@@ -31,8 +31,6 @@ map_points:
     lat: 33.5879
     lng: 130.4168
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "hotel"
     mode: "walking"
   - id: "image2"
@@ -40,8 +38,6 @@ map_points:
     lat: 33.5972
     lng: 130.4483
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "default"
     mode: "transit"
     transit_types: ["train"]
@@ -50,8 +46,6 @@ map_points:
     lat: 30.3846
     lng: 130.6603
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "default"
     mode: "transit"
     transit_types: ["flight"]
@@ -60,8 +54,6 @@ map_points:
     lat: 30.32676
     lng: 130.65827
     price_range: "$$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "hotel"
     mode: "driving"
   - id: "image5"
@@ -69,8 +61,6 @@ map_points:
     lat: 30.3093
     lng: 130.6459
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "default"
     mode: "walking"
 faqs:

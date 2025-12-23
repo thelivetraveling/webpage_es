@@ -30,48 +30,36 @@ map_points:
     lat: 36.5322
     lng: -6.2985
     price_range: "0"
-    rating: 3.5
-    visit_duration: "PT20M"
     type: "default"
     mode: "walking"
   - name: "Mercado Central de Abastos"
     lat: 36.5310
     lng: -6.2979
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT50M"
     type: "shop"
     mode: "walking"
   - name: "Freiduría las Flores 1"
     lat: 36.5310
     lng: -6.2970
     price_range: "$$"
-    rating: 4.0
-    visit_duration: "PT50M"
     type: "restaurant"
     mode: "walking"
   - name: "Catedral de Cádiz"
     lat: 36.5291
     lng: -6.2952
     price_range: "0"
-    rating: 4.5
-    visit_duration: "PT30M"
     type: "temple"
     mode: "walking"
   - name: "Teatro Romano de Cádiz"
     lat: 36.5285
     lng: -6.2936
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT50M"
     type: "monument"
     mode: "walking"
   - name: "Gran Teatro Falla"
     lat: 36.5339
     lng: -6.3024
     price_range: "$"
-    rating: 3.5
-    visit_duration: "PT45M"
     type: "default"
     mode: "walking"
 faqs:

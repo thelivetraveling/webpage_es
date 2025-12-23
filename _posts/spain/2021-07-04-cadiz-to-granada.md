@@ -32,30 +32,22 @@ map_points:
     type: "default"
     mode: "walking"
     price_range: "0"
-    rating: 4.0
-    visit_duration: "PT02H00M"
   - name: "Plaza del Rey"
     lat: 36.4766
     lng: -6.1967
     price_range: "$$"
-    rating: 3.5
-    visit_duration: "PT45M"
     type: "square"
     mode: "walking"
   - name: "Antequera"
     lat: 37.0523
     lng: -4.5732
     price_range: "$"
-    rating: 4.5
-    visit_duration: "PT01H45M"
     type: "default"
     mode: "driving"
   - name: "Granada"
     lat: 37.1823
     lng: -3.6017
     price_range: "0"
-    rating: 4.5
-    visit_duration: "PT01H15M"
     type: "default"
     mode: "driving"
 faqs:

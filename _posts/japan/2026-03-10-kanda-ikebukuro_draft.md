@@ -31,8 +31,6 @@ map_points:
     lat: 35.7048
     lng: 139.7983
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "museum"
     mode: "walking"
   - id: "point2"
@@ -40,8 +38,6 @@ map_points:
     lat: 35.6997
     lng: 139.7655
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "default"
     mode: "transit"
     transit_types: ["subway"]
@@ -50,8 +46,6 @@ map_points:
     lat: 35.6943
     lng: 139.7650
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "shop"
     mode: "walking"
   - id: "point4"
@@ -59,8 +53,6 @@ map_points:
     lat: 35.6955
     lng: 139.7579
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "shop"
     mode: "walking"
   - id: "point5"
@@ -68,8 +60,6 @@ map_points:
     lat: 35.6957
     lng: 139.7555
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "shop"
     mode: "walking"
   - id: "point6"
@@ -77,8 +67,6 @@ map_points:
     lat: 35.70013
     lng: 139.7425
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "restaurant"
     mode: "transit"
     transit_types: ["subway"]
@@ -87,8 +75,6 @@ map_points:
     lat: 35.7295
     lng: 139.7186
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "shop"
     mode: "transit"
   - id: "point8"
@@ -96,8 +82,6 @@ map_points:
     lat: 35.7323
     lng: 139.7136
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "shop"
     mode: "walking"
   - id: "point9"
@@ -105,8 +89,6 @@ map_points:
     lat: 35.7319
     lng: 139.7094
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "default"
     mode: "walking"
 faqs:

@@ -32,8 +32,6 @@ map_points:
     lat: 35.7652
     lng: 140.3853
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "default"
     mode: "walking"
   - id: "point2"
@@ -41,8 +39,6 @@ map_points:
     lat: 35.7115
     lng: 139.7740
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "station"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
@@ -51,8 +47,6 @@ map_points:
     lat: 35.7160
     lng: 139.7589
     price_range: "0"
-    rating: 3.0
-    visit_duration: "PT15M"
     type: "park"
     mode: "walking"
   - id: "point4"
@@ -60,8 +54,6 @@ map_points:
     lat: 35.71184498972036
     lng: 139.79848343173225
     price_range: "$"
-    rating: 3.5
-    visit_duration: "PT30M"
     type: "default"
     mode: "transit"
     transit_types: ["subway"]
@@ -70,8 +62,6 @@ map_points:
     lat: 35.68143900852983
     lng: 139.76707652649065
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "default"
     mode: "transit"
     transit_types: ["subway"]

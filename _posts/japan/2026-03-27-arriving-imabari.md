@@ -36,8 +36,6 @@ map_points:
     lat: 34.68131
     lng: 135.17990
     price_range: "$$"
-    rating: 4.0
-    visit_duration: "PT24H"
     type: "hotel"
     mode: "walking"
   - id: "point2"
@@ -45,8 +43,6 @@ map_points:
     lat: 34.67972
     lng: 135.17827
     price_range: "$"
-    rating: 3.5
-    visit_duration: "PT35M"
     type: "station"
     mode: "walking"
   - id: "point3"
@@ -54,8 +50,6 @@ map_points:
     lat: 34.66616
     lng: 133.91775
     price_range: "0"
-    rating: 3.5
-    visit_duration: "PT45M"
     type: "station"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
@@ -64,8 +58,6 @@ map_points:
     lat: 34.35431
     lng: 134.04663
     price_range: "$$"
-    rating: 4.5
-    visit_duration: "PT30M"
     type: "square"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
@@ -74,8 +66,6 @@ map_points:
     lat: 34.34970
     lng: 134.05139
     price_range: "$"
-    rating: 3.8
-    visit_duration: "PT01H"
     type: "castle"
     mode: "walking"
   - id: "point6"
@@ -83,8 +73,6 @@ map_points:
     lat: 34.33999
     lng: 134.04584
     price_range: "$"
-    rating: 4.5
-    visit_duration: "PT03H"
     type: "park"
     mode: "walking"
   - id: "point7"
@@ -92,8 +80,6 @@ map_points:
     lat: 34.06435
     lng: 132.99391
     price_range: "$"
-    rating: 3.5
-    visit_duration: "PT45M"
     type: "station"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
@@ -102,8 +88,6 @@ map_points:
     lat: 34.06515
     lng: 132.99342
     price_range: "$"
-    rating: 3.5
-    visit_duration: "PT24H"
     type: "hotel"
     mode: "walking"
 faqs:

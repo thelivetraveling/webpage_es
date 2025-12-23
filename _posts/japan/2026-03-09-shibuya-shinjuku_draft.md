@@ -29,8 +29,6 @@ map_points:
     lat: 35.6619
     lng: 139.7438
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "museum"
     mode: "walking"
   - id: "point2"
@@ -38,8 +36,6 @@ map_points:
     lat: 35.64825
     lng: 139.71075
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "restaurant"
     mode: "transit"
     transit_types: ["subway"]
@@ -48,8 +44,6 @@ map_points:
     lat: 35.6598
     lng: 139.7001
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "shop"
     mode: "walking"
   - id: "point4"
@@ -57,8 +51,6 @@ map_points:
     lat: 35.6702
     lng: 139.7066
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "shop"
     mode: "walking"
   - id: "point5"
@@ -66,8 +58,6 @@ map_points:
     lat: 35.6720
     lng: 139.6946
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "park"
     mode: "walking"
   - id: "point6"
@@ -75,8 +65,6 @@ map_points:
     lat: 35.6749
     lng: 139.6995
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "temple"
     mode: "walking"
   - id: "point7"
@@ -84,8 +72,6 @@ map_points:
     lat: 35.6818
     lng: 139.7031
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "default"
     mode: "walking"
   - id: "point8"
@@ -93,8 +79,6 @@ map_points:
     lat: 35.6822
     lng: 139.7086
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "park"
     mode: "walking"
   - id: "point9"
@@ -102,8 +86,6 @@ map_points:
     lat: 35.6890
     lng: 139.7065
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "park"
     mode: "walking"
   - id: "point10"
@@ -111,8 +93,6 @@ map_points:
     lat: 35.69400
     lng: 139.70468
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "default"
     mode: "walking"
   - id: "point11"
@@ -120,8 +100,6 @@ map_points:
     lat: 35.6938
     lng: 139.7010
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "default"
     mode: "walking"
   - id: "point12"
@@ -129,8 +107,6 @@ map_points:
     lat: 35.7295
     lng: 139.7186
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "shop"
     mode: "transit"
     transit_types: ["train"]

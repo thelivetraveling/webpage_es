@@ -33,8 +33,6 @@ map_points:
     lat: 34.06514
     lng: 132.9934
     price_range: "$"
-    rating: 3.5
-    visit_duration: "PT24H"
     type: "hotel"
     mode: "walking"
   - id: "point2"
@@ -42,8 +40,6 @@ map_points:
     lat: 34.11126
     lng: 132.97594
     price_range: "0"
-    rating: 3.5
-    visit_duration: "PT30M"
     type: "park"
     mode: "bicycling"
   - id: "point3"
@@ -51,8 +47,6 @@ map_points:
     lat: 34.12782
     lng: 133.02198
     price_range: "$$"
-    rating: 3.5
-    visit_duration: "PT45M"
     type: "default"
     mode: "bicycling"
   - id: "point4"
@@ -60,8 +54,6 @@ map_points:
     lat: 34.20156
     lng: 133.07590
     price_range: "0"
-    rating: 3.5
-    visit_duration: "PT15M"
     type: "default"
     mode: "bicycling"
   - id: "point5"
@@ -69,8 +61,6 @@ map_points:
     lat: 34.25543
     lng: 133.05470
     price_range: "0"
-    rating: 4.3
-    visit_duration: "PT45M"
     type: "park"
     mode: "bicycling"
   - id: "point6"
@@ -78,8 +68,6 @@ map_points:
     lat: 34.25543
     lng: 133.05470
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT10H"
     type: "hotel"
     mode: "walking"
 faqs:

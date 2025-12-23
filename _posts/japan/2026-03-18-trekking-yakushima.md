@@ -31,8 +31,6 @@ map_points:
     lat: 30.32676
     lng: 130.65827
     price_range: "$$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "hotel"
     mode: "walking"
   - id: "image2"
@@ -40,8 +38,6 @@ map_points:
     lat: 30.3169
     lng: 130.5863
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "default"
     mode: "driving"
     transit_types: ["bus"]
@@ -50,8 +46,6 @@ map_points:
     lat: 30.3395
     lng: 130.5954
     price_range: "$"
-    rating: 4.0
-    visit_duration: "PT45M"
     type: "default"
     mode: "walking"
 faqs:
