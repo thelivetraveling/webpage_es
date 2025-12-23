@@ -29,7 +29,7 @@ map_points:
   - name: "Torre Tavira"
     lat: 36.5322
     lng: -6.2985
-    price_range: "0"
+    price_range:
     type: "default"
     mode: "walking"
   - name: "Mercado Central de Abastos"
@@ -47,7 +47,7 @@ map_points:
   - name: "Catedral de Cádiz"
     lat: 36.5291
     lng: -6.2952
-    price_range: "0"
+    price_range:
     type: "temple"
     mode: "walking"
   - name: "Teatro Romano de Cádiz"

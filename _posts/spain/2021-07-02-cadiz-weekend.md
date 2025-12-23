@@ -30,7 +30,7 @@ map_points:
   - name: "Plaza San Antonio"
     lat: 36.5348
     lng: -6.2989
-    price_range: "0"
+    price_range:
     type: "square"
     mode: "walking"
   - name: "Plaza la Mina"
@@ -48,13 +48,13 @@ map_points:
   - name: "Monumento a la Constitución de 1812"
     lat: 36.5354
     lng: -6.2931
-    price_range: "0"
+    price_range:
     type: "monument"
     mode: "walking"
   - name: "Plaza España"
     lat: 36.5353
     lng: -6.2932
-    price_range: "0"
+    price_range:
     type: "square"
     mode: "walking"
 faqs:

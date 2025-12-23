@@ -46,7 +46,7 @@ map_points:
     name: "Estatua de Hidesaburō Ueno y Hachikō"  
     lat: 35.7160
     lng: 139.7589
-    price_range: "0"
+    price_range:
     type: "park"
     mode: "walking"
   - id: "point4"

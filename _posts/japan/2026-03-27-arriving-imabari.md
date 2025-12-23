@@ -49,7 +49,7 @@ map_points:
     name: "Okayama Station"
     lat: 34.66616
     lng: 133.91775
-    price_range: "0"
+    price_range:
     type: "station"
     mode: "transit"
     transit_types: ["train", "shinkansen"]

@@ -68,7 +68,7 @@ map_points:
     name: "Botchan Karakuri Clock"
     lat: 33.85076
     lng: 132.78548
-    price_range: "0"
+    price_range:
     type: "default"
     mode: "walking"
   - id: "point7"

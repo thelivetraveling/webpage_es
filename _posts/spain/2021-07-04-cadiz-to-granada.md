@@ -31,7 +31,7 @@ map_points:
     lng: -6.3057
     type: "default"
     mode: "walking"
-    price_range: "0"
+    price_range:
   - name: "Plaza del Rey"
     lat: 36.4766
     lng: -6.1967
@@ -47,7 +47,7 @@ map_points:
   - name: "Granada"
     lat: 37.1823
     lng: -3.6017
-    price_range: "0"
+    price_range:
     type: "default"
     mode: "driving"
 faqs:
