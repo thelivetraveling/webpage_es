@@ -23,6 +23,8 @@ images:
   - id: "image1"
     path: /assets/images/2026/03/22/Okayama.webp
     alt: "Okayama"
+    license: "CC BY SA 4.0"
+    credit_text: "The Live Traveling"
 map_points:
   - id: "image1"
     name: "Shin-Kobe Station"

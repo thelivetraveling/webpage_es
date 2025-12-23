@@ -18,7 +18,8 @@ images:
   - id: "image1"
     path: /assets/images/2021/07/02/PlazaSanAntonio.webp
     alt: "La plaza central de Cádiz"
-    license: "CC BY 4.0"
+    license: "CC BY SA 4.0"
+    credit_text: "The Live Traveling"
 map_points:
   - name: "El armador Casa palacio"
     lat: 36.5345

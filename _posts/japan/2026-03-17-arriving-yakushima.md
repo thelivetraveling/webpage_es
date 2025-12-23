@@ -23,6 +23,8 @@ images:
   - id: "image1"
     path: /assets/images/2026/03/17/Yakushima.webp
     alt: "Yakushima"
+    license: "CC BY SA 4.0"
+    credit_text: "The Live Traveling"
 map_points:
   - id: "image1"
     name: "Smile Hotel - Hakata Ekimae"

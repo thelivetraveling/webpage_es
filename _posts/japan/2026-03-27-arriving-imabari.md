@@ -18,15 +18,18 @@ images:
   - id: "image1"
     path: /assets/images/2026/03/27/Imabari.webp
     alt: "Estación de tren de Imabari"
-    license: "CC BY 4.0"
+    license: "CC BY SA 4.0"
+    credit_text: "The Live Traveling"
   - id: "image2"
     path: /assets/images/2026/03/27/AnabukiArena.webp
     alt: "El espectacular Anabuki Arena"
-    license: "CC BY 4.0"
+    license: "CC BY SA 4.0"
+    credit_text: "The Live Traveling"
   - id: "image3"
     path: /assets/images/2026/03/27/RitsurinGarden.webp
     alt: "Puerta este del Jardín"
-    license: "CC BY 4.0"
+    license: "CC BY SA 4.0"
+    credit_text: "The Live Traveling"
 map_points:
   - id: "point1"
     name: "Kobe Hotel Juraku"

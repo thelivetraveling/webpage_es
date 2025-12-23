@@ -22,7 +22,8 @@ images:
   - id: "image1"
     path: /assets/images/2026/03/07/NaritaAirport.webp
     alt: "El majestuoso Aeropuerto de Narita"
-    license: "CC BY 4.0"
+    license: "CC BY SA 4.0"
+    credit_text: "The Live Traveling"
 map_points:
     # "driving" "walking" "bicycling" "transit"
     # "restaurant", "castle", "temple", "museum", "park", "station", "hotel", "shop", "default"

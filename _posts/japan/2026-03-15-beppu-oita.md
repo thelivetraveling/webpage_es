@@ -22,6 +22,8 @@ images:
   - id: "image1"
     path: /assets/images/2026/03/15/Beppu.webp
     alt: "La ciudad de los 7 infiernos"
+    license: "CC BY SA 4.0"
+    credit_text: "The Live Traveling"
 map_points:
   - id: "point1"
     name: "Smile Hotel - Hakata Ekimae"

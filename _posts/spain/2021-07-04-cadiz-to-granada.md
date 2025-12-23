@@ -18,11 +18,13 @@ images:
   - id: "image1"
     path: /assets/images/2021/07/04/PlazaDelRey.webp
     alt: "La plaza del Rey"
-    license: "CC BY 4.0"
+    license: "CC BY SA 4.0"
+    credit_text: "The Live Traveling"
   - id: "image2"
     path: /assets/images/2021/07/04/PlayaDeLaCaleta.webp
     alt: "Playa de la Caleta"
-    license: "CC BY 4.0"
+    license: "CC BY SA 4.0"
+    credit_text: "The Live Traveling"
 map_points:
   - name: "Playa de la Caleta"
     lat: 36.5319

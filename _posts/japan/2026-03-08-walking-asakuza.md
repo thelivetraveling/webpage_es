@@ -18,7 +18,8 @@ images:
   - id: "image1"
     path: /assets/images/2026/03/08/Sensoji.webp
     alt: "El templo mas antiguo de Tokio"
-    license: "CC BY 4.0"
+    license: "CC BY SA 4.0"
+    credit_text: "The Live Traveling"
 map_points:
     # "driving" "walking" "bicycling" "transit"
   - id: "point1"

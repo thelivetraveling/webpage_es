@@ -18,11 +18,13 @@ images:
   - id: "image1"
     path: /assets/images/2026/03/29/matsuyamaCastle.webp
     alt: "castillo montaña matsuyama"
-    license: "CC BY 4.0"
+    license: "CC BY SA 4.0"
+    credit_text: "The Live Traveling"
   - id: "image2"
     path: /assets/images/2026/03/29/dogoOnsen.webp
     alt: "edificio historico onsen"
-    license: "CC BY 4.0"
+    license: "CC BY SA 4.0"
+    credit_text: "The Live Traveling"
 map_points:
   - id: "point1"
     name: "JR Clement Inn Imabari"

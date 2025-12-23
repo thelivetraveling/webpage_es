@@ -19,7 +19,8 @@ images:
   - id: "image1"
     path: /assets/images/2026/03/09/Shibuya.webp
     alt: "El cruce mas famoso del mundo"
-    license: "CC BY 4.0"
+    license: "CC BY SA 4.0"
+    credit_text: "The Live Traveling"
 map_points:
     # "driving" "walking" "bicycling" "transit"
     # "restaurant", "temple", "museum", "park", "station", "hotel", "shop", "default"

@@ -18,11 +18,13 @@ images:
   - id: "image1"
     path: /assets/images/2021/07/03/Catedral.webp
     alt: "Catedral de Cádiz"
-    license: "CC BY 4.0"
+    license: "CC BY SA 4.0"
+    credit_text: "The Live Traveling"
   - id: "image2"
     path: /assets/images/2021/07/03/FreiduriaLasFlores.webp
     alt: "Freiduría Las Flores"
-    license: "CC BY 4.0"
+    license: "CC BY SA 4.0"
+    credit_text: "The Live Traveling"
 map_points:
   - name: "Torre Tavira"
     lat: 36.5322
