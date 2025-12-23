@@ -1,4 +1,4 @@
-{% assign landmark_types = "temple,castle,museum,monument" | split: "," %}
+{% assign landmark_types = "other" | split: "," %}
 {% for point in page.map_points %}
 {% if landmark_types contains point.type %}
 <script type="application/ld+json">
