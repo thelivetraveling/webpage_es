@@ -10,6 +10,11 @@
     "@type": "GeoCoordinates",
     "latitude": {{ point.lat }},
     "longitude": {{ point.lng }}
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "{{ page.city }}",
+    "addressCountry": "{{ page.country }}"
   }{% if point.price_range %},
   "priceRange": "{{ point.price_range }}"{% endif %},
   "servesCuisine": "Local",
