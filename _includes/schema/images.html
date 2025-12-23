@@ -7,8 +7,10 @@
   "@id": "{{ page.url | absolute_url }}#{{ image.id }}",
   "contentUrl": "{{ image.path | absolute_url }}",
   "caption": "{{ image.alt | escape }}",
-  "description": "{{ image.alt | escape }}",
-  "license": "{{ image.license }}",
+  "license": "https://raw.githubusercontent.com/thelivetraveling/webpage_en/refs/heads/main/LICENSE",
+  "copyrightNotice": "{{ image.license | escape }}",
+  "acquireLicensePage": "https://raw.githubusercontent.com/thelivetraveling/webpage_en/refs/heads/main/LICENSE",
+  "creditText": "{{ image.credit_text | escape }}",
   "creator": {
     "@type": "Person",
     "@id": "{{ site.url }}/#author"
