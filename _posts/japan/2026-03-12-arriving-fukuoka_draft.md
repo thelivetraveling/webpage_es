@@ -2,6 +2,7 @@
 layout: single
 published: false
 title: "De Tokio a Fukuoka: Cambio de Isla"
+published: false
 excerpt: "Vuelo hacia Kyushu, centro comercial futurista, santuario histórico y yatai junto al río"
 date: 2026-03-12 09:00:00 +0200
 categories: [japan]
@@ -113,10 +114,7 @@ Dentro del complejo hay más de doscientas cincuenta tiendas, restaurantes, cine
 
 Recorrer Canal City es dejarse llevar por la atmósfera festiva que se respira en sus pasillos abiertos. No es un centro comercial convencional, sino un espacio pensado para el paseo, el entretenimiento y la sorpresa. Las escaleras mecánicas serpentean entre los distintos niveles, los puentes cruzan el canal en varios puntos y los bancos invitan a sentarse para observar el ir y venir de la gente. Es un lugar que funciona igual de bien para hacer compras, comer algo rápido o simplemente pasar el rato sin rumbo fijo.
 
-<figure class="align-center">
-  <img src="{{ '/assets/images/2026/03/12/Fukuoka.webp' | relative_url }}" alt="Fukuoka">
-  <figcaption class="align-right">Costa de Fukuoka con drone</figcaption>
-</figure>
+{% include figure popup="yes" image_path="/assets/images/2026/03/12/Fukuoka.webp" alt="Fukuoka" caption="Costa de Fukuoka con drone" %}
 
 ---
 
@@ -146,9 +144,7 @@ El santuario Kushida es también el epicentro del festival Hakata Gion Yamakasa,
 
 Pasear por Kushida es una oportunidad para desconectar del ritmo frenético de la ciudad y conectar con el lado más espiritual de Japón. El santuario no es especialmente grande, pero tiene carisma, historia y ese aura de autenticidad que solo se encuentra en los lugares donde el tiempo parece haberse detenido.
 
-{% if page.map_points %}
-  {% include google-maps.html %}
-{% endif %}
+{% if page.map_points %}{% include google-maps.html %}{% endif %}
 
 ---
 

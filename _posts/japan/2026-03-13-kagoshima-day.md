@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Kagoshima y Sakurajima"
+published: false
 excerpt: "Santuario, ruinas del castillo, museo industrial y playa con vistas al volcán"
 date: 2026-03-13 09:00:00 +0200
 categories: [japan]
@@ -93,9 +94,7 @@ Lo primero que vi al acercarme fue el enorme torii blanco que marca la entrada, 
 
 Nariakira fue un visionario que introdujo tecnología occidental en Japón, incluyendo cámaras, telégrafos y fábricas modernas. Su legado no solo se siente en este santuario, sino en toda la ciudad. Me detuve frente al edificio principal, donde hay una estatua de bronce del señor de Satsuma.
 
-{% if page.map_points %}
-  {% include google-maps.html %}
-{% endif %}
+{% if page.map_points %}{% include google-maps.html %}{% endif %}
 
 ---
 
@@ -107,10 +106,7 @@ Lo que queda hoy son los muros de piedra, el foso y la puerta Goromon, que fue r
 
 El lugar ahora alberga el museo Reimeikan, que exhibe la historia de Kagoshima, pero no entré porque tenía otros sitios en mi lista. Me conformé con pasear por el recinto y disfrutar de la sensación de estar en un lugar donde la historia pesa en cada piedra.
 
-<figure class="align-center">
-  <img src="{{ '/assets/images/2026/03/13/Kagoshima.webp' | relative_url }}" alt="Kagoshima">
-  <figcaption class="align-right">Ciudad de Kagoshima y Sakurajima</figcaption>
-</figure>
+{% include figure popup="yes" image_path="/assets/images/2026/03/13/Kagoshima.webp" alt="Kagoshima" caption="Ciudad de Kagoshima y Sakurajima" %}
 
 ---
 
@@ -129,6 +125,8 @@ Me gustó especialmente ver las fotografías más antiguas tomadas por japoneses
 Después del museo, bajé caminando hasta la playa de Iso, que está justo al lado. Esta playa es famosa porque ofrece vistas directas al volcán Sakurajima, que se alza imponente al otro lado de la bahía. La arena es oscura y algo áspera, mezclada con ceniza volcánica, pero el paisaje compensa con creces.
 
 No es una playa espectacular en términos de calidad de arena, pero nadar con un volcán activo de fondo es algo que no se puede hacer en muchos sitios del mundo. Es un recordatorio constante de que la naturaleza sigue siendo más poderosa que cualquier cosa que podamos construir.
+
+{% include figure popup="yes" image_path="/assets/images/2026/03/13/IsoBeach.webp" alt="Iso Beach" caption="Playa de Iso y sus vistas" %}
 
 ---
 

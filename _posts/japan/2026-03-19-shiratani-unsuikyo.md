@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Aventura Yakushima"
+published: false
 excerpt: "De Yakushima Green Hotel al desfiladero Shiratani Unsuikyo, naturaleza y senderismo inolvidables."
 date: "2026-03-19 07:00:00 +0200"
 categories: ["japan"]
@@ -58,9 +59,7 @@ El Yakushima Green Hotel, situado en la isla Yakushima, combina la comodidad mod
 Al llegar, el viajero se siente rodeado por un entorno verde y tranquilo. Los jardines y la proximidad a la costa permiten iniciar la jornada con calma antes de aventurarse en los senderos boscosos. La sensación de inmersión en la naturaleza comienza ya al salir del hotel.
 
 ---
-{% if page.map_points %}
-  {% include google-maps.html %}
-{% endif %}
+{% if page.map_points %}{% include google-maps.html %}{% endif %}
 
 ## Desfiladero Shiratani Unsuikyo
 
@@ -68,8 +67,6 @@ Shiratani Unsuikyo es un bosque de musgo y desfiladeros emblemático de Yakushim
 
 Caminar por el desfiladero es adentrarse en un mundo místico de musgo cubriendo rocas y árboles centenarios. El viajero disfruta del sendero rodeado de cascadas y puentes de madera, sintiendo que cada paso lo conecta con la esencia del bosque milenario. La luz que se filtra entre las copas crea una atmósfera mágica e inolvidable.
 
+{% include figure popup="yes" image_path="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mossy_Forest_in_Cameron_Highland.jpg/1280px-Mossy_Forest_in_Cameron_Highland.jpg" alt="Desfiladero Shiratani Unsuikyo" caption="Shiratani Unsuikyo, Yakushima By: Nazri_Sulaiman. Licencia: CC BY-SA 4.0" %}
+
 ---
-<figure class="align-center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mossy_Forest_in_Cameron_Highland.jpg/1280px-Mossy_Forest_in_Cameron_Highland.jpg" alt="Desfiladero Shiratani Unsuikyo">
-  <figcaption class="align-right">Shiratani Unsuikyo, Yakushima <a href="https://commons.wikimedia.org/w/index.php?title=User:Nazri_Sulaiman&action=edit&redlink=1">By: Nazri_Sulaiman</a>. Licencia: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> CC BY-SA 4.0</a></figcaption>
-</figure>

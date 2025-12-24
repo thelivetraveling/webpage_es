@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Matsuyama desde Imabari"
+published: false
 excerpt: "Excursión de ida y vuelta desde Imabari a Matsuyama visitando su castillo original, el onsen Dogo, el reloj Botchan y la calle comercial Okaido."
 date: 2026-03-29 09:00:00 +0200
 categories: ["japan"]
@@ -96,64 +97,46 @@ faqs:
 
 # Matsuyama desde Imabari: Castillos Originales y Aguas Termales Milenarias
 
-La excursión desde Imabari hasta Matsuyama recorre la costa norte de Shikoku en tren limitado express. Matsuyama combina historia feudal en uno de los doce castillos originales de Japón con el onsen más antiguo del país, mencionado en textos del siglo octavo y visitado por emperadores durante más de mil años.
+La excursión desde Imabari hasta Matsuyama recorre la costa norte de Shikoku en tren limitado express, con el Mar Interior de Seto como telón de fondo. Mi misión del día era clara: descubrir una ciudad que combina la historia feudal, conservada en uno de los doce castillos originales de Japón, con las relajantes aguas del onsen más antiguo del país, un lugar cuyas historias se remontan a más de mil años en el pasado.
 
 {% include video id="tujkoXI8rWM" provider="youtube" %}
 
 ## Matsuyama Station
 
-La estación de Matsuyama fue inaugurada en 1927 como terminal occidental de la línea Yosan, enlazando la capital prefectural con Takamatsu y otras ciudades costeras de Shikoku. Su edificio actual data de 1995 tras reconstrucción que modernizó instalaciones manteniendo compatibilidad con red ferroviaria convencional y nuevos servicios express. La estación funciona como hub de transporte con conexiones de tranvía hacia centro histórico, Dogo Onsen y Matsuyama Castle.
-
-Llegué sobre las nueve y media de la mañana. El trayecto desde Imabari había discurrido entre vistas al mar interior de Seto y pequeños pueblos costeros. Salí de la estación por puerta principal y tomé tranvía línea cinco hacia Okaido, parada más cercana al funicular que sube hasta Matsuyama Castle en monte Katsuyama.
-
----
+La estación de Matsuyama, inaugurada en 1927, fue mi puerta de entrada a la ciudad. Llegué sobre las nueve y media de la mañana, después de un trayecto desde Imabari que regalaba vistas constantes a la costa. Lo primero que hice al salir fue buscar el tranvía; la línea 5 me llevaría directo hacia el corazón histórico de la ciudad, haciendo parada en Okaido, el punto de partida perfecto para comenzar la aventura.
 
 {% if page.map_points %}{% include google-maps.html %}{% endif %}
 
 ## Castillo de Matsuyama
 
-El Castillo de Matsuyama fue construido entre 1602 y 1628 por Kato Yoshiaki tras la batalla de Sekigahara. Situado en monte Katsuyama a ciento treinta y dos metros sobre el nivel del mar, domina toda la llanura de Matsuyama y el mar interior de Seto. En 1635 pasó a manos de la familia Matsudaira, parientes del shogunato Tokugawa, que gobernaron durante catorce generaciones hasta la Restauración Meiji. El tenshu original de cinco pisos fue destruido por rayo en 1784 y reconstruido en 1854 con tres pisos manteniendo diseño arquitectónico original. Es uno de los doce castillos japoneses con tenshu conservado desde antes de 1868.
+Subir al **Castillo de Matsuyama** es como viajar en el tiempo. La experiencia comienza con un pintoresco viaje en **teleférico** o funicular, que en apenas tres minutos te eleva hasta las faldas de la fortaleza en el monte Katsuyama. Lo que te espera arriba es uno de los tesoros más valiosos de Japón: un *tenshu* (torre del homenaje) de madera que ha sobrevivido desde 1854, clasificado como uno de los doce castillos originales del país.
 
-Subí en teleférico de cabina colectiva que tarda tres minutos hasta estación superior cerca del honmaru. Desde allí caminé atravesando puertas sucesivas y murallas escalonadas diseñadas para ralentizar invasores. El tenshu de madera cruje bajo los pies descalzos; escaleras interiores son empinadas con vigas bajas que obligan a agacharse constantemente. Desde última planta, vista panorámica abarca toda ciudad hasta montañas circundantes y mar interior en días despejados.
-
-El complejo defensivo incluye torres esquineras conectadas mediante corredores elevados y sistema de compuertas múltiples. Dediqué hora completa a recorrer todos los edificios, disfrutando de autenticidad estructural que contrasta con castillos reconstruidos en hormigón moderno. El jardín Ninomaru en base del monte conserva diseño original del siglo diecisiete con estanques y puentes arqueados entre cerezos que florecen a principios de abril.
+Caminar por su interior es una experiencia sensorial única. La **madera cruje** de forma auténtica bajo los pies, las escaleras son empinadas y obligan a agacharse al pasar por vigas bajas, recordándote que estás en una estructura defensiva real, no en una reconstrucción moderna. Pero el esfuerzo vale la pena. Desde la última planta, la **vista panorámica** es simplemente espectacular, abarcando toda la ciudad y, en días despejados, el brillante Mar Interior de Seto. Recorrer sus torres y pasillos laberínticos, diseñados para confundir a los invasores, te hace apreciar la autenticidad de este lugar. En la base, el jardín Ninomaru, con sus cerezos, promete ser un espectáculo de flores rosadas a principios de abril.
 
 <figure class="align-center">
   <img src="{{ '/assets/images/2026/03/29/matsuyamaCastle.webp' | relative_url }}" alt="castillo montaña matsuyama">
-  <figcaption class="align-right">castillo montaña matsuyama</figcaption>
+  <figcaption class="align-right">El Castillo de Matsuyama, vigilando la ciudad desde lo alto del monte Katsuyama.</figcaption>
 </figure>
-
----
 
 ## Dogo Onsen
 
-El Dogo Onsen tiene su origen hace aproximadamente tres mil años según leyendas registradas en Nihon Shoki y Manyoshu, textos del siglo octavo. La tradición cuenta que una garza blanca herida sanó su pata bañándose en las aguas termales, lo que llevó a lugareños a descubrir propiedades curativas del manantial. Durante periodo Heian fue frecuentado por aristocracia; emperadores visitaron sus baños desde siglo doce hasta 1952. El edificio Dogo Onsen Honkan fue reconstruido en 1894 con arquitectura estilo castillo de tres pisos, designado Bien Cultural Importante en 1994 como primer baño público de Japón con esa distinción.
+Si el castillo representa la historia, el **Dogo Onsen** representa la tradición viva. Se dice que sus aguas curativas se descubrieron hace unos 3.000 años, y el majestuoso edificio Honkan, con su aspecto de castillo de madera, es un Bien Cultural Importante desde 1994. Al entrar, te sumerges en un mundo atemporal de pasillos serpenteantes, escaleras de madera y un ambiente de calma absoluta.
 
-Llegué desde Matsuyama Castle tomando tranvía hasta estación Dogo Onsen sobre mediodía. El edificio Honkan impresiona por fachada de madera oscura con tejado inclinado similar a estructuras feudales. Interior es laberinto de escaleras estrechas, pasillos serpenteantes y salas con tatami donde clientes descansan tras baño. Pagué opción básica de setecientos yenes que incluye acceso a Kami-no-Yu, baño público separado por género con agua alcalina simple que brota a temperatura constante de cuarenta y dos grados.
-
-El agua tiene textura suave casi sedosa sobre piel; temperatura alta obliga a entrar gradualmente para acostumbrar cuerpo. Pasé treinta minutos alternando entre baño caliente y zona de lavado exterior. El ambiente interno mantiene atmósfera tradicional con visitantes locales que vienen diariamente mezclados con turistas japoneses y extranjeros. Dicen que inspiró baño fantástico de película Spirited Away; ciertamente comparte estética laberíntica y sensación atemporal que trasciende modernidad circundante.
+Opté por el baño básico **Kami-no-Yu** (700 yenes). El ritual es sencillo pero profundo: lavarse bien antes de entrar, y luego sumergirse poco a poco en el agua **alcalina**, que brota a una temperatura constante y reconfortante de **42°C**. La sensación es increíblemente relajante; el agua tiene una textura casi sedosa. Allí dentro, mezclado con visitantes locales que acuden a diario, es fácil entender por qué este lugar ha inspirado leyendas, ha atraído a emperadores y dicen que sirvió de inspiración para el famoso baño de *El Viaje de Chihiro*. Pasé unos treinta minutos alternando entre el agua caliente y la zona de lavado, saliendo renovado por dentro y por fuera.
 
 <figure class="align-center">
   <img src="{{ '/assets/images/2026/03/29/dogoOnsen.webp' | relative_url }}" alt="edificio historico onsen">
-  <figcaption class="align-right">edificio historico onsen</figcaption>
+  <figcaption class="align-right">El histórico edificio Dogo Onsen Honkan, un símbolo de la ciudad.</figcaption>
 </figure>
-
----
 
 ## Botchan Karakuri Clock
 
-El Botchan Karakuri Clock fue erigido en 1994 en plaza Hojoen frente a estación Dogo Onsen para conmemorar centenario del edificio Honkan. Su diseño imita torre Shinrokaku del tejado del Honkan, alcanzando nueve metros de altura cuando estructura telescópica se eleva completamente. El nombre deriva de novela Botchan escrita en 1906 por Soseki Natsume, quien trabajó como profesor en Matsuyama entre 1895 y 1896. La novela menciona repetidamente Dogo Onsen y convirtió lugar en símbolo literario de ciudad.
+A apenas cincuenta metros de la salida del onsen, en la plaza Hojoen, me encontré con el encantador **Botchan Karakuri Clock**. Este reloj mecánico, que rinde homenaje a la famosa novela *Botchan* de Natsume Soseki (ambientada en Matsuyama), es una pequeña joya. Llegué unos minutos antes de que dieran las dos de la tarde, y ya había un pequeño grupo de personas expectantes.
 
-Salí del Honkan y caminé cincuenta metros hasta plaza donde se encuentra reloj mecánico. Llegué cinco minutos antes de hora en punto, cuando pequeña multitud ya esperaba espectáculo. A las dos de la tarde exactamente comenzó música tema Botchan mientras estructura telescópica ascendía revelando veinte figuras articuladas que representan personajes de novela: Botchan, Madonna la maestra, director escuela y estudiantes traviesos que protagonizan historia.
-
-El espectáculo dura dos minutos con cuatro melodías diferentes según hora del día. Junto al reloj hay ashiyu o baño de pies gratuito con agua termal de Dogo donde gente descansa mientras espera actuación horaria. De noche estructura se ilumina creando atmósfera diferente a diurna. Es atracción menor pero entretenida que complementa visita a zona onsen sin requerir tiempo excesivo ni coste alguno.
-
----
+En punto, comenzó a sonar la música y la torre del reloj se elevó telescópicamente, revelando unas veinte **figuras articuladas** que representan a los personajes de la novela. El espectáculo, que dura apenas dos minutos, es gratuito y muy entretenido. Justo al lado, un **ashi-yu** (baño de pies) con agua termal gratuita invita a descansar mientras se espera la siguiente función. Es la guinda perfecta, literaria y relajante, a la visita a la zona del onsen.
 
 ## Okaido shopping street
 
-La calle comercial Okaido se extiende doscientos cincuenta metros bajo techo cubierto conectando zona Dogo Onsen con distrito central de Matsuyama. Establecida en periodo Edo como ruta comercial entre castillo y puerto, mantuvo función mercantil durante siglos adaptándose a modernización con techo acrílico instalado en décadas posteriores a Segunda Guerra Mundial. Alberga aproximadamente cien establecimientos incluyendo tiendas souvenirs, restaurantes, cafeterías y comercios especializados en productos locales como mandarinas mikan y dulces tarta.
+Para terminar el día, me dirigí a la cubierta **calle comercial Okaido**. Este paseo de 250 metros, protegido por un techo acrílico, es el centro neurálgico comercial de la ciudad y une la zona de Dogo con el centro. El ambiente es animado y lleno de vida, con aromas de comida callejera y el sonido de la música ambiental.
 
-Caminé desde Dogo Onsen hasta Okaido tomando tranvía que dejó en parada homónima. La calle cubierta protege de lluvia frecuente en Shikoku; ambiente es animado con música ambiental y aromas mezclados de comida callejera. Probé jakoten, pasta de pescado frita típica de Ehime servida caliente en palillo. También compré manju relleno de pasta judía dulce en forma de botchan dango, dulce tricolor mencionado en novela de Natsume.
-
-Las tiendas permanecen abiertas hasta veintidós horas creando ambiente nocturno animado. Crucé huéspedes de ryokan paseando en yukata entre comercios mezclados con residentes locales comprando productos cotidianos. Es lugar accesible para conseguir souvenirs sin sensación turística excesiva; precios resultan razonables comparados con zonas más comerciales de ciudades grandes. Dediqué media hora recorriendo toda longitud antes regresar hacia estación Matsuyama para tomar tren vuelta a Imabari.
+Aquí es donde pude probar un verdadero sabor local: el **jakoten**, una deliciosa pasta de pescado frita y especiada, servida caliente en un palillo. También fue el lugar perfecto para buscar **souvenirs**, como el *manju* (dulce) con forma de *botchan dango*. Ver a huéspedes de los *ryokan* paseando en *yukata* mezclados con los vecinos haciendo sus compras le da un aire auténtico y nada turístico. Después de recorrerla y cargar con algunos dulces, tomé el tranvía de vuelta a la estación para coger el tren de regreso a Imabari, con la sensación de haber vivido un día perfectamente equilibrado entre historia, relajación y cultura local.

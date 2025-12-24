@@ -79,9 +79,7 @@ La Torre Tavira, construida en el siglo XVIII, es uno de los símbolos más embl
 
 Al subir la torre, uno siente la panorámica de la ciudad desplegarse frente a sus ojos. La cámara oscura proyecta en movimiento la vida cotidiana de Cádiz, dando una experiencia casi mágica de cómo la ciudad ha cambiado y a la vez preservado su esencia.  
 
-{% if page.map_points %}
-  {% include google-maps.html %}
-{% endif %}
+{% if page.map_points %}{% include google-maps.html %}{% endif %}
 
 ---
 
@@ -99,10 +97,7 @@ Fundada hace décadas, esta freiduría se ha convertido en un referente para pro
 
 Sentarse frente a la freiduría permite ver la ciudad desde otra perspectiva: vecinos y visitantes disfrutan de la comida mientras comparten historias y risas, haciendo que la visita sea tanto cultural como social.  
 
-<figure class="align-center">
-  <img src="/assets/images/2021/07/03/FreiduriaLasFlores.webp" alt="Freiduria Las Flores">
-  <figcaption class="align-right">Freiduría Las Flores by: <a href="https://github.com/thelivetraveling">The Live Traveling</a>. License: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a></figcaption>
-</figure>
+{% include figure popup="yes" image_path="/assets/images/2021/07/03/FreiduriaLasFlores.webp" alt="Freiduria Las Flores" caption="Freiduría Las Flores by: The Live Traveling. License: CC BY-SA 4.0" %}
 
 ---
 
@@ -128,8 +123,4 @@ Inaugurado en 1905, el Gran Teatro Falla destaca por su fachada modernista y su 
 
 Asistir a un espectáculo allí brinda la oportunidad de disfrutar de la arquitectura y el ambiente histórico mientras se experimenta la vibrante vida artística de la ciudad, uniendo tradición y entretenimiento contemporáneo.  
 
-<figure class="align-center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/C%C3%A1diz_Gran_Teatro_Falla.jpg/1024px-C%C3%A1diz_Gran_Teatro_Falla.jpg" alt="Gran Teatro Falla">
-  <figcaption class="align-right">Gran Teatro Falla By: <a href="https://commons.wikimedia.org/wiki/User:Arnoldius">Arnoldius</a>. Licencia: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a></figcaption>
-</figure>
-
+{% include figure popup="yes" image_path="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/C%C3%A1diz_Gran_Teatro_Falla.jpg/1024px-C%C3%A1diz_Gran_Teatro_Falla.jpg" alt="Gran Teatro Falla" caption="Gran Teatro Falla By: Arnoldius. Licencia: CC BY-SA 4.0" %}

@@ -67,10 +67,7 @@ La **Playa de La Caleta** es la playa urbana más emblemática de Cádiz, un are
 
 La mañana del 4 de julio amaneció radiante. La Caleta, a esa hora, estaba tranquila. Algunos bañistas madrugadores se aventuraban en el agua, mientras los pescadores arreglaban sus redes en la arena. Caminar por su paseo marítimo, con el olor a sal y el sonido de las olas rompiendo suavemente, fue la despedida perfecta de Cádiz. El sol ya calentaba, anunciando un día de verano espléndido para la ruta.
 
-<figure class="align-center">
-  <img src="/assets/images/2021/07/04/PlayaDeLaCaleta.webp" alt="Playa de la Caleta">
-  <figcaption class="align-right">Playa de la Caleta, By: <a href="https://github.com/thelivetraveling">The Live Traveling</a>. License: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a></figcaption>
-</figure>
+{% include figure popup="yes" image_path="/assets/images/2021/07/04/PlayaDeLaCaleta.webp" alt="Playa de la Caleta" caption="Playa de la Caleta, By: The Live Traveling. License: CC BY-SA 4.0" %}
 
 ---
 
@@ -88,9 +85,7 @@ Parar aquí, a solo media hora de Cádiz, fue un breve descanso para estirar las
 
 Llegar a Antequera al mediodía fue como entrar en un horno. El calor del interior en julio es intenso, pero seco. La visita al Dolmen de Menga es sobrecogedora; estar bajo esas losas de piedra de miles de años pone la piel de gallina. Después, perderse por sus calles empinadas hacia la alcazaba, con vistas a la vega, ayudó a entender por qué la llaman "el corazón de Andalucía". Su grandeza es serena y monumental.
 
-{% if page.map_points %}
-  {% include google-maps.html %}
-{% endif %}
+{% if page.map_points %}{% include google-maps.html %}{% endif %}
 
 ---
 

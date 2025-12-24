@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Un día vibrante en Tokio"
+published: false
 excerpt: "Descubre lo mejor de Tokio: desde arte inmersivo hasta barrios vibrantes."
 date:   2026-03-09 09:00:00 +0200
 categories: [japan]
@@ -136,9 +137,7 @@ Lo que más me gusta de Ebisu Yokocho es su autenticidad: no es un sitio hecho p
 
 ---
 
-{% if page.map_points %}
-  {% include google-maps.html %}
-{% endif %}
+{% if page.map_points %}{% include google-maps.html %}{% endif %}
 
 ## La Calle Central de Shibuya: energía sin filtros
 
@@ -146,10 +145,7 @@ Tras el almuerzo, crucé a **Shibuya**, hacia su famosa calle central. Esa cruza
 
 Es un lugar que representa lo contemporáneo, lo urbano, lo vibrante. Me recordó por qué Tokio nunca duerme: aquí cada esquina es una escena de película. Para mí, caminar por Shibuya no es solo un rito turístico, sino una experiencia sensorial que te conecta con la ciudad moderna.
 
-<figure class="align-center">
-  <img src="{{ '/assets/images/2026/03/09/Shibuya.webp' | relative_url }}" alt="Shibuya Crossing">
-  <figcaption class="align-right">El mítico cruce de Shibuya</figcaption>
-</figure>
+{% include figure popup="yes" image_path="/assets/images/2026/03/09/Shibuya.webp" alt="Shibuya Crossing" caption="El mítico cruce de Shibuya" %}
 
 ---
 

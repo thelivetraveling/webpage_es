@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Llegada a Tokio"
+published: false
 excerpt: "Desde la llegada a Narita hasta una tarde histórica en Asakusa."
 date:   2026-03-07 09:00:00 +0200
 categories: [japan]
@@ -87,10 +88,7 @@ Llegar al Aeropuerto Internacional de Narita (NRT) supone aterrizar en la princi
 
 Narita es un aeropuerto extenso, con tres terminales —dos para vuelos regulares y una dedicada a aerolíneas de bajo costo— conectadas por autobuses gratuitos o pasarelas peatonales. Es un lugar cómodo si llegas tras un vuelo largo: dispone de servicios amplios, tiendas duty-free, zonas de descanso y buenas conexiones hacia el centro de Tokio.
 
-<figure class="align-center">
-  <img src="{{ '/assets/images/2026/03/07/NaritaAirport.webp' | relative_url }}" alt="Narita Airport">
-  <figcaption class="align-right">Acabamos de Llegar</figcaption>
-</figure>
+{% include figure popup="yes" image_path="/assets/images/2026/03/07/NaritaAirport.webp" alt="Narita Airport" caption="Acabamos de Llegar" %}
 
 **Consejo práctico:** para llegar lo antes posible al centro conviene usar un tren rápido o un servicio limusina si vas con prisa o quieres aprovechar el día sin perder tiempo.
 
@@ -104,9 +102,7 @@ El ambiente alrededor es vibrante: Ueno es un barrio lleno de vida, museos, parq
 
 ---
 
-{% if page.map_points %}
-  {% include google-maps.html %}
-{% endif %}
+{% if page.map_points %}{% include google-maps.html %}{% endif %}
 
 ## Un paseo simbólico: Estatua de Hidesaburō Ueno y Hachikō
 

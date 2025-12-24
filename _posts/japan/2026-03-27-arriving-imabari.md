@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Kobe a Imabari vía Takamatsu"
+published: false
 excerpt: "Desde el Hotel Juraku en Kobe hasta Imabari cruzando Shikoku, visitando el Anabuki Arena, Castillo de Takamatsu y jardín Ritsurin."
 date: 2026-03-27 09:00:00 +0200
 categories: ["japan"]

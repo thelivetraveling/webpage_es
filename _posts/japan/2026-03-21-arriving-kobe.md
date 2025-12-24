@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "De Yakushima a Kobe"
+published: false
 excerpt: "Viaje desde Yakushima a Kobe, explorando aeropuerto, estación y el Parque Meriken."
 date: "2026-03-21 07:00:00 +0200"
 categories: ["japan"]
@@ -97,9 +98,8 @@ Yakushima Airport sirve como principal puerta de entrada a la isla, facilitando 
 Al llegar, el viajero percibe la mezcla de eficiencia aeroportuaria y la cercanía con la naturaleza de la isla. La emoción de iniciar un viaje aéreo se combina con la expectativa de explorar nuevos destinos y paisajes.
 
 ---
-{% if page.map_points %}
-  {% include google-maps.html %}
-{% endif %}
+
+{% if page.map_points %}{% include google-maps.html %}{% endif %}
 
 ## Fukuoka Airport
 
@@ -123,7 +123,4 @@ El Parque Meriken, situado en la bahía de Kobe, es un espacio icónico que comb
 
 Caminar por el parque permite al viajero disfrutar de esculturas, paseos junto al puerto y la brisa marina. La atmósfera relajante y las vistas panorámicas ofrecen un final perfecto para este tramo del viaje.
 
-<figure class="align-center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2022_Kobe_Meriken_Park_001.jpg/1280px-2022_Kobe_Meriken_Park_001.jpg" alt="Parque Meriken, Kobe">
-  <figcaption class="align-right">Parque Meriken, Kobe <a href="https://commons.wikimedia.org/wiki/User:Naokijp">By: Naokijp</a>. Licencia: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> CC BY-SA 4.0</a></figcaption>
-</figure>
+{% include figure popup="yes" image_path="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2022_Kobe_Meriken_Park_001.jpg/1280px-2022_Kobe_Meriken_Park_001.jpg" alt="Parque Meriken, Kobe" caption="Parque Meriken, Kobe By: Naokijp. Licencia: CC BY-SA 4.0" %}

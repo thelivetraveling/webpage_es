@@ -2,6 +2,7 @@
 layout: single
 published: false
 title: "Oshino Hakkai y los Ocho Estanques del Fuji"
+published: false
 excerpt: "Aguas cristalinas, estanques sagrados y vistas del Monte Fuji"
 date: 2026-03-11 09:00:00 +0200
 categories: [japan]
@@ -84,9 +85,7 @@ El trayecto requiere varios cambios de tren, pero forma parte de la experiencia.
 
 ## Kanda Station
 
-{% if page.map_points %}
-  {% include google-maps.html %}
-{% endif %}
+{% if page.map_points %}{% include google-maps.html %}{% endif %}
 
 El tren que parte de Kanda atraviesa zonas residenciales, después industriales, y poco a poco comienza a mostrar el Japón rural. Los edificios se espacian, aparecen campos de cultivo y pequeñas poblaciones que parecen detenidas en el tiempo. Es el preludio de lo que vendrá después: montañas, bosques y, con suerte, la silueta inconfundible del Monte Fuji recortándose en el horizonte.
 
@@ -152,10 +151,7 @@ En un día despejado, el Monte Fuji domina el horizonte desde cualquier punto de
 
 Existe un fenómeno conocido como "Diamond Fuji", que ocurre principalmente entre mediados de octubre y finales de febrero. Durante este periodo, el sol se alinea con la cumbre del Fuji de tal manera que, al amanecer o al atardecer, parece que la montaña está coronada por un diamante luminoso. Observar este espectáculo desde Oshino Hakkai, con el reflejo del sol sobre las aguas cristalinas, es una experiencia casi espiritual.
 
-<figure class="align-center">
-  <img src="{{ '/assets/images/2026/03/11/OshinoHakkai.webp' | relative_url }}" alt="Oshino Hakkai">
-  <figcaption class="align-right">El estanque Kagamiike</figcaption>
-</figure>  
+{% include figure popup="yes" image_path="/assets/images/2026/03/11/OshinoHakkai.webp" alt="Oshino Hakkai" caption="El estanque Kagamiike" %}
 
 ---
 

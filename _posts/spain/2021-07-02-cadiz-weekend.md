@@ -74,10 +74,7 @@ La **Plaza de San Antonio** es uno de los espacios públicos más emblemáticos 
 
 A media mañana de julio, la plaza estaba bañada por un sol intenso pero mitigado por la brisa marina. Las terrazas de los cafés empezaban a llenarse. Me senté un momento junto a la fuente, observando el ir y venir gaditano bajo las palmeras y los naranjos. El ambiente era tranquilo, perfecto para contemplar las fachadas blancas y amarillas de los edificios que rodean este "salón" de la ciudad.
 
-<figure class="align-center">
-  <img src="/assets/images/2021/07/02/PlazaSanAntonio.webp" alt="Plaza de San Antonio">
-  <figcaption class="align-right">Plaza de San Antonio by: <a href="https://github.com/thelivetraveling">The Live Traveling</a>. License: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a></figcaption>
-</figure>
+{% include figure popup="yes" image_path="/assets/images/2021/07/02/PlazaSanAntonio.webp" alt="Plaza de San Antonio" caption="Plaza de San Antonio by: The Live Traveling. License: CC BY-SA 4.0" %}
 
 ---
 
@@ -103,9 +100,7 @@ El **Monumento a las Cortes de 1812**, popularmente conocido como Monumento a la
 
 Desde lejos, el monumento domina la plaza con su imponente columnata semicircular y su alta torre central. Al acercarme, pude apreciar los detalles de las esculturas que representan a la Guerra, la Paz, la Agricultura y la Industria. Leer los nombres de los diputados doceañistas inscritos en el hemiciclo es un ejercicio de memoria histórica. Es un lugar que emana solemnidad y orgullo cívico.
 
-{% if page.map_points %}
-  {% include google-maps.html %}
-{% endif %}
+{% if page.map_points %}{% include google-maps.html %}{% endif %}
 
 ---
 

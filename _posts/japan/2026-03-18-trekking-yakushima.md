@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Ruta Arakawa Yakushima"
+published: false
 excerpt: "Inicio de la ruta Arakawa hacia el legendario cedro Jomon Sugi a través de antiguos raíles forestales."
 date: 2026-03-18 07:00:00 +0200
 categories: [japan]
@@ -65,11 +66,7 @@ El día comienza antes del amanecer para aprovechar las horas de luz en la monta
 
 El autobús especial de montaña opera desde el Museo Yakusugi hasta el inicio del sendero Arakawa entre marzo y noviembre. Durante estos meses el acceso en vehículo privado está restringido para reducir el impacto ambiental. Los billetes deben comprarse con antelación en los centros de información turística o directamente en el museo.
 
----
-
-{% if page.map_points %}
-  {% include google-maps.html %}
-{% endif %}
+{% if page.map_points %}{% include google-maps.html %}{% endif %}
 
 ---
 
@@ -87,7 +84,4 @@ El inicio oficial del sendero Arakawa se sitúa a novecientos cincuenta metros s
 
 La ruta fue declarada sendero oficial después del redescubrimiento del Jomon Sugi en mil novecientos sesenta y seis. Antes de ese momento pocos visitantes conocían la existencia de estos cedros milenarios en el interior montañoso. El sendero atraviesa bosques primarios donde crecen ejemplares de yakusugi junto con otras especies como rododendros y musgos que cubren troncos y rocas.
 
-<figure class="align-center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Yakushima-torokko.JPG/1280px-Yakushima-torokko.JPG" alt="Antiguas vías del tren forestal en el sendero Arakawa de Yakushima">
-  <figcaption class="align-right">Raíles forestales históricos del sendero Arakawa. <a href="https://commons.wikimedia.org/w/index.php?title=User:Torajiro&action=edit&redlink=1">By: Wikimedia Commons</a></figcaption>
-</figure>
+{% include figure popup="yes" image_path="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Yakushima-torokko.JPG/1280px-Yakushima-torokko.JPG" alt="Antiguas vías del tren forestal en el sendero Arakawa de Yakushima" caption="Raíles forestales históricos del sendero Arakawa. By: Wikimedia Commons" %}

@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Llegada a Yakushima"
+published: false
 excerpt: "Desde Fukuoka hasta Yakushima, Cedros milenarios y Patrimonio de la Humanidad."
 date: 2026-03-17 07:00:00 +0200
 categories: [japan]
@@ -80,11 +81,7 @@ El aeropuerto de Fukuoka es uno de los aeropuertos más accesibles de Japón. Si
 
 La terminal doméstica está separada de la internacional mediante un sistema de lanzadera gratuita. Los viajeros encuentran múltiples servicios incluyendo restaurantes especializados en ramen tonkotsu típico de Fukuoka. El aeropuerto opera aproximadamente doscientos vuelos diarios lo que lo convierte en uno de los más transitados de la región occidental japonesa.
 
----
-
-{% if page.map_points %}
-  {% include google-maps.html %}
-{% endif %}
+{% if page.map_points %}{% include google-maps.html %}{% endif %}
 
 ---
 
@@ -103,9 +100,10 @@ El Yakushima Green Hotel se encuentra en las afueras de Anbo con vistas privileg
 El establecimiento dispone de baños públicos separados por género y una sauna con piedras calientes que invitan al descanso tras las caminatas por la montaña. El desayuno japonés se sirve en el comedor con vistas al mar de China Oriental mientras que la cena ofrece especialidades locales en formato kaiseki. El hotel está situado a diez minutos en coche del aeropuerto y cerca de la parada de autobús Chuo.
 
 <figure class="align-center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Anbo_and_Yakushima_%284496048808%29.jpg/1024px-Anbo_and_Yakushima_%284496048808%29.jpg" alt="Vista aérea de Anbo y la costa de Yakushima">
-  <figcaption class="align-right">Puerto de Anbo en Yakushima <a href="https://www.flickr.com/people/81943113@N00">By: Wikimedia Commons</a>. Licencia: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> CC BY-SA 4.0</a></figcaption>
+  <img src="" alt="">
+  <figcaption class="align-right"></figcaption>
 </figure>
+{% include figure popup="yes" image_path="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Anbo_and_Yakushima_%284496048808%29.jpg/1024px-Anbo_and_Yakushima_%284496048808%29.jpg" alt="Vista aérea de Anbo y la costa de Yakushima" caption="Puerto de Anbo en Yakushima By: Wikimedia Commons. Licencia:CC BY-SA 4.0" %}
 
 ---
 

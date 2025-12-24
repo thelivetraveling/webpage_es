@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Kumamoto y su Castillo Resiliente"
+published: false
 excerpt: "Fortaleza en reconstrucción, jardines zen, arcade comercial y la modernidad urbana"
 date: 2026-03-14 09:00:00 +0200
 categories: [japan]
@@ -131,9 +132,7 @@ Pero en abril de 2016, la naturaleza hizo lo que ningún ejército había lograd
 
 Los terrenos del castillo abarcan varias hectáreas, con árboles centenarios, fosos profundos y varias estructuras secundarias. La Torre Uto es una de las pocas que sobrevivió al asedio de 1877 y data de la época original de construcción. Cerca del Parque San-no-Maru se encuentra Hosokawa Gyobu-tei, la antigua residencia del clan Hosokawa, una mansión tradicional de madera con un precioso jardín japonés.
 
-{% if page.map_points %}
-  {% include google-maps.html %}
-{% endif %}
+{% if page.map_points %}{% include google-maps.html %}{% endif %}
 
 ---
 
@@ -173,10 +172,7 @@ Tomar el tranvía desde el centro hasta la parada Suizenji Koen lleva unos 15 mi
 
 Este jardín de paseo de 64 hectáreas fue creado en 1632 por Hosokawa Tadatoshi, el primer señor feudal del dominio de Higo (Kumamoto) tras la llegada del clan Hosokawa. Durante una excursión de cetrería, Tadatoshi quedó impresionado por el agua cristalina de manantial que brotaba del suelo, alimentada por acuíferos subterráneos conectados con el Monte Aso. Decidió construir allí un templo budista llamado Suizenji y una casa de té.
 
-<figure class="align-center">  
-  <img src="{{ '/assets/images/2026/03/14/JojuenGarden.webp' | relative_url }}" alt="Jojuen Garden">  
-  <figcaption class="align-right">Parte del Jojuen Garden <a href="https://ja.wikipedia.org/wiki/user:663highland">By: 663highland</a>. Licencia: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> CC BY-SA 4.0</a></figcaption>  
-</figure>  
+{% include figure popup="yes" image_path="/assets/images/2026/03/14/JojuenGarden.webp" alt="Jojuen Garden" caption="Parte del Jojuen Garden By: 663highland. Licencia: CC BY-SA 4.0" %}
 
 Las generaciones siguientes de la familia Hosokawa ampliaron el jardín hasta convertirlo en un kaiyushiki teien (jardín de paseo circular) de estilo refinado del período Momoyama. En 1671 se completó la obra y recibió el nombre Jojuen, en referencia a un verso del poema clásico chino "Come Away Home" de Tao Qian.
 

@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Oshino Hakkai"
+published: false
 excerpt: "Un viaje rápido en tren desde Tokio hasta Oshino Hakkai para descubrir aldeas, agua pura y tradición."
 date: 2026-03-11 09:00:00 +0200
 categories: [japan]
@@ -103,9 +104,7 @@ Fujisan Station es relativamente moderna en comparación con las estaciones ante
 
 Mi destino final estaba ya muy cerca: **Oshino Hakkai**, un pequeño conjunto de estanques naturales formado por aguas procedentes del deshielo del propio Monte Fuji.
 
-{% if page.map_points %}
-  {% include google-maps.html %}
-{% endif %}
+{% if page.map_points %}{% include google-maps.html %}{% endif %}
 
 ---
 
@@ -114,10 +113,7 @@ Llegué a **Oshino Hakkai** a media mañana. El contraste con Tokio no puede ser
 
 La historia de Oshino Hakkai es profundamente natural y cultural a la vez. Sus ocho estanques se forman gracias al agua filtrada durante décadas a través de las capas de roca volcánica del Fuji, lo que da como resultado un agua sorprendentemente transparente. Antiguamente estos estanques se consideraban sagrados, y formaban parte de rutas de purificación para peregrinos que ascendían a la montaña.
 
-<figure class="align-center">
-  <img src="{{ '/assets/images/2026/03/11/OshinoHakkai.webp' | relative_url }}" alt="Oshino Hakkai">
-  <figcaption class="align-right">Estanque Kagamiike</figcaption>
-</figure>
+{% include figure popup="yes" image_path="/assets/images/2026/03/11/OshinoHakkai.webp" alt="Estanque Kagamiike" caption="El estanque Kagamiike" %}
 
 Caminé despacio por los senderos que bordean los estanques. Se respira una calma curiosa: grupos de visitantes tomando fotos, pero al mismo tiempo un silencio muy particular que invita a observar el entorno. Pequeñas tiendas tradicionales ofrecen dulces locales, artesanía y productos agrícolas de la zona. Probé una especialidad de aquí: verduras fritas recién hechas, perfectas para ir comiendo mientras recorría el pueblo.
 

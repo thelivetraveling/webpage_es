@@ -1,6 +1,7 @@
 ---  
 layout: single  
 title: "Fukuoka"  
+published: false
 excerpt: "Hostelería, templo y ríos de luces en la ciudad costera"  
 categories: [japan]  
 date: 2026-03-12 09:00:00 +0200
@@ -108,9 +109,7 @@ El siguiente punto fue **Canal City Hakata**, el enorme complejo comercial que p
 
 Además de la oferta gastronómica, el complejo alberga el museo del Hakata Matsuri, con trajes y carrozas del famoso festival de verano. Como la entrada a Canal City está marcada como *transit*, aproveché la conexión directa con la estación de Hakata: la línea de metro Kūkō Line me dejó a unos pasos del hotel.  
 
-{% if page.map_points %}  
-  {% include google-maps.html %}  
-{% endif %}  
+{% if page.map_points %}{% include google-maps.html %}{% endif %}  
 
 ---  
 
@@ -127,6 +126,8 @@ El desayuno buffet incluía arroz integral, pescado del mercado de Hakata y una 
 El **Kushida Shrine** es el corazón espiritual de la ciudad y el punto de partida del famoso festival Yamakasa. Llegué allí justo cuando los cerezos empezaban a abrir sus flores, lo que le dio al recinto una atmósfera de delicada luz rosada.  
 
 Entré en la *haiden* y me encontré con una enorme linterna de bronce de 3,5 m que se ilumina al atardecer. En el área de *omikuji* saqué un amuleto de buena suerte que, según el personal, protege a los viajeros que cruzan el puerto. Es un sitio perfecto para respirar un poco de historia antes de seguir con la comida.  
+
+{% include figure popup="yes" image_path="/assets/images/2026/03/12/Fukuoka.webp" alt="Fukuoka" caption="Costa de Fukuoka con drone" %}
 
 ---  
 

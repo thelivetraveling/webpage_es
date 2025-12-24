@@ -2,6 +2,7 @@
 layout: single
 published: false
 title: "Día en Asakusa"
+published: false
 excerpt: "Un recorrido por Asakusa desde sus calles comerciales hasta los santuarios históricos y parques tradicionales."
 date: 2026-03-08 09:00:00 +0200
 categories: ["japan"]
@@ -141,10 +142,7 @@ El Sensoji es el templo budista más antiguo de Tokio. Según la leyenda, dos he
 
 En el año 645 se fundó el primer templo formal para la veneración de Kannon. Aunque los edificios han sido reconstruidos múltiples veces a lo largo de la historia, el templo continúa siendo uno de los más visitados de Japón con cerca de treinta millones de visitantes anuales. La puerta Kaminarimon y la calle comercial Nakamise preceden el acceso al salón principal.
 
-<figure class="align-center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/1_asakusa_sensoji_2011b.JPG/1280px-1_asakusa_sensoji_2011b.JPG" alt="Sensoji Temple en Asakusa con multitud de visitantes en la calle Nakamise">
-  <figcaption class="align-right">Sensoji Temple - Asakusa, Tokio. Licencia: CC BY-SA 4.0. Fuente: Wikimedia Commons</figcaption>
-</figure>
+{% include figure popup="yes" image_path="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/1_asakusa_sensoji_2011b.JPG/1280px-1_asakusa_sensoji_2011b.JPG" alt="Sensoji Temple en Asakusa" caption="Sensoji Temple - Asakusa, Tokio. Licencia: CC BY-SA 4.0. Fuente: Wikimedia Commons" %}
 
 ---
 
@@ -162,10 +160,7 @@ Hanayashiki es el parque de atracciones más antiguo de Japón. Abrió en 1853 d
 
 El parque alberga la montaña rusa más antigua del país, en funcionamiento desde 1953. A pesar de su reducido tamaño de aproximadamente cinco mil metros cuadrados, mantiene un ambiente nostálgico con atracciones retro. Fue demolido durante la Segunda Guerra Mundial y reconstruido en 1947 conservando ese aire de antaño que lo caracteriza.
 
-<figure class="align-center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Asakusa_Hanayashiki_2012.JPG/1280px-Asakusa_Hanayashiki_2012.JPG" alt="Parque de atracciones Hanayashiki en Asakusa">
-  <figcaption class="align-right">Asakusa Hanayashiki - El parque de atracciones más antiguo de Japón. Licencia: CC BY-SA 3.0. Fuente: Wikimedia Commons</figcaption>
-</figure>
+{% include figure popup="yes" image_path="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Asakusa_Hanayashiki_2012.JPG/1280px-Asakusa_Hanayashiki_2012.JPG" alt="Parque de atracciones Hanayashiki en Asakusa" caption="Asakusa Hanayashiki - El parque de atracciones más antiguo de Japón. Licencia: CC BY-SA 3.0. Fuente: Wikimedia Commons" %}
 
 ---
 
@@ -215,10 +210,7 @@ Kappabashi es una calle comercial de ochocientos metros dedicada exclusivamente 
 
 La calle comenzó en 1912 con tiendas de herramientas y muebles usados. Tras la Segunda Guerra Mundial se desarrolló como distrito especializado en menaje profesional. El nombre proviene del comerciante Kihachi Kappaya quien invirtió en infraestructura de drenaje durante el siglo XIX para proteger Asakusa de inundaciones.
 
-<figure class="align-center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kappabashi.JPG/1920px-Kappabashi.JPG" alt="Calle Kappabashi con su icónica estatua del chef gigante">
-  <figcaption class="align-right">Calle Kappabashi - Distrito de utensilios de cocina en Tokio. Fuente: Wikimedia Commons</figcaption>
-</figure>
+{% include figure popup="yes" image_path="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kappabashi.JPG/1920px-Kappabashi.JPG" alt="Calle Kappabashi con su icónica estatua del chef gigante" caption="Calle Kappabashi - Distrito de utensilios de cocina en Tokio. Fuente: Wikimedia Commons" %}
 
 ---
 

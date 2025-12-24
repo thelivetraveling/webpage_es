@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "De Kobe a Wakayama"
+published: false
 excerpt: "Viaje desde Kobe pasando por las estaciones de tren hasta el Castillo de Wakayama y el animado Kuroshio Market."
 date: 2026-03-26 09:00:00 +0200
 categories: ["Japan"]

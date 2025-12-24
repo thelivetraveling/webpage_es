@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Yakushima Relax"
+published: false
 excerpt: "De Yakushima Green Hotel al Hirauchi Kaichu Onsen, experiencia de aguas termales frente al mar."
 date: "2026-03-20 07:00:00 +0200"
 categories: ["japan"]
@@ -58,9 +59,8 @@ El Yakushima Green Hotel combina comodidad y conexión con la naturaleza de la i
 Al salir del hotel, se percibe el aire fresco de Yakushima y la tranquilidad de sus alrededores. Los jardines y la cercanía a la costa brindan un ambiente relajante, preparando al viajero para un día de exploración y disfrute de las aguas termales locales.
 
 ---
-{% if page.map_points %}
-  {% include google-maps.html %}
-{% endif %}
+
+{% if page.map_points %}{% include google-maps.html %}{% endif %}
 
 ## Hirauchi Kaichu Onsen
 
@@ -68,8 +68,6 @@ Hirauchi Kaichu Onsen es un onsen único en Yakushima, ubicado frente al mar. Es
 
 Llegar al onsen es una experiencia en sí misma: pedaleando entre senderos y vegetación, el viajero siente la conexión con la isla y anticipa la relajación que le aguarda. Las vistas del océano y el vapor que se eleva de las piscinas naturales crean una atmósfera serena y memorable.
 
+{% include figure popup="yes" image_path="https://upload.wikimedia.org/wikipedia/commons/b/b3/Hirauchi_kaichu_onsen.jpg" alt="Hirauchi Kaichu Onsen" caption="Foto: Hirauchi Kaichu Onsen, Yakushima By: Somey. Licencia: CC BY-SA 4.0" %}
+
 ---
-<figure class="align-center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Hirauchi_kaichu_onsen.jpg" alt="Hirauchi Kaichu Onsen">
-  <figcaption class="align-right">Foto: Hirauchi Kaichu Onsen, Yakushima <a href="https://commons.wikimedia.org/w/index.php?title=User:Somey&action=edit&redlink=1">By: Somey</a>. Licencia: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> CC BY-SA 4.0</a></figcaption>
-</figure>

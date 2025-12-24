@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Beppu y sus Infiernos"
+published: false
 excerpt: "Infiernos geotérmicos, baños de barro volcánico y la magia termal de Kyushu"
 date: 2026-03-15 09:00:00 +0200
 categories: [japan]
@@ -109,10 +110,7 @@ El recinto cuenta con seis distritos diferentes, cada uno con su propia personal
 
 La experiencia culinaria también forma parte del atractivo. Los famosos "Onsen Piitan" son huevos cocidos durante 24 horas en el vapor geotérmico, lo que les otorga un color y sabor únicos. Compré varios porque están realmente deliciosos, y vi a dos personas comprando 16 de golpe. También venden pudín de soja y otros productos cocinados con el calor natural.
 
-<figure class="align-center">
-  <img src="{{ '/assets/images/2026/03/15/Kamado.webp' | relative_url }}" alt="Kamado Jigoku">
-  <figcaption class="align-right">Estanques de colores en Kamado Jigoku <a href="https://ja.wikipedia.org/wiki/user:663highland">By: 663highland</a>. Licencia: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> CC BY-SA 4.0</a></figcaption>
-</figure>
+{% include figure popup="yes" image_path="/assets/images/2026/03/15/Kamado.webp" alt="Kamado Jigoku" caption="Estanques de colores en Kamado Jigoku By: 663highland. Licencia: CC BY-SA 4.0" %}
 
 Un detalle que muchos desconocen: si muestras tu entrada en la taquilla este, puedes acceder gratuitamente a un onsen privado llamado "Iyashinoyu". Necesitas pedir la llave, disfrutar del baño, devolverla y listo. Es una joya escondida que el dueño construyó originalmente para uso familiar pero que ahora está disponible para visitantes.
 
@@ -126,9 +124,7 @@ Yama Jigoku (Infierno de la Montaña) es menos espectacular visualmente, pero im
 
 Los ocho infiernos pueden visitarse con una entrada combinada por 2.000 yenes, válida durante dos días consecutivos. Si tienes el folleto "Be Beppu" que venden por 500 yenes en la oficina de turismo de la estación, obtienes un 10% de descuento y un huevo gratis en Kamado Jigoku. El recorrido completo lleva entre 2 y 3 horas a pie, ya que cinco de ellos se concentran en el distrito de Kannawa y dos en Shibaseki.
 
-{% if page.map_points %}
-  {% include google-maps.html %}  
-{% endif %}
+{% if page.map_points %}{% include google-maps.html %}{% endif %}
 
 ---
 
@@ -152,10 +148,7 @@ Después de tanto calor geotérmico, una caminata por Beppu Park vino de maravil
 
 El parque es un oasis urbano perfecto para descansar. Hay senderos que serpentean entre bambusales, zonas de juegos infantiles, áreas de picnic y bancos estratégicamente ubicados para contemplar la vegetación. En primavera se llena de cerezos en flor, mientras que en otoño los árboles cambian a tonos rojizos y dorados espectaculares. Las glicinas florecen entre abril y mayo, creando cortinas moradas que cuelgan sobre los caminos.
 
-<figure class="align-center">
-  <img src="{{ '/assets/images/2026/03/15/Beppu.webp' | relative_url }}" alt="Beppu Park">
-  <figcaption class="align-right">Senderos de Beppu Park entre bambúes by <a href="https://commons.wikimedia.org/wiki/User:大分帰省中">大分帰省中</a></figcaption>
-</figure>
+{% include figure popup="yes" image_path="/assets/images/2026/03/15/Beppu.webp" alt="Beppu Park" caption="Senderos de Beppu Park entre bambúes by 大分帰省中" %}
 
 En el corazón del parque hay una piedra que marca el centro geográfico de Beppu, excavada durante las obras de mantenimiento en la era Meiji. Recorrer todo el parque lleva unos 30 minutos caminando tranquilamente. En la puerta este hay un Starbucks moderno con ambiente abierto, ideal para tomar algo antes de continuar.
 

@@ -2,6 +2,7 @@
 layout: single  
 published: false
 title: "Ikebukuro y Jimbocho"
+published: false
 excerpt: "Museo de origami, puente Hijiri, Daruma y cafés en Tokio"  
 date: 2026-03-10 09:00:00 +0200  
 categories: [japan]  
@@ -112,9 +113,7 @@ El **Origami Museum** es un espacio dedicado al arte del papel plegado, una disc
 
 El **Hijiri Bridge** cruza el pequeño canal que separa Ikebukuro del distrito de Shinjuku-nishiguchi. Aunque no ostenta la fama de los puentes de la zona de Asakusa, su nombre -que significa “puente sagrado”– recuerda al antiguo templo Hijiri‑ji que alguna vez se alzó cerca. Hoy el puente es un punto de paso frecuentado por locales que lo utilizan para ir al mercado de alimentos y a los cafés de la ribera.  
 
-{% if page.map_points %}  
-  {% include google-maps.html %}  
-{% endif %}  
+{% if page.map_points %}{% include google-maps.html %}{% endif %}  
 
 ---  
 
@@ -138,10 +137,7 @@ El barrio de **Jimbocho** es conocido como el “paraíso de los libros” de To
 
 A pocos metros del puente Hijiri se halla el **Canal Cafe**, un local con una terraza que mira al tranquilo canal artificial. Su menú combina pasteles clásicos europeos con té matcha de origen certificada. El interior, decorado con lámparas de papel y muebles de bambú, crea un ambiente íntimo ideal para descansar después de una larga caminata por la zona.  
 
-<figure class="align-center">  
-  <img src="{{ '/assets/images/2026/03/10/CanalCafe.webp' | relative_url }}" alt="Canal Cafe">  
-  <figcaption class="align-right">Canal Cafe y sus vistas</figcaption>  
-</figure>  
+{% include figure popup="yes" image_path="/assets/images/2026/03/10/CanalCafe.webp" alt="Canal Cafe" caption="Canal Cafe y sus vistas" %}
 
 ---  
 

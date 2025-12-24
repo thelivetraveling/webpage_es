@@ -2,6 +2,7 @@
 layout: single
 published: false
 title: "Un día perfecto en Tokio"
+published: false
 excerpt: "Descubre lo mejor de Tokio: desde arte inmersivo hasta barrios vibrantes."
 date: 2026-03-09 09:00:00 +0200
 categories: [japan]
@@ -127,9 +128,7 @@ Mi mañana comenzó en Azabudai Hills, donde se encuentra el espectacular teamLa
 
 El espacio total es enorme: 10,000 metros cuadrados distribuidos en 520 ordenadores y 470 proyectores. Aunque la cantidad de gente puede ser considerable, especialmente en horas punta, merece la pena. Recomendé dedicar al menos tres horas, aunque muchos visitantes desean quedarse más. Los precios varían según la fecha (pricing dinámico), rondando entre 3,800 y 4,800 yenes para adultos.
 
-{% if page.map_points %}
-  {% include google-maps.html %}
-{% endif %}
+{% if page.map_points %}{% include google-maps.html %}{% endif %}
 
 ## Ebisu Yokocho: Un mercado nocturno en la era Showa
 
@@ -143,10 +142,7 @@ No podía visitar Tokio sin experimentar el legendario Cruce de Shibuya, aunque 
 
 Tienes que experimentarlo desde arriba para apreciar verdaderamente el patrón. El Starbucks ubicado enfrente tiene ventanas perfectas para observar.
 
-<figure class="align-center">
-  <img src="{{ '/assets/images/2026/03/09/Shibuya.webp' | relative_url }}" alt="Shibuya Crossing">
-  <figcaption class="align-right">El mítico cruce de Shibuya</figcaption>
-</figure>
+{% include figure popup="yes" image_path="/assets/images/2026/03/09/Shibuya.webp" alt="Shibuya Crossing" caption="El mítico cruce de Shibuya" %}
 
 La estación de Shibuya fue construida en 1885, pero este cruce diagonal tal como lo conocemos hoy se formalizó en 1973. Cerca está la famosa estatua de Hachiko, el perro leal que esperó a su amo durante años después de su muerte, convirtiéndose en símbolo de lealtad en la cultura japonesa.
 

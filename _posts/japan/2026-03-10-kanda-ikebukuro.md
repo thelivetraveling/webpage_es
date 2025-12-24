@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Ikebukuro y Jimbocho"
+published: false
 excerpt: "Ruta a pie por lugares emblemáticos, museo de papel, puentes, libros y un café tranquilo"
 date: 2026-03-10 09:00:00 +0200
 categories: [japan]
@@ -106,17 +107,12 @@ El Origami Museum es una parada perfecta para quienes aprecian el detalle. Más 
 
 ---
 
-{% if page.map_points %}
-  {% include google-maps.html %}
-{% endif %}
+{% if page.map_points %}{% include google-maps.html %}{% endif %}
 
 ## Hijiri Bridge — Un puente con vistas urbanas
 Cruzando el Kanda-gawa aparece Hijiri Bridge, un arco moderno que conecta barrios y ofrece excelentes puntos para contemplar el paso de trenes y la vida a ras de agua. Es un lugar adecuado para detenerse, tomar fotos y notar cómo se mezcla lo cotidiano con elementos arquitectónicos sencillos pero fotogénicos.
 
-<figure class="align-center">
-  <img src="{{ '/assets/images/2026/03/10/Hijiri_bridge.webp' | relative_url }}" alt="Hijiri bridge">
-  <figcaption class="align-right">Hijiri bridge</figcaption>
-</figure>
+{% include figure popup="yes" image_path="/assets/images/2026/03/10/HijiriBridge.webp" alt="Hijiri bridge" caption="Hijiri bridge" %}
 
 ---
 
@@ -141,7 +137,10 @@ Jimbocho es, sin exagerar, la meca de los libros usados en Tokio. Sus calles con
 ---
 
 ## Canal Cafe — Un respiro junto al agua
+
 Canal Cafe ofrece una terraza junto al canal que invita a detenerse y tomar algo tranquilo. Es un punto excelente para refrescar las piernas después de horas caminando: cafés, postres y una atmósfera que mezcla turistas y vecinos. El entorno canalizado tiene su propia historia ligada al ocio local, y el café aprovecha esa calma para ofrecer una pausa reposada en la ruta.
+
+{% include figure popup="yes" image_path="/assets/images/2026/03/10/CanalCafe.webp" alt="Canal Cafe" caption="Canal Cafe y sus vistas" %}
 
 ---
 
