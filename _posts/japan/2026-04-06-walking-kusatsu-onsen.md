@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Día en Kusatsu Onsen"
-published: true
+published: false
 excerpt: "Recorrido por el pueblo termal de Kusatsu: Yubatake, baños públicos tradicionales y el rotenburo de Sainokawara."
 date: 2026-04-06 09:00:00 +0200
 categories: ["japan"]

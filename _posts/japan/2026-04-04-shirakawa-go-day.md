@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "De Nagoya a Shirakawa-go"
-published: true
+published: false
 excerpt: "Un viaje en tren desde Nagoya hasta Takayama para explorar las históricas granjas con techo de paja de Shirakawa-go, culminando con una cena de ternera Hida."
 date: 2026-04-04 07:00:00 +0200
 categories: ["japan"]

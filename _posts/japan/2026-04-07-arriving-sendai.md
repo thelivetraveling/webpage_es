@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Ciudad base: Sendai"
-published: true
+published: false
 excerpt: "Cambio de ciudad base: autobús de montaña, shinkansen desde Karuizawa y llegada a la capital de Tōhoku, Sendai."
 date: 2026-04-07 10:00:00 +0200
 categories: ["japan"]

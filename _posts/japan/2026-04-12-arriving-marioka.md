@@ -1,89 +1,61 @@
 ---
 layout: single
-title: ""
-published: false
+title: "Cambio de base: Morioka"
+published: true
 excerpt: ""
-date: 2026-03-25 09:00:00 +0200
+date: 2026-04-12 09:00:00 +0200
 categories: []
 tags: []
 country: "JP"
 city: 
 language: "es"
 header:
-  teaser: /assets/images/2026/03/25/Wakayama.webp
-  overlay_image: /assets/images/2026/03/25/Wakayama.webp
+  teaser: /assets/images/2026/04/12/Morioka.webp
+  overlay_image: /assets/images/2026/04/12/Morioka.webp
 video:
   id: "tujkoXI8rWM"
   duration: "PT15M30S"
 images:
   - id: "image1"
-    path: /assets/images/2026/03/25/vacio.webp
+    path: /assets/images/2026/04/12/vacio.webp
     alt: ""
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
   - id: "image2"
-    path: /assets/images/2026/03/25/vacio.webp
+    path: /assets/images/2026/04/12/vacio.webp
     alt: ""
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
 map_points:
   - id: "point1"
-    name: "Hotel"
-    lat: 
-    lng: 
+    name: "Richmond Hotel Sendai"
+    lat: 38.26544
+    lng: 140.88227
     price_range: "$$"
     type: "hotel"
     mode: "walking"
   - id: "point2"
-    name: "Station"  
-    lat: 
-    lng: 
+    name: "Sendai Station"
+    lat: 38.26060
+    lng: 140.88161
+    price_range: "$"
+    type: "station"
+    mode: "walking"
+  - id: "point3"
+    name: "Morioka Station"  
+    lat: 39.70173
+    lng: 141.13689
     price_range: "$"
     type: "station"
     mode: "transit"
-    transit_types: ["train", "shinkansen", "bus"]
-  - id: "point3"
-    name: "Castle"
-    lat: 
-    lng: 
-    price_range: "$$"
-    type: "castle"
-    mode: "walking"
+    transit_types: ["train", "shinkansen"]
   - id: "point4"
-    name: "Temple"
-    lat: 
-    lng: 
-    price_range: "$"
-    type: "temple"
-    mode: "walking"
-  - id: "point5"
-    name: "Museum"
-    lat: 
-    lng: 
+    name: "Hotel Royal Morioka"
+    lat: 38.26544
+    lng: 140.88227
     price_range: "$$"
-    type: "museum"
-    mode: "walking"
-  - id: "point6"
-    name: "Park"
-    lat: 
-    lng: 
-    price_range: "$"
-    type: "park"
-    mode: "walking"
-  - id: "point7"
-    name: "Shop"
-    lat: 
-    lng: 
-    price_range: "$$$"
-    type: "shop"
-    mode: "walking"
-  - id: "point8"
-    name: "Kombini"
-    lat: 
-    lng: 
-    price_range: "$"
-    type: "default"
-    mode: "walking"
+    type: "hotel"
+    mode: "walking""
 faqs:
   - question: "¿Cuánto tiempo necesito para visitar ...?"
     answer: ""

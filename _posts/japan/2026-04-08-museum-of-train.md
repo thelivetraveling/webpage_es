@@ -2,12 +2,12 @@
 layout: single
 title: "Museo ferroviario de Omiya"
 published: true
-excerpt: "Recorrido en tren entre Sendai y Omiya explorando estaciones clave, museos ferroviarios y la experiencia cotidiana del transporte japonés."
+excerpt: "Viaje desde Sendai hasta Ōmiya para visitar el Railway Museum: colección histórica de trenes japoneses y simuladores interactivos."
 date: 2026-04-08 07:00:00 +0200
-categories: ["japon", "viajes", "trenes"]
-tags: ["sendai", "omiya", "tren", "museos", "japon urbano"]
+categories: ["japan"]
+tags: ["omiya", "sendai", "museo", "ferrocarril", "shinkansen"]
 country: "JP"
-city: "Sendai"
+city: "Omiya"
 language: "es"
 header:
   teaser: /assets/images/2026/04/08/Omiya.webp
@@ -16,14 +16,24 @@ video:
   id: "xTmBtgyzGbA"
   duration: "PT15M30S"
 images:
-  - id: "image1"
-    path: /assets/images/2026/04/08/omiyaStation.webp
-    alt: "Estación de Omiya y entorno urbano"
+  - id: "richmondHotelSendaiMorning"
+    path: /assets/images/2026/04/08/richmondHotelSendaiMorning.webp
+    alt: "hotel sendai amanecer"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image2"
-    path: /assets/images/2026/04/08/museoTrain.webp
-    alt: "Museo del Ferrocarril de Omiya"
+  - id: "sendaiStationDeparture"
+    path: /assets/images/2026/04/08/sendaiStationDeparture.webp
+    alt: "estacion sendai salida"
+    license: "CC BY SA 4.0"
+    credit_text: "The Live Traveling"
+  - id: "omiyaStationArrival"
+    path: /assets/images/2026/04/08/omiyaStationArrival.webp
+    alt: "estacion omiya llegada"
+    license: "CC BY SA 4.0"
+    credit_text: "The Live Traveling"
+  - id: "railwayMuseumOmiya"
+    path: /assets/images/2026/04/08/railwayMuseumOmiya.webp
+    alt: "museo ferrocarril omiya"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
 map_points:
@@ -79,39 +89,57 @@ map_points:
     type: "hotel"
     mode: "walking"
 faqs:
-  - question: "¿Cuánto tiempo necesito para realizar este recorrido?"
-    answer: "Una jornada completa es suficiente, combinando el trayecto en tren, la visita al museo y los desplazamientos urbanos sin prisas."
-  - question: "¿Es un itinerario adecuado para viajeros primerizos en Japón?"
-    answer: "Sí, el recorrido utiliza infraestructuras claras, señalización sencilla y trayectos muy habituales para el transporte nacional."
+  - question: "¿Cuánto cuesta la entrada al Railway Museum de Ōmiya?"
+    answer: "La entrada general cuesta 1330 yenes para adultos, 620 yenes para estudiantes de secundaria y universidad, y 310 yenes para niños de primaria. Preescolares entran gratis."
+  - question: "¿Cuánto tiempo se necesita para visitar el museo completo?"
+    answer: "Se recomienda dedicar entre 3 y 4 horas para recorrer las exposiciones principales, probar los simuladores y ver las demostraciones de los trenes históricos en funcionamiento."
 ---
 
-## Inicio de una jornada sobre raíles
+# Visita al Railway Museum de Ōmiya
 
-La jornada comienza temprano en el Richmond Hotel Sendai, un alojamiento funcional situado a poca distancia de la estación principal. Este punto de partida resulta práctico para viajeros que desean optimizar tiempos, ya que permite llegar caminando al núcleo ferroviario de la ciudad sin depender de otros medios de transporte. El entorno urbano de Sendai a primera hora transmite una sensación ordenada y tranquila, con comercios abriendo progresivamente y un flujo constante de viajeros locales. Este primer tramo del día sirve para mentalizarse del papel central que el tren tendrá en la experiencia, no solo como medio de desplazamiento, sino como hilo conductor del relato del viaje.
+La excursión desde Sendai hasta Ōmiya permite visitar uno de los museos ferroviarios más completos de Japón, con más de cuarenta locomotoras y trenes históricos preservados desde el periodo Meiji hasta la actualidad.
 
-Desde la estación de Sendai se accede a una de las redes ferroviarias más eficientes del país, lo que convierte el trayecto en parte esencial del itinerario. El espacio interior de la estación es amplio, bien señalizado y diseñado para absorber grandes volúmenes de pasajeros sin generar sensación de caos. Antes de subir al tren, merece la pena dedicar unos minutos a observar la dinámica del lugar, donde conviven viajeros diarios, turistas y personal ferroviario en una coreografía precisa. Esta observación inicial aporta contexto y prepara al visitante para comprender mejor la importancia histórica y cultural del ferrocarril en Japón.
+{% include video id="xTmBtgyzGbA" provider="youtube" %}
 
-{% include figure popup="yes" image_path="/assets/images/2026/04/08/richmondHotelSendai.webp" alt="hotel urbano sendai" caption="Entrada del Richmond Hotel Sendai" %}
+## Richmond Hotel Sendai
+
+Desayuné a las siete en el buffet del primer piso del hotel. El menú incluía opciones occidentales y japonesas: tostadas, huevos revueltos, salchichas, arroz blanco, pescado asado, sopa de miso y varios encurtidos. Tras desayunar, subí a la habitación para recoger la mochila y salí del hotel a las siete y media. Caminé tres minutos hasta la estación de Sendai por la avenida principal, todavía tranquila a esa hora de la mañana.
+
+El hotel cumple su función perfectamente para una estancia Sendai como ciudad base. La habitación es compacta pero funcional, con buen aislamiento acústico a pesar de estar en pleno centro urbano. El precio de 7500 yenes por noche me pareció razonable considerando la ubicación inmediata a la estación y la limpieza impecable del establecimiento.
+
+{% include figure popup="yes" image_path="/assets/images/2026/04/08/richmondHotelSendaiMorning.webp" alt="hotel sendai amanecer" caption="Richmond Hotel Sendai al amanecer" %}
 
 ---
 
-## Viaje como experiencia
+## Sendai Station
 
-El desplazamiento entre Sendai y Omiya se realiza íntegramente en tren, lo que permite apreciar la transición progresiva entre regiones. Durante el trayecto, el paisaje cambia de áreas más abiertas a zonas densamente urbanizadas, reflejando la diversidad geográfica y humana del país. El interior del vagón ofrece comodidad y silencio, favoreciendo una experiencia relajada incluso en trayectos largos. Este tiempo resulta ideal para reflexionar sobre cómo el desarrollo ferroviario ha condicionado la movilidad y el crecimiento de las ciudades japonesas a lo largo de las décadas.
+La estación de Sendai fue inaugurada en 1887 como terminal de la línea Tōhoku Main Line. En 1982 se convirtió en parada del Tōhoku Shinkansen, reduciendo el tiempo de viaje a Tokio de cinco horas y media a dos horas. La estación moderna, renovada en 2016, funciona como centro de transporte principal de la región de Tōhoku, conectando las líneas shinkansen con servicios ferroviarios locales hacia la costa del Pacífico y las montañas interiores de la prefectura de Miyagi.
 
-La llegada a la estación de Omiya marca un punto clave del recorrido, ya que se trata de uno de los nodos ferroviarios más relevantes del país. Aquí confluyen múltiples líneas, lo que refuerza su papel estratégico dentro de la red nacional. El ambiente es más intenso que en Sendai, con un tránsito constante de pasajeros y una infraestructura claramente pensada para la eficiencia. Este contraste ayuda a contextualizar la visita posterior al museo, ya que permite experimentar de primera mano la magnitud del sistema ferroviario antes de adentrarse en su historia y evolución.
+Entré en la estación a las siete y cuarenta. Compré un billete de shinkansen hasta Ōmiya en las máquinas automáticas de JR East, seleccionando asiento no reservado en clase ordinaria. El próximo tren Yamabiko salía a las ocho en punto desde el andén número once. Subí al vagón número tres y ocupé un asiento junto a la ventana en el lado izquierdo, orientado hacia el este para ver el paisaje costero durante el descenso hacia Tokio.
 
-{% include figure popup="yes" image_path="/assets/images/2026/04/08/omiyaStation.webp" alt="estación tren" caption="Entrada de la Estación de Omiya" %}
+{% include figure popup="yes" image_path="/assets/images/2026/04/08/sendaiStationDeparture.webp" alt="estacion sendai salida" caption="Andén del shinkansen en la estación de Sendai" %}
+
+---
+
+## Omiya Station
+
+La estación de Ōmiya fue inaugurada en 1885 como parte de la línea Tōhoku Main Line que conecta Tokio con el norte de Japón. En 1982 se convirtió en parada del Tōhoku Shinkansen, consolidándose como nudo ferroviario principal de la prefectura de Saitama. La estación moderna funciona como punto de conexión entre las líneas shinkansen Tōhoku, Hokuriku y Jōetsu, además de múltiples líneas convencionales de JR East y líneas privadas que sirven al área metropolitana de Tokio.
+
+Llegué a Ōmiya a las nueve y media después de hora y media de trayecto desde Sendai. Bajé del shinkansen y busqué la salida norte de la estación siguiendo las señales hacia el Railway Museum. Tomé la línea New Shuttle, un monorraíl elevado que conecta la estación de Ōmiya con la zona industrial del norte. El trayecto hasta la parada Railway Museum duró cuatro minutos; desde la ventanilla del monorraíl se veía el edificio del museo con su fachada curva de cristal.
+
+{% if page.map_points %}{% include google-maps.html %}{% endif %}
+
+{% include figure popup="yes" image_path="/assets/images/2026/04/08/omiyaStationArrival.webp" alt="estacion omiya llegada" caption="Estación de Ōmiya, conexión al Railway Museum" %}
 
 ---
 
 ## Museo del Ferrocarril
 
-El Museo del Ferrocarril de Omiya es el eje central de la jornada y una visita imprescindible para comprender la relación entre Japón y el tren. El recinto combina espacios expositivos amplios con áreas interactivas que explican la evolución tecnológica del ferrocarril desde sus inicios hasta la actualidad. Locomotoras históricas, vagones restaurados y paneles explicativos permiten recorrer distintas etapas del desarrollo ferroviario de forma clara y accesible. La disposición de las salas favorece una visita progresiva, en la que cada sección amplía el conocimiento adquirido en la anterior.
+El Railway Museum de Ōmiya fue inaugurado en octubre de 2007 por East Japan Railway Company como sucesor del Transportation Museum de Tokio, cerrado en 2006. El edificio actual, diseñado por el arquitecto Kiyoshi Takeyama, alberga cuarenta y dos vehículos ferroviarios históricos que documentan la evolución del transporte ferroviario japonés desde 1872 hasta la actualidad. La colección incluye locomotoras de vapor del periodo Meiji, trenes eléctricos de los años treinta, el prototipo del primer shinkansen Serie 0 de 1964 y vagones imperiales utilizados por la familia real japonesa durante el siglo XX.
 
-Además de su valor técnico, el museo destaca por su enfoque cultural y educativo. Se explica cómo el tren influyó en la vida cotidiana, en la economía y en la configuración territorial del país. Espacios dedicados a la formación de maquinistas y a la señalización ferroviaria ayudan a comprender la complejidad del sistema más allá de la experiencia del pasajero. La visita requiere tiempo y atención, pero resulta equilibrada gracias a la variedad de contenidos y a un diseño que evita la saturación informativa, convirtiéndola en una experiencia completa y enriquecedora.
+Entré al museo a las diez menos cuarto y compré la entrada general por 1330 yenes. El vestíbulo principal mostraba una maqueta gigante del sistema ferroviario de la región de Kantō con trenes en miniatura circulando por vías que reproducían estaciones reales. Subí a la segunda planta donde estaban expuestos los vagones históricos. Pasé una hora examinando locomotoras de vapor restauradas, leyendo paneles explicativos sobre la construcción de la primera línea entre Tokio y Yokohama en 1872 y observando los detalles de los vagones de madera del periodo Taishō.
 
-{% include figure popup="yes" image_path="/assets/images/2026/04/08/trainMuseum.webp" alt="museum train" caption="Vista desde arriba de las instalaciones" %}
+La sección de simuladores en la tercera planta permite conducir virtualmente diferentes tipos de trenes, desde locomotoras de vapor hasta shinkansen modernos. Probé el simulador del shinkansen Serie N700, que reproducía la ruta entre Tokio y Shin-Ōsaka con controles realistas y pantallas panorámicas. El museo equilibra contenido educativo con elementos interactivos, atrayendo tanto a entusiastas ferroviarios adultos como a familias con niños. La entrada incluye acceso a todas las exposiciones y simuladores sin costes adicionales.
 
 ---
 
