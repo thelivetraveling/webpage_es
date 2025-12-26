@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Viaje en tren entre Sendai y Omiya: museos, estaciones y ritmo urbano japonés"
+title: "Museo ferroviario de Omiya"
 published: true
 excerpt: "Recorrido en tren entre Sendai y Omiya explorando estaciones clave, museos ferroviarios y la experiencia cotidiana del transporte japonés."
 date: 2026-04-08 07:00:00 +0200
@@ -13,7 +13,7 @@ header:
   teaser: /assets/images/2026/04/08/Omiya.webp
   overlay_image: /assets/images/2026/04/08/Omiya.webp
 video:
-  id: "tujkoXI8rWM"
+  id: "xTmBtgyzGbA"
   duration: "PT15M30S"
 images:
   - id: "image1"
@@ -116,8 +116,6 @@ Además de su valor técnico, el museo destaca por su enfoque cultural y educati
 ---
 
 ## Regreso a Sendai
-
-Tras la visita al museo, el regreso se realiza por el mismo eje ferroviario, aprovechando la eficiencia del sistema para volver a Sendai sin complicaciones. Este tramo final permite asimilar lo vivido durante el día y observar nuevamente el paisaje desde una perspectiva más reflexiva. El cansancio acumulado se compensa con la sensación de haber completado un recorrido coherente, donde cada desplazamiento tenía un propósito claro dentro del conjunto del itinerario.
 
 La llegada a Sendai y el retorno al hotel cierran la jornada de forma tranquila. Este tipo de excursión demuestra que no siempre es necesario cambiar de alojamiento para descubrir lugares significativos, y que el tren puede ser el protagonista absoluto de una experiencia de viaje. El equilibrio entre desplazamiento, contenido cultural y tiempos de descanso convierte este itinerario en una opción sólida para quienes desean profundizar en la historia ferroviaria japonesa sin renunciar a la comodidad ni a la claridad en la planificación.
 

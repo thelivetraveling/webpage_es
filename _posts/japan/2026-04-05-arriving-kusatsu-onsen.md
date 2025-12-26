@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Viaje a Kusatsu Onsen"
+title: "Nueva base: Kusatsu Onsen"
 published: true
 excerpt: "Trayecto en shinkansen y autobús desde Nagoya hasta el pueblo termal de Kusatsu en las montañas de Gunma."
 date: 2026-04-05 07:00:00 +0200
@@ -116,7 +116,7 @@ La estación de Nagano fue ampliada y modernizada en 1997 para los Juegos Olímp
 
 {% if page.map_points %}{% include google-maps.html %}{% endif %}
 
-Bajé del shinkansen y busqué inmediatamente la salida este hacia las paradas de autobús. El trayecto había sido puntual, llegando exactamente a las nueve y cincuenta. Consulté los horarios en las pantallas digitales de la terminal; el próximo autobús directo a Kusatsu salía a las once, así que tenía una hora de margen para comprar provisiones en el Midori department store adyacente a la estación.
+Bajé del shinkansen. El trayecto había sido puntual, llegando exactamente a las nueve y cincuenta. Consulté los horarios en las pantallas digitales de la terminal; el próximo tren hasta Karuizawa salia un poco despues asi que tuve tiempo para comprar algo en el Midori department store adyacente a la estación.
 
 {% include figure popup="yes" image_path="/assets/images/2026/04/05/naganoStation.webp" alt="estacion shinkansen nagano" caption="Fachada principal de la estación de Nagano" %}
 
@@ -126,7 +126,7 @@ Bajé del shinkansen y busqué inmediatamente la salida este hacia las paradas d
 
 La estación de Karuizawa fue inaugurada en 1888 en la línea Shinetsu Main Line y posteriormente conectada al Hokuriku Shinkansen en 1997. Situada a 940 metros de altitud, funciona como puerta de entrada al resort de montaña de Karuizawa, destino estival tradicional de la aristocracia japonesa desde el periodo Meiji. La estación actual combina arquitectura moderna con elementos de diseño que evocan las casas de verano de estilo occidental construidas en la zona a finales del siglo XIX.
 
-Pasé por Karuizawa sin bajar del tren, observando desde la ventanilla las tiendas outlet y los bosques de abedul que rodean la estación. El shinkansen se detuvo solo tres minutos antes de continuar hacia el norte. Algunos pasajeros bajaron con equipaje de esquí y maletas grandes, probablemente dirigiéndose a los hoteles del resort o a las pistas de esquí cercanas del monte Asama.
+Baje del tren buscando inmediatamente la salida de la estacion donde se encuentran los autobuses que me llebaran a Kusatsu Onsen y desde el cual podre ir viendo los bosques de abedul del camino. El shinkansen se detuvo solo tres minutos antes de continuar hacia el norte. Algunos pasajeros bajaron con equipaje de esquí y maletas grandes, probablemente dirigiéndose a los hoteles del resort o a las pistas de esquí cercanas del monte Asama.
 
 {% include figure popup="yes" image_path="/assets/images/2026/04/05/karuizawaStation.webp" alt="estacion montaña karuizawa" caption="Estación de Karuizawa en la ruta hacia Kusatsu" %}
 

@@ -111,8 +111,6 @@ La jornada en Kusatsu comienza en el Yubatake, el campo termal central del puebl
 
 ## Kusatsu Hotel
 
-El Kusatsu Hotel, fundado en 1913, es uno de los ryokan tradicionales más antiguos del pueblo termal de Kusatsu. El edificio actual fue reconstruido en 1965 tras un incendio que destruyó la estructura original de madera. El hotel mantiene sus baños termales privativos alimentados directamente por la fuente Yubatake, cuyas aguas sulfurosas alcanzan un pH de 2.1, considerado uno de los más ácidos entre los onsen naturales de Japón.
-
 Desayuné a las ocho en el comedor comunal del hotel. El menú kaiseki incluía pescado asado, tofu tibio, sopa de miso, arroz blanco y varios encurtidos tradicionales. Tras el desayuno, guardé mis pertenencias en la habitación y salí a recorrer el pueblo con la cámara y una toalla pequeña en la mochila para probar los baños públicos gratuitos que hay repartidos por las calles de Kusatsu.
 
 El precio del alojamiento incluye acceso ilimitado a los tres baños del hotel durante toda la estancia. Aproveché para sumergirme media hora en el rotenburo exterior antes de salir; el agua caliente contrastaba con el aire frío de la mañana, creando nubes de vapor que se elevaban hacia los árboles circundantes. La experiencia del baño termal privado dentro del ryokan resulta más tranquila que los baños públicos concurridos del centro del pueblo.

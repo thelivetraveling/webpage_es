@@ -107,8 +107,6 @@ El trayecto desde Kusatsu Onsen hasta Sendai combina autobús de montaña descen
 
 ## Kusatsu Hotel
 
-El Kusatsu Hotel, fundado en 1913, es uno de los ryokan tradicionales más antiguos del pueblo termal de Kusatsu. El edificio actual fue reconstruido en 1965 tras un incendio que destruyó la estructura original de madera. El hotel mantiene sus baños termales privativos alimentados directamente por la fuente Yubatake, cuyas aguas sulfurosas alcanzan un pH de 2.1, considerado uno de los más ácidos entre los onsen naturales de Japón.
-
 Hice el check-out a las nueve de la mañana después del último baño matutino en el rotenburo del hotel. La recepcionista guardó mi mochila mientras daba un último paseo por el Yubatake antes de tomar el autobús hacia Karuizawa. El aire frío de la mañana contrastaba con el vapor caliente que emanaba de los canales termales, creando la atmósfera característica de los pueblos onsen en primavera.
 
 El precio del alojamiento de dos noches incluyó cuatro comidas kaiseki y acceso ilimitado a los tres baños del establecimiento. La experiencia del ryokan tradicional me pareció auténtica, manteniendo el funcionamiento y las costumbres de los alojamientos termales del periodo Edo sin concesiones excesivas al turismo moderno. El personal hablaba poco inglés pero compensaba con amabilidad y disposición para ayudar mediante gestos y dibujos.
@@ -119,9 +117,7 @@ El precio del alojamiento de dos noches incluyó cuatro comidas kaiseki y acceso
 
 ## Kusatsu Onsen Bus Terminal
 
-La terminal de autobuses de Kusatsu Onsen fue establecida como punto final de las rutas que conectan el pueblo termal con Karuizawa, Nagano y Takasaki. El servicio de autobús regular comenzó en 1952 tras la mejora de las carreteras de montaña que atraviesan el paso Shiga Kusatsu Kogen a 2172 metros de altitud. La terminal actual, renovada en 2010, se ubica a pocos minutos andando del Yubatake, el campo termal central de Kusatsu donde emergen 32000 litros de agua volcánica por minuto.
-
-Llegué a la terminal a las diez menos cuarto con la mochila recogida del hotel. Compré el billete a Karuizawa en la taquilla interior por 2240 yenes. El autobús salía a las diez en punto desde la plataforma número dos. Subí y ocupé un asiento junto a la ventana en el lado derecho para ver el descenso por la carretera de montaña que serpentea entre bosques de coníferas y praderas volcánicas.
+Llegué a la terminal a las diez con la mochila recogida del hotel. Compré el billete a Karuizawa en la taquilla interior por 2240 yenes. El autobús salía a las diez cincuenta desde la plataforma número uno (Linea Express). Subí y ocupé un asiento junto a la ventana en el lado derecho para ver el descenso por la carretera de montaña que serpentea entre bosques de coníferas y praderas volcánicas.
 
 {% include figure popup="yes" image_path="/assets/images/2026/04/07/kusatsuBusTerminal.webp" alt="terminal autobuses kusatsu" caption="Terminal de autobuses de Kusatsu Onsen" %}
 
