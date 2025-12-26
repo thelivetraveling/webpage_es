@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Excursión a Ginzan Onsen"
-published: true
 excerpt: "Viaje desde Sendai hasta Ginzan Onsen: pueblo termal histórico en las montañas de Yamagata con ryokans tradicionales junto al río."
 date: 2026-04-10 07:00:00 +0200
 categories: ["japan"]

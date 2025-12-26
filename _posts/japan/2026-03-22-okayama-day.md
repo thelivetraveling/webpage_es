@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Excursión a Okayama"
-published: false
 excerpt: "Ruta desde Shin-Kobe hasta Okayama, visitando Korakuen, el castillo y estaciones clave."
 date: "2026-03-22 07:00:00 +0200"
 categories: ["japan"]

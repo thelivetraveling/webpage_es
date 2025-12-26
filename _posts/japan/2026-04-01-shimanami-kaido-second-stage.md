@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Shimanami Kaido Día 2"
-published: false
 excerpt: "Segunda etapa del Shimanami Kaido desde Omishima hasta Onomichi cruzando Ikuchijima e Innoshima con paradas en Setoda Sunset Beach, museo Hirayama Ikuo, Dolce gelato y miradores panorámicos."
 date: 2026-04-01 07:00:00 +0200
 categories: ["japan"]

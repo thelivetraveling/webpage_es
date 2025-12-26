@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Nueva base: Kusatsu Onsen"
-published: true
 excerpt: "Trayecto en shinkansen y autobús desde Nagoya hasta el pueblo termal de Kusatsu en las montañas de Gunma."
 date: 2026-04-05 07:00:00 +0200
 categories: ["japan"]

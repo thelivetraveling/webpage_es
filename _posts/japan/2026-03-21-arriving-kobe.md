@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "De Yakushima a Kobe"
-published: false
 excerpt: "Viaje desde Yakushima a Kobe, explorando aeropuerto, estación y el Parque Meriken."
 date: "2026-03-21 07:00:00 +0200"
 categories: ["japan"]

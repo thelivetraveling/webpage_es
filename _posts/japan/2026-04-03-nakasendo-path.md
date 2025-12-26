@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Ruta Nakasendō Clásica"
-published: false
 excerpt: "Caminata histórica entre Nagiso y Magome: pueblos postales, cascadas y paso de montaña en Kiso."
 date: 2026-04-03 07:00:00 +0200
 categories: ["japan"]

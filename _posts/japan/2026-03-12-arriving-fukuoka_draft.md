@@ -2,7 +2,6 @@
 layout: single
 published: false
 title: "De Tokio a Fukuoka: Cambio de Isla"
-published: false
 excerpt: "Vuelo hacia Kyushu, centro comercial futurista, santuario histórico y yatai junto al río"
 date: 2026-03-12 09:00:00 +0200
 categories: [japan]

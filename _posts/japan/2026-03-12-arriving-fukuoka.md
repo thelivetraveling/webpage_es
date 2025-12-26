@@ -1,7 +1,6 @@
 ---  
 layout: single  
 title: "Fukuoka"  
-published: false
 excerpt: "Hostelería, templo y ríos de luces en la ciudad costera"  
 categories: [japan]  
 date: 2026-03-12 09:00:00 +0200

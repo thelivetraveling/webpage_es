@@ -2,7 +2,6 @@
 layout: single  
 published: false
 title: "Ikebukuro y Jimbocho"
-published: false
 excerpt: "Museo de origami, puente Hijiri, Daruma y cafés en Tokio"  
 date: 2026-03-10 09:00:00 +0200  
 categories: [japan]  

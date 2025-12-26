@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Shosha y Himeji"
-published: false
 excerpt: "Ascenso en teleférico al templo Engyo-ji en el monte Shosha y visita al majestuoso Castillo Himeji."
 date: 2026-03-25 07:00:00 +0200
 categories: ["japan"]

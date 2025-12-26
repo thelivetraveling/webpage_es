@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Beppu y sus Infiernos"
-published: false
 excerpt: "Infiernos geotérmicos, baños de barro volcánico y la magia termal de Kyushu"
 date: 2026-03-15 09:00:00 +0200
 categories: [japan]

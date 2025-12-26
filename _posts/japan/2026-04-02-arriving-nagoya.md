@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "De Onomichi a Nagoya"
-published: false
 excerpt: "Viaje en Shinkansen desde Onomichi hasta Nagoya con parada en Fukuyama Station y visita al Sky Promenade, mirador al aire libre más alto de Japón."
 date: 2026-04-02 07:00:00 +0200
 categories: ["japan"]

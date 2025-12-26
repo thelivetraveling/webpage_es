@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Oshino Hakkai"
-published: false
 excerpt: "Un viaje rápido en tren desde Tokio hasta Oshino Hakkai para descubrir aldeas, agua pura y tradición."
 date: 2026-03-11 09:00:00 +0200
 categories: [japan]

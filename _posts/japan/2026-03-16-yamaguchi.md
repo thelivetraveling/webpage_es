@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Yamaguchi, el Kioto del Oeste"
-published: false
 excerpt: "Jardín zen de Sesshu, pagoda nacional y la cultura del clan Ouchi"
 date: 2026-03-16 09:00:00 +0200
 categories: [japan]

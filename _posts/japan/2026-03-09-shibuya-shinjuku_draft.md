@@ -2,7 +2,6 @@
 layout: single
 published: false
 title: "Un día perfecto en Tokio"
-published: false
 excerpt: "Descubre lo mejor de Tokio: desde arte inmersivo hasta barrios vibrantes."
 date: 2026-03-09 09:00:00 +0200
 categories: [japan]

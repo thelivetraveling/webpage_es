@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Kagoshima y Sakurajima"
-published: false
 excerpt: "Santuario, ruinas del castillo, museo industrial y playa con vistas al volcán"
 date: 2026-03-13 09:00:00 +0200
 categories: [japan]

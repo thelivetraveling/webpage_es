@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Ikebukuro y Jimbocho"
-published: false
 excerpt: "Ruta a pie por lugares emblemáticos, museo de papel, puentes, libros y un café tranquilo"
 date: 2026-03-10 09:00:00 +0200
 categories: [japan]

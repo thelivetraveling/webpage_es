@@ -1,7 +1,6 @@
 ---
 layout: single
 title: ""
-published: true
 excerpt: ""
 date: 2026-04-11 07:00:00 +0200
 categories: []

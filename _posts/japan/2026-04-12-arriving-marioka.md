@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Cambio de base: Morioka"
-published: true
 excerpt: ""
 date: 2026-04-12 09:00:00 +0200
 categories: []
@@ -13,7 +12,7 @@ header:
   teaser: /assets/images/2026/04/12/Morioka.webp
   overlay_image: /assets/images/2026/04/12/Morioka.webp
 video:
-  id: "tujkoXI8rWM"
+  id: "LtwM1ioqNvk"
   duration: "PT15M30S"
 images:
   - id: "image1"

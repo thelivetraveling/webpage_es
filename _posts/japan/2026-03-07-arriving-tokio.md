@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Llegada a Tokio"
-published: false
 excerpt: "Desde la llegada a Narita hasta una tarde histórica en Asakusa."
 date:   2026-03-07 09:00:00 +0200
 categories: [japan]

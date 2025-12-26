@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Museo ferroviario de Omiya"
-published: true
 excerpt: "Viaje desde Sendai hasta Ōmiya para visitar el Railway Museum: colección histórica de trenes japoneses y simuladores interactivos."
 date: 2026-04-08 07:00:00 +0200
 categories: ["japan"]

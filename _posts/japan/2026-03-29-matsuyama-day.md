@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Matsuyama desde Imabari"
-published: false
 excerpt: "Excursión de ida y vuelta desde Imabari a Matsuyama visitando su castillo original, el onsen Dogo, el reloj Botchan y la calle comercial Okaido."
 date: 2026-03-29 09:00:00 +0200
 categories: ["japan"]

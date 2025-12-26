@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Shimanami Kaido Día 1"
-published: false
 excerpt: "Primera etapa del Shimanami Kaido desde Imabari, cruzando el puente Kurushima Kaikyo hasta Oshima con paradas en Sunrise Itoyama, Yoshiumi Iki-iki-kan, Dolphin Farm y Cyclist Sanctuary."
 date: 2026-03-31 07:00:00 +0200
 categories: ["japan"]
