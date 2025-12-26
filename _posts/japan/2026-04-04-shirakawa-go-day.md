@@ -31,11 +31,6 @@ images:
     alt: "restaurante parrilla carne hida takayama"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image4"
-    path: /assets/images/2026/04/04/takayamaStationNoche.webp
-    alt: "estacion takayama iluminada nocturna"
-    license: "CC BY SA 4.0"
-    credit_text: "The Live Traveling"
 map_points:
   - id: "point1"
     name: "Kuretake Inn Premium Meiekiminami"
@@ -136,13 +131,3 @@ Regresé a Takayama al final de la tarde, con un hambre acumulada por el aire fr
 La calidad de la carne justifica plenamente su reputación y precio. La grasa se derretía literalmente en la boca, creando una explosión de sabor rico y umami con cada bocado tan tierno que casi no requería masticación. Es una experiencia culinaria indulgente y memorable, perfecta para culminar un día de exploración.
 
 {% include figure popup="yes" image_path="/assets/images/2026/04/04/hidagyuMaruakiRestaurante.webp" alt="restaurante parrilla carne hida takayama" caption="" %}
-
----
-
-## Takayama Station
-
-La estación de Takayama se inauguró en 1934 como terminal del ferrocarril que conectaba la aislada región de Hida con la línea principal. Su arquitectura de madera, renovada pero que mantiene un carácter tradicional, sirve como puerta de entrada principal a la ciudad y a toda la región de los Alpes Japoneses.
-
-Volví a la estación después de cenar, ya de noche. El ambiente era completamente diferente: silencioso y tranquilo, con solo unos pocos viajeros esperando el último tren de vuelta a Nagoya. Las luces cálidas iluminaban la fachada de madera, creando una estampa serena. Compré un recuerdo en una de las tiendas del vestíbulo antes de dirigirme al andén.
-
-{% include figure popup="yes" image_path="/assets/images/2026/04/04/takayamaStationNoche.webp" alt="estacion takayama iluminada nocturna" caption="" %}
