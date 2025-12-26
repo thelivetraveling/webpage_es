@@ -55,7 +55,7 @@ map_points:
     lng: 140.88227
     price_range: "$$"
     type: "hotel"
-    mode: "walking""
+    mode: "walking"
 faqs:
   - question: "¿Cuánto tiempo necesito para visitar ...?"
     answer: ""
