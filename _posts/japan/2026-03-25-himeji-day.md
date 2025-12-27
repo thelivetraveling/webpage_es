@@ -17,7 +17,7 @@ header:
     - label: "More Info"
       url: "https://web.archive.org/web/20161026194546/http://www.panoramio.com/user/6940719?with_photo_id=72696427"
 video:
-  id: "zL7HU3D5IfI"
+  id: "bKnbIlvDq6U"
   duration: "PT00H15M00S"
 images:
   - id: "image1"
@@ -78,7 +78,7 @@ faqs:
 
 Nuestro viaje comienza en el monte Shosha con su teleférico y templo histórico, para luego descender al icónico Castillo de Himeji y finalizar en la moderna estación de Shin-Kobe.
 
-{% include video id="zL7HU3D5IfI" provider="youtube" %}
+{% include video id="bKnbIlvDq6U" provider="youtube" %}
 
 ## **Mount Shosha Ropeway: La Puerta Flotante a la Montaña**
 
@@ -88,9 +88,7 @@ A primera hora, el teleférico estaba casi vacío. El viaje fue suave y silencio
 
 ---
 
-{% if page.map_points %}
-  {% include google-maps.html %}
-{% endif %}
+{% if page.map_points %}{% include google-maps.html %}{% endif %}
 
 ## **Engyo-ji: El Templo en las Nubes de Shosha**
 
@@ -106,10 +104,7 @@ El **Castillo de Himeji** (*Himeji-jō*), declarado Patrimonio de la Humanidad, 
 
 Descender de la montaña y tomar el tren hacia Himeji fue un contraste absoluto. Al salir de la estación, la visión del castillo al fondo de la avenida es simplemente espectacular. La torre del homenaje, con sus seis niveles y cinco tejados, se recortaba contra el cielo azul. Subir por sus intrincados pasillos de madera, diseñados para confundir al enemigo, era sentir el peso de la historia samurái.
 
-<figure class="align-center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Himeji_Castle_The_Keep_Towers.jpg/1024px-Himeji_Castle_The_Keep_Towers.jpg" alt="Telecabina del Monte Shosha">
-  <figcaption class="align-right">Castillo de Himeji by: <a href="https://ja.wikipedia.org/wiki/User:Reggaeman">Ray Reggaeman</a>. Licencia: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a></figcaption>
-</figure>
+{% include figure popup="yes" image_path="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Himeji_Castle_The_Keep_Towers.jpg/1024px-Himeji_Castle_The_Keep_Towers.jpg" alt="Telecabina del Monte Shosha" caption="Castillo de Himeji by: Ray Reggaeman. Licencia: CC BY-SA 4.0" %}
 
 ---
 

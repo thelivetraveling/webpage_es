@@ -101,10 +101,7 @@ Tras una hora y media pedaleando, incluida la espectacular travesía sobre el pu
 
 Por unos 2.000 yenes, preparé una selección de mariscos variados. El **sabor** del pescado recién asado, con un poco de salsa de soja y cítricos locales, fue sencillamente increíble, la recompensa perfecta tras los primeros kilómetros. El ambiente era animado, mezclando a ciclistas como yo con familias locales. Tomarme unos 40 minutos aquí para recuperar fuerzas fue una decisión acertadísima.
 
-<figure class="align-center">
-  <img src="{{ '/assets/images/2026/03/31/yoshiumiMarket.webp' | relative_url }}" alt="El mercado de mariscos a la parrilla">
-  <figcaption class="align-right">Preparando un festín de marisco fresco en la parrilla de Yoshiumi Iki-iki-kan.</figcaption>
-</figure>
+{% include figure popup="yes" image_path="{{ '/assets/images/2026/03/31/yoshiumiMarket.webp' | relative_url }}" alt="El mercado de mariscos a la parrilla" caption="Yoshiumi Iki-iki-kan." %}
 
 ---
 
@@ -116,10 +113,7 @@ Con las pilas recargadas, continué pedaleando durante otra hora aproximadamente
 
 Sobre las dos de la tarde, y con unas cuatro horas de pedaleo acumuladas, llegué al **Cyclist Sanctuary**, al pie del puente Tatara en Omishima. Este lugar es exactamente lo que su nombre promete: un santuario para las piernas cansadas. Me senté en el césped, bajo la sombra de un árbol, con una vista frontal directa al enorme puente que tendría que cruzar a continuación. Mientras compraba un *onigiri* y una bebida isotónica de una máquina expendedora, pude ver a otros ciclistas haciendo exactamente lo mismo, compartiendo esa mirada de fatiga y satisfacción. La atmósfera de camaradería era palpable; era fácil entablar conversación y compartir experiencias sobre el tramo recorrido. Este descanso de 30 minutos fue esencial antes del último esfuerzo del día.
 
-<figure class="align-center">
-  <img src="{{ '/assets/images/2026/03/31/kurushimaBridge.webp' | relative_url }}" alt="Puente en suspension triple">
-  <figcaption class="align-right">Cruzando el imponente puente Kurushima Kaikyo, el primero de muchos en la ruta.</figcaption>
-</figure>
+{% include figure popup="yes" image_path="{{ '/assets/images/2026/03/31/kurushimaBridge.webp' | relative_url }}" alt="Puente en suspension triple" caption="Kurushima Kaikyo" %}
 
 ---
 

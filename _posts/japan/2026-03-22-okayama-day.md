@@ -96,9 +96,8 @@ Shin-Kobe Station es un importante punto de conexión en la ciudad de Kobe, enla
 Al llegar, el viajero percibe la organización y el dinamismo de la estación. La emoción de iniciar el trayecto hacia Okayama se mezcla con la vista de las montañas cercanas y la ciudad que se despide lentamente al partir.
 
 ---
-{% if page.map_points %}
-  {% include google-maps.html %}
-{% endif %}
+
+{% if page.map_points %}{% include google-maps.html %}{% endif %}
 
 ## Okayama Station
 
@@ -114,10 +113,7 @@ Korakuen es uno de los jardines más famosos de Japón, con historia que se remo
 
 Pasear por Korakuen permite al viajero disfrutar de senderos rodeados de cerezos y arces. La sensación de calma y armonía hace que cada paso sea una experiencia sensorial única.
 
-<figure class="align-center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Okayama_Korakuen_Garden01.jpg/1280px-Okayama_Korakuen_Garden01.jpg" alt="Korakuen, Okayama">
-  <figcaption class="align-right">Korakuen, Okayama <a href="https://commons.wikimedia.org/wiki/File:Okayama_Korakuen_Garden01.jpg">By: Fjkelfeimvvn</a>. Licencia: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> CC BY-SA 4.0</a></figcaption>
-</figure>
+{% include figure popup="yes" image_path="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Okayama_Korakuen_Garden01.jpg/1280px-Okayama_Korakuen_Garden01.jpg" alt="Korakuen, Okayama" caption="Korakuen, Okayama By: Fjkelfeimvvn. Licencia: CC BY-SA 4.0" %}
 
 ---
 
@@ -127,7 +123,4 @@ Okayama Castle, conocido como "Crow Castle", destaca por su fachada negra y su h
 
 El visitante siente la imponencia del castillo y se imagina la vida de la época samurái. Subir a sus torres brinda vistas panorámicas de la ciudad y del jardín Korakuen cercano.
 
-<figure class="align-center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Okayama_Castle_01.jpg" alt="Korakuen, Okayama">
-  <figcaption class="align-right">Korakuen, Okayama <a href="https://ja.wikipedia.org/wiki/User:Reggaeman">By: Reggaeman</a>. Licencia: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> CC BY-SA 4.0</a></figcaption>
-</figure>
+{% include figure popup="yes" image_path="https://upload.wikimedia.org/wikipedia/commons/5/53/Okayama_Castle_01.jpg" alt="Korakuen, Okayama" caption="Korakuen, Okayama By: Reggaeman. Licencia: CC BY-SA 4.0" %}

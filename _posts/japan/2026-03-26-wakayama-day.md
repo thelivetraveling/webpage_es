@@ -114,10 +114,7 @@ Subir hasta la torre principal requiere atravesar murallas escalonadas y puertas
 
 El lugar transmite una tranquilidad notable comparado con otros castillos más concurridos como Himeji u Osaka. Las escaleras interiores son empinadas y estrechas, algo que puede complicar el ascenso si tienes problemas de movilidad. Dediqué poco menos de dos horas a recorrerlo con calma, disfrutando de la historia feudal sin las multitudes agobiantes típicas de otros monumentos similares.
 
-<figure class="align-center">
-  <img src="{{ '/assets/images/2026/03/26/vacio.webp' | relative_url }}" alt="vacio">
-  <figcaption class="align-right">vacio</figcaption>
-</figure>
+{% include figure popup="yes" image_path="{{ '/assets/images/2026/03/26/vacio.webp' | relative_url }}" alt="vacio" caption="vacio" %}
 
 ---
 
