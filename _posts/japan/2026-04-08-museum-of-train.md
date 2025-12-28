@@ -104,15 +104,11 @@ La excursión desde Sendai hasta Ōmiya permite visitar uno de los museos ferrov
 
 Desayuné a las siete en el buffet del primer piso del hotel. El menú incluía opciones occidentales y japonesas: tostadas, huevos revueltos, salchichas, arroz blanco, pescado asado, sopa de miso y varios encurtidos. Tras desayunar, subí a la habitación para recoger la mochila y salí del hotel a las siete y media. Caminé tres minutos hasta la estación de Sendai por la avenida principal, todavía tranquila a esa hora de la mañana.
 
-El hotel cumple su función perfectamente para una estancia Sendai como ciudad base. La habitación es compacta pero funcional, con buen aislamiento acústico a pesar de estar en pleno centro urbano. El precio de 7500 yenes por noche me pareció razonable considerando la ubicación inmediata a la estación y la limpieza impecable del establecimiento.
-
 {% include figure popup="yes" image_path="/assets/images/2026/04/08/richmondHotelSendaiMorning.webp" alt="hotel sendai amanecer" caption="Richmond Hotel Sendai al amanecer" %}
 
 ---
 
 ## Sendai Station
-
-La estación de Sendai fue inaugurada en 1887 como terminal de la línea Tōhoku Main Line. En 1982 se convirtió en parada del Tōhoku Shinkansen, reduciendo el tiempo de viaje a Tokio de cinco horas y media a dos horas. La estación moderna, renovada en 2016, funciona como centro de transporte principal de la región de Tōhoku, conectando las líneas shinkansen con servicios ferroviarios locales hacia la costa del Pacífico y las montañas interiores de la prefectura de Miyagi.
 
 Entré en la estación a las siete y cuarenta. Compré un billete de shinkansen hasta Ōmiya en las máquinas automáticas de JR East, seleccionando asiento no reservado en clase ordinaria. El próximo tren Yamabiko salía a las ocho en punto desde el andén número once. Subí al vagón número tres y ocupé un asiento junto a la ventana en el lado izquierdo, orientado hacia el este para ver el paisaje costero durante el descenso hacia Tokio.
 

@@ -127,8 +127,6 @@ La excursión desde Sendai hasta Ginzan Onsen combina tren local y autobús de m
 
 Salí del hotel a las siete menos cuarto. Solo necesitaba la mochila pequeña para la excursión de un día a Ginzan Onsen. La recepcionista me entregó el recibo y un mapa impreso con las conexiones de tren hasta Ōishida, donde tomaría el autobús hacia las montañas de Yamagata.
 
-El precio por noche seguía siendo competitivo comparado con otras opciones cercanas a la estación. La ubicación permitía salir hacia diferentes destinos de la región de Tōhoku sin perder tiempo en desplazamientos urbanos innecesarios.
-
 {% include figure popup="yes" image_path="/assets/images/2026/04/10/richmondHotelSendaiDeparture.webp" alt="hotel sendai partida" caption="Richmond Hotel Sendai al amanecer" %}
 
 ---

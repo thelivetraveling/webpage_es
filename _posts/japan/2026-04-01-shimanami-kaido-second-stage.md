@@ -239,4 +239,4 @@ Salí del hotel sobre las ocho de la mañana tras un desayuno ligero. Mi habitac
 
 El check-out fue rápido y el personal hablaba suficiente inglés como para gestionar la salida sin problemas. Para quienes buscan un alojamiento tradicional con una ubicación céntrica tras completar rutas ciclistas largas, el hotel cumple las expectativas sin lujos superfluos y a un precio razonable para su categoría. Caminé unos diez minutos hasta la estación de Onomichi arrastrando la maleta con ruedas por las calles empedradas de la ladera del monte Senkoji bajo el sol matutino de abril.
 
-{% include figure popup="yes" image_path="{{{ '/assets/images/2026/04/01/onomichiHotel.webp' | relative_url }}" alt="Hotel de Onomichi" caption="Vista panorámica del Hotel de Onomichi" %}
+{% include figure popup="yes" image_path="{{ '/assets/images/2026/04/01/onomichiHotel.webp' | relative_url }}" alt="Hotel de Onomichi" caption="Vista panorámica del Hotel de Onomichi" %}

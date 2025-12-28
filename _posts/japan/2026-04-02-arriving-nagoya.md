@@ -94,10 +94,7 @@ Nada más llegar, el transbordo fue un ejemplo de la eficiencia japonesa. Subí 
 
 Puntual como un reloj, el Shinkansen llegó a las nueve cuarenta. Subí al vagón reservado número ocho y encontré mi asiento junto a la ventana. Con un suave y potente arranque, el tren aceleró rápidamente hasta alcanzar unos trescientos kilómetros por hora, llevándome a través de la campiña japonesa rumbo al este, hacia la región de Chubu y la ciudad de Nagoya, que me esperaba a dos horas de distancia.
 
-<figure class="align-center">
-  <img src="{{ '/assets/images/2026/04/02/fukuyamaStation.webp' | relative_url }}" alt="Fukuyama Shinkansen station">
-  <figcaption class="align-right">Puerta de entrada al Shinkansen con destino a Nagoya.</figcaption>
-</figure>
+{% include figure popup="yes" image_path="{{ '/assets/images/2026/04/02/fukuyamaStation.webp' | relative_url }}" alt="Fukuyama Shinkansen station" caption="Shinkansen con destino a Nagoya." %}
 
 ## Nagoya Station
 
@@ -107,10 +104,7 @@ Salí del andén y seguí la señalización hacia la salida central, bajando por
 
 Siguiendo los carteles direccionales, caminé unos cinco minutos por túneles climatizados que evitaban el tráfico de la superficie, hasta llegar a la entrada de mi siguiente destino: el edificio **Midland Square**, el séptimo rascacielos más alto de Japón, donde en sus plantas superiores me aguardaba la experiencia del Sky Promenade.
 
-<figure class="align-center">
-  <img src="{{ '/assets/images/2026/04/02/nagoyaStation.webp' | relative_url }}" alt="terminal gran ciudad japon">
-  <figcaption class="align-right">El vasto e impresionante complejo de la estación de Nagoya, un mundo en sí mismo.</figcaption>
-</figure>
+{% include figure popup="yes" image_path="{{ '/assets/images/2026/04/02/nagoyaStation.webp' | relative_url }}" alt="terminal gran ciudad japon" caption="Estación de Nagoya." %}
 
 ## Sky Promenade
 
@@ -120,10 +114,7 @@ Desde allí, una elegante rampa en espiral, iluminada por ventanales gigantes qu
 
 Con un poco de bruma, logré identificar el Castillo de Nagoya por su distintivo tejado verde y dorado, a unos tres kilómetros al norte. Hacia el sur se extendía el vasto puerto industrial hasta la bahía de Ise. Incluso pude distinguir las vías del Shinkansen Tokaido serpenteando por la ciudad. Pasé una hora completa recorriendo las tres plantas del observatorio, capturando con mi cámara cómo la luz de la tarde declinante pintaba la metrópolis. La bajada en el mismo ascensor ultrarrápido me devolvió a la planta baja en apenas tres minutos, con la cabeza aún en las alturas.
 
-<figure class="align-center">
-  <img src="{{ '/assets/images/2026/04/02/skyPromenade.webp' | relative_url }}" alt="mirador aire libre rascacielos">
-  <figcaption class="align-right">El mirador al aire libre más alto de Japón.</figcaption>
-</figure>
+{% include figure popup="yes" image_path="{{ '/assets/images/2026/04/02/skyPromenade.webp' | relative_url }}" alt="mirador aire libre rascacielos" caption="El mirador al aire libre más alto de Japón." %}
 
 ## Kuretake Inn Premium Meiekiminami
 
@@ -133,7 +124,4 @@ El check-in fue un ejemplo de modernidad: completamente automatizado mediante un
 
 Una de las ventajas de este hotel es el **onsen** público (con zonas segregadas por género) en la planta superior. El agua termal artificial, calentada a 42 grados, proporcionó una relajación muscular muy bienvenida tras un día de viajes. A la mañana siguiente, el desayuno buffet japonés incluido (con arroz, sopa miso, pescado a la parrilla y más) fue un buen comienzo. Para el viajero que prioriza una ubicación céntrica, funcionalidad y un precio competitivo, este hotel cumple exactamente con lo que promete.
 
-<figure class="align-center">
-  <img src="{{ '/assets/images/2026/04/02/kuretakeInn.webp' | relative_url }}" alt="hotel moderno entrada">
-  <figcaption class="align-right">El Kuretake Inn, un alojamiento práctico y moderno.</figcaption>
-</figure>
+{% include figure popup="yes" image_path="{{ '/assets/images/2026/04/02/kuretakeInn.webp' | relative_url }}" alt="hotel moderno entrada" caption="Kuretake Inn." %}
