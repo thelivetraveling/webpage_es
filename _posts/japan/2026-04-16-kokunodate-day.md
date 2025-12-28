@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Excursión a Kakunodate"
-published: true
 excerpt: "Viaje desde Morioka hasta Kakunodate: distrito samurái preservado con casas tradicionales, cerezos llorones y arquitectura del periodo Edo."
 date: 2026-04-16 09:00:00 +0200
 categories: ["japan"]

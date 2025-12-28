@@ -161,7 +161,7 @@ Apenas quince minutos pedaleando por la costa norte de Ikuchijima me separaban d
 
 El museo moderno de una planta está rodeado por un jardín japonés que recrea el paisaje del mar interior. En sus tres salas pude ver desde diarios pictóricos infantiles hasta bocetos a tamaño real y las majestuosas obras finales al temple, que representan templos budistas a lo largo de la histórica Ruta de la Seda. En el salón audiovisual se proyectaban documentales sobre su vida, y en el té lounge Oasis, mientras tomaba un zumo cítrico local, una réplica gigante de su pintura "Ruta Seda Cielo Nocturno" creaba una atmósfera de lo más contemplativa. Pasé unos cincuenta minutos inmerso en su mundo, donde las explicaciones en inglés fueron suficientes para comprender su evolución desde el trauma juvenil hasta su activismo como embajador de la UNESCO.
 
-{% include figure popup="yes" image_path="{{ '/assets/images/2026/04/01/setodaBeach.webp' | relative_url }}" alt="La playa de Setoda" caption="La playa de Setoda" %}
+{% include figure popup="yes" image_path="/assets/images/2026/04/01/setodaBeach.webp" alt="La playa de Setoda" caption="La playa de Setoda" %}
 
 ---
 
@@ -203,7 +203,7 @@ Continuando el descenso por la carretera costera sur de Innoshima, llegué en un
 
 El lugar estaba tranquilo, con solo una pareja mayor japonesa descansando. Desde aquí, la perspectiva del enorme **puente rojo** es frontal y poderosa, con sus torres de suspensión elevándose **145 metros**. Aproveché la parada para una tarea necesaria: ajustar la presión de los neumáticos de mi bici con una bomba manual portátil, ya que después de unos cincuenta kilómetros acumulados desde Omishima, las ruedas habían perdido algo de aire. El proceso me llevó unos cinco minutos, tiempo durante el cual observé el escaso tráfico cruzando el puente hacia Mukaishima, mi siguiente y última isla antes de Onomichi. Con las piernas cansadas pero con la satisfacción de estar tan cerca de la meta, retomé la marcha y subí por la rampa de acceso al carril ciclista del puente.
 
-{% include figure popup="yes" image_path="{{ '/assets/images/2026/04/01/innoshimaBridge.webp' | relative_url }}" alt="El puente rojo de la Isla" caption="El icónico puente rojo de Innoshima" %}
+{% include figure popup="yes" image_path="/assets/images/2026/04/01/innoshimaBridge.webp" alt="El puente rojo de la Isla" caption="El icónico puente rojo de Innoshima" %}
 
 ---
 
@@ -239,4 +239,4 @@ Salí del hotel sobre las ocho de la mañana tras un desayuno ligero. Mi habitac
 
 El check-out fue rápido y el personal hablaba suficiente inglés como para gestionar la salida sin problemas. Para quienes buscan un alojamiento tradicional con una ubicación céntrica tras completar rutas ciclistas largas, el hotel cumple las expectativas sin lujos superfluos y a un precio razonable para su categoría. Caminé unos diez minutos hasta la estación de Onomichi arrastrando la maleta con ruedas por las calles empedradas de la ladera del monte Senkoji bajo el sol matutino de abril.
 
-{% include figure popup="yes" image_path="{{ '/assets/images/2026/04/01/onomichiHotel.webp' | relative_url }}" alt="Hotel de Onomichi" caption="Vista panorámica del Hotel de Onomichi" %}
+{% include figure popup="yes" image_path="/assets/images/2026/04/01/onomichiHotel.webp" alt="Hotel de Onomichi" caption="Vista panorámica del Hotel de Onomichi" %}

@@ -140,7 +140,7 @@ El edificio es impresionante desde cualquier ángulo, con su cubierta de acero i
 
 La acústica del espacio, según había leído antes de visitar, es excepcional; el sonido envuelve al público desde múltiples direcciones gracias a la geometría curva del techo. La estructura transmite una sensación de ligereza poco habitual en edificios de este tamaño, como si flotara sobre el terreno ganado al mar. Es un ejemplo notable de arquitectura contemporánea que respeta el paisaje costero sin dominarlo visualmente.
 
-{% include figure popup="yes" image_path="{{ '/assets/images/2026/03/27/AnabukiArena.webp' | relative_url }}" alt="Anabuki Arena" caption="El espectacular Anabuki Arena" %}
+{% include figure popup="yes" image_path="/assets/images/2026/03/27/AnabukiArena.webp" alt="Anabuki Arena" caption="El espectacular Anabuki Arena" %}
 
 ---
 
@@ -162,7 +162,7 @@ Llegué al jardín sobre las tres de la tarde, entrando por la puerta principal 
 
 Tomé té matcha en la casa Kikugetsutei, una estructura con techo de paja del siglo diecisiete situada junto al estanque sur. Desde el tatami de la sala Kikugetsu no Ma, el agua parece extenderse infinitamente creando ilusión de flotar sobre su superficie. Subí después a la colina Hiraiho, el punto más alto del jardín, diseñada para imitar el monte Fuji en miniatura. Desde allí, la vista combina estanque, puente Engetsukyo y el monte Shiun real al fondo, componiendo una de las cincuenta vistas famosas del jardín.
 
-{% include figure popup="yes" image_path="{{ '/assets/images/2026/03/27/RitsurinGarden.webp' | relative_url }}" alt="Ritsurin Garden" caption="Entrada este del Jardín" %}
+{% include figure popup="yes" image_path="/assets/images/2026/03/27/RitsurinGarden.webp" alt="Ritsurin Garden" caption="Entrada este del Jardín" %}
 
 ---
 

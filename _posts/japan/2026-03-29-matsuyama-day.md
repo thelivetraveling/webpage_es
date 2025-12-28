@@ -112,7 +112,7 @@ Subir al **Castillo de Matsuyama** es como viajar en el tiempo. La experiencia c
 
 Caminar por su interior es una experiencia sensorial única. La **madera cruje** de forma auténtica bajo los pies, las escaleras son empinadas y obligan a agacharse al pasar por vigas bajas, recordándote que estás en una estructura defensiva real, no en una reconstrucción moderna. Pero el esfuerzo vale la pena. Desde la última planta, la **vista panorámica** es simplemente espectacular, abarcando toda la ciudad y, en días despejados, el brillante Mar Interior de Seto. Recorrer sus torres y pasillos laberínticos, diseñados para confundir a los invasores, te hace apreciar la autenticidad de este lugar. En la base, el jardín Ninomaru, con sus cerezos, promete ser un espectáculo de flores rosadas a principios de abril.
 
-{% include figure popup="yes" image_path="{{ '/assets/images/2026/03/29/matsuyamaCastle.webp' | relative_url }}" alt="castillo montaña matsuyama" caption="El Castillo de Matsuyama" %}
+{% include figure popup="yes" image_path="/assets/images/2026/03/29/matsuyamaCastle.webp" alt="castillo montaña matsuyama" caption="El Castillo de Matsuyama" %}
 
 ## Dogo Onsen
 
@@ -120,7 +120,7 @@ Si el castillo representa la historia, el **Dogo Onsen** representa la tradició
 
 Opté por el baño básico **Kami-no-Yu** (700 yenes). El ritual es sencillo pero profundo: lavarse bien antes de entrar, y luego sumergirse poco a poco en el agua **alcalina**, que brota a una temperatura constante y reconfortante de **42°C**. La sensación es increíblemente relajante; el agua tiene una textura casi sedosa. Allí dentro, mezclado con visitantes locales que acuden a diario, es fácil entender por qué este lugar ha inspirado leyendas, ha atraído a emperadores y dicen que sirvió de inspiración para el famoso baño de *El Viaje de Chihiro*. Pasé unos treinta minutos alternando entre el agua caliente y la zona de lavado, saliendo renovado por dentro y por fuera.
 
-{% include figure popup="yes" image_path="{{ '/assets/images/2026/03/29/dogoOnsen.webp' | relative_url }}" alt="edificio historico onsen" caption="El histórico edificio Dogo Onsen Honkan" %}
+{% include figure popup="yes" image_path="/assets/images/2026/03/29/dogoOnsen.webp" alt="edificio historico onsen" caption="El histórico edificio Dogo Onsen Honkan" %}
 
 ## Botchan Karakuri Clock
 
