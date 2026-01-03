@@ -13,7 +13,7 @@ header:
   overlay_image: /assets/images/2026/04/18/GeibikeiGorge.webp
 video:
   id: "kCfR4rdpijI"
-  provider: "youtube"
+  duration: "PT15M30S"
 images:
   - id: "image1"
     path: /assets/images/2026/04/18/geibikeiBoat.webp

@@ -13,7 +13,7 @@ header:
   overlay_image: /assets/images/2026/04/20/Hakodate.webp
 video:
   id: "s--MDmshT3I"
-  provider: "youtube"
+  duration: "PT15M30S"
 images:
   - id: "image1"
     path: /assets/images/2026/04/20/morningMarket.webp

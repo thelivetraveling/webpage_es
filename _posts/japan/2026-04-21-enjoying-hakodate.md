@@ -13,7 +13,7 @@ header:
   overlay_image: /assets/images/2026/04/21/Hakodate.webp
 video:
   id: "tujkoXI8rWM"
-  provider: "youtube"
+  duration: "PT15M30S"
 images:
   - id: "image1"
     path: /assets/images/2026/04/21/goryokakuStarFort.webp
