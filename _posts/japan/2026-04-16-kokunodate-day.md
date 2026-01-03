@@ -9,8 +9,8 @@ country: "JP"
 city: "Kakunodate"
 language: "es"
 header:
-  teaser: /assets/images/2026/04/16/kakunodate.webp
-  overlay_image: /assets/images/2026/04/16/kakunodate.webp
+  teaser: /assets/images/2026/04/16/Kakunodate.webp
+  overlay_image: /assets/images/2026/04/16/Kakunodate.webp
 video:
   id: "F9kJro2WgyA"
   duration: "PT15M30S"

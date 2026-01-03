@@ -6,7 +6,7 @@ date: 2026-04-18 09:00:00 +0200
 categories: ["japan"]
 tags: ["geibikei", "hiraizumi", "cañón", "templo", "barco", "unesco", "iwate"]
 country: "JP"
-city: "Geibikei, Hiraizumi"
+city: "Hiraizumi"
 language: "es"
 header:
   teaser: /assets/images/2026/04/18/GeibikeiGorge.webp
@@ -111,7 +111,7 @@ faqs:
   - question: "¿Cuánto tiempo necesito para visitar Geibikei y Hiraizumi en un día?"
     answer: "Es un itinerario intensivo pero factible. Salir de Morioka sobre las 8:00 permite hacer el paseo en barco por la mañana (1.5-2h), llegar a Hiraizumi para comer y visitar los templos principales (2.5-3h), y regresar a Morioka para la cena. La clave es cuadrar los horarios del tren local."
   - question: "¿Merece la pena Hiraizumi si ya he visitado Kioto o Nara?"
-    answer: "Absolutamente. Hiraizumi representa el intento de crear una "Tierra Pura Budista" en el lejano norte de Japón durante el siglo XII. Su escala es más íntima y su historia, vinculada al poderoso clan Fujiwara del Norte, es única. La combinación con el paisaje natural de Geibikei ofrece un contraste perfecto."
+    answer: "Absolutamente. Hiraizumi representa el intento de crear una 'Tierra Pura Budista' en el lejano norte de Japón durante el siglo XII. Su escala es más íntima y su historia, vinculada al poderoso clan Fujiwara del Norte, es única. La combinación con el paisaje natural de Geibikei ofrece un contraste perfecto."
 ---
 
 # Geibikei y Hiraizumi: Naturaleza e Historia del Norte
