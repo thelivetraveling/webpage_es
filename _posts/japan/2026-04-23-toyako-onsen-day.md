@@ -13,51 +13,26 @@ header:
   overlay_image: /assets/images/2026/04/23/Toyako.webp
 video:
   id: "tujkoXI8rWM"
-  provider: "youtube"
+  duration: "PT15M30S"
 images:
   - id: "image1"
-    path: /assets/images/2026/04/23/hotel_emion_sapporo.webp
-    alt: "Habitación moderna del Hotel Emion Sapporo"
-    license: "CC BY-SA 4.0"
-    credit_text: "The Live Traveling"
-  - id: "image2"
-    path: /assets/images/2026/04/23/sapporo_station_exterior.webp
-    alt: "Exterior de la Estación de Sapporo por la mañana"
-    license: "CC BY-SA 4.0"
-    credit_text: "The Live Traveling"
-  - id: "image3"
-    path: /assets/images/2026/04/23/toya_station.webp
+    path: /assets/images/2026/04/23/toyaStation.webp
     alt: "Pequeña estación de Toya con vista a las montañas"
     license: "CC BY-SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image4"
-    path: /assets/images/2026/04/23/toya_sculpture_park.webp
+  - id: "image2"
+    path: /assets/images/2026/04/23/sculpturePark.webp
     alt: "Esculturas modernas en el parque junto al lago Toya"
     license: "CC BY-SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image5"
-    path: /assets/images/2026/04/23/usuzan_observation_deck.webp
+  - id: "image3"
+    path: /assets/images/2026/04/23/observationDeck.webp
     alt: "Vista panorámica desde el mirador del monte Usu"
     license: "CC BY-SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image6"
-    path: /assets/images/2026/04/23/usu_volcano_observatory.webp
+  - id: "image4"
+    path: /assets/images/2026/04/23/volcanoObservatory.webp
     alt: "Edificio del Observatorio Volcánico del Monte Usu"
-    license: "CC BY-SA 4.0"
-    credit_text: "The Live Traveling"
-  - id: "image7"
-    path: /assets/images/2026/04/23/toya_station_return.webp
-    alt: "Andén de la estación de Toya al atardecer"
-    license: "CC BY-SA 4.0"
-    credit_text: "The Live Traveling"
-  - id: "image8"
-    path: /assets/images/2026/04/23/sapporo_station_night.webp
-    alt: "Estación de Sapporo iluminada por la noche"
-    license: "CC BY-SA 4.0"
-    credit_text: "The Live Traveling"
-  - id: "image9"
-    path: /assets/images/2026/04/23/hotel_emion_sapporo_night.webp
-    alt: "Hotel Emion Sapporo con iluminación nocturna"
     license: "CC BY-SA 4.0"
     credit_text: "The Live Traveling"
 map_points:
@@ -148,15 +123,13 @@ Salí del hotel a las siete menos cuarto después de desayunar en el restaurante
 
 El hotel mantenía su nivel constante de servicio. La habitación se había limpiado durante mi ausencia del día anterior y el personal reponía toallas y amenities diariamente. Los baños termales en las plantas superiores ofrecían vistas hacia la ciudad, creando una experiencia relajante tras largas jornadas explorando Sapporo.
 
-{% if page.map_points %}{% include google-maps.html %}{% endif %}
-
 ---
 
 ## Sapporo Station
 
 Llegué a la estación a las siete en punto. Compré un billete de tren ordinario hasta la estación de Toya en las máquinas automáticas de JR Hokkaido por 2640 yenes. El tren Super Hokuto salía a las siete y veinte desde el andén número cinco. Subí al vagón número tres y ocupé un asiento junto a la ventana en el lado derecho. El trayecto hasta Toya duraría una hora y cuarenta y cinco minutos atravesando el suroeste de Hokkaido por valles agrícolas, bosques y montañas volcánicas.
 
-{% include figure popup="yes" image_path="/assets/images/2026/04/23/sapporo_station_exterior.webp" alt="estacion sapporo mañana" caption="Exterior de la estación de Sapporo al amanecer" %}
+{% if page.map_points %}{% include google-maps.html %}{% endif %}
 
 ---
 
@@ -166,7 +139,7 @@ La estación de Toya fue inaugurada en 1928 como parte de la línea Muroran Main
 
 Bajé en Toya a las nueve menos diez. La estación estaba prácticamente vacía excepto por dos turistas japoneses que también bajaron del tren. Salí del edificio y busqué la parada de autobuses situada en el aparcamiento lateral. El próximo autobús hacia Toyako-onsen salía a las nueve en punto. Compré el billete por 340 yenes directamente al conductor al subir. El trayecto duraría veinte minutos por carreteras de montaña que ascendían gradualmente hacia el borde de la caldera volcánica.
 
-{% include figure popup="yes" image_path="/assets/images/2026/04/23/toya_station.webp" alt="estacion toya rural" caption="Estación de Toya en el valle" %}
+{% include figure popup="yes" image_path="/assets/images/2026/04/23/toyaStation.webp" alt="estacion toya rural" caption="Estación de Toya en el valle" %}
 
 ---
 
@@ -178,7 +151,7 @@ Llegué al parque a las nueve y media tras bajar del autobús en la parada princ
 
 El acceso al parque es gratuito y está abierto las veinticuatro horas. Encontré que las esculturas contemporáneas dialogaban efectivamente con el entorno natural de la caldera volcánica sin interferir con la experiencia del paisaje. Varios fotógrafos amateur capturaban composiciones que combinaban arte, naturaleza y el agua del lago. Pasé una hora recorriendo el parque antes de tomar un autobús turístico hacia el teleférico del monte Usu.
 
-{% include figure popup="yes" image_path="/assets/images/2026/04/23/toya_sculpture_park.webp" alt="parque esculturas toya" caption="Esculturas contemporáneas junto al lago Toya" %}
+{% include figure popup="yes" image_path="/assets/images/2026/04/23/sculpturePark.webp" alt="parque esculturas toya" caption="Esculturas contemporáneas junto al lago Toya" %}
 
 ---
 
@@ -192,7 +165,7 @@ La vista desde el mirador muestra claramente la morfología de la caldera volcá
 
 El mirador funciona como punto de observación óptimo para comprender la geología volcánica de la región. La escala masiva de la caldera solo es perceptible desde altura; al nivel del lago, las paredes del antiguo cráter parecen montañas ordinarias sin conexión obvia. Desde 550 metros de altitud, la estructura circular de la caldera resulta evidente mostrando la magnitud de la erupción que la formó hace 110000 años.
 
-{% include figure popup="yes" image_path="/assets/images/2026/04/23/usuzan_observation_deck.webp" alt="mirador monte usu" caption="Vista panorámica de la caldera del lago Toya desde el monte Usu" %}
+{% include figure popup="yes" image_path="/assets/images/2026/04/23/observationDeck.webp" alt="mirador monte usu" caption="Vista panorámica de la caldera del lago Toya desde el monte Usu" %}
 
 ---
 
@@ -206,4 +179,4 @@ Las pantallas digitales mostraban gráficos de actividad sísmica de los último
 
 El observatorio cumple función educativa y científica mostrando cómo Japón gestiona riesgos volcánicos mediante monitoreo constante y sistemas de evacuación planificados. La proximidad del pueblo de Toyako-onsen a un volcán activo representa el dilema japonés de vivir en territorios volcánicos que ofrecen recursos termales valiosos pero implican riesgos periódicos de erupciones destructivas.
 
-{% include figure popup="yes" image_path="/assets/images/2026/04/23/usu_volcano_observatory.webp" alt="observatorio volcanico usu" caption="Edificio del Observatorio Volcánico del Monte Usu" %}
+{% include figure popup="yes" image_path="/assets/images/2026/04/23/volcanoObservatory.webp" alt="observatorio volcanico usu" caption="Edificio del Observatorio Volcánico del Monte Usu" %}

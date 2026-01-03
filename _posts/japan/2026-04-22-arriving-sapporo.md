@@ -13,7 +13,7 @@ header:
   overlay_image: /assets/images/2026/04/22/Sapporo.webp
 video:
   id: "kfIQBC0hrII"
-  provider: "youtube"
+  duration: "PT15M30S"
 images:
   - id: "image1"
     path: /assets/images/2026/04/22/jrHakodate.webp
