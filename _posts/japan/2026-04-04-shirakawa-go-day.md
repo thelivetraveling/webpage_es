@@ -6,7 +6,7 @@ date: 2026-04-04 07:00:00 +0200
 categories: ["japan"]
 tags: ["shirakawago", "takayama", "hida", "tren", "viaje"]
 country: "JP"
-city: 
+city: "Shirakawa-go"
 language: "es"
 header:
   teaser: /assets/images/2026/04/01/Shirakawago.webp
@@ -15,18 +15,18 @@ video:
   id: "NGBAJw1jeXA"
   duration: "PT15M30S"
 images:
-  - id: "image1"
-    path: /assets/images/2026/04/04/takayamaStationExterior.webp
+  - id: "TakayamaStation"
+    path: /assets/images/2026/04/04/TakayamaStation.webp
     alt: "estacion takayama arquitectura madera"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image2"
-    path: /assets/images/2026/04/04/shirakawagoAldeaInvierno.webp
+  - id: "Shirakawago"
+    path: /assets/images/2026/04/04/Shirakawago.webp
     alt: "shirakawago casas tejado paja nieve"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image3"
-    path: /assets/images/2026/04/04/hidagyuMaruakiRestaurante.webp
+  - id: "Hidagyu"
+    path: /assets/images/2026/04/04/Hidagyu.webp
     alt: "restaurante parrilla carne hida takayama"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"

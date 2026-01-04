@@ -15,32 +15,32 @@ video:
   id: "tujkoXI8rWM"
   duration: "PT15M30S"
 images:
-  - id: "image1"
-    path: /assets/images/2026/04/03/kuretakeInnNagoya.webp
+  - id: "KuretakeInnNagoya"
+    path: /assets/images/2026/04/03/KuretakeInnNagoya.webp
     alt: "hotel moderno en nagoya"
     license: "CC-BY-SA-4.0"
-  - id: "image2"
-    path: /assets/images/2026/04/03/nagisoStation.webp
+  - id: "NagisoStation"
+    path: /assets/images/2026/04/03/NagisoStation.webp
     alt: "estacion ferroviaria kiso"
     license: "CC-BY-SA-4.0"
-  - id: "image3"
-    path: /assets/images/2026/04/03/wakiHonjinOkuya.webp
+  - id: "WakiHonjinOkuya"
+    path: /assets/images/2026/04/03/WakiHonjinOkuya.webp
     alt: "edificio historico tsumago"
     license: "CC-BY-SA-4.0"
-  - id: "image4"
-    path: /assets/images/2026/04/03/odakiMedakiFalls.webp
+  - id: "OdakiMedakiFalls"
+    path: /assets/images/2026/04/03/OdakiMedakiFalls.webp
     alt: "cascadas gemelas nakasendo"
     license: "CC-BY-SA-4.0"
-  - id: "image5"
-    path: /assets/images/2026/04/03/magomePass.webp
+  - id: "MagomePass"
+    path: /assets/images/2026/04/03/MagomePass.webp
     alt: "paso montana kiso"
     license: "CC-BY-SA-4.0"
-  - id: "image6"
-    path: /assets/images/2026/04/03/magomeJuku.webp
+  - id: "MagomeJuku"
+    path: /assets/images/2026/04/03/MagomeJuku.webp
     alt: "calle empedrada magome"
     license: "CC-BY-SA-4.0"
-  - id: "image7"
-    path: /assets/images/2026/04/03/ochigawaStation.webp
+  - id: "OchigawaStation"
+    path: /assets/images/2026/04/03/OchigawaStation.webp
     alt: "estacion rural nakatsugawa"
     license: "CC-BY-SA-4.0"
 map_points:

@@ -4,8 +4,8 @@ published: false
 title: "De Tokio a Fukuoka: Cambio de Isla"
 excerpt: "Vuelo hacia Kyushu, centro comercial futurista, santuario histórico y yatai junto al río"
 date: 2026-03-12 09:00:00 +0200
-categories: [japan]
-tags: [fukuoka, kyushu, templos, gastronomia, vida-nocturna]
+categories: ["japan"]
+tags: ["fukuoka", "kyushu", "templos", "gastronomía", "vida-nocturna"]
 country: "JP"
 city: "Fukuoka"
 language: "es"
@@ -20,9 +20,9 @@ video:
   id: "E5R5PPezu7k"
   duration: "PT00H15M00S"
 images:
-  - id: "image1"
+  - id: "Fukuoka"
     path: /assets/images/2026/03/12/Fukuoka.webp
-    alt: "El Tokio del sur de Japon"
+    alt: "El Tokio del sur de Japón"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
 map_points:

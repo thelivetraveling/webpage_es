@@ -3,8 +3,8 @@ layout: single
 title: "Ruta Arakawa Yakushima"
 excerpt: "Inicio de la ruta Arakawa hacia el legendario cedro Jomon Sugi a través de antiguos raíles forestales."
 date: 2026-03-18 07:00:00 +0200
-categories: [japan]
-tags: [Yakushima, Senderismo, Jomon, Sugi, Cedros, Arakawa, Naturaleza, Patrimonio]
+categories: ["japan"]
+tags: ["yakushima", "senderismo", "jomon", "sugi", "cedros", "arakawa", "naturaleza", "patrimonio"]
 country: "JP"
 city: "Yakushima"
 language: "es"
@@ -20,20 +20,20 @@ video:
   id: "17YvVR0QCZM"
   duration: "PT00H15M00S"
 images:
-  - id: "image1"
+  - id: "Yakushima"
     path: /assets/images/2026/03/18/Yakushima.webp
     alt: "Yakushima"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
 map_points:
-  - id: "image1"
+  - id: "point1"
     name: "Yakushima Green Hotel"
     lat: 30.32676
     lng: 130.65827
     price_range: "$$"
     type: "hotel"
     mode: "walking"
-  - id: "image2"
+  - id: "point2"
     name: "Arakawa Three-way Junction"  
     lat: 30.3169
     lng: 130.5863
@@ -41,7 +41,7 @@ map_points:
     type: "default"
     mode: "driving"
     transit_types: ["bus"]
-  - id: "image3"
+  - id: "point3"
     name: "Arakawa Trail Start"
     lat: 30.3395
     lng: 130.5954

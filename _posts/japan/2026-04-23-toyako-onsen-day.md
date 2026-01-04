@@ -15,23 +15,23 @@ video:
   id: "tujkoXI8rWM"
   duration: "PT15M30S"
 images:
-  - id: "image1"
-    path: /assets/images/2026/04/23/toyaStation.webp
+  - id: "ToyaStation"
+    path: /assets/images/2026/04/23/ToyaStation.webp
     alt: "Pequeña estación de Toya con vista a las montañas"
     license: "CC BY-SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image2"
-    path: /assets/images/2026/04/23/sculpturePark.webp
+  - id: "SculpturePark"
+    path: /assets/images/2026/04/23/SculpturePark.webp
     alt: "Esculturas modernas en el parque junto al lago Toya"
     license: "CC BY-SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image3"
-    path: /assets/images/2026/04/23/observationDeck.webp
+  - id: "ObservationDeck"
+    path: /assets/images/2026/04/23/ObservationDeck.webp
     alt: "Vista panorámica desde el mirador del monte Usu"
     license: "CC BY-SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image4"
-    path: /assets/images/2026/04/23/volcanoObservatory.webp
+  - id: "VolcanoObservatory"
+    path: /assets/images/2026/04/23/VolcanoObservatory.webp
     alt: "Edificio del Observatorio Volcánico del Monte Usu"
     license: "CC BY-SA 4.0"
     credit_text: "The Live Traveling"

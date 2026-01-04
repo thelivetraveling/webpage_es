@@ -15,13 +15,13 @@ video:
   id: "tujkoXI8rWM"
   duration: "PT15M30S"
 images:
-  - id: "image1"
-    path: /assets/images/2026/03/29/matsuyamaCastle.webp
+  - id: "MatsuyamaCastle"
+    path: /assets/images/2026/03/29/MatsuyamaCastle.webp
     alt: "castillo montaña matsuyama"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image2"
-    path: /assets/images/2026/03/29/dogoOnsen.webp
+  - id: "DogoOnsen"
+    path: /assets/images/2026/03/29/DogoOnsen.webp
     alt: "edificio historico onsen"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
@@ -61,7 +61,7 @@ map_points:
     lat: 33.8521
     lng: 132.7864
     price_range: "$"
-    type: "default"
+    type: "onsen"
     mode: "transit"
     transit_types: ["train"]
   - id: "point6"

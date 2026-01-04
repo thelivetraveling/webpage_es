@@ -15,13 +15,13 @@ video:
   id: "OV0JEv6C2QQ"
   duration: "PT15M30S"
 images:
-  - id: "image1"
-    path: /assets/images/2026/03/31/kurushimaBridge.webp
+  - id: "KurushimaBridge"
+    path: /assets/images/2026/03/31/KurushimaBridge.webp
     alt: "puente suspension triple"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image2"
-    path: /assets/images/2026/03/31/yoshiumiMarket.webp
+  - id: "YoshiumiMarket"
+    path: /assets/images/2026/03/31/YoshiumiMarket.webp
     alt: "mercado mariscos parrilla"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"

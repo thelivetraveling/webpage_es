@@ -9,19 +9,19 @@ country: "JP"
 city: "Morioka"
 language: "es"
 header:
-  teaser: /assets/images/2026/04/14/ishiwarizakura.webp
-  overlay_image: /assets/images/2026/04/14/ishiwarizakura.webp
+  teaser: /assets/images/2026/04/14/Ishiwarizakura.webp
+  overlay_image: /assets/images/2026/04/14/Ishiwarizakura.webp
 video:
   id: "LtwM1ioqNvk"
   duration: "PT15M30S"
 images:
-  - id: "hotelRoyalMoriokaDay"
-    path: /assets/images/2026/04/14/hotelRoyalMoriokaDay.webp
+  - id: "HotelRoyalMorioka"
+    path: /assets/images/2026/04/14/HotelRoyalMorioka.webp
     alt: "hotel morioka dia"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "ishiwarizakuraCherryTree"
-    path: /assets/images/2026/04/14/ishiwarizakuraCherryTree.webp
+  - id: "IshiwarizakuraCherryTree"
+    path: /assets/images/2026/04/14/IshiwarizakuraCherryTree.webp
     alt: "cerezo roca morioka"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"

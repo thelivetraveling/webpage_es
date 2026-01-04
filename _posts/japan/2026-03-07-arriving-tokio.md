@@ -3,8 +3,8 @@ layout: single
 title: "Llegada a Tokio"
 excerpt: "Desde la llegada a Narita hasta una tarde histórica en Asakusa."
 date:   2026-03-07 09:00:00 +0200
-categories: [japan]
-tags: [japan, tokio, narita, ueno, asakusa, templos]
+categories: ["japan"]
+tags: ["japan", "tokio", "narita", "ueno", "asakusa", "templos"]
 country: "JP"
 city: "Tokio"
 language: "es"
@@ -19,7 +19,7 @@ video:
   id: "OuCbntsMsWY"
   duration: "PT00H15M00S"
 images:
-  - id: "image1"
+  - id: "NaritaAirport"
     path: /assets/images/2026/03/07/NaritaAirport.webp
     alt: "El majestuoso Aeropuerto de Narita"
     license: "CC BY SA 4.0"

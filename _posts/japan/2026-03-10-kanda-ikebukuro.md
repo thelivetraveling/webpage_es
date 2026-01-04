@@ -3,8 +3,8 @@ layout: single
 title: "Ikebukuro y Jimbocho"
 excerpt: "Ruta a pie por lugares emblemáticos, museo de papel, puentes, libros y un café tranquilo"
 date: 2026-03-10 09:00:00 +0200
-categories: [japan]
-tags: [Ikebukuro, Jimbocho, origami, libros, ocio]
+categories: ["japan"]
+tags: ["ikebukuro", "jimbocho", "origami", "libros", "ocio"]
 country: "JP"
 city: "Tokio"
 language: "es"
@@ -19,7 +19,7 @@ video:
   id: "_zU8K43Twus"
   duration: "PT00H15M00S"
 images:
-  - id: "image1"
+  - id: "Jimbocho"
     path: /assets/images/2026/03/10/Jimbocho.webp
     alt: "Para los amantes de la lectura"
     license: "CC BY SA 4.0"

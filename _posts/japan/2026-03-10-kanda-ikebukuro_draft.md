@@ -4,8 +4,8 @@ published: false
 title: "Ikebukuro y Jimbocho"
 excerpt: "Museo de origami, puente Hijiri, Daruma y cafés en Tokio"  
 date: 2026-03-10 09:00:00 +0200  
-categories: [japan]  
-tags: [tokio, cultura, origami, libros, gastronomía]
+categories: ["japan"]  
+tags: ["tokio", "cultura", "origami", "libros", "gastronomía"]
 country: "JP"
 city: "Tokio"
 language: "es"
@@ -20,7 +20,7 @@ video:
   id: "_zU8K43Twus"
   duration: "PT00H15M00S"
 images:
-  - id: "image1"
+  - id: "Jimbocho"
     path: /assets/images/2026/03/10/Jimbocho.webp
     alt: "Para los amantes de la lectura"
     license: "CC BY SA 4.0"

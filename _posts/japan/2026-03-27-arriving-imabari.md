@@ -4,7 +4,7 @@ title: "Kobe a Imabari vía Takamatsu"
 excerpt: "Desde el Hotel Juraku en Kobe hasta Imabari cruzando Shikoku, visitando el Anabuki Arena, Castillo de Takamatsu y jardín Ritsurin."
 date: 2026-03-27 09:00:00 +0200
 categories: ["japan"]
-tags: ["takamatsu", "imabari", "castillo", "jardin", "shikoku"]
+tags: ["takamatsu", "imabari", "castillo", "jardín", "shikoku"]
 country: "JP"
 city: "Takamatsu"
 language: "es"
@@ -15,17 +15,17 @@ video:
   id: "gAOZuVcWorI"
   duration: "PT15M30S"
 images:
-  - id: "image1"
+  - id: "Imabari"
     path: /assets/images/2026/03/27/Imabari.webp
     alt: "Estación de tren de Imabari"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image2"
+  - id: "AnabukiArena"
     path: /assets/images/2026/03/27/AnabukiArena.webp
     alt: "El espectacular Anabuki Arena"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image3"
+  - id: "RitsurinGarden"
     path: /assets/images/2026/03/27/RitsurinGarden.webp
     alt: "Puerta este del Jardín"
     license: "CC BY SA 4.0"

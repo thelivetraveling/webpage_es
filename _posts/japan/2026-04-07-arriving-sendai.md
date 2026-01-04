@@ -15,33 +15,33 @@ video:
   id: "2_FFyGW-bx8"
   duration: "PT15M30S"
 images:
-  - id: "kusatsuHotelCheckout"
-    path: /assets/images/2026/04/07/kusatsuHotelCheckout.webp
+  - id: "KusatsuHotel"
+    path: /assets/images/2026/04/07/KusatsuHotel.webp
     alt: "ryokan kusatsu salida"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "kusatsuBusTerminal"
-    path: /assets/images/2026/04/07/kusatsuBusTerminal.webp
+  - id: "KusatsuBusTerminal"
+    path: /assets/images/2026/04/07/KusatsuBusTerminal.webp
     alt: "terminal autobuses kusatsu"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "karuizawaStation"
-    path: /assets/images/2026/04/07/karuizawaStation.webp
+  - id: "KaruizawaStation"
+    path: /assets/images/2026/04/07/KaruizawaStation.webp
     alt: "estacion shinkansen karuizawa"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "omiyaStation"
-    path: /assets/images/2026/04/07/omiyaStation.webp
+  - id: "OmiyaStation"
+    path: /assets/images/2026/04/07/OmiyaStation.webp
     alt: "estacion ferroviaria omiya"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "sendaiStation"
-    path: /assets/images/2026/04/07/sendaiStation.webp
+  - id: "SendaiStation"
+    path: /assets/images/2026/04/07/SendaiStation.webp
     alt: "estacion principal sendai"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "richmondHotelSendai"
-    path: /assets/images/2026/04/07/richmondHotelSendai.webp
+  - id: "RichmondHotelSendai"
+    path: /assets/images/2026/04/07/RichmondHotelSendai.webp
     alt: "hotel urbano sendai"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"

@@ -3,8 +3,8 @@ layout: single
 title: "Beppu y sus Infiernos"
 excerpt: "Infiernos geotérmicos, baños de barro volcánico y la magia termal de Kyushu"
 date: 2026-03-15 09:00:00 +0200
-categories: [japan]
-tags: [beppu, onsen, jigoku, kyushu, aguas-termales]
+categories: ["japan"]
+tags: ["beppu", "onsen", "jigoku", "kyushu", "aguas-termales"]
 country: "JP"
 city: "Beppu"
 language: "es"
@@ -19,7 +19,7 @@ video:
   id: "sOfOn-PzQeg"
   duration: "PT00H15M00S"
 images:
-  - id: "image1"
+  - id: "Beppu"
     path: /assets/images/2026/03/15/Beppu.webp
     alt: "La ciudad de los 7 infiernos"
     license: "CC BY SA 4.0"
@@ -32,14 +32,14 @@ map_points:
     price_range: "$"
     type: "hotel"
     mode: "walking"
-  - id: "image2"
+  - id: "point2"
     name: "Hakata Station"
     lat: 33.5899
     lng: 130.4193
     price_range: "$"
     type: "station"
     mode: "walking"
-  - id: "image3"
+  - id: "point3"
     name: "Beppu Station"
     lat: 33.2797
     lng: 131.5000
@@ -47,42 +47,42 @@ map_points:
     type: "station"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
-  - id: "image4"
+  - id: "point4"
     name: "Beppu Park"
     lat: 33.2800
     lng: 131.4913
     price_range: "$"
     type: "park"
     mode: "walking"
-  - id: "image5"
+  - id: "point5"
     name: "Beppu Onsen Hoyoland"
     lat: 33.3147
     lng: 131.4581
     price_range: "$"
-    type: "default"
+    type: "onsen"
     mode: "walking"
-  - id: "image6"
+  - id: "point6"
     name: "Beppu Jigoku"
     lat: 33.3158
     lng: 131.4698
     price_range: "$"
     type: "museum"
     mode: "walking"
-  - id: "image7"
+  - id: "point7"
     name: "Kamado Jigoku"
     lat: 33.3162
     lng: 131.4729
     price_range: "$"
     type: "museum"
     mode: "walking"
-  - id: "image8"
+  - id: "point8"
     name: "Beppudaigaku Station"
     lat: 33.3126
     lng: 131.4993
     price_range: "$"
     type: "station"
     mode: "walking"
-  - id: "image9"
+  - id: "point9"
     name: "Estación de Oita"
     lat: 33.2323
     lng: 131.6057

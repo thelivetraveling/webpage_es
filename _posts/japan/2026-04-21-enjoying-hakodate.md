@@ -15,13 +15,13 @@ video:
   id: "tujkoXI8rWM"
   duration: "PT15M30S"
 images:
-  - id: "image1"
-    path: /assets/images/2026/04/21/goryokakuStarFort.webp
+  - id: "GoryokakuStarFort"
+    path: /assets/images/2026/04/21/GoryokakuStarFort.webp
     alt: "Vista aérea de la fortaleza Goryokaku en forma de estrella, Hakodate"
     license: "CC BY-SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image2"
-    path: /assets/images/2026/04/21/yunokawaOnsen.webp
+  - id: "YunokawaOnsen"
+    path: /assets/images/2026/04/21/YunokawaOnsen.webp
     alt: "Baños termales tradicionales en el distrito Yunokawa Onsen de Hakodate"
     license: "CC BY-SA 4.0"
     credit_text: "The Live Traveling"
@@ -81,7 +81,7 @@ map_points:
     lat: 41.78113
     lng: 140.79036
     price_range: "$"
-    type: "default"
+    type: "station"
     mode: "walking"
   - id: "point9"
     name: "Mt. Hakodate Observatory"

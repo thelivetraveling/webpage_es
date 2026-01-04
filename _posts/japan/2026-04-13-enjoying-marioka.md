@@ -9,44 +9,44 @@ country: "JP"
 city: "Morioka"
 language: "es"
 header:
-  teaser: /assets/images/2026/04/13/morioka.webp
-  overlay_image: /assets/images/2026/04/13/morioka.webp
+  teaser: /assets/images/2026/04/13/Morioka.webp
+  overlay_image: /assets/images/2026/04/13/Morioka.webp
 video:
   id: "LTz0t8zVXoU"
   duration: "PT15M30S"
 images:
-  - id: "hotelRoyalMoriokaMorning"
-    path: /assets/images/2026/04/13/hotelRoyalMoriokaMorning.webp
+  - id: "HotelRoyalMorioka"
+    path: /assets/images/2026/04/13/HotelRoyalMorioka.webp
     alt: "hotel morioka amanecer"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "moriokaCastleRuins"
-    path: /assets/images/2026/04/13/moriokaCastleRuins.webp
+  - id: "MoriokaCastleRuins"
+    path: /assets/images/2026/04/13/MoriokaCastleRuins.webp
     alt: "ruinas castillo morioka"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "gozakuStore"
-    path: /assets/images/2026/04/13/gozakuStore.webp
+  - id: "GozakuStore"
+    path: /assets/images/2026/04/13/GozakuStore.webp
     alt: "tienda artesania morioka"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "atagoyamaMemorialPark"
-    path: /assets/images/2026/04/13/atagoyamaMemorialPark.webp
+  - id: "AtagoyamaMemorialPark"
+    path: /assets/images/2026/04/13/AtagoyamaMemorialPark.webp
     alt: "parque memorial atagoyama"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "takamatsoPark"
-    path: /assets/images/2026/04/13/takamatsuPark.webp
+  - id: "TakamatsuPark"
+    path: /assets/images/2026/04/13/TakamatsuPark.webp
     alt: "parque takamatsu morioka"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "iwateUniversityUedaCampus"
-    path: /assets/images/2026/04/13/iwateUniversityUedaCampus.webp
+  - id: "IwateUniversityUedaCampus"
+    path: /assets/images/2026/04/13/IwateUniversityUedaCampus.webp
     alt: "campus universidad iwate"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "moriokaArchaeologicalMuseum"
-    path: /assets/images/2026/04/13/moriokaArchaeologicalMuseum.webp
+  - id: "MoriokaArchaeologicalMuseum"
+    path: /assets/images/2026/04/13/MoriokaArchaeologicalMuseum.webp
     alt: "museo arqueologico morioka"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"

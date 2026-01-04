@@ -16,63 +16,63 @@ video:
   id: "qMs_uynkM54"
   duration: "PT15M30S"
 images:
-  - id: "hotelRoyalMoriokaFinalDay"
-    path: /assets/images/2026/04/19/hotelRoyalMoriokaFinalDay.webp
+  - id: "HotelRoyalMorioka"
+    path: /assets/images/2026/04/19/HotelRoyalMorioka.webp
     alt: "hotel morioka ultimo dia"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "moriokaStationFarewell"
-    path: /assets/images/2026/04/19/moriokaStationFarewell.webp
+  - id: "MoriokaStation"
+    path: /assets/images/2026/04/19/MoriokaStation.webp
     alt: "estacion morioka despedida"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "shinAomoriStation"
-    path: /assets/images/2026/04/19/shinAomoriStation.webp
+  - id: "ShinAomoriStation"
+    path: /assets/images/2026/04/19/ShinAomoriStation.webp
     alt: "estacion shin aomori"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "nebutaMuseumWarasse"
-    path: /assets/images/2026/04/19/nebutaMuseumWarasse.webp
+  - id: "NebutaMuseumWarasse"
+    path: /assets/images/2026/04/19/NebutaMuseumWarasse.webp
     alt: "museo nebuta warasse"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "aoiumiParkCoast"
-    path: /assets/images/2026/04/19/aoiumiParkCoast.webp
+  - id: "AoiumiPark"
+    path: /assets/images/2026/04/19/AoiumiPark.webp
     alt: "parque costero aoiumi"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "hirosakiStationArrival"
-    path: /assets/images/2026/04/19/hirosakiStationArrival.webp
+  - id: "HirosakiStation"
+    path: /assets/images/2026/04/19/HirosakiStation.webp
     alt: "estacion hirosaki llegada"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "hirosakiCastlePark"
-    path: /assets/images/2026/04/19/hirosakiCastlePark.webp
+  - id: "HirosakiCastlePark"
+    path: /assets/images/2026/04/19/HirosakiCastlePark.webp
     alt: "parque castillo hirosaki"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "umedaResidence"
-    path: /assets/images/2026/04/19/umedaResidence.webp
+  - id: "UmedaResidence"
+    path: /assets/images/2026/04/19/UmedaResidence.webp
     alt: "residencia umeda hirosaki"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "itoResidence"
-    path: /assets/images/2026/04/19/itoResidence.webp
+  - id: "ItoResidence"
+    path: /assets/images/2026/04/19/ItoResidence.webp
     alt: "residencia ito samurai"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "sasamoriResidence"
-    path: /assets/images/2026/04/19/sasamoriResidence.webp
+  - id: "SasamoriResidence"
+    path: /assets/images/2026/04/19/SasamoriResidence.webp
     alt: "residencia sasamori hirosaki"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "ishidaResidence"
-    path: /assets/images/2026/04/19/ishidaResidence.webp
+  - id: "IshidaResidence"
+    path: /assets/images/2026/04/19/IshidaResidence.webp
     alt: "residencia ishida samurai"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "iwataResidence"
-    path: /assets/images/2026/04/19/iwataResidence.webp
+  - id: "IwataResidence"
+    path: /assets/images/2026/04/19/IwataResidence.webp
     alt: "residencia iwata hirosaki"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
@@ -212,7 +212,7 @@ Salí del hotel a las siete menos cuarto después de desayunar rápidamente en e
 
 El hotel había cumplido perfectamente su función durante toda mi estancia en Morioka. Las habitaciones se limpiaban diariamente, el personal mantenía un servicio educado constante y la ubicación permitía acceder caminando a la estación sin perder tiempo en transporte urbano. El precio había permanecido estable alrededor de los 8500 yenes por noche.
 
-{% include figure popup="yes" image_path="/assets/images/2026/04/19/hotelRoyalMoriokaFinalDay.webp" alt="hotel morioka ultimo dia" caption="Hotel Royal Morioka en el último día de estancia" %}
+{% include figure popup="yes" image_path="/assets/images/2026/04/19/HotelRoyalMorioka.webp" alt="hotel morioka ultimo dia" caption="Hotel Royal Morioka en el último día de estancia" %}
 
 ---
 
@@ -230,7 +230,7 @@ La estación de Shin-Aomori fue inaugurada en 2010 como terminal norte del Tōho
 
 Bajé en Shin-Aomori a las ocho en punto. Busqué la salida este que conectaba con el autobús urbano hacia el centro de Aomori. El autobús número 1 salía a las ocho y diez desde la parada frente a la estación. Compré el billete por 310 yenes directamente al conductor al subir. El trayecto hasta el museo Nebuta WA RASSE duraría veinte minutos atravesando barrios residenciales y la zona comercial cercana al puerto.
 
-{% include figure popup="yes" image_path="/assets/images/2026/04/19/shinAomoriStation.webp" alt="estacion shin aomori" caption="Estación de Shin-Aomori, terminal del shinkansen" %}
+{% include figure popup="yes" image_path="/assets/images/2026/04/19/ShinAomoriStation.webp" alt="estacion shin aomori" caption="Estación de Shin-Aomori, terminal del shinkansen" %}
 
 ---
 
@@ -242,7 +242,7 @@ Llegué al museo a las ocho y media. Pagué 620 yenes en la taquilla de entrada 
 
 El museo funciona como documentación cultural del festival más importante de Aomori. Las carrozas se renuevan cada año con diseños nuevos basados en temas tradicionales; las piezas expuestas representan el trabajo de artesanos especializados que dedican meses a construir cada carroza desde cero. Pasé cuarenta minutos recorriendo la sala principal y observando vídeos del festival nocturno proyectados en pantallas laterales. La experiencia permitía entender la escala y complejidad del Nebuta sin necesidad de visitarlo durante su semana de celebración en agosto cuando Aomori multiplica su población con turistas nacionales.
 
-{% include figure popup="yes" image_path="/assets/images/2026/04/19/nebutaMuseumWarasse.webp" alt="museo nebuta warasse" caption="Interior del museo Nebuta WA RASSE con carrozas iluminadas" %}
+{% include figure popup="yes" image_path="/assets/images/2026/04/19/NebutaMuseumWarasse.webp" alt="museo nebuta warasse" caption="Interior del museo Nebuta WA RASSE con carrozas iluminadas" %}
 
 ---
 
@@ -254,7 +254,7 @@ Caminé por el parque durante veinte minutos tras salir del museo. El muelle de 
 
 El parque funciona como espacio de transición entre el museo turístico y la realidad portuaria de Aomori. La ciudad mantiene su carácter como puerto pesquero e industrial sin intentar ocultar esta identidad mediante exceso de embellecimiento turístico. El contraste entre las carrozas Nebuta coloridas del museo y las grúas oxidadas del puerto resume la dualidad de Aomori como centro cultural tradicional y hub logístico del extremo norte de Honshu.
 
-{% include figure popup="yes" image_path="/assets/images/2026/04/19/aoiumiParkCoast.webp" alt="parque costero aoiumi" caption="Muelle del parque Aoiumi con vistas al puerto de Aomori" %}
+{% include figure popup="yes" image_path="/assets/images/2026/04/19/AoiumiPark.webp" alt="parque costero aoiumi" caption="Muelle del parque Aoiumi con vistas al puerto de Aomori" %}
 
 ---
 
@@ -264,7 +264,7 @@ La estación de Hirosaki fue inaugurada en 1894 como parte de la línea Ōu Main
 
 Llegué a Hirosaki a las once menos cuarto tras tomar un tren local de treinta minutos desde Shin-Aomori. La estación era pequeña comparada con las terminales shinkansen, consistiendo en un edificio de dos plantas con taquilla, tiendas de souvenirs locales y paradas de autobuses urbanos. Salí por la salida principal y caminé veinte minutos hacia el norte por la avenida principal en dirección al parque del castillo de Hirosaki. Las calles eran tranquilas con edificios de altura media y tiendas que vendían productos relacionados con manzanas: mermelada, sidra, pasteles y dulces.
 
-{% include figure popup="yes" image_path="/assets/images/2026/04/19/hirosakiStationArrival.webp" alt="estacion hirosaki llegada" caption="Estación de Hirosaki en el centro de la ciudad" %}
+{% include figure popup="yes" image_path="/assets/images/2026/04/19/HirosakiStation.webp" alt="estacion hirosaki llegada" caption="Estación de Hirosaki en el centro de la ciudad" %}
 
 ---
 
@@ -278,7 +278,7 @@ Subí por escalones de piedra hasta el honmaru y pagué la entrada en una taquil
 
 El castillo de Hirosaki mantiene autenticidad arquitectónica sin reconstrucciones modernas que comprometan su valor histórico. Los muros de piedra y las puertas fortificadas conservan su estructura original del siglo XVII con técnicas de construcción ishigaki características del periodo Edo. El parque funciona como espacio comunitario donde residentes locales hacen ejercicio, pasean perros y realizan picnics bajo los cerezos durante la temporada de floración.
 
-{% include figure popup="yes" image_path="/assets/images/2026/04/19/hirosakiCastlePark.webp" alt="parque castillo hirosaki" caption="Torreón del castillo de Hirosaki sobre muros de piedra" %}
+{% include figure popup="yes" image_path="/assets/images/2026/04/19/HirosakiCastle.webp" alt="parque castillo hirosaki" caption="Torreón del castillo de Hirosaki sobre muros de piedra" %}
 
 ---
 
@@ -290,7 +290,7 @@ Llegué a la residencia Umeda a la una menos cuarto tras caminar diez minutos de
 
 La residencia Umeda representa la vida cotidiana de samuráis de rango medio durante el periodo Edo. Las habitaciones medían ocho o diez tatami con fusuma decorados con pinturas sencillas de paisajes y flores. El jardín tenía un estanque pequeño con carpas, piedras volcánicas cubiertas de musgo y un cerezo llorón plantado hace más de doscientos años. Pasé quince minutos recorriendo las estancias antes de continuar hacia las siguientes residencias del distrito.
 
-{% include figure popup="yes" image_path="/assets/images/2026/04/19/umedaResidence.webp" alt="residencia umeda hirosaki" caption="Jardín interior de la residencia de la familia Umeda" %}
+{% include figure popup="yes" image_path="/assets/images/2026/04/19/UmedaResidence.webp" alt="residencia umeda hirosaki" caption="Jardín interior de la residencia de la familia Umeda" %}
 
 ---
 
@@ -302,7 +302,7 @@ Visité la residencia Ito a la una menos cinco. La entrada era gratuita con hora
 
 Los cerezos llorones del jardín estaban en fase final de floración con algunas flores rosadas todavía visibles entre las hojas verdes emergentes. Había dos fotógrafos japoneses capturando imágenes desde diferentes ángulos. La residencia Ito complementa la experiencia histórica del distrito samurái mostrando aspectos administrativos del dominio feudal más allá de elementos militares.
 
-{% include figure popup="yes" image_path="/assets/images/2026/04/19/itoResidence.webp" alt="residencia ito samurai" caption="Cerezos llorones en el jardín de la residencia Ito" %}
+{% include figure popup="yes" image_path="/assets/images/2026/04/19/ItoResidence.webp" alt="residencia ito samurai" caption="Cerezos llorones en el jardín de la residencia Ito" %}
 
 ---
 
@@ -314,7 +314,7 @@ Entré a la residencia Sasamori a la una y diez. La entrada era gratuita siguien
 
 La residencia Sasamori transmite el estatus elevado de samuráis especializados dentro de la jerarquía feudal. Los jardines ocupaban más de ochocientos metros cuadrados con estanques, puentes de madera y linternas de piedra. La colección de katanas incluía piezas forjadas por herreros del siglo XVIII con hojas de acero plegado que mantenían su filo original.
 
-{% include figure popup="yes" image_path="/assets/images/2026/04/19/sasamoriResidence.webp" alt="residencia sasamori hirosaki" caption="Sala principal de la residencia Sasamori con armaduras" %}
+{% include figure popup="yes" image_path="/assets/images/2026/04/19/SasamoriResidence.webp" alt="residencia sasamori hirosaki" caption="Sala principal de la residencia Sasamori con armaduras" %}
 
 ---
 
@@ -326,7 +326,7 @@ Visité la residencia Ishida a la una y media. La entrada era gratuita con el mi
 
 La residencia Ishida complementa la experiencia del distrito samurái mostrando la vida de guerreros de rango medio especializados en defensa del castillo. El jardín era más pequeño que las residencias de alto rango con solo un cerezo y rocas volcánicas dispuestas siguiendo principios estéticos básicos del periodo Edo.
 
-{% include figure popup="yes" image_path="/assets/images/2026/04/19/ishidaResidence.webp" alt="residencia ishida samurai" caption="Almacén de armas en la residencia Ishida" %}
+{% include figure popup="yes" image_path="/assets/images/2026/04/19/IshidaResidence.webp" alt="residencia ishida samurai" caption="Almacén de armas en la residencia Ishida" %}
 
 ---
 
@@ -338,4 +338,4 @@ Entré a la residencia Iwata a las dos menos cuarto. La entrada seguía siendo g
 
 La residencia Iwata muestra la diversificación profesional dentro de la clase samurái durante el periodo Edo. Los médicos mantenían estatus militar pero desarrollaban actividades técnicas que requerían años de estudio especializado. Los jardines eran elaborados con puentes de piedra y composiciones paisajísticas complejas reflejando el nivel económico elevado de médicos al servicio directo del señor feudal.
 
-{% include figure popup="yes" image_path="/assets/images/2026/04/19/iwataResidence.webp" alt="residencia iwata hirosaki" caption="Sala médica de la residencia de la familia Iwata" %}
+{% include figure popup="yes" image_path="/assets/images/2026/04/19/IwataResidence.webp" alt="residencia iwata hirosaki" caption="Sala médica de la residencia de la familia Iwata" %}

@@ -3,8 +3,8 @@ layout: single
 title:  "Un día vibrante en Tokio"
 excerpt: "Descubre lo mejor de Tokio: desde arte inmersivo hasta barrios vibrantes."
 date:   2026-03-09 09:00:00 +0200
-categories: [japan]
-tags: [japan, tokyo, shibuya, turismo, parques, paseo, caminar]
+categories: ["japan"]
+tags: ["japan", "tokyo", "shibuya", "turismo", "parques", "paseo", "caminar"]
 country: "JP"
 city: "Tokio"
 language: "es"
@@ -15,7 +15,7 @@ video:
   id: "tujkoXI8rWM"
   duration: "PT00H15M00S"
 images:
-  - id: "image1"
+  - id: "Shibuya"
     path: /assets/images/2026/03/09/Shibuya.webp
     alt: "El cruce mas famoso del mundo"
     license: "CC BY SA 4.0"

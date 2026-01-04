@@ -5,7 +5,7 @@ title: "Día en Asakusa"
 excerpt: "Un recorrido por Asakusa desde sus calles comerciales hasta los santuarios históricos y parques tradicionales."
 date: 2026-03-08 09:00:00 +0200
 categories: ["japan"]
-tags: [Asakusa, Tokio, Templos, Sensoji, Hanayashiki, Kappabashi, Shitamachi, Yoshiwara]
+tags: ["asakusa", "tokio", "templos", "sensoji", "hanayashiki", "kappabashi", "shitamachi", "yoshiwara"]
 country: "JP"
 city: "Tokio"
 language: "es"
@@ -16,7 +16,7 @@ header:
   id: "LHPKP8PP6QY"
   duration: "PT00H15M00S"
 images:
-  - id: "image1"
+  - id: "Sensoji"
     path: /assets/images/2026/03/08/Sensoji.webp
     alt: "El templo mas antiguo de Tokio"
     license: "CC BY SA 4.0"
@@ -84,7 +84,7 @@ map_points:
     lat: 35.7095
     lng: 139.7904
     price_range: "$"
-    type: "default"
+    type: "restaurant"
     mode: "transit"
     transit_types: ["train"]
   - id: "point10"

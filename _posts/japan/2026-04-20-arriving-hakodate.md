@@ -15,13 +15,13 @@ video:
   id: "s--MDmshT3I"
   duration: "PT15M30S"
 images:
-  - id: "image1"
-    path: /assets/images/2026/04/20/morningMarket.webp
+  - id: "MorningMarket"
+    path: /assets/images/2026/04/20/MorningMarket.webp
     alt: "Puestos de marisco fresco en el Mercado Matutino de Hakodate"
     license: "CC BY-SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image2"
-    path: /assets/images/2026/04/20/nightView.webp
+  - id: "NightView"
+    path: /assets/images/2026/04/20/NightView.webp
     alt: "Vista nocturna de la ciudad de Hakodate desde el observatorio del monte Hakodate"
     license: "CC BY-SA 4.0"
     credit_text: "The Live Traveling"

@@ -3,8 +3,8 @@ layout: single
 title: "Llegada a Yakushima"
 excerpt: "Desde Fukuoka hasta Yakushima, Cedros milenarios y Patrimonio de la Humanidad."
 date: 2026-03-17 07:00:00 +0200
-categories: [japan]
-tags: [Yakushima, Fukuoka, Kagoshima, Yakusugi, Naturaleza]
+categories: ["japan"]
+tags: ["yakushima", "fukuoka", "kagoshima", "yakusugi", "naturaleza"]
 country: "JP"
 city: "Yakushima"
 language: "es"
@@ -20,20 +20,20 @@ video:
   id: "A7tS0JVGszM"
   duration: "PT00H15M00S"
 images:
-  - id: "image1"
+  - id: "Yakushima"
     path: /assets/images/2026/03/17/Yakushima.webp
     alt: "Yakushima"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
 map_points:
-  - id: "image1"
+  - id: "point1"
     name: "Smile Hotel - Hakata Ekimae"
     lat: 33.5879
     lng: 130.4168
     price_range: "$"
     type: "hotel"
     mode: "walking"
-  - id: "image2"
+  - id: "point2"
     name: "Fukuokakuko Airport Station"
     lat: 33.5972
     lng: 130.4483
@@ -41,7 +41,7 @@ map_points:
     type: "default"
     mode: "transit"
     transit_types: ["train"]
-  - id: "image3"
+  - id: "point3"
     name: "Yakushima Airport"
     lat: 30.3846
     lng: 130.6603
@@ -49,14 +49,14 @@ map_points:
     type: "default"
     mode: "transit"
     transit_types: ["flight"]
-  - id: "image4"
+  - id: "point4"
     name: "Yakushima Green Hotel"
     lat: 30.32676
     lng: 130.65827
     price_range: "$$"
     type: "hotel"
     mode: "driving"
-  - id: "image5"
+  - id: "point5"
     name: "Clear Coin Laundry"
     lat: 30.3093
     lng: 130.6459

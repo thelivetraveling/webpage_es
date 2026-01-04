@@ -15,18 +15,18 @@ video:
   id: "OV0JEv6C2QQ"
   duration: "PT15M30S"
 images:
-  - id: "image1"
-    path: /assets/images/2026/04/01/setodaBeach.webp
+  - id: "SetodaBeach"
+    path: /assets/images/2026/04/01/SetodaBeach.webp
     alt: "La playa de Setoda"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image2"
-    path: /assets/images/2026/04/01/innoshimaBridge.webp
+  - id: "InnoshimaBridge"
+    path: /assets/images/2026/04/01/InnoshimaBridge.webp
     alt: "El puente rojo de la Isla"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image3"
-    path: /assets/images/2026/04/01/onomichiHotel.webp
+  - id: "OnomichiHotel"
+    path: /assets/images/2026/04/01/OnomichiHotel.webp
     alt: "Hotel de Onomichi"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"

@@ -3,7 +3,7 @@ layout: single
 title: "De Kobe a Wakayama"
 excerpt: "Viaje desde Kobe pasando por las estaciones de tren hasta el Castillo de Wakayama y el animado Kuroshio Market."
 date: 2026-03-26 09:00:00 +0200
-categories: ["Japan"]
+categories: ["japan"]
 tags: ["wakayama", "kobe", "castillo", "mercado", "shinkansen"]
 country: "JP"
 city: "Wakayama"
@@ -15,13 +15,13 @@ video:
   id: "AU_2zfM4m68"
   duration: "PT15M30S"
 images:
-  - id: "image1"
-    path: /assets/images/2026/03/26/vacio.webp
+  - id: "WakayamaCastle"
+    path: /assets/images/2026/03/26/WakayamaCastle.webp
     alt: "vacio"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image2"
-    path: /assets/images/2026/03/26/vacio.webp
+  - id: "KuroshuioMarket"
+    path: /assets/images/2026/03/26/KuroshuioMarket.webp
     alt: "vacio"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
@@ -114,7 +114,7 @@ Subir hasta la torre principal requiere atravesar murallas escalonadas y puertas
 
 El lugar transmite una tranquilidad notable comparado con otros castillos más concurridos como Himeji u Osaka. Las escaleras interiores son empinadas y estrechas, algo que puede complicar el ascenso si tienes problemas de movilidad. Dediqué poco menos de dos horas a recorrerlo con calma, disfrutando de la historia feudal sin las multitudes agobiantes típicas de otros monumentos similares.
 
-{% include figure popup="yes" image_path="/assets/images/2026/03/26/vacio.webp" alt="vacio" caption="vacio" %}
+{% include figure popup="yes" image_path="/assets/images/2026/03/26/WakayamaCastle.webp" alt="Castillo de Wakayama" caption="Vista frontal del castillo de Wakayama" %}
 
 ---
 
@@ -125,3 +125,5 @@ El Kuroshio Market abrió sus puertas en 2004 como parte del complejo turístico
 Llegué al mediodía, justo cuando comenzaba el espectáculo de despiece de atún, una demostración rápida pero impresionante donde un maestro corta un ejemplar de más de cien kilos con precisión quirúrgica. Después probé toro sashimi en uno de los restaurantes del primer piso; la textura era mantecosa y el sabor intenso sin resultar excesivo. El ambiente es informal, con mesas compartidas y clientes que combinan turistas extranjeros con familias locales que vienen a comprar pescado para llevar a casa.
 
 La frescura del marisco es innegable y encuentro que el lugar resulta más auténtico que mercados turísticos como el antiguo Tsukiji en Tokio. Los precios son ligeramente elevados y el entorno puede sentirse algo artificial debido a su integración en un parque temático. Aun así, merece la pena visitarlo si estás en Wakayama, especialmente para quienes disfrutamos del pescado crudo y buscamos una experiencia menos masificada que las de las grandes ciudades japonesas.
+
+{% include figure popup="yes" image_path="/assets/images/2026/03/26/KuroshuioMarket.webp" alt="Kuroshuio Market" caption="Vista frontal de Kuroshuio Market" %}

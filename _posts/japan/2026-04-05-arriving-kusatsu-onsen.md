@@ -9,34 +9,34 @@ country: "JP"
 city: "Kusatsu"
 language: "es"
 header:
-  teaser: /assets/images/2026/04/05/kusatsuOnsen.webp
-  overlay_image: /assets/images/2026/04/05/kusatsuOnsen.webp
+  teaser: /assets/images/2026/04/05/KusatsuOnsen.webp
+  overlay_image: /assets/images/2026/04/05/KusatsuOnsen.webp
 video:
   id: "B_Sc1v1qR-g"
   duration: "PT15M30S"
 images:
-  - id: "image1"
-    path: /assets/images/2026/04/05/nagoyaStation.webp
+  - id: "NagoyaStation"
+    path: /assets/images/2026/04/05/NagoyaStation.webp
     alt: "estacion central nagoya"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image2"
-    path: /assets/images/2026/04/05/naganoStation.webp
+  - id: "NaganoStation"
+    path: /assets/images/2026/04/05/NaganoStation.webp
     alt: "estacion shinkansen nagano"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image3"
-    path: /assets/images/2026/04/05/karuizawaStation.webp
+  - id: "KaruizawaStation"
+    path: /assets/images/2026/04/05/KaruizawaStation.webp
     alt: "estacion montaña karuizawa"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image4"
-    path: /assets/images/2026/04/05/kusatsuBusTerminal.webp
+  - id: "KusatsuBusTerminal"
+    path: /assets/images/2026/04/05/KusatsuBusTerminal.webp
     alt: "terminal autobuses kusatsu"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image5"
-    path: /assets/images/2026/04/05/kusatsuHotel.webp
+  - id: "KusatsuHotel"
+    path: /assets/images/2026/04/05/KusatsuHotel.webp
     alt: "ryokan tradicional kusatsu"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"

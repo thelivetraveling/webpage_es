@@ -9,29 +9,29 @@ country: "JP"
 city: "Morioka"
 language: "es"
 header:
-  teaser: /assets/images/2026/04/12/morioka.webp
-  overlay_image: /assets/images/2026/04/12/morioka.webp
+  teaser: /assets/images/2026/04/12/Morioka.webp
+  overlay_image: /assets/images/2026/04/12/Morioka.webp
 video:
   id: "LtwM1ioqNvk"
   duration: "PT15M30S"
 images:
-  - id: "richmondHotelSendaiCheckoutFinal"
-    path: /assets/images/2026/04/12/richmondHotelSendaiCheckoutFinal.webp
+  - id: "RichmondHotel"
+    path: /assets/images/2026/04/12/RichmondHotel.webp
     alt: "hotel sendai ultima salida"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "sendaiStationFarewell"
-    path: /assets/images/2026/04/12/sendaiStationFarewell.webp
+  - id: "SendaiStation"
+    path: /assets/images/2026/04/12/SendaiStation.webp
     alt: "estacion sendai despedida"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "moriokaStationArrival"
-    path: /assets/images/2026/04/12/moriokaStationArrival.webp
+  - id: "MoriokaStation"
+    path: /assets/images/2026/04/12/MoriokaStation.webp
     alt: "estacion morioka llegada"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "hotelRoyalMorioka"
-    path: /assets/images/2026/04/12/hotelRoyalMorioka.webp
+  - id: "HotelRoyalMorioka"
+    path: /assets/images/2026/04/12/HotelRoyalMorioka.webp
     alt: "hotel royal morioka"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"

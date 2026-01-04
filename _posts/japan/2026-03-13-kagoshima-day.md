@@ -3,8 +3,8 @@ layout: single
 title: "Kagoshima y Sakurajima"
 excerpt: "Santuario, ruinas del castillo, museo industrial y playa con vistas al volcán"
 date: 2026-03-13 09:00:00 +0200
-categories: [japan]
-tags: [kagoshima, kyushu, templos, museos, sakurajima]
+categories: ["japan"]
+tags: ["kagoshima", "kyushu", "templo", "museo", "sakurajima"]
 country: "JP"
 city: "Kagoshima"
 language: "es"
@@ -19,7 +19,7 @@ video:
   id: "WknwFmhKRdQ"
   duration: "PT00H15M00S"
 images:
-  - id: "image1"
+  - id: "Kagoshima"
     path: /assets/images/2026/03/13/Kagoshima.webp
     alt: "Un antiguo puerto"
     license: "CC BY SA 4.0"
@@ -59,7 +59,7 @@ map_points:
     lat: 31.6145
     lng: 130.5754
     price_range: "$"
-    type: "default"
+    type: "onsen"
     mode: "walking"
   - id: "point6"
     name: "Statue of Okubo Toshimichi"

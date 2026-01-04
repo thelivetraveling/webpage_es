@@ -15,68 +15,68 @@ video:
   id: "F9kJro2WgyA"
   duration: "PT15M30S"
 images:
-  - id: "hotelRoyalMoriokaDeparture"
-    path: /assets/images/2026/04/16/hotelRoyalMoriokaDeparture.webp
+  - id: "HotelRoyalMorioka"
+    path: /assets/images/2026/04/16/HotelRoyalMorioka.webp
     alt: "hotel morioka partida"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "moriokaStationPlatform"
-    path: /assets/images/2026/04/16/moriokaStationPlatform.webp
+  - id: "MoriokaStation"
+    path: /assets/images/2026/04/16/MoriokaStation.webp
     alt: "anden morioka shinkansen"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "kakunodateStationArrival"
-    path: /assets/images/2026/04/16/kakunodateStationArrival.webp
+  - id: "KakunodateStation"
+    path: /assets/images/2026/04/16/KakunodateStation.webp
     alt: "estacion kakunodate llegada"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "kakunodateHotSpring"
-    path: /assets/images/2026/04/16/kakunodateHotSpring.webp
+  - id: "KakunodateHotSpring"
+    path: /assets/images/2026/04/16/KakunodateHotSpring.webp
     alt: "termas publicas kakunodate"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
   - id: "odanoSamuraiHouse"
-    path: /assets/images/2026/04/16/odanoSamuraiHouse.webp
+    path: /assets/images/2026/04/16/OdanoSamuraiHouse.webp
     alt: "casa samurai odano"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
   - id: "matsumotoSamuraiHouse"
-    path: /assets/images/2026/04/16/matsumotoSamuraiHouse.webp
+    path: /assets/images/2026/04/16/MatsumotoSamuraiHouse.webp
     alt: "residencia matsumoto kakunodate"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
   - id: "iwahashiSamuraiHouse"
-    path: /assets/images/2026/04/16/iwahashiSamuraiHouse.webp
+    path: /assets/images/2026/04/16/IwahashiSamuraiHouse.webp
     alt: "casa iwahashi samurai"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
   - id: "hinokinaigawaRiverPark"
-    path: /assets/images/2026/04/16/hinokinaigawaRiverPark.webp
+    path: /assets/images/2026/04/16/HinokinaigawaRiverPark.webp
     alt: "parque rio hinokinaigawa"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
   - id: "someiYoshinoCherries"
-    path: /assets/images/2026/04/16/someiYoshinoCherries.webp
+    path: /assets/images/2026/04/16/SomeiYoshinoCherries.webp
     alt: "cerezos somei yoshino"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
   - id: "ishiguroSamuraiHouse"
-    path: /assets/images/2026/04/16/ishiguroSamuraiHouse.webp
+    path: /assets/images/2026/04/16/IshiguroSamuraiHouse.webp
     alt: "residencia ishiguro samurai"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
   - id: "aoyagiSamuraiHouse"
-    path: /assets/images/2026/04/16/aoyagiSamuraiHouse.webp
+    path: /assets/images/2026/04/16/AoyagiSamuraiHouse.webp
     alt: "casa aoyagi kakunodate"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
   - id: "yoshinariSakeShop"
-    path: /assets/images/2026/04/16/yoshinariSakeShop.webp
+    path: /assets/images/2026/04/16/YoshinariSakeShop.webp
     alt: "tienda sake yoshinari"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
   - id: "samuraiResidenceStreet"
-    path: /assets/images/2026/04/16/samuraiResidenceStreet.webp
+    path: /assets/images/2026/04/16/SamuraiResidenceStreet.webp
     alt: "calle residencias samurai"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
@@ -108,7 +108,7 @@ map_points:
     lat: 39.59273
     lng: 140.56295
     price_range: "$"
-    type: "default"
+    type: "onsen"
     mode: "walking"
   - id: "point5"
     name: "Casa Samurai Odano"

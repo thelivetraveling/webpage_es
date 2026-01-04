@@ -15,13 +15,13 @@ video:
   id: "kCfR4rdpijI"
   duration: "PT15M30S"
 images:
-  - id: "image1"
-    path: /assets/images/2026/04/18/geibikeiBoat.webp
+  - id: "GeibikeiBoat"
+    path: /assets/images/2026/04/18/GeibikeiBoat.webp
     alt: "Barco del Cañón Geibikei"
     license: "CC BY-SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image2"
-    path: /assets/images/2026/04/18/chusonjiKonjikido.webp
+  - id: "ChusonjiKonjikido"
+    path: /assets/images/2026/04/18/ChusonjiKonjikido.webp
     alt: "Templo Chuson-ji, Hiraizumi"
     license: "CC BY-SA 4.0"
     credit_text: "The Live Traveling"

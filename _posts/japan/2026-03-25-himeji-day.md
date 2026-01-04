@@ -20,27 +20,27 @@ video:
   id: "bKnbIlvDq6U"
   duration: "PT00H15M00S"
 images:
-  - id: "image1"
+  - id: "Himeji"
     path: /assets/images/2026/03/25/Himeji.webp
     alt: "Himeji"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
 map_points:
-  - id: "image1"
+  - id: "point1"
     name: "Hotel Hotel Juraku"
     lat: 34.6810
     lng: 135.1797
     price_range: "$$"
     type: "hotel"
     mode: "walking"
-  - id: "image2"
+  - id: "point2"
     name: "Kobe Station"
     lat: 34.6793
     lng: 135.1778
     price_range: "$"
     type: "station"
     mode: "walking"
-  - id: "image3"
+  - id: "point3"
     name: "Mount Shosha Ropeway"
     lat: 34.8785
     lng: 134.6667
@@ -48,21 +48,21 @@ map_points:
     type: "default"
     mode: "transit"
     transit_types: ["train", "shinkansen", "bus"]
-  - id: "image4"
+  - id: "point4"
     name: "Engyoji"
     lat: 34.8890
     lng: 134.66044
     price_range: "$"
     type: "temple"
     mode: "walking"
-  - id: "image5"
+  - id: "point5"
     name: "Himeji Castle"
     lat: 34.8358
     lng: 134.6927
     price_range: "$"
     type: "castle"
     mode: "walking"
-  - id: "image6"
+  - id: "point6"
     name: "Himeji Station"
     lat: 34.8275
     lng: 134.69030

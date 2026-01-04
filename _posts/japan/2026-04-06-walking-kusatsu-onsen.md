@@ -9,39 +9,39 @@ country: "JP"
 city: "Kusatsu"
 language: "es"
 header:
-  teaser: /assets/images/2026/04/06/kusatsuOnsen.webp
-  overlay_image: /assets/images/2026/04/06/kusatsuOnsen.webp
+  teaser: /assets/images/2026/04/06/KusatsuOnsen.webp
+  overlay_image: /assets/images/2026/04/06/KusatsuOnsen.webp
 video:
   id: "GrEEoEmmrKs"
   duration: "PT15M30S"
 images:
-  - id: "kusatsuHotelMorning"
-    path: /assets/images/2026/04/06/kusatsuHotelMorning.webp
+  - id: "KusatsuHotel"
+    path: /assets/images/2026/04/06/KusatsuHotel.webp
     alt: "ryokan kusatsu amanecer"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "yubatakeField"
-    path: /assets/images/2026/04/06/yubatakeField.webp
+  - id: "YubatakeField"
+    path: /assets/images/2026/04/06/YubatakeField.webp
     alt: "campo termal yubatake"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "shirahataHotSpring"
-    path: /assets/images/2026/04/06/shirahataHotSpring.webp
+  - id: "ShirahataHotSpring"
+    path: /assets/images/2026/04/06/ShirahataHotSpring.webp
     alt: "baño publico shirahata"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "otakiNoYu"
-    path: /assets/images/2026/04/06/otakiNoYu.webp
+  - id: "OtakiNoYu"
+    path: /assets/images/2026/04/06/OtakiNoYu.webp
     alt: "onsen historico otaki"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "shiraneShrine"
-    path: /assets/images/2026/04/06/shiraneShrine.webp
+  - id: "ShiraneShrine"
+    path: /assets/images/2026/04/06/ShiraneShrine.webp
     alt: "santuario shirane kusatsu"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "sainokawaraRotenburo"
-    path: /assets/images/2026/04/06/sainokawaraRotenburo.webp
+  - id: "SainokawaraRotenburo"
+    path: /assets/images/2026/04/06/SainokawaraRotenburo.webp
     alt: "baño aire libre sainokawara"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
@@ -65,14 +65,14 @@ map_points:
     lat: 36.62259
     lng: 138.59626
     price_range: "$"
-    type: "default"
+    type: "onsen"
     mode: "walking"
   - id: "point4"
     name: "Otaki no Yu"
     lat: 36.62289
     lng: 138.60140
     price_range: "$"
-    type: "default"
+    type: "onsen"
     mode: "walking"
   - id: "point5"
     name: "Shirane Shrine"
@@ -86,7 +86,7 @@ map_points:
     lat: 36.62428
     lng: 138.58840
     price_range: "$"
-    type: "default"
+    type: "onsen"
     mode: "walking"
   - id: "point7"
     name: "Kusatsu Hotel"

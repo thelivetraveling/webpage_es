@@ -4,7 +4,7 @@ title: "Aventura Yakushima"
 excerpt: "De Yakushima Green Hotel al desfiladero Shiratani Unsuikyo, naturaleza y senderismo inolvidables."
 date: "2026-03-19 07:00:00 +0200"
 categories: ["japan"]
-tags: ["Yakushima","naturaleza","senderismo","bosque","aventura"]
+tags: ["yakushima","naturaleza","senderismo","bosque","aventura"]
 country: "JP"
 city: "Yakushima"
 language: "es"
@@ -20,20 +20,20 @@ video:
   id: "kr7xOhKaUBw"
   duration: "PT00H15M00S"
 images:
-  - id: "image1"
+  - id: "Yakushima"
     path: /assets/images/2026/03/19/Yakushima.webp
     alt: "Yakushima"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
 map_points:
-  - id: "image1"
+  - id: "point1"
     name: "Yakushima Green Hotel"
     lat: 30.32676
     lng: 130.65827
     price_range: "$$"
     type: "hotel"
     mode: "walking"
-  - id: "image2"
+  - id: "point2"
     name: "Desfiladero de Shiratani Unsuikyo"
     lat: 30.3800
     lng: 130.5742

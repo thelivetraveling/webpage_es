@@ -9,34 +9,34 @@ country: "JP"
 city: "Yunokami Onsen"
 language: "es"
 header:
-  teaser: /assets/images/2026/04/11/yunokamiOnsenTrainStation.webp
-  overlay_image: /assets/images/2026/04/11/yunokamiOnsenTrainStation.webp
+  teaser: /assets/images/2026/04/11/YunokamiOnsenStation.webp
+  overlay_image: /assets/images/2026/04/11/YunokamiOnsenStation.webp
 video:
   id: "z1MErdsqsw8"
   duration: "PT15M30S"
 images:
-  - id: "richmondHotelSendaiMorningTrip"
-    path: /assets/images/2026/04/11/richmondHotelSendaiMorningTrip.webp
+  - id: "RichmondHotel"
+    path: /assets/images/2026/04/11/RichmondHotel.webp
     alt: "hotel sendai salida"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "sendaiStationEarly"
-    path: /assets/images/2026/04/11/sendaiStationEarly.webp
+  - id: "SendaiStation"
+    path: /assets/images/2026/04/11/SendaiStation.webp
     alt: "estacion sendai madrugada"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "koriyamaStationTransfer"
-    path: /assets/images/2026/04/11/koriyamaStationTransfer.webp
+  - id: "KoriyamaStation"
+    path: /assets/images/2026/04/11/KoriyamaStation.webp
     alt: "estacion koriyama transbordo"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "aizuWakamatsuStation"
-    path: /assets/images/2026/04/11/aizuWakamatsuStation.webp
+  - id: "AizuWakamatsuStation"
+    path: /assets/images/2026/04/11/AizuWakamatsuStation.webp
     alt: "estacion aizu wakamatsu"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "yunokamiOnsenStationBuilding"
-    path: /assets/images/2026/04/11/yunokamiOnsenStationBuilding.webp
+  - id: "YunokamiOnsenStation"
+    path: /assets/images/2026/04/11/YunokamiOnsenStation.webp
     alt: "estacion madera yunokami"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"

@@ -4,8 +4,8 @@ published: false
 title: "Oshino Hakkai y los Ocho Estanques del Fuji"
 excerpt: "Aguas cristalinas, estanques sagrados y vistas del Monte Fuji"
 date: 2026-03-11 09:00:00 +0200
-categories: [japan]
-tags: [monte-fuji, naturaleza, patrimonio-unesco, excursiones, yamanashi]
+categories: ["japan"]
+tags: ["monte-fuji", "naturaleza", "patrimonio-unesco", "excursiones", "yamanashi"]
 country: "JP"
 city: "Oshino"
 language: "es"
@@ -20,7 +20,7 @@ video:
   id: "sm3xXTfDtGE"
   duration: "PT00H15M00S"
 images:
-  - id: "image1"
+  - id: "OshinoHakkai"
     path: /assets/images/2026/03/11/OshinoHakkai.webp
     alt: "El sitio de los ocho lagos"
     license: "CC BY SA 4.0"
@@ -31,14 +31,14 @@ map_points:
     lat: 35.7121
     lng: 139.7983
     price_range: "$"
-    type: "default"
+    type: "station"
     mode: "walking"
   - id: "point2"
     name: "Kanda Station"
     lat: 35.6919
     lng: 139.7709
     price_range: "$"
-    type: "default"
+    type: "station"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
   - id: "point3"
@@ -46,7 +46,7 @@ map_points:
     lat: 35.6134
     lng: 138.9427
     price_range: "$"
-    type: "default"
+    type: "station"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
   - id: "point4"
@@ -54,7 +54,7 @@ map_points:
     lat: 35.4838
     lng: 138.7954
     price_range: "$"
-    type: "default"
+    type: "station"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
   - id: "point5"

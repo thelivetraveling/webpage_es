@@ -4,7 +4,7 @@ title: "De Yakushima a Kobe"
 excerpt: "Viaje desde Yakushima a Kobe, explorando aeropuerto, estación y el Parque Meriken."
 date: "2026-03-21 07:00:00 +0200"
 categories: ["japan"]
-tags: ["Yakushima","Kobe","viaje","transporte","ParqueMeriken"]
+tags: ["yakushima","kobe","viaje","transporte","parque-meriken"]
 country: "JP"
 city: "Kobe"
 language: "es"
@@ -20,27 +20,27 @@ video:
   id: "AU_2zfM4m68"
   duration: "PT00H15M00S"
 images:
-  - id: "image1"
+  - id: "Kobe"
     path: /assets/images/2026/03/21/Kobe.webp
     alt: "Kobe"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
 map_points:
-  - id: "image1"
+  - id: "point1"
     name: "Yakushima Green Hotel"
     lat: 30.32676
     lng: 130.65827
     price_range: "$"
     type: "hotel"
     mode: "walking"
-  - id: "image2"
+  - id: "point2"
     name: "Yakushima Airport"
     lat: 30.3846
     lng: 130.6603
     price_range: "$"
     type: "default"
     mode: "driving"
-  - id: "image3"
+  - id: "point3"
     name: "Fukuoka Airport"  
     lat: 33.5971
     lng: 130.4483
@@ -48,7 +48,7 @@ map_points:
     type: "default"
     mode: "transit"
     transit_types: ["flight"]
-  - id: "image4"
+  - id: "point4"
     name: "Hakata Station"
     lat: 33.5900
     lng: 130.4207
@@ -56,7 +56,7 @@ map_points:
     type: "station"
     mode: "transit"
     transit_types: ["train"]
-  - id: "image5"
+  - id: "point5"
     name: "Shin-Kobe Station"
     lat: 34.7061
     lng: 135.1959
@@ -64,14 +64,14 @@ map_points:
     type: "station"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
-  - id: "image6"
+  - id: "point6"
     name: "Parque Meriken"
     lat: 34.6821
     lng: 135.1883
     price_range: "$"
     type: "park"
     mode: "walking"
-  - id: "image7"
+  - id: "point7"
     name: "Hotel Hotel Juraku"
     lat: 34.6810
     lng: 135.1797

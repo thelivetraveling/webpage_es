@@ -4,7 +4,7 @@ title: "Excursión a Okayama"
 excerpt: "Ruta desde Shin-Kobe hasta Okayama, visitando Korakuen, el castillo y estaciones clave."
 date: "2026-03-22 07:00:00 +0200"
 categories: ["japan"]
-tags: ["Kobe","Okayama","viaje","castillo","jardín"]
+tags: ["kobe","okayama","viaje","castillo","jardín"]
 country: "JP"
 city: "Okayama"
 language: "es"
@@ -20,20 +20,20 @@ video:
   id: "W_Dgh_L6qCQ"
   duration: "PT00H15M00S"
 images:
-  - id: "image1"
+  - id: "Okayama"
     path: /assets/images/2026/03/22/Okayama.webp
     alt: "Okayama"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
 map_points:
-  - id: "image1"
+  - id: "point1"
     name: "Shin-Kobe Station"
     lat: 34.7061
     lng: 135.1959
     price_range: "$"
     type: "station"
     mode: "walking"
-  - id: "image2"
+  - id: "point2"
     name: "Okayama Station"
     lat: 34.6663
     lng: 133.9177
@@ -41,28 +41,28 @@ map_points:
     type: "station"
     mode: "transit"
     transit_types: ["shinkansen"]
-  - id: "image3"
+  - id: "point3"
     name: "Okayama Korakuen"
     lat: 34.6677
     lng: 133.9359
     price_range: "$"
     type: "park"
     mode: "walking"
-  - id: "image4"
+  - id: "point4"
     name: "Okayama Castle"
     lat: 34.6653
     lng: 133.9360
     price_range: "$"
     type: "castle"
     mode: "walking"
-  - id: "image5"
+  - id: "point5"
     name: "Okayama Station"
     lat: 34.6663
     lng: 133.9177
     price_range: "$"
     type: "station"
     mode: "walking"
-  - id: "image6"
+  - id: "point6"
     name: "Shin-Kobe Station"
     lat: 34.7061
     lng: 135.1959
@@ -70,7 +70,7 @@ map_points:
     type: "station"
     mode: "transit"
     transit_types: ["train", "shinkansen"]
-  - id: "image6"
+  - id: "point6"
     name: "Hotel Hotel Juraku"
     lat: 34.6810
     lng: 135.1797

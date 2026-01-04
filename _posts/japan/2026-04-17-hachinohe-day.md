@@ -15,13 +15,13 @@ video:
   id: "QuuvHCjTInI"
   duration: "PT15M30S"
 images:
-  - id: "image1"
-    path: /assets/images/2026/04/17/hasshokuCenter.webp
+  - id: "HasshokuCenter"
+    path: /assets/images/2026/04/17/HasshokuCenter.webp
     alt: "Hasshoku Center de Hachinohe"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image2"
-    path: /assets/images/2026/04/17/nejoCastle.webp
+  - id: "NejoCastle"
+    path: /assets/images/2026/04/17/NejoCastle.webp
     alt: "Castillo Nejo"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"

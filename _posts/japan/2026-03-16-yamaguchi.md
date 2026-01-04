@@ -3,8 +3,8 @@ layout: single
 title: "Yamaguchi, el Kioto del Oeste"
 excerpt: "Jardín zen de Sesshu, pagoda nacional y la cultura del clan Ouchi"
 date: 2026-03-16 09:00:00 +0200
-categories: [japan]
-tags: [yamaguchi, templos, jardines, sesshu, cultura-ouchi]
+categories: ["japan"]
+tags: ["yamaguchi", "templos", "jardines", "sesshu", "cultura-ouchi"]
 country: "JP"
 city: "Yamaguchi"
 language: "es"
@@ -19,27 +19,27 @@ video:
   id: "8y3v0zzn6F0"
   duration: "PT00H15M00S"
 images:
-  - id: "image1"
+  - id: "Yamaguchi"
     path: /assets/images/2026/03/16/Yamaguchi.webp
     alt: "Yamaguchi"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
 map_points:
-  - id: "image1"
+  - id: "point1"
     name: "Smile Hotel - Hakata Ekimae"
     lat: 33.5879
     lng: 130.4168
     price_range: "$"
     type: "hotel"
     mode: "walking"
-  - id: "image2"
+  - id: "point2"
     name: "Hakata Station"
     lat: 33.5899
     lng: 130.4193
     price_range: "$"
     type: "station"
     mode: "walking"
-  - id: "image3"
+  - id: "point3"
     name: "Miyano Station"
     lat: 34.1914
     lng: 131.4982
@@ -47,21 +47,21 @@ map_points:
     type: "station"
     mode: "transit"
     transit_types: ["train"]
-  - id: "image4"
+  - id: "point4"
     name: "Jyoei-ji Temple & Sesshu Garden"
     lat: 34.1975
     lng: 131.4903
     price_range: "$"
     type: "park"
     mode: "walking"
-  - id: "image5"
+  - id: "point5"
     name: "Templo Rurikoji"
     lat: 34.1896
     lng: 131.4722
     price_range: "$"
     type: "temple"
     mode: "walking"
-  - id: "image6"
+  - id: "point6"
     name: "Yamaguchi Station"
     lat: 34.1727
     lng: 131.4804

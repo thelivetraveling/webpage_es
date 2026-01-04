@@ -2,9 +2,9 @@
 layout: single  
 title: "Fukuoka"  
 excerpt: "Hostelería, templo y ríos de luces en la ciudad costera"  
-categories: [japan]  
 date: 2026-03-12 09:00:00 +0200
-tags: [fukuoka, hakata, shopping, shrine, gastronomía]
+categories: ["japan"]
+tags: ["fukuoka", "hakata", "shopping", "shrine", "gastronomía"]
 country: "JP"
 city: "Fukuoka"
 language: "es"
@@ -19,7 +19,7 @@ video:
   id: "E5R5PPezu7k"
   duration: "PT00H15M00S"
 images:
-  - id: "image1"
+  - id: "Fukuoka"
     path: /assets/images/2026/03/12/Fukuoka.webp
     alt: "El Tokio del sur de Japon"
     license: "CC BY SA 4.0"

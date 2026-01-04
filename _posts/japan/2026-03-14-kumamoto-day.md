@@ -3,8 +3,8 @@ layout: single
 title: "Kumamoto y su Castillo Resiliente"
 excerpt: "Fortaleza en reconstrucción, jardines zen, arcade comercial y la modernidad urbana"
 date: 2026-03-14 09:00:00 +0200
-categories: [japan]
-tags: [kumamoto, castillo, jardines, kyushu, reconstruccion]
+categories: ["japan"]
+tags: ["kumamoto", "castillo", "jardines", "kyushu", "reconstrucción"]
 header:
   teaser: /assets/images/2026/03/14/Kumamoto.webp
   overlay_image: /assets/images/2026/03/14/Kumamoto.webp
@@ -16,7 +16,7 @@ video:
   id: "Mfq_QtuyrYI"
   duration: "PT00H15M00S"
 images:
-  - id: "image1"
+  - id: "Kumamoto"
     path: /assets/images/2026/03/14/Kumamoto.webp
     alt: "Un castillo que resiste al tiempo"
     license: "CC BY SA 4.0"

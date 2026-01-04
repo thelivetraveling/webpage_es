@@ -15,23 +15,23 @@ video:
   id: "xTmBtgyzGbA"
   duration: "PT15M30S"
 images:
-  - id: "richmondHotelSendaiMorning"
-    path: /assets/images/2026/04/08/richmondHotelSendaiMorning.webp
+  - id: "RichmondHotel"
+    path: /assets/images/2026/04/08/RichmondHotel.webp
     alt: "hotel sendai amanecer"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "sendaiStationDeparture"
-    path: /assets/images/2026/04/08/sendaiStationDeparture.webp
+  - id: "SendaiStation"
+    path: /assets/images/2026/04/08/SendaiStation.webp
     alt: "estacion sendai salida"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "omiyaStationArrival"
-    path: /assets/images/2026/04/08/omiyaStationArrival.webp
+  - id: "OmiyaStation"
+    path: /assets/images/2026/04/08/OmiyaStation.webp
     alt: "estacion omiya llegada"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "railwayMuseumOmiya"
-    path: /assets/images/2026/04/08/railwayMuseumOmiya.webp
+  - id: "RailwayMuseumOmiya"
+    path: /assets/images/2026/04/08/RailwayMuseumOmiya.webp
     alt: "museo ferrocarril omiya"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"

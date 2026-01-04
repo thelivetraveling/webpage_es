@@ -4,7 +4,7 @@ title:  "Día perfecto en Asakuza"
 excerpt: "Un recorrido por Asakusa desde sus calles comerciales hasta los santuarios históricos y parques tradicionales."
 date: 2026-03-08 09:00:00 +0200
 categories: ["japan"]
-tags: [japan, asakuza, paseo, ciudad, templos]
+tags: ["japan", "asakuza", "paseo", "ciudad", "templo"]
 country: "JP"
 city: "Tokio"
 language: "es"
@@ -15,7 +15,7 @@ video:
   id: "LHPKP8PP6QY"
   duration: "PT00H15M00S"
 images:
-  - id: "image1"
+  - id: "Sensoji"
     path: /assets/images/2026/03/08/Sensoji.webp
     alt: "El templo mas antiguo de Tokio"
     license: "CC BY SA 4.0"

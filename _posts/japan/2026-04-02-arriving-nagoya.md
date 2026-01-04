@@ -15,23 +15,23 @@ video:
   id: "-9LgxLvnpIU"
   duration: "PT15M30S"
 images:
-  - id: "image1"
-    path: /assets/images/2026/04/02/fukuyamaStation.webp
+  - id: "FukuyamaStation"
+    path: /assets/images/2026/04/02/FukuyamaStation.webp
     alt: "estacion tren shinkansen"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image2"
-    path: /assets/images/2026/04/02/nagoyaStation.webp
+  - id: "NagoyaStation"
+    path: /assets/images/2026/04/02/NagoyaStation.webp
     alt: "terminal gran ciudad japon"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image3"
-    path: /assets/images/2026/04/02/skyPromenade.webp
+  - id: "SkyPromenade"
+    path: /assets/images/2026/04/02/SkyPromenade.webp
     alt: "mirador aire libre rascacielos"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image4"
-    path: /assets/images/2026/04/02/kuretakeInn.webp
+  - id: "KuretakeInn"
+    path: /assets/images/2026/04/02/KuretakeInn.webp
     alt: "hotel moderno entrada"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"

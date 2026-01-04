@@ -15,33 +15,33 @@ video:
   id: "kfIQBC0hrII"
   duration: "PT15M30S"
 images:
-  - id: "image1"
-    path: /assets/images/2026/04/22/jrHakodate.webp
+  - id: "JRHakodate"
+    path: /assets/images/2026/04/22/JRHakodate.webp
     alt: "Fachada del JR Inn Hakodate cerca de la estación"
     license: "CC BY-SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image2"
-    path: /assets/images/2026/04/22/shinhakodateStation.webp
+  - id: "ShinHakodateStation"
+    path: /assets/images/2026/04/22/ShinHakodateStation.webp
     alt: "Exterior moderno de la estación Shin-Hakodate-Hokuto"
     license: "CC BY-SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image3"
-    path: /assets/images/2026/04/22/sapporoStation.webp
+  - id: "SapporoStation"
+    path: /assets/images/2026/04/22/SapporoStation.webp
     alt: "Gran hall principal de la Estación de Sapporo"
     license: "CC BY-SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image4"
-    path: /assets/images/2026/04/22/emionSapporo.webp
+  - id: "EmionSapporo"
+    path: /assets/images/2026/04/22/EmionSapporo.webp
     alt: "Recepción moderna del Hotel Emion Sapporo"
     license: "CC BY-SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image5"
-    path: /assets/images/2026/04/22/sapporoTVTower.webp
+  - id: "SapporoTVTower"
+    path: /assets/images/2026/04/22/SapporoTVTower.webp
     alt: "Torre de televisión de Sapporo iluminada de noche"
     license: "CC BY-SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "image6"
-    path: /assets/images/2026/04/22/odoriPark.webp
+  - id: "OdoriPark"
+    path: /assets/images/2026/04/22/OdoriPark.webp
     alt: "Vista aérea del Parque Odori en Sapporo"
     license: "CC BY-SA 4.0"
     credit_text: "The Live Traveling"

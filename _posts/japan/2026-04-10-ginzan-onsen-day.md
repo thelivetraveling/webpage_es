@@ -9,34 +9,34 @@ country: "JP"
 city: "Ginzan Onsen"
 language: "es"
 header:
-  teaser: /assets/images/2026/04/10/ginzanOnsen.webp
-  overlay_image: /assets/images/2026/04/10/ginzanOnsen.webp
+  teaser: /assets/images/2026/04/10/GinzanOnsen.webp
+  overlay_image: /assets/images/2026/04/10/GinzanOnsen.webp
 video:
   id: "yo5XnIR5RRg"
   duration: "PT15M30S"
 images:
-  - id: "richmondHotelSendaiDeparture"
-    path: /assets/images/2026/04/10/richmondHotelSendaiDeparture.webp
+  - id: "RichmondHotel"
+    path: /assets/images/2026/04/10/RichmondHotel.webp
     alt: "hotel sendai partida"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "sendaiStationMorning"
-    path: /assets/images/2026/04/10/sendaiStationMorning.webp
+  - id: "SendaiStation"
+    path: /assets/images/2026/04/10/SendaiStation.webp
     alt: "estacion sendai mañana"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "uzenChitoseStation"
-    path: /assets/images/2026/04/10/uzenChitoseStation.webp
+  - id: "UzenChitoseStation"
+    path: /assets/images/2026/04/10/UzenChitoseStation.webp
     alt: "estacion uzen chitose"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "oshidaStation"
-    path: /assets/images/2026/04/10/oshidaStation.webp
+  - id: "OshidaStation"
+    path: /assets/images/2026/04/10/OshidaStation.webp
     alt: "estacion oshida yamagata"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
-  - id: "ginzanOnsenStreet"
-    path: /assets/images/2026/04/10/ginzanOnsenStreet.webp
+  - id: "GinzanOnsenStreet"
+    path: /assets/images/2026/04/10/GinzanOnsenStreet.webp
     alt: "calle termal ginzan"
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
