@@ -47,6 +47,7 @@
       station: '🚉',
       hotel: '🏨',
       shop: '🛍️',
+      onsen: '♨️',
       default: '📍'
     },
     
