@@ -133,3 +133,91 @@ faqs:
   - question: "¿Es necesario reservar con antelación en los onsens de Noboribetsu?"
     answer: "Para los baños públicos diarios (como el de Yumoto Sagiriyu) no suele hacer falta reserva. Sin embargo, si quieres alojarte en un ryokan con aguas termales o acceder a baños privados, es muy recomendable reservar con semanas de antelación, especialmente en temporada alta (otoño) y fines de semana."
 ---
+
+# Noboribetsu: Valle del Infierno Volcánico
+
+La excursión desde Sapporo hasta Noboribetsu permite explorar uno de los paisajes volcánicos más activos de Hokkaido, conocido por sus fumarolas sulfurosas, estanques termales burbujeantes y aguas medicinales que emergen a temperaturas superiores a los 80 grados centígrados.
+
+{% include video id="tJ5ekJJEQrc" provider="youtube" %}
+
+## Hotel Emion Sapporo
+
+El Hotel Emion Sapporo abrió sus puertas en 2019 como hotel urbano de la cadena Emion especializada en alojamientos con baños termales artificiales integrados en entornos urbanos. El edificio de catorce plantas se sitúa a cinco minutos andando de la salida norte de la estación de Sapporo, en una zona comercial con tiendas departamentales, restaurantes y oficinas.
+
+Salí del hotel a las siete menos cuarto después de desayunar en el restaurante del segundo piso. El buffet mantenía el mismo menú de días anteriores con opciones japonesas y occidentales. Tras desayunar, recogí la mochila pequeña con la cámara, toalla ligera para los baños termales y una botella de agua. Caminé cinco minutos hasta la estación de Sapporo bajo un cielo nublado; la temperatura era de doce grados con viento ligero del norte.
+
+El hotel seguía cumpliendo perfectamente su función como base en Sapporo. La habitación se limpiaba diariamente y los baños termales en las plantas superiores permitían relajarse después de largas excursiones. El personal mantenía un servicio educado constante aunque con inglés funcional limitado.
+
+{% include figure popup="yes" image_path="/assets/images/2026/04/24/hotelEmionSapporoMorning.webp" alt="hotel emion sapporo mañana nublada" caption="Hotel Emion Sapporo bajo cielo nublado" %}
+
+---
+
+## Sapporo Station
+
+La estación de Sapporo fue inaugurada en 1880 como terminal de la línea Horonai que conectaba la ciudad con las minas de carbón de Yubari. La estación actual, reconstruida en 2003, funciona como nudo ferroviario principal de Hokkaido con servicios shinkansen, trenes expresos limitados hacia Asahikawa y Kushiro, líneas locales y tres líneas de metro que sirven al área metropolitana.
+
+Llegué a la estación a las siete en punto. Compré un billete de tren ordinario hasta Noboribetsu en las máquinas automáticas de JR Hokkaido por 2640 yenes. El tren Super Hokuto salía a las siete y veinte desde el andén número cinco. Subí al vagón número tres y ocupé un asiento junto a la ventana en el lado derecho. El trayecto hasta Noboribetsu duraría una hora y quince minutos atravesando el sur de Hokkaido por valles agrícolas, bosques y zonas volcánicas.
+
+{% include figure popup="yes" image_path="/assets/images/2026/04/24/sapporoStationEarlyMorning.webp" alt="estacion sapporo temprano" caption="Estación de Sapporo al inicio de la jornada" %}
+
+---
+
+## Noboribetsu Station
+
+La estación de Noboribetsu fue inaugurada en 1892 como parte de la línea Muroran Main Line que conecta Sapporo con Hakodate bordeando la costa suroeste de Hokkaido. La estación consiste en un edificio de dos plantas con arquitectura tradicional japonesa decorada con figuras de oni (demonios japoneses) que representan el carácter infernal del área volcánica circundante. El municipio de Noboribetsu tiene veinte mil habitantes distribuidos entre la zona costera donde está la estación y el pueblo termal de Noboribetsu-onsen ubicado en las montañas a trece kilómetros de distancia.
+
+Bajé en Noboribetsu a las ocho y cuarenta. La estación estaba tranquila con solo cinco personas esperando el autobús hacia el área termal. Salí del edificio y busqué la parada de autobuses situada en el aparcamiento lateral. El próximo autobús hacia Noboribetsu-onsen salía a las nueve menos diez. Compré el billete por 350 yenes directamente al conductor al subir. El trayecto duraría veinticinco minutos por carreteras de montaña que ascendían gradualmente hacia el valle volcánico.
+
+{% include figure popup="yes" image_path="/assets/images/2026/04/24/NoboribetsuStation.webp" alt="estacion noboribetsu oni" caption="Estación de Noboribetsu decorada con figuras de oni" %}
+
+---
+
+## Yumoto Sagiriyu onsen
+
+El complejo termal Yumoto Sagiriyu fue establecido en 1858 cuando se descubrieron fuentes termales naturales en el valle volcánico de Noboribetsu. El edificio actual data de 1995, construido en estilo arquitectónico tradicional de madera oscura con tejados de teja negra. El establecimiento ofrece baños termales públicos alimentados directamente por fuentes que emergen a 80 grados centígrados con alto contenido de azufre y minerales disueltos. Las aguas tienen propiedades terapéuticas reconocidas para dolencias musculares, articulares y dermatológicas.
+
+Llegué al onsen a las nueve y veinte tras bajar del autobús en la parada principal de Noboribetsu-onsen. Pagué 490 yenes en la entrada para el uso de las instalaciones diurnas. El vestuario tenía taquillas con llave y el baño consistía en varias piscinas de diferentes temperaturas: una interior a 44 grados, otra a 42 grados y una exterior rotenburo a 40 grados. El agua tenía color blanco lechoso y olor fuerte a azufre. Me sumergí despacio en la piscina de 42 grados acostumbrándome gradualmente al calor intenso.
+
+{% if page.map_points %}{% include google-maps.html %}{% endif %}
+
+El baño exterior ofrecía vistas hacia el bosque de cedros que rodea el valle volcánico. Había ocho japoneses distribuidos entre las diferentes piscinas, algunos sentados en silencio y otros conversando en voz baja. Permanecí sumergido veinte minutos alternando entre las piscinas de diferentes temperaturas antes de salir y ducharme con agua fría. El efecto relajante del agua termal era inmediato; los músculos perdían tensión acumulada durante días de caminatas.
+
+El onsen Yumoto Sagiriyu ofrece experiencia termal auténtica sin comercialización excesiva. El precio es razonable y las instalaciones se mantienen limpias siguiendo estándares estrictos de higiene japonesa. La atmósfera es tranquila permitiendo disfrutar del baño sin ruido o aglomeraciones típicas de destinos turísticos masificados.
+
+{% include figure popup="yes" image_path="/assets/images/2026/04/24/YumotoSagiriyuOnsen.webp" alt="baño termal yumoto sagiriyu" caption="Rotenburo del onsen Yumoto Sagiriyu" %}
+
+---
+
+## Noboribetsu Jigokudani Valley
+
+El Valle Jigokudani, cuyo nombre significa "Valle del Infierno", es un cráter volcánico explosivo formado hace aproximadamente diez mil años durante una erupción del monte Kuttara. El valle tiene cuatrocientos metros de diámetro con suelo cubierto de depósitos minerales amarillos, rojos y blancos creados por la oxidación de compuestos sulfurosos. Múltiples fumarolas emiten gases volcánicos a temperaturas entre 80 y 130 grados centígrados, creando columnas de vapor que se elevan constantemente. El área produce 10000 toneladas de agua termal diariamente que alimenta los ryokans y baños públicos de Noboribetsu-onsen.
+
+Llegué al valle a las diez y media tras caminar quince minutos desde el onsen Yumoto Sagiriyu. El sendero de madera bordeaba el cráter ofreciendo vistas hacia el interior desolado donde ninguna vegetación sobrevivía debido a la toxicidad del suelo volcánico. Las fumarolas silbaban emitiendo vapor blanco mezclado con gases sulfurosos que creaban olor intenso a huevos podridos. El suelo alrededor de las fumarolas estaba cubierto de cristales de azufre amarillo brillante y depósitos de hierro oxidado que teñían las rocas de rojo intenso.
+
+El paisaje del Valle Jigokudani representa uno de los escenarios volcánicos más activos y accesibles de Japón. El contraste entre el bosque verde circundante y el suelo estéril del cráter era dramático. Varios turistas caminaban por el sendero de madera tomando fotografías y leyendo paneles explicativos en japonés e inglés sobre la geología volcánica del área. El acceso al valle es gratuito y está abierto las veinticuatro horas, aunque la visibilidad mejora durante el día cuando el sol ilumina los depósitos minerales coloridos.
+
+{% include figure popup="yes" image_path="/assets/images/2026/04/24/JigokudaniValley.webp" alt="valle jigokudani fumarolas" caption="Fumarolas activas en el Valle del Infierno de Noboribetsu" %}
+
+---
+
+## River Oyunuma Natural Footbath
+
+El baño de pies natural del río Oyunuma fue creado mediante canalización de agua termal desde el estanque Oyunuma hasta un arroyo que desciende por el valle. El agua emerge a 130 grados en el estanque y se enfría gradualmente mientras fluye río abajo hasta alcanzar 40-45 grados en el área de baño de pies situada quinientos metros más abajo. Los visitantes pueden sumergir sus pies y piernas hasta las rodillas en el arroyo mientras descansan en bancos de madera instalados junto a la orilla.
+
+Llegué al baño de pies a las once y media tras caminar veinte minutos desde el Valle Jigokudani por un sendero forestal bien mantenido. El arroyo fluía entre rocas cubiertas de musgo verde brillante; el vapor del agua caliente creaba neblina constante que flotaba sobre la superficie. Me senté en uno de los bancos y quité los zapatos para sumergir los pies en el agua. La temperatura era perfecta, caliente pero tolerable. Había cinco japoneses distribuidos a lo largo del arroyo, algunos sentados en silencio y otros conversando mientras disfrutaban del baño gratuito.
+
+El baño de pies natural representa una experiencia termal única sin infraestructura comercial. El acceso es completamente gratuito y no hay horarios de apertura ni restricciones. El entorno forestal y el sonido del agua fluyendo crean atmósfera relajante. Permanecí con los pies sumergidos quince minutos antes de secarlos con la toalla y continuar hacia el estanque Oyunuma situado cuesta arriba.
+
+{% include figure popup="yes" image_path="/assets/images/2026/04/24/OyunumaFootbath.webp" alt="baño pies oyunuma" caption="Baño de pies natural en el río Oyunuma" %}
+
+---
+
+## Oyunuma Pond
+
+El estanque Oyunuma es un lago volcánico circular de cincuenta metros de diámetro formado en un cráter secundario del monte Kuttara. El agua emerge desde fracturas en el fondo del cráter a temperaturas entre 40 y 130 grados centígrados con alto contenido de azufre, aluminio y hierro disueltos. La superficie del estanque está constantemente cubierta de vapor que oculta parcialmente el agua gris azulada. El pH extremadamente ácido de 1.5 impide cualquier forma de vida acuática. El estanque funciona como fuente principal de agua termal para los baños públicos y ryokans de Noboribetsu-onsen mediante un sistema de tuberías subterráneas.
+
+Llegué al estanque a las doce menos cuarto tras subir por escalones de madera durante cinco minutos desde el baño de pies. Una plataforma de observación de madera rodeaba parcialmente el estanque permitiendo vistas hacia su interior humeante. El vapor era tan denso que solo se veían secciones de la superficie donde el viento dispersaba momentáneamente las nubes de vapor. El olor a azufre era más intenso que en el Valle Jigokudani; la concentración de gases volcánicos creaba sensación de irritación leve en nariz y garganta.
+
+El estanque Oyunuma representa la fuente energética que alimenta toda la industria termal de Noboribetsu. Sin este cráter volcánico activo, el pueblo no existiría como destino onsen. El paisaje desolado del estanque contrasta con los baños termales confortables de los ryokans situados valle abajo, mostrando la transformación de fenómeno geológico peligroso en recurso turístico valioso mediante infraestructura de canalización y enfriamiento controlado.
+
+{% include figure popup="yes" image_path="/assets/images/2026/04/24/OyunumaPond.webp" alt="estanque oyunuma vapor" caption="Estanque volcánico Oyunuma cubierto de vapor" %}
