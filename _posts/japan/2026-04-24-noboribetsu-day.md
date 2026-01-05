@@ -13,7 +13,7 @@ header:
   overlay_image: /assets/images/2026/04/24/Noboribetsu.webp
 video:
   id: "tJ5ekJJEQrc"
-  provider: "youtube"
+  duration: "PT15M30S"
 images:
   - id: "NoboribetsuStation"
     path: /assets/images/2026/04/24/NoboribetsuStation.webp

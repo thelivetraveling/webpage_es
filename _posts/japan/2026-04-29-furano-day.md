@@ -13,7 +13,7 @@ header:
   overlay_image: /assets/images/2026/04/29/Furano.webp
 video:
   id: "-7OBCIqyVHE"
-  provider: "youtube"
+  duration: "PT15M30S"
 images:
   - id: "FuranoStation"
     path: /assets/images/2026/04/29/FuranoStation.webp

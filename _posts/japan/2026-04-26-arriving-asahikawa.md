@@ -13,7 +13,7 @@ header:
   overlay_image: /assets/images/2026/04/26/Asahikawa.webp
 video:
   id: "0NAE8CwRQ68"
-  provider: "youtube"
+  duration: "PT15M30S"
 images:
   - id: "AsahikawaStation"
     path: /assets/images/2026/04/26/AsahikawaStation.webp

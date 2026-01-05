@@ -13,7 +13,7 @@ header:
   overlay_image: /assets/images/2026/04/30/AsahidakeMount.webp
 video:
   id: "6g4Fh8K-MhY"
-  provider: "youtube"
+  duration: "PT15M30S"
 images:
   - id: "HotelBearmonteBusStop"
     path: /assets/images/2026/04/30/HotelBearmonteBusStop.webp
