@@ -3,26 +3,26 @@ layout: single
 title: ""
 published: false
 excerpt: ""
-date: 2026-03-25 09:00:00 +0200
+date: 2026-05-25 09:00:00 +0200
 categories: []
 tags: []
 country: "JP"
 city: 
 language: "es"
 header:
-  teaser: /assets/images/2026/03/25/Wakayama.webp
-  overlay_image: /assets/images/2026/03/25/Wakayama.webp
+  teaser: /assets/images/2026/05/25/Narita.webp
+  overlay_image: /assets/images/2026/05/25/Narita.webp
 video:
   id: "tujkoXI8rWM"
   duration: "PT15M30S"
 images:
   - id: "image1"
-    path: /assets/images/2026/03/25/vacio.webp
+    path: /assets/images/2026/05/25/vacio.webp
     alt: ""
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
   - id: "image2"
-    path: /assets/images/2026/03/25/vacio.webp
+    path: /assets/images/2026/05/25/vacio.webp
     alt: ""
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"

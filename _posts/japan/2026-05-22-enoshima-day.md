@@ -3,38 +3,45 @@ layout: single
 title: ""
 published: false
 excerpt: ""
-date: 2026-03-25 09:00:00 +0200
+date: 2026-05-22 09:00:00 +0200
 categories: []
 tags: []
 country: "JP"
 city: 
 language: "es"
 header:
-  teaser: /assets/images/2026/03/25/Wakayama.webp
-  overlay_image: /assets/images/2026/03/25/Wakayama.webp
+  teaser: /assets/images/2026/05/22/Enoshima.webp
+  overlay_image: /assets/images/2026/05/22/Enoshima.webp
 video:
   id: "tujkoXI8rWM"
   duration: "PT15M30S"
 images:
   - id: "image1"
-    path: /assets/images/2026/03/25/vacio.webp
+    path: /assets/images/2026/05/22/vacio.webp
     alt: ""
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
   - id: "image2"
-    path: /assets/images/2026/03/25/vacio.webp
+    path: /assets/images/2026/05/22/vacio.webp
     alt: ""
     license: "CC BY SA 4.0"
     credit_text: "The Live Traveling"
 map_points:
   - id: "point1"
-    name: "Hotel"
-    lat: 
-    lng: 
-    price_range: "$$"
+    name: "Hotel Route-inn Grand Tokyo-Asakusabashi"
+    lat: 35.699378
+    lng: 139.787416
+    price_range: "$$$"
     type: "hotel"
     mode: "walking"
   - id: "point2"
+    name: "Asakusabashi Station"  
+    lat: 35.697379
+    lng: 139.786000
+    price_range: "$"
+    type: "station"
+    mode: "walking"
+  - id: "point3"
     name: "Station"  
     lat: 
     lng: 
@@ -42,13 +49,6 @@ map_points:
     type: "station"
     mode: "transit"
     transit_types: ["train", "shinkansen", "bus"]
-  - id: "point3"
-    name: "Castle"
-    lat: 
-    lng: 
-    price_range: "$$"
-    type: "castle"
-    mode: "walking"
   - id: "point4"
     name: "Temple"
     lat: 
