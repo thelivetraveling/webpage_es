@@ -22,6 +22,11 @@
 </script>
 {% endif %}
 
+{% if page.layout == 'category' %}
+<!-- https://github.com/lipis/flag-icons -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/css/flag-icons.min.css">
+{% endif %}
+
 <!-- Código personalizado de Google Maps -->
 <script src="{{ '/assets/js/plugins/gmaps.js' | relative_url }}" defer></script>
 
