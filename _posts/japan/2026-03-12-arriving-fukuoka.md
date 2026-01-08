@@ -90,7 +90,7 @@ faqs:
 
 # Fukuoka y Hakata  
 
-{% include video id="E5R5PPezu7k" provider="youtube" quality="maxresdefault" caption="Visitando Fukuoka" %}
+{% include video id="uuMhOREzUYA" provider="youtube" quality="maxresdefault" caption="Visitando Fukuoka" %}
 
 Mi viaje a Fukuoka y su estación Hakata duró **cerca de ocho horas** desde que dejé Tokio hasta que me alojé en el hotel cerca de la estación de Hakata. En esas ocho horas cambié de tren, cruzé puentes y probé más de diez platos distintos, por lo que quería compartirlo con quienes buscan un itinerario intenso pero manejable en un solo día. He organizado el recorrido en ocho paradas, desde una noche en Tokio hasta el puente que conecta la bahía; cada punto está pensado para que lo puedas seguir sin perder el ritmo y sin necesidad de desplazamientos extensos.  
 
