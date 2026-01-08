@@ -107,9 +107,11 @@ faqs:
 
 # Goryōkaku y Yunokawa: Historia y Aguas Termales
 
+{% include video id="tujkoXI8rWM" provider="youtube" quality="maxresdefault" caption="Visitando Hakodate" %}
+
 El segundo día en Hakodate permite explorar la fortaleza de estilo occidental Goryōkaku, el santuario sintoísta Yukura rodeado de naturaleza y el distrito de aguas termales Yunokawa en la costa norte de la ciudad.
 
-{% include video id="tujkoXI8rWM" provider="youtube" %}
+---
 
 ## JR Inn Hakodate
 

@@ -119,9 +119,9 @@ faqs:
 
 # Día en Asakusa
 
-Recorremos Asakusa desde sus tradicionales calles comerciales hasta sus parques históricos y la famosa calle Kappabashi. El itinerario pasa por el emblemático Sensoji, el santuario Asakusa, el parque de atracciones Hanayashiki y espacios que conservan la memoria del antiguo Yoshiwara.
+{% include video id="LHPKP8PP6QY" provider="youtube" quality="maxresdefault" caption="Caminando por Asakuza" %}
 
-{% include video id="LHPKP8PP6QY" provider="youtube" %}
+Recorremos Asakusa desde sus tradicionales calles comerciales hasta sus parques históricos y la famosa calle Kappabashi. El itinerario pasa por el emblemático Sensoji, el santuario Asakusa, el parque de atracciones Hanayashiki y espacios que conservan la memoria del antiguo Yoshiwara.
 
 ## Asakusa Nishi-sandō Shopping Street
 

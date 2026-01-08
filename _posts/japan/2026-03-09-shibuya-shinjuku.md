@@ -114,11 +114,11 @@ faqs:
 
 # Un día vibrante en Tokio.
 
+{% include video id="tujkoXI8rWM" provider="youtube" quality="maxresdefault" caption="Caminando por Shibuya y Shinjuku" %}
+
 Hay días en Tokio que se sienten como un cóctel emocional: momentos de pura maravilla tecnológica, paseos entre multitudes, balcones verdes y callejones con alma. En este recorrido decidí combinar lo más “futurista” con lo más íntimo: arte digital, callejones de izakayas, parques tranquilos y zonas de noche que solo despiertan cuando cae el sol. Quiero contarte cómo fue mi día, lo que descubrí y por qué para mí fue especialmente especial.
 
 ---
-
-{% include video id="tujkoXI8rWM" provider="youtube" %}
 
 ## teamLab Borderless: sumergido en arte digital
 

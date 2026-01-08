@@ -83,9 +83,11 @@ faqs:
 
 # Un día viajando desde Nagoya a las granjas de Shirakawa-go
 
+{% include video id="NGBAJw1jeXA" provider="youtube" quality="maxresdefault" caption="Visitando Shirakawa-go" %}
+
 Salí temprano de Nagoya para hacer una excursión de un día al corazón de los Alpes Japoneses, con el objetivo de descubrir el patrimonio único de Shirakawa-go y degustar la famosa ternera de Hida en Takayama.
 
-{% include video id="NGBAJw1jeXA" provider="youtube" %}
+---
 
 ## Kuretake Inn Premium Meiekiminami
 

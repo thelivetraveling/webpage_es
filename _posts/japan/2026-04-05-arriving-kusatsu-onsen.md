@@ -95,9 +95,11 @@ faqs:
 
 # De Nagoya a las Termas de Kusatsu
 
+{% include video id="B_Sc1v1qR-g" provider="youtube" quality="maxresdefault" caption="Visitando Kusatsu Onsen" %}
+
 El viaje hasta Kusatsu Onsen combina tren bala y autobús de montaña, atravesando las prefecturas de Aichi, Gifu, Nagano y Gunma hasta alcanzar uno de los pueblos termales más antiguos de Japón a 1200 metros de altitud.
 
-{% include video id="B_Sc1v1qR-g" provider="youtube" %}
+---
 
 ## Nagoya Station
 

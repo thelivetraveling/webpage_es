@@ -136,9 +136,11 @@ faqs:
 
 # Noboribetsu: Valle del Infierno Volcánico
 
+{% include video id="tJ5ekJJEQrc" provider="youtube" quality="maxresdefault" caption="Visitando Noboribetsu" %}
+
 La excursión desde Sapporo hasta Noboribetsu permite explorar uno de los paisajes volcánicos más activos de Hokkaido, conocido por sus fumarolas sulfurosas, estanques termales burbujeantes y aguas medicinales que emergen a temperaturas superiores a los 80 grados centígrados.
 
-{% include video id="tJ5ekJJEQrc" provider="youtube" %}
+---
 
 ## Hotel Emion Sapporo
 

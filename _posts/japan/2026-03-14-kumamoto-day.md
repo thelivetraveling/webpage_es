@@ -119,9 +119,11 @@ faqs:
 
 # Kumamoto y su Castillo Resiliente: Un Día Entre Historia y Modernidad
 
+{% include video id="Mfq_QtuyrYI" provider="youtube" quality="maxresdefault" caption="Visitando Kumamoto" %}
+
 Kumamoto es una ciudad que respira historia y resiliencia. Su castillo, considerado uno de los tres más importantes de Japón junto con Himeji y Matsumoto, es mucho más que una fortificación del período Edo: es el símbolo de una comunidad que se niega a rendirse. Salir desde Hakata en tren bala temprano por la mañana rumbo a esta capital de Kyushu es hacer un viaje hacia el pasado samurái, pero también hacia un presente que lucha por preservar su patrimonio después de los devastadores terremotos de 2016.
 
-{% include video id="Mfq_QtuyrYI" provider="youtube" %}  
+---
 
 ## Castillo Kumamoto: La Fortaleza que Desafió la Historia
 

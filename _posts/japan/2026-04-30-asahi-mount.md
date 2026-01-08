@@ -98,9 +98,11 @@ faqs:
 
 # Monte Asahidake: Pico Más Alto de Hokkaido
 
+{% include video id="6g4Fh8K-MhY" provider="youtube" quality="maxresdefault" caption="Visitando Asahi Mount" %}
+
 La excursión desde Asahikawa hasta el Monte Asahidake permite explorar el volcán más alto de Hokkaido con 2291 metros de altitud, ubicado en el corazón del Parque Nacional Daisetsuzan, el parque nacional más grande de Japón con 2267 kilómetros cuadrados de territorio protegido.
 
-{% include video id="6g4Fh8K-MhY" provider="youtube" %}
+---
 
 ## JR INN Asahikawa
 

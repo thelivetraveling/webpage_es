@@ -74,9 +74,11 @@ faqs:
 
 # De Kobe a Wakayama: Castillos y Mercados en la Costa de Kansai
 
+{% include video id="AU_2zfM4m68" provider="youtube" quality="maxresdefault" caption="Visitando Wakayama" %}
+
 Desde el corazón urbano de Kobe hasta la histórica Wakayama, este recorrido combina la eficiencia del transporte japonés con la riqueza cultural del sur de Kansai. El viaje comienza en un alojamiento céntrico y concluye en un mercado costero donde el pescado fresco se convierte en protagonista.
 
-{% include video id="AU_2zfM4m68" provider="youtube" %}
+---
 
 ## Kobe Hotel Juraku
 

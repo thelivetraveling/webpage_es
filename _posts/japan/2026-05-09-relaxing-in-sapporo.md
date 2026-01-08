@@ -95,9 +95,11 @@ faqs:
 
 # Últimas estaciones: recorriendo los extremos de Sapporo
 
+{% include video id="kfIQBC0hrII" provider="youtube" quality="maxresdefault" caption="Visitando Sapporo" %}
+
 Dediqué el último día en Sapporo a completar el recorrido por las estaciones más alejadas del centro, visitando los extremos norte y sur de la red de metro antes de preparar la partida.
 
-{% include video id="kfIQBC0hrII" provider="youtube" %}
+---
 
 ## Hotel Gracery Sapporo
 

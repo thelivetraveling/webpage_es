@@ -97,9 +97,9 @@ faqs:
 
 # Un paseo entre origami, libros y ocio en Ikebukuro y Jimbocho
 
-Empiezo esta ruta a pie en una mañana clara: un itinerario que combina arte tradicional, bibliotecas y rincones para desconectar. La jornada recorre pequeños museos y cafés, atraviesa un puente con encanto, descubre la iconografía del daruma y termina sumergiéndonos en la bulliciosa Sunshine City y en el pulso arcade de Ikebukuro.
+{% include video id="_zU8K43Twus" provider="youtube" quality="maxresdefault" caption="Caminando por Ikebukuro" %}
 
-{% include video id="_zU8K43Twus" provider="youtube" %}
+Empiezo esta ruta a pie en una mañana clara: un itinerario que combina arte tradicional, bibliotecas y rincones para desconectar. La jornada recorre pequeños museos y cafés, atraviesa un puente con encanto, descubre la iconografía del daruma y termina sumergiéndonos en la bulliciosa Sunshine City y en el pulso arcade de Ikebukuro.
 
 ## Origami Museum — Museo y taller de plegado
 El Origami Museum es una parada perfecta para quienes aprecian el detalle. Más que una simple tienda, el espacio reúne exposiciones y piezas que muestran la evolución del plegado de papel desde su uso tradicional hasta propuestas contemporáneas. Aquí es fácil quedarse un rato contemplando modelos complejos y, si hay tiempo, apuntarse a un taller práctico para llevarse a casa una técnica nueva.

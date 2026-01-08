@@ -57,9 +57,11 @@ faqs:
 
 # **Del Mar a la Montaña: Ruta Andaluza hacia Granada**
 
+{% include video id="xaqADJfXk3U" provider="youtube" quality="maxresdefault" caption="Paseando por Cádiz" %}
+
 Una mañana en la playa gaditana de La Caleta da paso a un viaje por carretera a través de la campiña, con una parada en la monumental Antequera antes de alcanzar la majestuosa Granada al atardecer.
 
-{% include video id="xaqADJfXk3U" provider="youtube" %}
+---
 
 ## **Playa de la Caleta: La Bahía de los Gaditanos**
 

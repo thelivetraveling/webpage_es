@@ -119,9 +119,11 @@ faqs:
 
 # De Sendai a la Estación Termal de Yunokami
 
+{% include video id="z1MErdsqsw8" provider="youtube" quality="maxresdefault" caption="Visitando la estación de tren mas antigua de Japón" %}
+
 La excursión desde Sendai hasta Yunokami Onsen combina shinkansen y trenes locales atravesando las prefecturas de Miyagi y Fukushima hasta alcanzar la estación ferroviaria más fotografiada de la región de Aizu, conocida por su arquitectura tradicional y baños termales integrados en el edificio.
 
-{% include video id="z1MErdsqsw8" provider="youtube" %}
+---
 
 ## Richmond Hotel Sendai
 

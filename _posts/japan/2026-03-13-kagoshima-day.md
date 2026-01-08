@@ -75,9 +75,11 @@ faqs:
 
 # Kagoshima y Sakurajima
 
+{% include video id="WknwFmhKRdQ" provider="youtube" quality="maxresdefault" caption="Visitando Kagoshima" %}
+
 Decidí aprovechar el día para hacer una excursión a Kagoshima desde Fukuoka. La idea era ir y volver en el mismo día, aunque sabía que significaba madrugar bastante. El shinkansen conecta ambas ciudades en algo más de una hora, así que salí temprano del hotel con la mochila ligera y las ganas de descubrir una ciudad que había leído que era conocida como la Nápoles del este por su volcán activo, el Sakurajima.
 
-{% include video id="WknwFmhKRdQ" provider="youtube" %}
+---
 
 ## Smile Hotel - Hakata Ekimae
 

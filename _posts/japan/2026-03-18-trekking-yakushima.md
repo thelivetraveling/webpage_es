@@ -55,9 +55,11 @@ faqs:
 
 # Ruta Arakawa Yakushima
 
+{% include video id="17YvVR0QCZM" provider="youtube" quality="maxresdefault" caption="Trekking en Yakushima" %}
+
 Salida temprana desde el hotel para iniciar la famosa ruta Arakawa que conduce al cedro Jomon Sugi. El sendero atraviesa antiguos raíles forestales usados durante el periodo de explotación maderera.
 
-{% include video id="17YvVR0QCZM" provider="youtube" %}
+---
 
 ## Yakushima Green Hotel
 

@@ -117,9 +117,9 @@ faqs:
 
 # Un día perfecto en Tokio: Arte digital, compras y vida nocturna
 
-Tokio es una ciudad que funciona a velocidades diferentes según la hora del día. Pasé 24 horas explorando sus contrastes más fascinantes, desde instalaciones de arte digital hipnotizantes hasta las calles de neón que parpadean cuando cae el atardecer. Este fue un viaje que me llevó desde la tranquilidad de los jardines hasta la energía desenfrenada del distrito rojo, probando todo lo que la capital japonesa tiene para ofrecer a los viajeros que buscan experimentar lo mejor de ambos mundos.
+{% include video id="tujkoXI8rWM" provider="youtube" quality="maxresdefault" caption="Caminando por Shibuya y Shinjuku" %}
 
-{% include video id="tujkoXI8rWM" provider="youtube" %}
+Tokio es una ciudad que funciona a velocidades diferentes según la hora del día. Pasé 24 horas explorando sus contrastes más fascinantes, desde instalaciones de arte digital hipnotizantes hasta las calles de neón que parpadean cuando cae el atardecer. Este fue un viaje que me llevó desde la tranquilidad de los jardines hasta la energía desenfrenada del distrito rojo, probando todo lo que la capital japonesa tiene para ofrecer a los viajeros que buscan experimentar lo mejor de ambos mundos.
 
 ## teamLab Borderless: Cuando el arte se convierte en experiencia inmersiva
 

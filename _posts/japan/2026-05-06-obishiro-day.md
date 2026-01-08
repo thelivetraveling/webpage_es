@@ -120,9 +120,11 @@ faqs:
 
 # Obihiro: jardines y santuario en el interior
 
+{% include video id="eKNqWXgCE1g" provider="youtube" quality="maxresdefault" caption="Visitando Obishiro" %}
+
 Decidí hacer una excursión de un día desde Kushiro hasta Obihiro, ciudad del interior de Hokkaido conocida por sus parques, jardines paisajísticos y el santuario principal de la región de Tokachi.
 
-{% include video id="eKNqWXgCE1g" provider="youtube" %}
+---
 
 ## Comfort Hotel Kushiro
 

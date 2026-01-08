@@ -202,9 +202,11 @@ faqs:
 
 # Aomori y Hirosaki: Cultura del Norte de Tōhoku
 
+{% include video id="qMs_uynkM54" provider="youtube" quality="maxresdefault" caption="Visitando Aomori" %}
+
 La excursión desde Morioka hasta las ciudades de Aomori y Hirosaki permite explorar el patrimonio cultural del extremo norte de Tōhoku: el festival Nebuta documentado en su museo, el castillo original de Hirosaki y el distrito samurái preservado con cinco residencias históricas abiertas al público.
 
-{% include video id="qMs_uynkM54" provider="youtube" %}
+---
 
 ## Hotel Royal Morioka
 

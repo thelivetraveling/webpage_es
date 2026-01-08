@@ -97,9 +97,11 @@ faqs:
 
 # Beppu y sus Infiernos: Un Viaje por las Aguas Termales de Kyushu
 
+{% include video id="sOfOn-PzQeg" provider="youtube" quality="maxresdefault" caption="Visitando Beppu y Oita" %}
+
 Salir de Hakata temprano por la mañana con destino a Beppu es como hacer un viaje hacia el corazón geotérmico de Japón. Esta ciudad costera de la prefectura de Oita es mundialmente conocida por poseer el mayor volumen de agua termal del planeta, con más de 2.000 manantiales activos que brotan desde las profundidades volcánicas de Kyushu. Lo que comenzó como una jornada de ida y vuelta desde Fukuoka, se convirtió en una inmersión completa en un paisaje donde el vapor se eleva por todas partes y el olor a azufre perfuma el ambiente.
 
-{% include video id="sOfOn-PzQeg" provider="youtube" %}
+---
 
 ## Kamado Jigoku: El Infierno de la Caldera
 

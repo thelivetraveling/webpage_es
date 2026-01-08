@@ -70,9 +70,11 @@ faqs:
 
 # Llegada a Yakushima
 
+{% include video id="A7tS0JVGszM" provider="youtube" quality="maxresdefault" caption="Visitando Yakushima" %}
+
 El viaje comienza en el aeropuerto de Fukuoka con destino a la isla subtropical de Yakushima, conocida por albergar cedros milenarios y ser Patrimonio de la Humanidad desde 1993.
 
-{% include video id="A7tS0JVGszM" provider="youtube" %}
+---
 
 ## Fukuoka Airport
 

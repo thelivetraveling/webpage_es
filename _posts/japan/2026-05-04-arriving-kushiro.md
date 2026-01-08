@@ -100,9 +100,11 @@ faqs:
 
 # De Shari a Kushiro: hacia el sur de Hokkaido
 
+{% include video id="Z1CY6-3WJwM" provider="youtube" quality="maxresdefault" caption="Visitando Kushiro" %}
+
 Dejé Shari temprano para tomar el tren que recorre la costa este de Hokkaido hasta Kushiro, una ciudad portuaria conocida por su mercado de pescado y su actividad pesquera en la costa sur de la isla.
 
-{% include video id="Z1CY6-3WJwM" provider="youtube" %}
+---
 
 ## Kushiro Station
 

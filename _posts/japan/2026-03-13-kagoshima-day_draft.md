@@ -76,9 +76,11 @@ faqs:
 
 # Kagoshima y Sakurajima  
 
+{% include video id="WknwFmhKRdQ" provider="youtube" quality="maxresdefault" caption="Visitando Kagoshima" %}
+
 Kagoshima, situada al extremo sur de Kyūshū, combina la energía de una ciudad portuaria con la majestuosidad de un volcán activo que domina el horizonte. En este recorrido de casi dos mil palabras recorreremos desde la comodidad de un hotel boutique en Hakata, pasando por santuarios centenarios y vestigios de samuráis, hasta terminar con una tarde de sol en la playa de Iso y una visita a la estatua del reformista Okubo Toshimichi. El itinerario está pensado para viajeros de entre 30 y 50 años que buscan combinar historia, naturaleza y gastronomía sin prisas, empleando principalmente el modo *walking* para disfrutar de cada paso.  
 
-{% include video id="WknwFmhKRdQ" provider="youtube" %}  
+---
 
 ## Smile Hotel - Hakata Ekimae  
 

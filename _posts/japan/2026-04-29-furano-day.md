@@ -138,9 +138,11 @@ faqs:
 
 # Furano: Centro Geográfico de Hokkaido
 
+{% include video id="-7OBCIqyVHE" provider="youtube" quality="maxresdefault" caption="Visitando Furano" %}
+
 La excursión desde Asahikawa hasta Furano permite explorar la ciudad situada en el centro geográfico de Hokkaido, conocida por sus campos de lavanda en verano, su producción agrícola y el complejo turístico Ningle Terrace integrado en bosques subalpinos.
 
-{% include video id="-7OBCIqyVHE" provider="youtube" %}
+---
 
 ## JR INN Asahikawa
 

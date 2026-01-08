@@ -105,9 +105,11 @@ faqs:
 
 # Zoológico Asahiyama y Segunda Visita a Villa del Ramen
 
+{% include video id="0NAE8CwRQ68" provider="youtube" quality="maxresdefault" caption="Visitando Asahikawa" %}
+
 El segundo día en Asahikawa permite explorar el zoológico Asahiyama, uno de los más innovadores de Japón por sus exhibiciones que permiten observar comportamientos naturales de animales árticos y subárticos, seguido de una segunda visita a la Villa del Ramen para probar diferentes variaciones del ramen local.
 
-{% include video id="0NAE8CwRQ68" provider="youtube" %}
+---
 
 ## JR INN Asahikawa
 

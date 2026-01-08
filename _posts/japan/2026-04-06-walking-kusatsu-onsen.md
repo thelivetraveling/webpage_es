@@ -104,9 +104,11 @@ faqs:
 
 # Explorando los Baños Termales de Kusatsu
 
+{% include video id="GrEEoEmmrKs" provider="youtube" quality="maxresdefault" caption="Visitando Kusatsu Onsen" %}
+
 La jornada en Kusatsu comienza en el Yubatake, el campo termal central del pueblo, y recorre los principales baños públicos tradicionales hasta el gran rotenburo de Sainokawara, rodeado de bosques volcánicos.
 
-{% include video id="GrEEoEmmrKs" provider="youtube" %}
+---
 
 ## Kusatsu Hotel
 

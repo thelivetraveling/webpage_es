@@ -100,9 +100,11 @@ faqs:
 
 # De las Termas de Kusatsu a Sendai
 
+{% include video id="2_FFyGW-bx8" provider="youtube" quality="maxresdefault" caption="Visitando Sendai" %}
+
 El trayecto desde Kusatsu Onsen hasta Sendai combina autobús de montaña descendiendo hacia Karuizawa y shinkansen atravesando las prefecturas de Nagano, Gunma, Saitama, Tochigi, Fukushima y Miyagi hasta la capital de la región de Tōhoku.
 
-{% include video id="2_FFyGW-bx8" provider="youtube" %}
+---
 
 ## Kusatsu Hotel
 

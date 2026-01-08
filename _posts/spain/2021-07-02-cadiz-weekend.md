@@ -66,7 +66,7 @@ faqs:
 
 Recorremos el centro histórico de Cádiz, desde la emblemática Plaza de San Antonio hasta el grandioso Monumento a las Cortes, descubriendo plazas con encanto y el rico patrimonio del Museo Provincial.
 
-{% include video id="QZtJftZVPSY" provider="youtube" %}
+{% include video id="QZtJftZVPSY" provider="youtube" quality="maxresdefault" caption="Paseando por Cádiz" %}
 
 ## **Plaza San Antonio: El Salón de la Ciudad**
 

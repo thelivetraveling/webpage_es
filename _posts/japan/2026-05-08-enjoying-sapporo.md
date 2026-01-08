@@ -134,9 +134,11 @@ faqs:
 
 # Recorriendo Sapporo en metro y tren
 
+{% include video id="kfIQBC0hrII" provider="youtube" quality="maxresdefault" caption="Visitando Sapporo" %}
+
 Dediqué el día completo a explorar la extensa red de metro y trenes de Sapporo, visitando estaciones en diferentes distritos para conocer la geografía urbana de la capital de Hokkaido.
 
-{% include video id="kfIQBC0hrII" provider="youtube" %}
+---
 
 ## Hotel Gracery Sapporo
 

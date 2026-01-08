@@ -91,9 +91,11 @@ faqs:
 
 # De Tokio a Fukuoka: Cambio de Isla
 
+{% include video id="E5R5PPezu7k" provider="youtube" quality="maxresdefault" caption="Visitando Fukuoka" %}
+
 Cambiar de ciudad en Japón es siempre una experiencia que mezcla logística, anticipación y ese punto de incertidumbre que acompaña a todo viajero. Después de varios días en Tokio, llega el momento de despedirse de la capital y poner rumbo al sur, a Kyushu, la tercera isla más grande del archipiélago japonés. Fukuoka espera al otro lado del cielo, y con ella, una atmósfera completamente distinta: menos vertical, más cercana, con un ritmo que invita a respirar con más calma. La jornada comienza en Asakusa, recogiendo las maletas del hotel y preparándose para un vuelo que durará apenas dos horas pero que conectará dos mundos diferentes.
 
-{% include video id="E5R5PPezu7k" provider="youtube" %}
+---
 
 ## RESOL POSHTEL TOKYO ASAKUSA
 

@@ -96,9 +96,11 @@ faqs:
 
 # Visita al Railway Museum de Ōmiya
 
+{% include video id="xTmBtgyzGbA" provider="youtube" quality="maxresdefault" caption="Museo de trenes" %}
+
 La excursión desde Sendai hasta Ōmiya permite visitar uno de los museos ferroviarios más completos de Japón, con más de cuarenta locomotoras y trenes históricos preservados desde el periodo Meiji hasta la actualidad.
 
-{% include video id="xTmBtgyzGbA" provider="youtube" %}
+---
 
 ## Richmond Hotel Sendai
 

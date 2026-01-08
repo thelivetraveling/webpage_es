@@ -56,9 +56,11 @@ faqs:
 
 # El Cerezo que Parte la Roca
 
+{% include video id="LtwM1ioqNvk" provider="youtube" quality="maxresdefault" caption="Visitando Morioka" %}
+
 La visita al Ishiwarizakura permite observar uno de los fenómenos naturales más fotografiados de Morioka: un cerezo de 370 años que crece atravesando una roca granítica de cinco metros de circunferencia en el patio de los tribunales de la ciudad.
 
-{% include video id="LtwM1ioqNvk" provider="youtube" %}
+---
 
 ## Hotel Royal Morioka
 

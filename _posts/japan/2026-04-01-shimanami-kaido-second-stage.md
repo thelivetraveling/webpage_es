@@ -133,9 +133,11 @@ faqs:
 
 # Shimanami Kaido Día 2: De Omishima a Onomichi por la Isla del Limón
 
+{% include video id="OV0JEv6C2QQ" provider="youtube" quality="maxresdefault" caption="Bicicleta en Shimanami Kaido" %}
+
 El segundo día de mi aventura por el Shimanami Kaido prometía ser igual de espectacular que el primero. Esta etapa me llevaría desde la isla de Omishima, donde había pasado la noche, hasta el histórico puerto de **Onomichi** en Honshu, cruzando las islas de **Ikuchijima** e **Innoshima**. Ikuchijima, conocida como "la isla del limón" por ser el mayor productor de cítricos de Japón, ofrecía un recorrido que combinaba playas certificadas, museos dedicados al pintor local Hirayama Ikuo, heladerías artesanales y miradores panorámicos que no quería perderme.
 
-{% include video id="OV0JEv6C2QQ" provider="youtube" %}
+---
 
 ## I-LINK HOSTEL & CAFE SHIMANAMI
 

@@ -118,11 +118,11 @@ faqs:
 
 # Mi día en Asakusa y sus tesoros escondidos
 
+{% include video id="LHPKP8PP6QY" provider="youtube" quality="maxresdefault" caption="Caminando por Asakuza" %}
+
 Cuando planeo un viaje a Tokio, Asakusa siempre está entre mis primeras prioridades. No es solo un barrio turístico: siento que es uno de los pocos sitios donde se puede respirar la historia de los antiguos tiempos de Edo, mezclado con un toque muy vivo y local. En esta ruta te cuento lo que descubrí, con datos históricos, curiosidades y momentos que me quedaron grabados.
 
 ---
-
-{% include video id="LHPKP8PP6QY" provider="youtube" %}
 
 ## Asakusa Nishi-sandō Shopping Street: un paseo con alma
 

@@ -119,9 +119,11 @@ faqs:
 
 # De Sendai a Ginzan Onsen
 
+{% include video id="yo5XnIR5RRg" provider="youtube" quality="maxresdefault" caption="Visitando Ginzan Onsen" %}
+
 La excursión desde Sendai hasta Ginzan Onsen combina tren local y autobús de montaña, atravesando las prefecturas de Miyagi y Yamagata hasta alcanzar el pueblo termal escondido en el valle del río Ginzan, famoso por sus ryokans de madera del periodo Taishō.
 
-{% include video id="yo5XnIR5RRg" provider="youtube" %}
+---
 
 ## Richmond Hotel Sendai
 

@@ -82,9 +82,11 @@ faqs:
 
 # De Onomichi a Nagoya: Shinkansen y el Mirador Más Alto al Aire Libre de Japón
 
+{% include video id="-9LgxLvnpIU" provider="youtube" quality="maxresdefault" caption="Visitando Nagoya" %}
+
 El trayecto desde Onomichi hasta Nagoya representa un fascinante contraste, conectando el sur rural de Honshu, con su atmósfera costera y serena, con la bulliciosa tercera ciudad más grande de Japón. Este viaje, que se realiza cómodamente en el famoso **Shinkansen**, culmina con una visita al impresionante **Sky Promenade**, el observatorio al aire libre más alto del país, situado a doscientos veinte metros sobre el suelo en el rascacielos Midland Square.
 
-{% include video id="-9LgxLvnpIU" provider="youtube" %}
+---
 
 ## Fukuyama Station
 

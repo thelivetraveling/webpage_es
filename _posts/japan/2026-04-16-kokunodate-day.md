@@ -204,9 +204,11 @@ faqs:
 
 # El Distrito Samurái de Kakunodate
 
+{% include video id="F9kJro2WgyA" provider="youtube" quality="maxresdefault" caption="Visitando Kokunodate" %}
+
 La excursión desde Morioka hasta Kakunodate permite explorar uno de los distritos samurái mejor preservados de Japón, conocido por sus residencias tradicionales del periodo Edo y sus cerezos llorones que florecen a mediados de abril.
 
-{% include video id="F9kJro2WgyA" provider="youtube" %}
+---
 
 ## Hotel Royal Morioka
 

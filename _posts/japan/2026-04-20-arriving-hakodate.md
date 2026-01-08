@@ -120,9 +120,11 @@ faqs:
 
 # Hakodate: Puerta de Entrada a Hokkaido
 
+{% include video id="s--MDmshT3I" provider="youtube" quality="maxresdefault" caption="Visitando Hakodate" %}
+
 El traslado desde Morioka hasta Hakodate marca la entrada a Hokkaido mediante el Hokkaido Shinkansen que atraviesa el túnel Seikan bajo el estrecho de Tsugaru, conectando la isla principal de Honshu con la segunda isla más grande de Japón.
 
-{% include video id="s--MDmshT3I" provider="youtube" %}
+---
 
 ## Hotel Royal Morioka
 

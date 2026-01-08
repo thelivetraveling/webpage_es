@@ -72,9 +72,9 @@ faqs:
 
 # Oshino Hakkai y los Ocho Estanques del Fuji
 
-Una excursión de un día desde Tokio puede llevarte a uno de los rincones más mágicos de la prefectura de Yamanashi. Oshino Hakkai, con sus ocho estanques de aguas transparentes alimentados por el deshielo del Monte Fuji, es un destino que combina naturaleza prístina, historia ancestral y la oportunidad de contemplar el volcán más emblemático de Japón desde una perspectiva diferente. La jornada comienza temprano en Asakusa, con el objetivo de aprovechar al máximo las horas de luz y evitar las multitudes que invaden este pueblo tradicional durante el mediodía.
+{% include video id="sm3xXTfDtGE" provider="youtube" quality="maxresdefault" caption="Visitando Oshino Hakkai" %}
 
-{% include video id="sm3xXTfDtGE" provider="youtube" %}
+Una excursión de un día desde Tokio puede llevarte a uno de los rincones más mágicos de la prefectura de Yamanashi. Oshino Hakkai, con sus ocho estanques de aguas transparentes alimentados por el deshielo del Monte Fuji, es un destino que combina naturaleza prístina, historia ancestral y la oportunidad de contemplar el volcán más emblemático de Japón desde una perspectiva diferente. La jornada comienza temprano en Asakusa, con el objetivo de aprovechar al máximo las horas de luz y evitar las multitudes que invaden este pueblo tradicional durante el mediodía.
 
 ## Asakusa Station
 

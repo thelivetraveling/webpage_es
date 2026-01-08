@@ -159,9 +159,11 @@ faqs:
 
 # Asahikawa: Jardines, Santuario y Ramen
 
+{% include video id="0NAE8CwRQ68" provider="youtube" quality="maxresdefault" caption="Visitando Asahikawa" %}
+
 El traslado desde Sapporo hasta Asahikawa permite explorar la segunda ciudad más grande de Hokkaido, conocida por su ramen característico de caldo shoyu, sus jardines urbanos y el santuario Kamikawa situado en una colina boscosa que domina el centro urbano.
 
-{% include video id="0NAE8CwRQ68" provider="youtube" %}
+---
 
 ## Hotel Emion Sapporo
 

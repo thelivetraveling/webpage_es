@@ -96,11 +96,13 @@ faqs:
     answer: "Realmente no hay una hora mejor para visitar el barrio rojo, pero claramente si quieres verlo en todo su esplendor a partir de las 22 horas es cuando encontraras mas movimiento."
 ---  
 
-# Ikebukuro y Jimbocho  
+# Ikebukuro y Jimbocho
+
+{% include video id="_zU8K43Twus" provider="youtube" quality="maxresdefault" caption="Caminando por Ikebukuro" %}
 
 Explorar el corazón de Tokio a pie permite descubrir rincones donde la tradición y la modernidad conviven sin esfuerzo. En este itinerario recorremos museos especializados, puentes pintorescos, tiendas de recuerdos y cafeterías con encanto, todo mientras disfrutamos del bullicio de la ciudad.  
 
-{% include video id="_zU8K43Twus" provider="youtube" %}
+---
 
 ## Origami Museum  
 

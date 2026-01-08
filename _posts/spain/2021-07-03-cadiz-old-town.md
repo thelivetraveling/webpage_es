@@ -69,9 +69,11 @@ faqs:
 
 # Cádiz a pie
 
+{% include video id="jw4d5eFk7jo" provider="youtube" quality="maxresdefault" caption="Paseando por Cádiz" %}
+
 Explora Cádiz caminando por sus principales puntos históricos y culturales, desde la Torre Tavira hasta el Gran Teatro Falla.
 
-{% include video id="jw4d5eFk7jo" provider="youtube" %}
+---
 
 ## Torre Tavira
 

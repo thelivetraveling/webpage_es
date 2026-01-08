@@ -109,9 +109,11 @@ faqs:
 
 # Al extremo este: cabo Nosappu en Nemuro
 
+{% include video id="AaG-CXDP3wY" provider="youtube" quality="maxresdefault" caption="Visitando Nosappu Cape" %}
+
 Salí temprano de Kushiro para hacer una excursión de un día hasta Nemuro, la ciudad más oriental de Hokkaido, con el objetivo de llegar al cabo Nosappu y su faro que marca el punto más al este de todo Japón.
 
-{% include video id="AaG-CXDP3wY" provider="youtube" %}
+---
 
 ## Comfort Hotel Kushiro
 

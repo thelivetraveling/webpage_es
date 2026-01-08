@@ -76,9 +76,11 @@ faqs:
 
 # **Montaña Shosha a Himeji: Cumbres Espirituales y Marfil Bélico**
 
+{% include video id="bKnbIlvDq6U" provider="youtube" quality="maxresdefault" caption="Visitando Himeji" %}
+
 Nuestro viaje comienza en el monte Shosha con su teleférico y templo histórico, para luego descender al icónico Castillo de Himeji y finalizar en la moderna estación de Shin-Kobe.
 
-{% include video id="bKnbIlvDq6U" provider="youtube" %}
+---
 
 ## **Mount Shosha Ropeway: La Puerta Flotante a la Montaña**
 

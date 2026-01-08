@@ -74,9 +74,11 @@ faqs:
 
 # Traslado a Morioka: Nueva Base en el Norte
 
+{% include video id="LtwM1ioqNvk" provider="youtube" quality="maxresdefault" caption="Visitando Morioka" %}
+
 El cambio de base desde Sendai hasta Morioka marca la transición hacia el norte profundo de Tōhoku, estableciendo un punto de partida para explorar la prefectura de Iwate y sus costas del Pacífico.
 
-{% include video id="LtwM1ioqNvk" provider="youtube" %}
+---
 
 ## Richmond Hotel Sendai
 

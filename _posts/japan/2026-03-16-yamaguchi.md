@@ -75,9 +75,11 @@ faqs:
 
 # Yamaguchi, el Kioto del Oeste: Entre Jardines Zen y Pagodas Legendarias
 
+{% include video id="8y3v0zzn6F0" provider="youtube" quality="maxresdefault" caption="Visitando Yamaguchi" %}
+
 Viajar desde Hakata hasta Yamaguchi es descubrir una joya escondida de Japón. Mientras Kioto acapara toda la atención turística, Yamaguchi ofrece una experiencia cultural igualmente rica pero auténtica y tranquila. Esta ciudad fue apodada "el Kioto del Oeste" durante el período Muromachi, cuando el poderoso clan Ouchi recreó aquí la cultura de la capital imperial invirtiendo las riquezas del comercio con China y Corea.
 
-{% include video id="8y3v0zzn6F0" provider="youtube" %}
+---
 
 ## Yamaguchi Station: Puerta de Entrada al Pasado
 

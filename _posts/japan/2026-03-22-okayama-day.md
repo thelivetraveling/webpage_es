@@ -85,9 +85,11 @@ faqs:
 
 # Kobe y Okayama
 
+{% include video id="W_Dgh_L6qCQ" provider="youtube" quality="maxresdefault" caption="Visitando Okayama" %}
+
 Recorrido desde Shin-Kobe hasta Okayama, visitando estaciones, jardines y el emblemático castillo.
 
-{% include video id="W_Dgh_L6qCQ" provider="youtube" %}
+---
 
 ## Shin-Kobe Station
 

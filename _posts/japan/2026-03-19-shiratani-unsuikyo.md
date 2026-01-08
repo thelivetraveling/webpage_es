@@ -47,9 +47,11 @@ faqs:
 
 # Aventura Yakushima
 
+{% include video id="kr7xOhKaUBw" provider="youtube" quality="maxresdefault" caption="Trekking en Yakushima" %}
+
 En este recorrido por Yakushima exploraremos la naturaleza exuberante desde el Yakushima Green Hotel hasta el famoso desfiladero Shiratani Unsuikyo.
 
-{% include video id="kr7xOhKaUBw" provider="youtube" %}
+---
 
 ## Yakushima Green Hotel
 

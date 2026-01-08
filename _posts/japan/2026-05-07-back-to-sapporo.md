@@ -74,9 +74,11 @@ faqs:
 
 # Regreso a Sapporo: fin del recorrido por Hokkaido
 
+{% include video id="kfIQBC0hrII" provider="youtube" quality="maxresdefault" caption="Visitando Sapporo" %}
+
 Llegó el momento de cerrar el recorrido por las regiones del este de Hokkaido y regresar a Sapporo, atravesando el interior de la isla en un último viaje largo en tren desde Kushiro.
 
-{% include video id="kfIQBC0hrII" provider="youtube" %}
+---
 
 ## Comfort Hotel Kushiro
 

@@ -100,9 +100,11 @@ faqs:
 
 # De Hokkaido a Tokio: regreso a la metrópolis
 
+{% include video id="tujkoXI8rWM" provider="youtube" quality="maxresdefault" caption="De vuelta a Tokio" %}
+
 Llegó el momento de dejar Hokkaido y regresar a Tokio, cerrando el extenso recorrido por la isla más septentrional de Japón con un viaje en tren al aeropuerto, vuelo y llegada al hotel en el distrito de Asakusabashi.
 
-{% include video id="tujkoXI8rWM" provider="youtube" %}
+---
 
 ## Hotel Gracery Sapporo
 

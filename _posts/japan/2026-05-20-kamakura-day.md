@@ -202,9 +202,11 @@ faqs:
 
 # Kamakura: la antigua capital samurái
 
+{% include video id="T2dB77dObao" provider="youtube" quality="maxresdefault" caption="Visitando Kamakura" %}
+
 Dediqué el día completo a explorar Kamakura, la antigua capital del shogunato durante el periodo medieval de Japón, visitando templos históricos, el famoso Gran Buda y el bosque de bambú de Hokokuji.
 
-{% include video id="T2dB77dObao" provider="youtube" %}
+---
 
 ## Hotel Route-inn Grand Tokyo-Asakusabashi
 

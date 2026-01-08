@@ -86,9 +86,11 @@ faqs:
 
 # De Yakushima a Kobe
 
+{% include video id="AU_2zfM4m68" provider="youtube" quality="maxresdefault" caption="Visitando Kobe" %}
+
 Este viaje conecta la isla de Yakushima con la ciudad de Kobe, explorando aeropuertos, estaciones y un icónico parque costero.
   
-{% include video id="AU_2zfM4m68" provider="youtube" %}
+---
 
 ## Yakushima Airport
 

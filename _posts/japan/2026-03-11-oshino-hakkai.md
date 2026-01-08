@@ -71,9 +71,11 @@ faqs:
 
 # Excursión al Monte Fuji
 
+{% include video id="sm3xXTfDtGE" provider="youtube" quality="maxresdefault" caption="Visitando Oshino Hakkai" %}
+
 Hoy tocaba una escapada fuera de Tokio, un descanso entre tanto bullicio y rascacielos. Mi plan: un viaje de ida y vuelta hasta **Oshino Hakkai**, una pequeña aldea a los pies del Monte Fuji famosa por sus lagos cristalinos y su entorno rural. Desde primera hora de la mañana me organicé para hacer todo el trayecto en tren: una ruta encadenando estaciones clave hasta llegar a una de las zonas más tranquilas que he visitado en Japón.
 
-{% include video id="sm3xXTfDtGE" provider="youtube" %}
+---
 
 ## Asakusa Station — Comienza la aventura
 La mañana empezó en **Asakusa Station**, uno de los nodos ferroviarios tradicionales de Tokio. Llegar aquí temprano siempre tiene un encanto especial: aún con poco movimiento, se siente ese aire de tránsito constante que caracteriza al barrio. Asakusa ha sido históricamente un punto de conexión para viajeros desde finales del siglo XIX, cuando empezaron a trazarse los primeros recorridos ferroviarios urbanos.

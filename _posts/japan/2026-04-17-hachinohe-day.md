@@ -141,9 +141,11 @@ faqs:
 
 # Hachinohe: del Mercado a la Costa del Pacífico
 
+{% include video id="QuuvHCjTInI" provider="youtube" quality="maxresdefault" caption="Visitando Hachinohe" %}
+
 La excursión desde Morioka hasta Hachinohe combina el bullicio matutino del mercado Hasshoku, la historia feudal de dos castillos en ruinas y el sendero costero de Tanesashi que recorre acantilados y praderas naturales frente al océano Pacífico.
 
-{% include video id="QuuvHCjTInI" provider="youtube" %}
+---
 
 ## Hotel Royal Morioka
 

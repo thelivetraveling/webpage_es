@@ -147,9 +147,11 @@ faqs:
 
 # Tren costero: de Shari a Abashiri por la orilla
 
+{% include video id="_fgdO9mxnVY" provider="youtube" quality="maxresdefault" caption="Visitando Abashiri" %}
+
 Salí temprano del Route Inn Grantia para tomar el tren local que recorre la costa del Mar de Okhotsk hasta Abashiri, un viaje tranquilo por estaciones rurales y miradores con vistas al océano.
 
-{% include video id="_fgdO9mxnVY" provider="youtube" %}
+---
 
 ## Route Inn Grantia Shiretoko Shari Ekimae
 

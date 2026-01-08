@@ -116,9 +116,11 @@ faqs:
 
 # Explorando el Centro Histórico de Morioka
 
+{% include video id="LTz0t8zVXoU" provider="youtube" quality="maxresdefault" caption="Visitando Morioka" %}
+
 El recorrido por Morioka conecta las ruinas del castillo feudal con parques urbanos, tiendas de artesanía tradicional y el museo arqueológico que documenta la historia prefeudal de la región de Iwate.
 
-{% include video id="LTz0t8zVXoU" provider="youtube" %}
+---
 
 ## Hotel Royal Morioka
 

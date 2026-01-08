@@ -113,9 +113,11 @@ faqs:
 
 # Lago Toya: Caldera Volcánica de Hokkaido
 
+{% include video id="tujkoXI8rWM" provider="youtube" quality="maxresdefault" caption="Visitando Toyako" %}
+
 La excursión desde Sapporo hasta el lago Toya permite explorar una de las calderas volcánicas más grandes de Japón, formada hace 110000 años tras una erupción masiva que colapsó la cámara magmática creando una depresión circular de 10 kilómetros de diámetro llena de agua.
 
-{% include video id="tujkoXI8rWM" provider="youtube" %}
+---
 
 ## Hotel Emion Sapporo
 

@@ -116,9 +116,11 @@ faqs:
 
 # Geibikei y Hiraizumi: Naturaleza e Historia del Norte
 
+{% include video id="kCfR4rdpijI" provider="youtube" quality="maxresdefault" caption="Los Acantilados de Geibikei" %}
+
 La excursión desde Morioka combina el desfiladero rocoso de Geibikei navegado en barcos tradicionales con los templos históricos de Hiraizumi, antigua capital del poderoso clan Fujiwara del norte durante el siglo XII y Patrimonio de la Humanidad desde 2011.
 
-{% include video id="kCfR4rdpijI" provider="youtube" %}
+---
 
 ## Hotel Royal Morioka
 

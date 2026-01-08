@@ -96,9 +96,11 @@ faqs:
 
 # Matsuyama desde Imabari: Castillos Originales y Aguas Termales Milenarias
 
+{% include video id="tujkoXI8rWM" provider="youtube" quality="maxresdefault" caption="Visitando Matsuyama" %}
+
 La excursión desde Imabari hasta Matsuyama recorre la costa norte de Shikoku en tren limitado express, con el Mar Interior de Seto como telón de fondo. Mi misión del día era clara: descubrir una ciudad que combina la historia feudal, conservada en uno de los doce castillos originales de Japón, con las relajantes aguas del onsen más antiguo del país, un lugar cuyas historias se remontan a más de mil años en el pasado.
 
-{% include video id="tujkoXI8rWM" provider="youtube" %}
+---
 
 ## Matsuyama Station
 

@@ -77,9 +77,11 @@ faqs:
 
 # Shimanami Kaido Día 1: El Primer Puente Triple Suspendido del Mundo
 
+{% include video id="OV0JEv6C2QQ" provider="youtube" quality="maxresdefault" caption="Bicicleta en Shimanami Kaido" %}
+
 Hoy era el día: el inicio de mi aventura por el **Shimanami Kaido**. Esta famosa ruta ciclista de 70 kilómetros conecta las islas principales de Honshu y Shikoku a través de un archipiélago en el mar interior de Seto. Mi primera etapa partía desde Imabari, con el emocionante reto de cruzar el impresionante puente **Kurushima Kaikyo** con destino a la isla de Omishima.
 
-{% include video id="OV0JEv6C2QQ" provider="youtube" %}
+---
 
 ## JR Clement Inn Imabari
 

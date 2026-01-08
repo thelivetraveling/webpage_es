@@ -96,9 +96,11 @@ faqs:
 
 # Hacia el este: camino a Shari y Shiretoko
 
+{% include video id="2EF0zeURwdA" provider="youtube" quality="maxresdefault" caption="Visitando Shari" %}
+
 Dejé Asahikawa temprano para emprender el largo viaje en tren hasta Shari, atravesando el interior de Hokkaido y llegando a la costa este donde comienza el salvaje Parque Nacional Shiretoko.
 
-{% include video id="2EF0zeURwdA" provider="youtube" %}
+---
 
 ## JR INN Asahikawa
 

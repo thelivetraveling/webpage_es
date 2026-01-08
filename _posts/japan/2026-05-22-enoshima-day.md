@@ -225,9 +225,11 @@ faqs:
 
 # Isla de Enoshima: santuario, cuevas y puestas de sol
 
+{% include video id="xPgeZzojY5o" provider="youtube" quality="maxresdefault" caption="Visitando Enoshima" %}
+
 Decidí hacer una excursión de día completo desde Tokio hasta la isla de Enoshima en la costa de Kanagawa, famosa por su santuario, calles comerciales, cuevas marinas y espectaculares puestas de sol sobre la bahía de Sagami.
 
-{% include video id="xPgeZzojY5o" provider="youtube" %}
+---
 
 ## Hotel Route-inn Grand Tokyo-Asakusabashi
 

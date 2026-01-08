@@ -47,9 +47,11 @@ faqs:
 
 # Yakushima Relax
 
+{% include video id="kr7xOhKaUBw" provider="youtube" quality="maxresdefault" caption="Onsen en Yakushima" %}
+
 Descubre la experiencia relajante de Yakushima mientras nos dirigimos del Yakushima Green Hotel hasta el Hirauchi Kaichu Onsen.
 
-{% include video id="kr7xOhKaUBw" provider="youtube" %}
+---
 
 ## Yakushima Green Hotel
 

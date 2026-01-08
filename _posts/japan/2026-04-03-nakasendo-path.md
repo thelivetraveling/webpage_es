@@ -103,9 +103,11 @@ faqs:
 
 # Caminando la Historia: Nakasendō entre Nagiso y Magome
 
+{% include video id="tujkoXI8rWM" provider="youtube" quality="maxresdefault" caption="Andando por la ruta Nakasendo" %}
+
 El recorrido por el antiguo Nakasendō desde Nagiso hasta Magome conecta dos pueblos postales preservados del periodo Edo, atravesando bosques de cedros, cascadas históricas y el paso de montaña que divide los valles de Kiso.
 
-{% include video id="tujkoXI8rWM" provider="youtube" %}
+---
 
 ## Kuretake Inn Premium Meiekiminami
 

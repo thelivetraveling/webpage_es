@@ -105,9 +105,11 @@ faqs:
 
 # Sapporo: Capital de Hokkaido
 
+{% include video id="kfIQBC0hrII" provider="youtube" quality="maxresdefault" caption="Visitando Sapporo" %}
+
 El traslado desde Hakodate hasta Sapporo mediante el Hokkaido Shinkansen marca el cambio de escala hacia la quinta ciudad más grande de Japón, capital administrativa y económica de la isla de Hokkaido con casi dos millones de habitantes en su área metropolitana.
 
-{% include video id="kfIQBC0hrII" provider="youtube" %}
+---
 
 ## JR Inn Hakodate
 

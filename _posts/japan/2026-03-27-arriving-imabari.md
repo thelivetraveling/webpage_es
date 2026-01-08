@@ -99,9 +99,11 @@ faqs:
 
 # Kobe a Imabari vía Takamatsu: Arquitectura Moderna y Jardines Históricos
 
+{% include video id="gAOZuVcWorI" provider="youtube" quality="maxresdefault" caption="Visitando Imabari" %}
+
 El trayecto desde Kobe hasta Imabari atraviesa la isla de Shikoku, pasando por Takamatsu, donde la arquitectura vanguardista del Anabuki Arena contrasta con la historia feudal del castillo y la serenidad del jardín Ritsurin. El viaje combina trenes limitados express y caminatas urbanas entre monumentos separados por pocos kilómetros.
 
-{% include video id="gAOZuVcWorI" provider="youtube" %}
+---
 
 ## Kobe Hotel Juraku
 
