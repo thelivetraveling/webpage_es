@@ -1,7 +1,6 @@
 ---
 layout: single
-title: ""
-published: false
+title: "Compras y relax en Tokyo"
 excerpt: ""
 date: 2026-05-18 09:00:00 +0200
 categories: []

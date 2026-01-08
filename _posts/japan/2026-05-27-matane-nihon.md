@@ -1,7 +1,6 @@
 ---
 layout: single
-title: ""
-published: false
+title: "Matane Nihon"
 excerpt: ""
 date: 2026-05-27 09:00:00 +0200
 categories: []

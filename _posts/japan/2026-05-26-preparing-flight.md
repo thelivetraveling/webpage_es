@@ -1,7 +1,6 @@
 ---
 layout: single
-title: ""
-published: false
+title: "Preparamos el viaje de vuelta"
 excerpt: ""
 date: 2026-05-26 09:00:00 +0200
 categories: []
