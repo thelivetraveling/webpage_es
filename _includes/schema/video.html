@@ -6,19 +6,35 @@
   "@id": "{{ page.url | absolute_url }}#video",
   "name": "{{ page.title | escape }}",
   "description": "{{ page.excerpt | strip_html | escape }}",
-  "thumbnailUrl": "https://img.youtube.com/vi/{{ page.video.id }}/maxresdefault.jpg",
+  "thumbnailUrl": [
+    "https://img.youtube.com/vi/{{ page.video.id }}/maxresdefault.jpg",
+    "https://img.youtube.com/vi/{{ page.video.id }}/sddefault.jpg",
+    "https://img.youtube.com/vi/{{ page.video.id }}/hqdefault.jpg"
+  ],
   "uploadDate": "{{ page.date | date_to_xmlschema }}",
   "duration": "{{ page.video.duration }}",
   "contentUrl": "https://www.youtube.com/watch?v={{ page.video.id }}",
   "embedUrl": "https://www.youtube.com/embed/{{ page.video.id }}",
+  "interactionStatistic": {
+    "@type": "InteractionCounter",
+    "interactionType": { "@type": "WatchAction" },
+    "userInteractionCount": 0
+  },
   "publisher": {
     "@type": "Organization",
-    "@id": "{{ site.url }}/#organization"
+    "@id": "{{ site.url }}/#organization",
+    "name": "The Live Traveling",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.logo | default: '/assets/images/logo.png' | absolute_url }}"
+    }
   },
-  "creator": {
+  "author": {
     "@type": "Person",
-    "@id": "{{ site.url }}/#author"
+    "@id": "{{ site.url }}/#author",
+    "name": "The Live Traveling"
   },
+  "inLanguage": "{{ page.language | default: 'es' }}",
   "isPartOf": {
     "@type": "BlogPosting",
     "@id": "{{ page.url | absolute_url }}#article"

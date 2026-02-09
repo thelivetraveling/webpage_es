@@ -45,7 +45,7 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
         # In order to keep the API_KEY save 
-      - name: Replace Google Maps API Key
+      - name: Replace API Keys for Maps
         run: |
           sed -i "s/REPLACE_WITH_GOOGLE_MAPS_API_KEY/${{ secrets.GOOGLE_MAPS_API_KEY }}/" _config.yml
           sed -i "s/REPLACE_WITH_NAVITIME_API_KEY/${{ secrets.NAVITIME_API_KEY }}/" _config.yml
