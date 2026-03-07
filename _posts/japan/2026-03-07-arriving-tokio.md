@@ -17,7 +17,7 @@ header:
       url: "https://commons.wikimedia.org/w/index.php?curid=74849623"
 video:
   id: "OuCbntsMsWY"
-  duration: "PT00H15M00S"
+  duration: ""
 images:
   - id: "NaritaAirport"
     path: /assets/images/2026/03/07/NaritaAirport.webp
@@ -84,6 +84,8 @@ Narita es un aeropuerto extenso, con tres terminales —dos para vuelos regulare
 
 {% include figure popup="yes" image_path="/assets/images/2026/03/07/NaritaAirport.webp" alt="Narita Airport" caption="Acabamos de Llegar" %}
 
+En los shorts del canal de Youtube o en las cuentas de Instagram o Tiktok podreis ver como fue la bajada del avion y cuales fueron los primeros pasos en el aeropuerto.
+
 **Consejo práctico:** para llegar lo antes posible al centro conviene usar un tren rápido o un servicio limusina si vas con prisa o quieres aprovechar el día sin perder tiempo.
 
 ---
@@ -93,6 +95,8 @@ Narita es un aeropuerto extenso, con tres terminales —dos para vuelos regulare
 Desde Narita puedes tomar un tren directo hasta Keisei Ueno Station, una estación subterránea situada bajo el parque Ueno que conecta de forma rápida con el corazón de Tokio. Esta estación, operada por la compañía Keisei, abrió en 1933 y adoptó su nombre actual en 1953.
 
 El ambiente alrededor es vibrante: Ueno es un barrio lleno de vida, museos, parques y calles comerciales. Es una zona ideal para dejar el equipaje, estirar las piernas y comenzar a absorber el ritmo urbano de la ciudad nada más llegar.
+
+Para llegar a Tokio elegi utilizar el Skiliner era mas barato y estaba apunto de llegar.
 
 ---
 
@@ -105,6 +109,10 @@ A pocos minutos de Ueno se encuentra una estatua muy especial: la que representa
 La historia es conmovedora: Hachikō, un perro de raza akita, acompañaba cada día a su dueño a la estación. Tras la muerte repentina del profesor en 1925, el perro continuó yendo al mismo lugar a esperarlo durante casi diez años. Con el tiempo se convirtió en un símbolo nacional de fidelidad.
 
 Esta visita tiene una atmósfera tranquila y más íntima que otras zonas turísticas. Es un buen momento para hacer una pausa, respirar y conectar con una historia que forma parte del imaginario japonés.
+
+En la imagen se puede ver la placa que explica la historia del perro y su dueno, una parte de mi siempre se estremese cada vez que recuerda esta historia de amistad tan fuerte, siempre pienso lo mismo, ojala algun dia tener algo tan increiblemente tan fuerte como esa amistad.
+
+{% include figure popup="yes" image_path="/assets/images/2026/03/07/UenoHachiko.webp" alt="Estatua Ueno Hachiko" caption="Estatua Ueno Hachiko" %}
 
 ---
 
