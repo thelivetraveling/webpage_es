@@ -72,7 +72,7 @@ faqs:
 
 # Llegada a Tokio
 
-{% include video id="OuCbntsMsWY" provider="youtube" quality="maxresdefault" caption="Visitando Tokio" %}
+{% include video id="0SqeSrssqPM" provider="youtube" quality="maxresdefault" caption="Visitando Tokio" %}
 
 Acabo de aterrizar en Japón, y este primer día en Tokio fue puro vértigo, emoción y primeras impresiones. Desde el aeropuerto hasta el centro y terminando con una inmersión en la historia del Tokio más tradicional, este paseo inicial es ideal para entrar con buen pie en la capital japonesa.
 
