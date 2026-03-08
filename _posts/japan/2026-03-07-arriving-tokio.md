@@ -16,8 +16,8 @@ header:
     - label: "More Info"
       url: "https://commons.wikimedia.org/w/index.php?curid=74849623"
 video:
-  id: "OuCbntsMsWY"
-  duration: ""
+  id: "0SqeSrssqPM"
+  duration: "40m"
 images:
   - id: "NaritaAirport"
     path: /assets/images/2026/03/07/NaritaAirport.webp
