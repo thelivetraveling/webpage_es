@@ -110,7 +110,7 @@ La historia es conmovedora: Hachikō, un perro de raza akita, acompañaba cada d
 
 Esta visita tiene una atmósfera tranquila y más íntima que otras zonas turísticas. Es un buen momento para hacer una pausa, respirar y conectar con una historia que forma parte del imaginario japonés.
 
-En la imagen se puede ver la placa que explica la historia del perro y su dueno, una parte de mi siempre se estremese cada vez que recuerda esta historia de amistad tan fuerte, siempre pienso lo mismo, ojala algun dia tener algo tan increiblemente tan fuerte como esa amistad.
+En la imagen se puede ver la placa que explica la historia del perro y su dueño; una parte de mí siempre se estremece cada vez que recuerda esta historia de amistad tan fuerte. Siempre pienso lo mismo: ojalá algún día tener algo tan increíblemente fuerte como esa amistad.
 
 {% include figure popup="yes" image_path="/assets/images/2026/03/07/UenoHachiko.webp" alt="Estatua Ueno Hachiko" caption="Estatua Ueno Hachiko" %}
 
