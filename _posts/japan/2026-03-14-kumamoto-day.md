@@ -1,5 +1,6 @@
 ---
 layout: single
+published: false
 title: "Kumamoto y su Castillo Resiliente"
 excerpt: "Fortaleza en reconstrucción, jardines zen, arcade comercial y la modernidad urbana"
 date: 2026-03-14 09:00:00 +0200

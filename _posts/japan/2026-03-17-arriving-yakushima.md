@@ -1,5 +1,6 @@
 ---
 layout: single
+published: false
 title: "Llegada a Yakushima"
 excerpt: "Desde Fukuoka hasta Yakushima, Cedros milenarios y Patrimonio de la Humanidad."
 date: 2026-03-17 07:00:00 +0200

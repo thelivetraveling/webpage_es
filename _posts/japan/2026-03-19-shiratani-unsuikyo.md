@@ -1,5 +1,6 @@
 ---
 layout: single
+published: false
 title: "Aventura Yakushima"
 excerpt: "De Yakushima Green Hotel al desfiladero Shiratani Unsuikyo, naturaleza y senderismo inolvidables."
 date: "2026-03-19 07:00:00 +0200"

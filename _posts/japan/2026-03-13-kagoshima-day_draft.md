@@ -1,7 +1,7 @@
 ---  
 layout: single  
 published: false
-title: "Kagoshima y Sakurajima"  
+title: "Kagoshima y Sakurajima NO PUBLICAR"
 excerpt: "Hotel, santuario, castillo y playa en Kagoshima"
 date: 2026-03-13 09:00:00 +0200  
 categories: ["japan"]  

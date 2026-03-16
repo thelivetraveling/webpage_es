@@ -1,5 +1,6 @@
 ---
 layout: single
+published: false
 title: "Yakushima Relax"
 excerpt: "De Yakushima Green Hotel al Hirauchi Kaichu Onsen, experiencia de aguas termales frente al mar."
 date: "2026-03-20 07:00:00 +0200"

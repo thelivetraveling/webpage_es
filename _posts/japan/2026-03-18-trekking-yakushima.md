@@ -1,5 +1,6 @@
 ---
 layout: single
+published: false
 title: "Ruta Arakawa Yakushima"
 excerpt: "Inicio de la ruta Arakawa hacia el legendario cedro Jomon Sugi a través de antiguos raíles forestales."
 date: 2026-03-18 07:00:00 +0200

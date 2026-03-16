@@ -1,7 +1,7 @@
 ---
 layout: single
 published: false
-title: "Oshino Hakkai y los Ocho Estanques del Fuji"
+title: "Oshino Hakkai y los Ocho Estanques del Fuji NO PUBLICAR"
 excerpt: "Aguas cristalinas, estanques sagrados y vistas del Monte Fuji"
 date: 2026-03-11 09:00:00 +0200
 categories: ["japan"]
